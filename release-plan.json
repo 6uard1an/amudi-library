@@ -1,55 +1,35 @@
 {
   "repository": "6uard1an/amudi-library",
-  "packageVersion": 2,
+  "packageVersion": 3,
   "keyVersion": 2,
   "assetsPerRelease": 900,
   "sharedPackage": {
     "id": "library-shared",
-    "packageVersion": 2,
+    "packageVersion": 3,
     "keyVersion": 2,
     "formatVersion": 1,
     "encryption": "AES-256-GCM",
-    "file": "library-shared-v2.amudi",
-    "fileCount": 16183,
-    "size": 89326352,
-    "sha256": "19d915b8b8df69f909eec4c96be32198559ed28c822e006f6f77a88028ae2b4b",
-    "release": "library-v2-shared",
-    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v2-shared/library-shared-v2.amudi"
+    "file": "library-shared-v3.amudi",
+    "fileCount": 38365,
+    "size": 557295213,
+    "sha256": "1ef15f1cf006d3ed133a77b4b5a6014a6e72f44cfa23e39ae75ecb5a65533a29",
+    "release": "library-v3-shared",
+    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-shared/library-shared-v3.amudi"
   },
   "releases": [
     {
-      "tag": "library-v2-001",
-      "directory": "library-v2-001",
-      "assetCount": 900
+      "tag": "library-v3-001",
+      "directory": "library-v3-001",
+      "assetCount": 38
     },
     {
-      "tag": "library-v2-002",
-      "directory": "library-v2-002",
-      "assetCount": 900
+      "tag": "library-v3-006",
+      "directory": "library-v3-006",
+      "assetCount": 42
     },
     {
-      "tag": "library-v2-003",
-      "directory": "library-v2-003",
-      "assetCount": 900
-    },
-    {
-      "tag": "library-v2-004",
-      "directory": "library-v2-004",
-      "assetCount": 900
-    },
-    {
-      "tag": "library-v2-005",
-      "directory": "library-v2-005",
-      "assetCount": 900
-    },
-    {
-      "tag": "library-v2-006",
-      "directory": "library-v2-006",
-      "assetCount": 742
-    },
-    {
-      "tag": "library-v2-shared",
-      "directory": "library-v2-shared",
+      "tag": "library-v3-shared",
+      "directory": "library-v3-shared",
       "assetCount": 1
     }
   ]
