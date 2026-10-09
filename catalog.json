@@ -1794,15 +1794,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-berachos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-berachos-v3.amudi",
-      "size": 7595,
-      "sha256": "4a30aa162998bb1b90df527b8b69d0f5efa0ce824d6490b4c02904fa008241da",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-berachos-v3.amudi"
+      "crossReferencesSha256": "16263cba733b7d74f3568910523c0c7301f73ff4f15b9ede7b5285fa6a8cc323",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-berachos-v5.amudi",
+      "size": 1573572,
+      "sha256": "8a87a3dd83aa3ff102855c3d6bb2243ffe7d87c27058a9d9b6bfdaf30cb50f13",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-berachos-v5.amudi"
     }
   },
   {
@@ -1819,15 +1821,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-shabbos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-shabbos-v3.amudi",
-      "size": 9722,
-      "sha256": "be790978c438e465668364ad2f7bba10e7011627b07077724201590e9839dcdc",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-shabbos-v3.amudi"
+      "crossReferencesSha256": "22e1e1abc13c55eb7d1894d1ecd02bec95df5b30492484b7d20b3202aaf90015",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-shabbos-v5.amudi",
+      "size": 3776284,
+      "sha256": "38b56683d83a2d886f5d4e67a8156eee758a1fe6bc56643a5e69fef5419db0c2",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-shabbos-v5.amudi"
     }
   },
   {
@@ -1844,15 +1848,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-eruvin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-eruvin-v3.amudi",
-      "size": 8555,
-      "sha256": "42f3e7e2029354faaded160d88e738dafd9686703cec7b4482d9856eb1706877",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-eruvin-v3.amudi"
+      "crossReferencesSha256": "a08bc7ee87829f6f5589b6378c8ca254711cf2b794cab951d897d1ebe57261e7",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-eruvin-v5.amudi",
+      "size": 2737590,
+      "sha256": "dce4e90582970f4ad1efaaf76b1957c774e558db6f720ca7b252f0cf5314117f",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-eruvin-v5.amudi"
     }
   },
   {
@@ -1869,15 +1875,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-pesachim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-pesachim-v3.amudi",
-      "size": 8883,
-      "sha256": "ade0435dcc0da22d29deb8e9db8655b7e30564cf8e9eb56f261e13dbc9a8333a",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-pesachim-v3.amudi"
+      "crossReferencesSha256": "61865e12e1ffa52d8fb4716bfd4ccf8a566badf53d19eec9d47d41879dbc5a4e",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-pesachim-v5.amudi",
+      "size": 3214328,
+      "sha256": "c83ceb6bdc6a38b471c6c4e1a45046108222211fdaa2e42bb4eb2e8609b2cfa4",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-pesachim-v5.amudi"
     }
   },
   {
@@ -1895,15 +1903,17 @@
     "editionLabel": "Bavli Daf-Yomi layout",
     "package": {
       "id": "shas-semantic-talmud-bavli-shekalim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-shekalim-v3.amudi",
-      "size": 6710,
-      "sha256": "8887b3096b8475e7e471513a19d2afc73cd4b5de6dfe6a18888094e954f69458",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-shekalim-v3.amudi"
+      "crossReferencesSha256": "fc782412cbc3b2422082f6bbe8e75ed57594638941ccdd04e4e1d2bb53325569",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-shekalim-v5.amudi",
+      "size": 234651,
+      "sha256": "89566a450f6c14151e07a5f437eaaccf748c21bae5dbaeddc0115f4486e417d3",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-shekalim-v5.amudi"
     }
   },
   {
@@ -1920,15 +1930,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-rosh-hashanah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-rosh-hashanah-v3.amudi",
-      "size": 7029,
-      "sha256": "76f0d76238f426a202d1832c57fbb57f6c93200893b764cf07f2ab47a63f71e5",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-rosh-hashanah-v3.amudi"
+      "crossReferencesSha256": "14d729317886e96c3332fcaa396acb5e31ef5d21659a5932c4c0c8fafcae8b65",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-rosh-hashanah-v5.amudi",
+      "size": 905532,
+      "sha256": "0661453f68b2757561d8a427bcdb63f72e4b4e9c6aba3ebfa1b05ae4b2ae0640",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-rosh-hashanah-v5.amudi"
     }
   },
   {
@@ -1945,15 +1957,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-yoma",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-yoma-v3.amudi",
-      "size": 8133,
-      "sha256": "f5a374619af2136f68f16a48ec081be8152638436c36df55a4476f056f57882c",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-yoma-v3.amudi"
+      "crossReferencesSha256": "7ee2a9e21383869722d839e9b6b813f459b33972a84edc107c42b12e782a9f36",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-yoma-v5.amudi",
+      "size": 2448648,
+      "sha256": "4840cb5eb666df76d0d0d33bb00bf66068cd0f6c74de9bbc501c6ac3fb28c9f9",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-yoma-v5.amudi"
     }
   },
   {
@@ -1970,15 +1984,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-succah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-succah-v3.amudi",
-      "size": 7448,
-      "sha256": "1dd5d905f1318c70528c5fbd93af7ee87a6a60f343e03dcb044d93dd2b3289dc",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-succah-v3.amudi"
+      "crossReferencesSha256": "43f2162628706fb49a5abdce84b65b084371ff35444e1e6a7e55b95360762f07",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-succah-v5.amudi",
+      "size": 1473955,
+      "sha256": "3330bb4730f8368764b821640fea772f873f28a4286d3db868a061bf7d45d7a7",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-succah-v5.amudi"
     }
   },
   {
@@ -1995,15 +2011,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-beitzah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-beitzah-v3.amudi",
-      "size": 7095,
-      "sha256": "3a664ab1febe4bc6de4bf7174ff8ae3b92e917bb49ef2d5e73ed317aec80ae11",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-beitzah-v3.amudi"
+      "crossReferencesSha256": "bb9584ed69954ee46e198e6eb8feb1543a3301e714f955a1e7e2ab467a483457",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-beitzah-v5.amudi",
+      "size": 1152286,
+      "sha256": "da363e04ff01f22bc67a9248360bb601a951d1f23b7f73bf36144aa0e76ec4f2",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-beitzah-v5.amudi"
     }
   },
   {
@@ -2020,15 +2038,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-taanis",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-taanis-v3.amudi",
-      "size": 6902,
-      "sha256": "a946e5ed248dac568e38f66363865733f066c3930ecaa714b8fe9d13724fe5c9",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-taanis-v3.amudi"
+      "crossReferencesSha256": "fe4c8988fa1d6c7546bb752926fb764ecf8d6375e89efbafc196b727d2ff3d0d",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-taanis-v5.amudi",
+      "size": 721404,
+      "sha256": "e4f5b086544eca9dbf211187fff60e3abbafff15d49779a1ac5a4d3b294761b2",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-taanis-v5.amudi"
     }
   },
   {
@@ -2045,15 +2065,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-megillah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-megillah-v3.amudi",
-      "size": 6911,
-      "sha256": "cccb4ecc0c82a09b8fae51dcba89b75486a988b27c7743b7ca43b62d90e80dcc",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-megillah-v3.amudi"
+      "crossReferencesSha256": "8a0d2910559b513eb0f6832785c6c6ac707494b68a196887f176a4d2257816ef",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-megillah-v5.amudi",
+      "size": 766181,
+      "sha256": "313dfea8f586f68607429f5c491d8fa7885977f066fc33cfd8799a4ab2128e4c",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-megillah-v5.amudi"
     }
   },
   {
@@ -2070,15 +2092,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-moed-katan",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-moed-katan-v3.amudi",
-      "size": 6863,
-      "sha256": "67163725dfe7053ff13dfd579d568c731756a7a3c51adfd0750beb7fbf5dd989",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-moed-katan-v3.amudi"
+      "crossReferencesSha256": "a28729097532cdd319f48ea6c04d6c7acf9de5240ccda6540e9b21b194d368be",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-moed-katan-v5.amudi",
+      "size": 756064,
+      "sha256": "05b3fa94d812ca42fae534428831cefcbe48e82cf679856bd4fe5faf4fb6dfc5",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-moed-katan-v5.amudi"
     }
   },
   {
@@ -2095,15 +2119,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-chagigah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-chagigah-v3.amudi",
-      "size": 6803,
-      "sha256": "2809df250b9cc14dc268baf655fddbb0919692c5d7541fa84d9fa279b65c698b",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-chagigah-v3.amudi"
+      "crossReferencesSha256": "0dc1f23186a8c529ab55eed1cfda933d792bf225199dcfae0368afe9195b0974",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-chagigah-v5.amudi",
+      "size": 597931,
+      "sha256": "aca43d80a88d8bac443270431ee0c55175198f859a4d13f14b970c505d53e2d3",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-chagigah-v5.amudi"
     }
   },
   {
@@ -2120,15 +2146,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-yevamos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-yevamos-v3.amudi",
-      "size": 8919,
-      "sha256": "f9cafffa2ac527ad3f4398458b686c05c315489347e8349a621e43834379dc01",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-yevamos-v3.amudi"
+      "crossReferencesSha256": "3ef416ed468a5f9962e173b67e260b1ebc07d7c0c443dd680a2c411c3e8f6b85",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-yevamos-v5.amudi",
+      "size": 2890656,
+      "sha256": "bc36c8b589ab409e4ae77b06b74a40b39345b9bd295611b14be76e80986b05ad",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-yevamos-v5.amudi"
     }
   },
   {
@@ -2145,15 +2173,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-kesubos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-kesubos-v3.amudi",
-      "size": 8688,
-      "sha256": "a86500e482af830aef33ac1627c1f886f1ee409f46bbdf706e127142384c2595",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-kesubos-v3.amudi"
+      "crossReferencesSha256": "32af4d9a6a9a5cbf138b2639d692913a214e25809bed9eb63d61ca8fc8deb11a",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-kesubos-v5.amudi",
+      "size": 2650059,
+      "sha256": "f181fc5e670758271619e633e2495dfe27da6e9bc245427602d3ca1b38b1bb35",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-kesubos-v5.amudi"
     }
   },
   {
@@ -2170,15 +2200,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-nedarim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-nedarim-v3.amudi",
-      "size": 8190,
-      "sha256": "b75113dd23f3b0071b0e674050cf2ab540971a15cd0883b7df45213742e59bf4",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-nedarim-v3.amudi"
+      "crossReferencesSha256": "414da93c4abcfa49b180c7eadb51d8999b7b52cc8758d7750c8c141b89ae04d8",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-nedarim-v5.amudi",
+      "size": 1543313,
+      "sha256": "f1998c4d4af60b4a953313948181cd0fce68dcc82249dec4554ceac22edbbbbe",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-nedarim-v5.amudi"
     }
   },
   {
@@ -2195,15 +2227,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-nazir",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-nazir-v3.amudi",
-      "size": 7671,
-      "sha256": "cddc6f870332e2ede77aa0a353e102e88bf4a422fc0b0e3cd75fdbed7a7b3811",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-nazir-v3.amudi"
+      "crossReferencesSha256": "f72573d1d75f9b7c3dc161366b66a80bcf119b1ed5a1bc0bce08dcdbb8fa2be1",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-nazir-v5.amudi",
+      "size": 1202049,
+      "sha256": "1d854e8b7044d0c3c2420d32834dd16a70708e133d78e46d0c8d083e43bb564e",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-nazir-v5.amudi"
     }
   },
   {
@@ -2220,15 +2254,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-sotah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-sotah-v3.amudi",
-      "size": 7287,
-      "sha256": "ee7f22f21625591da5de71ab827e271f5ea435e9bbf71d6196138f53a82b61d9",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-sotah-v3.amudi"
+      "crossReferencesSha256": "c053c70decbd35ce3312c7eff60feef6571bbcb3f41fd9dba873433a01bb135a",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-sotah-v5.amudi",
+      "size": 1126912,
+      "sha256": "6b590c8a3aaf477cc66ba5bef3d611b2a2cdf33fcfa0263793ddfcd622eee16d",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-sotah-v5.amudi"
     }
   },
   {
@@ -2245,15 +2281,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-gittin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-gittin-v3.amudi",
-      "size": 8198,
-      "sha256": "c86a6e278f631e1e913ae7b937363e5cb820a42a3f3da87ea3e4f4449c1f1a8e",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-gittin-v3.amudi"
+      "crossReferencesSha256": "d49b2b15dad14cd54f523f633db5e3216a7a56e2d7c870cbc95f48860446d3c3",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-gittin-v5.amudi",
+      "size": 2198401,
+      "sha256": "04ae5ce7cc687df8ace44edf1f130fae7723e06c37abf14ffc2afa603113855f",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-gittin-v5.amudi"
     }
   },
   {
@@ -2270,15 +2308,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-kiddushin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-kiddushin-v3.amudi",
-      "size": 7997,
-      "sha256": "05bf1e8f85141f408c955107df8da562de6ffe162be9a1e6ec665e82c9ce863a",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-kiddushin-v3.amudi"
+      "crossReferencesSha256": "64582f76f049d80962be75a51463dd703af1f7edac2fbfe6bcd839ac49f02c7f",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-kiddushin-v5.amudi",
+      "size": 1952693,
+      "sha256": "1f5e723d6a1ff03004000bfb75e9ca0fcfcc5c87d3967b5c954ecba6f94aa8d4",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-kiddushin-v5.amudi"
     }
   },
   {
@@ -2295,15 +2335,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-bava-kamma",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-bava-kamma-v3.amudi",
-      "size": 8870,
-      "sha256": "264192308c0636abe572bcd4bc94c96b873d2ba69cdbde430cfed3b44de27bbf",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-bava-kamma-v3.amudi"
+      "crossReferencesSha256": "88577555b12a54988a1f0b5457d6bfdc514d833346197f94deb2865a8436d3f0",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-bava-kamma-v5.amudi",
+      "size": 2575643,
+      "sha256": "30a75860f4d1ddde49ea3c00bac4d7e5cc5330eb821eeced384b6a07485018cd",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-bava-kamma-v5.amudi"
     }
   },
   {
@@ -2320,15 +2362,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-bava-metzia",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-bava-metzia-v3.amudi",
-      "size": 8915,
-      "sha256": "9cca15ae006668245f57786d7950924db9d33c8374fad71f081b18e7c071bdb5",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-bava-metzia-v3.amudi"
+      "crossReferencesSha256": "73c8fff28e17976409ea9a0a3d0ae9e1e566836c52903a4f3973d6e1d67824fb",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-bava-metzia-v5.amudi",
+      "size": 2774409,
+      "sha256": "4c241a2b981845ad5ae76a09c64b8beed19922a44b5f77b233ceab7fce9bbf2b",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-bava-metzia-v5.amudi"
     }
   },
   {
@@ -2345,15 +2389,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-bava-basra",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-bava-basra-v3.amudi",
-      "size": 10258,
-      "sha256": "16e3638a02f954251268cc73881cac3f852b243e41d3ec1417f6662733df2d0c",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-bava-basra-v3.amudi"
+      "crossReferencesSha256": "0ecadfc3c75bb2e8c38a4d614eaf632f52aa590bddfd3c88bf757e076fd102a2",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-bava-basra-v5.amudi",
+      "size": 3981002,
+      "sha256": "cbaf94a6e64ec9194d983bf24737c54cb713aca5743869525960f3ec67005585",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-bava-basra-v5.amudi"
     }
   },
   {
@@ -2370,15 +2416,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-sanhedrin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-sanhedrin-v3.amudi",
-      "size": 8706,
-      "sha256": "598b731a33380dbe1649aa0f4d8b5a24b2f0a0622cf8e135735f9244848fc66f",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-sanhedrin-v3.amudi"
+      "crossReferencesSha256": "7bfa96e8903eca14ff7931224f246b022ab27c8c56282d214ea0a578a6cd37a5",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-sanhedrin-v5.amudi",
+      "size": 1489648,
+      "sha256": "f6d398ecaf1c3951ccf39c887700f4db536dee2a678592cf290544b8d0372b3d",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-sanhedrin-v5.amudi"
     }
   },
   {
@@ -2395,15 +2443,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-makkos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-makkos-v3.amudi",
-      "size": 6762,
-      "sha256": "871c651b8b45ee78ad47e947ae836f86ad6eade2e8c80a4b7dba4270fa1e531e",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-makkos-v3.amudi"
+      "crossReferencesSha256": "2c381b9601798f45f636ce0e3ecbe87684c777dca1b678d9cafed48978a1ee5e",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-makkos-v5.amudi",
+      "size": 498984,
+      "sha256": "7a28e1b6f444d6e5cd60c306ca6fc33938e38bab195eae532876bc6a7a98739f",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-makkos-v5.amudi"
     }
   },
   {
@@ -2420,15 +2470,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-shevuos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-shevuos-v3.amudi",
-      "size": 7286,
-      "sha256": "8942b4665fa86aa0cca4d579dd146b9b6b89ebde00666aaaaa062be7c8aa4ecd",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-shevuos-v3.amudi"
+      "crossReferencesSha256": "c6ba0f0027b055e98b29cd7e6037e4d498f82b4ddf54438ef70890f0ffed1652",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-shevuos-v5.amudi",
+      "size": 1254673,
+      "sha256": "33adb83658f8406f2d6c0414e42ee31420e374de6195966236a7d6ee7ac12492",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-shevuos-v5.amudi"
     }
   },
   {
@@ -2445,15 +2497,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-avodah-zarah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-avodah-zarah-v3.amudi",
-      "size": 7974,
-      "sha256": "1527753a1c06d62bfc06c978fa4bcac518337d1e4e5a489880ac1617b09604d9",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-avodah-zarah-v3.amudi"
+      "crossReferencesSha256": "0c10c650fa1bbdcae36084dea3d1fc60aa4b5afc114a8c89cab3ec04b15a95fb",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-avodah-zarah-v5.amudi",
+      "size": 1757681,
+      "sha256": "b2963ee85dd3c7038a95f969b11f0a23ef5d426573f7e0c2d72f7b9769a17446",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-avodah-zarah-v5.amudi"
     }
   },
   {
@@ -2470,15 +2524,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-horayos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-horayos-v3.amudi",
-      "size": 6534,
-      "sha256": "c714a15a4446cbe49a4c7c3665945f07fb0e804b61527a90ebe723c496ea6a21",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-horayos-v3.amudi"
+      "crossReferencesSha256": "e89dbfa561d9322ba183f97f7728e87f1ea9c22b18a348027ea724b61660ae59",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-horayos-v5.amudi",
+      "size": 290005,
+      "sha256": "6dd39b349076084fbc22acaa3ad33a4e1ffbe693f662f5d5d3da1eb831ab9e28",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-horayos-v5.amudi"
     }
   },
   {
@@ -2495,15 +2551,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-zevachim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-zevachim-v3.amudi",
-      "size": 8858,
-      "sha256": "5b0507c623991620da49d9110bf0cdf6093cf3e950f9c99309123dad4e5a2662",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-zevachim-v3.amudi"
+      "crossReferencesSha256": "26d76bd181b97aea23ca454b62c574100c9e272807aa3e25af3307d3534c89cd",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-zevachim-v5.amudi",
+      "size": 1384064,
+      "sha256": "5501808f51a250579979cfeb4f31eecddaea945aa36d599632b47ee1f31c41ec",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-zevachim-v5.amudi"
     }
   },
   {
@@ -2520,15 +2578,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-menachos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-menachos-v3.amudi",
-      "size": 8618,
-      "sha256": "3c11cd37e1b43da7b5ebeaaabca2aecb4004dcd09b62e8c120f4f4f2ee3b82ce",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-menachos-v3.amudi"
+      "crossReferencesSha256": "ec3b1fa7aabfdbd049338cd38ca51ac23ed9ebb191ffd731c8f175c5e521ab86",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-menachos-v5.amudi",
+      "size": 2240283,
+      "sha256": "eb17d1df26e4dfc5e972e7991f7545e91aa5d8b47e7c2e0871cfcf2d6514d88b",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-menachos-v5.amudi"
     }
   },
   {
@@ -2545,15 +2605,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-chullin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-chullin-v3.amudi",
-      "size": 9371,
-      "sha256": "abbfb083373a128b0eb17398bc37eccfa82510bd3fd556a4e3410f0e3bfa0fba",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-chullin-v3.amudi"
+      "crossReferencesSha256": "615bee839e2a26c92f9fd65e25ca14743f4e4bcf7c461fc34ed164218b17689f",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-chullin-v5.amudi",
+      "size": 3383005,
+      "sha256": "6051868d6f3e6a3c85bb270ba96bd454ff4fc49b1d5bd60d92ef799c9fb55730",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-chullin-v5.amudi"
     }
   },
   {
@@ -2570,15 +2632,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-bechoros",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-bechoros-v3.amudi",
-      "size": 7534,
-      "sha256": "f02b7ce6f4bc62d8486ef3f67e76738b83d44eba4dc6ba66a26d16b59982f961",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-bechoros-v3.amudi"
+      "crossReferencesSha256": "c21c1c9609a5ef578fca86a93419ca6e9aedad76bebf4047693486a105cc5eab",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-bechoros-v5.amudi",
+      "size": 1517534,
+      "sha256": "6a7d6b5519b248ba4796701d40d5b48f43fb225895f0c7535884a2d2f38719d4",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-bechoros-v5.amudi"
     }
   },
   {
@@ -2595,15 +2659,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-arachin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-arachin-v3.amudi",
-      "size": 6966,
-      "sha256": "e0f35790a2f06e2103e1304c02ad164e2ce42c659c4603b46f89285425d79de0",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-arachin-v3.amudi"
+      "crossReferencesSha256": "84a23a6e3b81c56b1d07b1356f355196c7eb368d7eafce1b4857390c8aee49cc",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-arachin-v5.amudi",
+      "size": 873608,
+      "sha256": "02cf45639bdf2e133ce6b010923ecc77ac000d4b9f1d1b88bb7d6ba9dc21d245",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-arachin-v5.amudi"
     }
   },
   {
@@ -2620,15 +2686,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-temurah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-temurah-v3.amudi",
-      "size": 6961,
-      "sha256": "4bcaf72d1fabf11d54c9483c916ea6a393e169a6e64ff58269ea34c872775543",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-temurah-v3.amudi"
+      "crossReferencesSha256": "c3f7ea93add6e8d92513b14bd277fed1e2dbda286afdf86295d24ae05501854d",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-temurah-v5.amudi",
+      "size": 909197,
+      "sha256": "2fc393f58ad581d8b6f1c4e30ab88d8a2c0234a2c20d48eb908a13d364ce6c2c",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-temurah-v5.amudi"
     }
   },
   {
@@ -2645,15 +2713,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-kereisos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-kereisos-v3.amudi",
-      "size": 6851,
-      "sha256": "8c55a924d6b024619048a6fe5fe7a62be8e910f919929f93514e81f1d28a58ce",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-kereisos-v3.amudi"
+      "crossReferencesSha256": "78eeb0cdbd4cc0ca7430fad38ba1650e88d588da4722bfb13cc6821ac05e952a",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-kereisos-v5.amudi",
+      "size": 823771,
+      "sha256": "78817354e5c33758ddd47f40fa810ccd3f890f0c66d6d1a1aefb7d60c845f830",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-kereisos-v5.amudi"
     }
   },
   {
@@ -2670,15 +2740,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-meilah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-meilah-v3.amudi",
-      "size": 6709,
-      "sha256": "8e6ae9f44369f69f43d0f42d35c8e9938629cb82742553e0e408ab9a32038432",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-meilah-v3.amudi"
+      "crossReferencesSha256": "98a3a087d9115de51fa0e57735f28fefdedc0ef81ecf0b9d0aba6efff3a817d4",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-meilah-v5.amudi",
+      "size": 473969,
+      "sha256": "2eacdf2983217aa915764918f563c65900073c7005345ae6ed1ef4e60b0e0c3e",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-meilah-v5.amudi"
     }
   },
   {
@@ -2695,15 +2767,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-tamid",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-tamid-v3.amudi",
-      "size": 6434,
-      "sha256": "7e2aa570b165bc7bcdc7f1e213e49b20ee14d6335cd766a5013e0573fa42111a",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-tamid-v3.amudi"
+      "crossReferencesSha256": "04c85cf02d85f48b1446e92b0a0df0bcb7c6eb090d28e06ea89d4368e8dd7a83",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-tamid-v5.amudi",
+      "size": 127356,
+      "sha256": "7b0cb0e313edbbbf1f383a3f56678edf48cdbe06f198790bc1b27fb93c829e9c",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-tamid-v5.amudi"
     }
   },
   {
@@ -2720,15 +2794,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-niddah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-niddah-v3.amudi",
-      "size": 7814,
-      "sha256": "12f2e915c4d5b6267d456acd362291eb5ef9707796af3ea61153bcf4e1b179ce",
-      "release": "library-v3-001",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-001/shas-semantic-talmud-bavli-niddah-v3.amudi"
+      "crossReferencesSha256": "01f79efd3637e8fb9aaa054da01eee38b6807accff0459b44a498ebf375f7fcb",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-niddah-v5.amudi",
+      "size": 1803400,
+      "sha256": "e97868e0d17a3b4de3418ca332d1e78a02cc3833d1645251d34c34e88d84294a",
+      "release": "library-v5-001",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-001/shas-semantic-talmud-bavli-niddah-v5.amudi"
     }
   },
   {
@@ -146363,15 +146439,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-avodah-zarah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-avodah-zarah-v3.amudi",
-      "size": 7150,
-      "sha256": "5df7ed697c995ba1b6411816bbc01e6437b70b13b62219440acd40264495d6ac",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-avodah-zarah-v3.amudi"
+      "crossReferencesSha256": "241769e5776f2ff8ca3073a2b9dd8fc501b26f0bf92320b9aeb02e306a3f4f05",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-avodah-zarah-v5.amudi",
+      "size": 828947,
+      "sha256": "80da7775c1b0ab9e11bf61368fd5101e0e168692ac6186f8f25a7f86a9b6229d",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-avodah-zarah-v5.amudi"
     }
   },
   {
@@ -146387,15 +146465,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-bava-basra",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-bava-basra-v3.amudi",
-      "size": 7061,
-      "sha256": "40c595c6e6ba4b96cbf7fdabaa156c1c6bfe7970f5e4f6fe29add0d77286275e",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-bava-basra-v3.amudi"
+      "crossReferencesSha256": "139a53e46c80d4b665d03ad32ac0f0d44ec88ade90f88d43e686d4200dd6ce89",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-bava-basra-v5.amudi",
+      "size": 870121,
+      "sha256": "55ddcf3f39b16416029dac76fe96e619be7f56f862d86751fbb89345b64484b8",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-bava-basra-v5.amudi"
     }
   },
   {
@@ -146411,15 +146491,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-bava-kamma",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-bava-kamma-v3.amudi",
-      "size": 7282,
-      "sha256": "e040afc309cdf5fb7fb4d4574f14cf916b72d1dd287377aa60bc48212ea6bef6",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-bava-kamma-v3.amudi"
+      "crossReferencesSha256": "3b3b3188a1bf1d485d259b34fbd199f9809c9d84ec990f154db4bbe6b2dda748",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-bava-kamma-v5.amudi",
+      "size": 742152,
+      "sha256": "24f38c269ba8ada5a566e1e2377f9a3bf1d626e069166e20dba9028e0e840a65",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-bava-kamma-v5.amudi"
     }
   },
   {
@@ -146435,15 +146517,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-bava-metzia",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-bava-metzia-v3.amudi",
-      "size": 7138,
-      "sha256": "2a324014504750e1c346a05d7eae823989859952c038abcc917d9b6921c78c2a",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-bava-metzia-v3.amudi"
+      "crossReferencesSha256": "a81a090ada33a8fa31ef814a39ecd5ab7d68d9659e073296656b50d92cb8f337",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-bava-metzia-v5.amudi",
+      "size": 894060,
+      "sha256": "e2c8ef6dd898e1684f93ffaeb67f6e2b0a493df871308879e10fce8799882c85",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-bava-metzia-v5.amudi"
     }
   },
   {
@@ -146459,15 +146543,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-beitzah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-beitzah-v3.amudi",
-      "size": 6801,
-      "sha256": "dbde033aeed837741f626f0749e07cfe28553cb85a2c32c3ec93f85a8f36e161",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-beitzah-v3.amudi"
+      "crossReferencesSha256": "1e1dd938650e3964a3c170e9ccee35298f487f1098cfd9eab140deb94b9c2cdc",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-beitzah-v5.amudi",
+      "size": 855359,
+      "sha256": "4d12ba621e1d37ec62614279a2bb8febb9ab71e4ea483cea91436a9799c8398c",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-beitzah-v5.amudi"
     }
   },
   {
@@ -146483,15 +146569,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-berachos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-berachos-v3.amudi",
-      "size": 7783,
-      "sha256": "df4a528e4ea4da09f98ffa43d07e976af5b0aa470e9ba145ca32d912fd7acf72",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-berachos-v3.amudi"
+      "crossReferencesSha256": "98b3dd4f648578f2601f89880332527289d6b90823e293b1125b65f4f2b8b43f",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-berachos-v5.amudi",
+      "size": 2194243,
+      "sha256": "1d3eb7e0ba11d5479e623f70e122e66ca250c94c24c0dae30da9508b29c433b5",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-berachos-v5.amudi"
     }
   },
   {
@@ -146507,15 +146595,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-bikkurim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-bikkurim-v3.amudi",
-      "size": 6586,
-      "sha256": "0aff1906151a9b6b6919fca4a44e48c879f854b06581e29986b0369d63f8e7be",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-bikkurim-v3.amudi"
+      "crossReferencesSha256": "19eb50eee11bef0ceabfee8bea04e5393ce32bfd18c9ddd6717ecc0261b18e46",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-bikkurim-v5.amudi",
+      "size": 570279,
+      "sha256": "137ec06c27c6af888df6bd760ee5e3817ca05fd249844d0d676fb122b586519a",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-bikkurim-v5.amudi"
     }
   },
   {
@@ -146531,15 +146621,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-chagigah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-chagigah-v3.amudi",
-      "size": 6795,
-      "sha256": "cace88d8416cf1df12e388af06b710bffeaac7e9773f2cfd297056629bb62e98",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-chagigah-v3.amudi"
+      "crossReferencesSha256": "cde8e20733b5c862acf29897395122c8eab7434f7b0f513255fc291ff0a60b00",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-chagigah-v5.amudi",
+      "size": 624093,
+      "sha256": "ec8f1adec4e249a0acced5d09bf61b528168f55658c8facdd62d09c0ab88b6cd",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-chagigah-v5.amudi"
     }
   },
   {
@@ -146555,15 +146647,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-challah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-challah-v3.amudi",
-      "size": 6927,
-      "sha256": "488b8f2047af4bf912e7b440aa80ff2974e6574a37169f41343daead48b8bdb9",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-challah-v3.amudi"
+      "crossReferencesSha256": "4e9091a21dfd802900d1697e639c1034c0986b82f0a67da470058c8ab08a3ee4",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-challah-v5.amudi",
+      "size": 925939,
+      "sha256": "6a66c184ef0159e69a533614e255b4e5d5126e7bc0fe48bf5c7ebee3d08cde5d",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-challah-v5.amudi"
     }
   },
   {
@@ -146579,15 +146673,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-demai",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-demai-v3.amudi",
-      "size": 7039,
-      "sha256": "6b82d1cab6a0cf00e393ea574761dd87840682f2b2e0d4f3f473c5109f7c74ee",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-demai-v3.amudi"
+      "crossReferencesSha256": "9a35c8657a784f33ea8633c6ae00551f3b77e8bed4135d625591940518ee39bb",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-demai-v5.amudi",
+      "size": 1500682,
+      "sha256": "e09fb3c087e247d977577690627120a98649afae76d1967aec50132acd8c6951",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-demai-v5.amudi"
     }
   },
   {
@@ -146603,15 +146699,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-eruvin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-eruvin-v3.amudi",
-      "size": 7738,
-      "sha256": "ba68d3b8c7eb76c35a34c05250d0bcc40c390bcefb84179bfef269d1d77a0823",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-eruvin-v3.amudi"
+      "crossReferencesSha256": "f04bde69a64ced6fd6a5522c0c153c0ba72dad24ee6b2b5198b9bf973832f8ad",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-eruvin-v5.amudi",
+      "size": 1829967,
+      "sha256": "29b38f7f89efb5b79e668a11bed681fd0490ffd93a12e0969ff17a6572d635f9",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-eruvin-v5.amudi"
     }
   },
   {
@@ -146627,15 +146725,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-gittin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-gittin-v3.amudi",
-      "size": 7486,
-      "sha256": "9ab6e9661b7c684883f8532ae8d77eced7d04e351fced774ace1c833a848d3ef",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-gittin-v3.amudi"
+      "crossReferencesSha256": "ff93a3e4a9752dbb540396494fdcb9bfbaab4bebbb41bbedcb7c4b2d56693dd1",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-gittin-v5.amudi",
+      "size": 1289165,
+      "sha256": "5560811646788e27f221953ab06b4eb5933c87b19ef22d03aab712f905fc1572",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-gittin-v5.amudi"
     }
   },
   {
@@ -146651,15 +146751,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-kesubos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-kesubos-v3.amudi",
-      "size": 7897,
-      "sha256": "6befb8fb3519b66448501a1248bbbcbc807f978512cc681bd6c9c917faec7d4b",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-kesubos-v3.amudi"
+      "crossReferencesSha256": "b4d9bc088bc59070173081fcf1693dfe693774d47c223bb50f0eff25a0b6c528",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-kesubos-v5.amudi",
+      "size": 2025626,
+      "sha256": "9ef9bc2c3eb0ebf1d5360bdd52830ebfd11951a61db725e55fe127e0773457be",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-kesubos-v5.amudi"
     }
   },
   {
@@ -146675,15 +146777,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-kiddushin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-kiddushin-v3.amudi",
-      "size": 7352,
-      "sha256": "9d689ca47616e988a3163f4c6cbe073510c1256c6a518fda099917f288e9ae28",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-kiddushin-v3.amudi"
+      "crossReferencesSha256": "8b83a5cbe9554a2535adb9163573e23ab9b9da320d9d8336543c3e73509424a9",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-kiddushin-v5.amudi",
+      "size": 1404420,
+      "sha256": "8df62accc651d68dc8947dc30424558d3a42181fa28aff63084c964f6808484a",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-kiddushin-v5.amudi"
     }
   },
   {
@@ -146699,15 +146803,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-kilayim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-kilayim-v3.amudi",
-      "size": 7285,
-      "sha256": "39f668ac24ab18fe6dc4b66430e43d0e7bf6d8d28b94aafe92f1824af7af45de",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-kilayim-v3.amudi"
+      "crossReferencesSha256": "d7e57604dd669971690e5f5003fa3b362cc7c8d3e5e2169a8a22e10f9b61afb7",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-kilayim-v5.amudi",
+      "size": 2056639,
+      "sha256": "ddbba2e971eecebd60b0691580b5373eaa07dbcb8838878e5428c3b65c15005f",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-kilayim-v5.amudi"
     }
   },
   {
@@ -146723,15 +146829,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-maaser-sheni",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-maaser-sheni-v3.amudi",
-      "size": 7058,
-      "sha256": "cee8b84e18620cd584b144a53b9224c973872da4624a3ebac77634b861921ee5",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-maaser-sheni-v3.amudi"
+      "crossReferencesSha256": "7fab8eab13e6b0ecbbd541251f9a9be99d85a32ba8fa6dcad2fed4a464d7c3cf",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-maaser-sheni-v5.amudi",
+      "size": 624230,
+      "sha256": "9afeb952c72533bf0c9edffe2d4a09bf5f5e9c77396762c242ed45a49c7f618c",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-maaser-sheni-v5.amudi"
     }
   },
   {
@@ -146747,15 +146855,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-maasros",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-maasros-v3.amudi",
-      "size": 6891,
-      "sha256": "460b120cef407bab335ad45c52b4f36070fa006db10eaa48da99aba6fe4dc67a",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-maasros-v3.amudi"
+      "crossReferencesSha256": "13e731bccc001341dc74478847262fb11ac6af753c16d819ecb0109fc9be28e3",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-maasros-v5.amudi",
+      "size": 905104,
+      "sha256": "f5004d4ba92447083a5c98b69c1a1ab2407a9dac8811a1cd3f729d2508a9310b",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-maasros-v5.amudi"
     }
   },
   {
@@ -146771,15 +146881,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-megillah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-megillah-v3.amudi",
-      "size": 7048,
-      "sha256": "cd5189e42aba1207a3c432e1cc0352027cc4809f6bdf3051ea499ab481b62fea",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-megillah-v3.amudi"
+      "crossReferencesSha256": "ccf3ec660e40f07349438de7e1f11e683378d1713ce2f7bb8f7e4a3cf8fcc829",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-megillah-v5.amudi",
+      "size": 1010077,
+      "sha256": "8e0e3047a9045c549e4074b8bdccc5d44e6a70f733c0094bf4a5e6d67949acd5",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-megillah-v5.amudi"
     }
   },
   {
@@ -146795,15 +146907,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-moed-katan",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-moed-katan-v3.amudi",
-      "size": 6738,
-      "sha256": "f00e2116c62d50b7f9c307e673508f1afe3cf829526b13e8893973c5ea966799",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-moed-katan-v3.amudi"
+      "crossReferencesSha256": "7ea7bc1a549b0857357b22e2d831ddabb861e53f28daba2afeeba3d3dc61bdf3",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-moed-katan-v5.amudi",
+      "size": 554687,
+      "sha256": "fb44ebfd7ca5ed8a2da74ac675bbdcf07607b69986e446c821c6e04c75e93ff5",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-moed-katan-v5.amudi"
     }
   },
   {
@@ -146819,15 +146933,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-nazir",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-nazir-v3.amudi",
-      "size": 7330,
-      "sha256": "415770bed52fa5d83070bea63387f573b1888f66fa2b26c7cda19f4c07ffb377",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-nazir-v3.amudi"
+      "crossReferencesSha256": "13ac2498395a221bb9790994721ab82a6abdd1cb7a78225a34c01cf544381760",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-nazir-v5.amudi",
+      "size": 1354694,
+      "sha256": "24a7dccb67cc3f645792457b8bd7c04484fdd0b0e58b333a6233bcd549a1e749",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-nazir-v5.amudi"
     }
   },
   {
@@ -146843,15 +146959,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-nedarim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-nedarim-v3.amudi",
-      "size": 7184,
-      "sha256": "acbbfe3584b87b2eb2a2f3af1907de19a3dfab7281a6b832300eec1955dbc115",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-nedarim-v3.amudi"
+      "crossReferencesSha256": "471e77ca569bcb6491d7d9ecdc5dae3cd8f2a13da1499882f3e39e031ae4ce9c",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-nedarim-v5.amudi",
+      "size": 1099205,
+      "sha256": "b17afae7bfa7164edbad2c66ce6266e6776d0771148be2e4cf8914e7a258e335",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-nedarim-v5.amudi"
     }
   },
   {
@@ -146867,15 +146985,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-niddah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-niddah-v3.amudi",
-      "size": 6577,
-      "sha256": "7fd4f984677840862df001b7d2dc2abda6decaf5d99f89c7cae75331d305f643",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-niddah-v3.amudi"
+      "crossReferencesSha256": "d76f78176e8dd5dd5d50717ac724963aa3e9868ac4d8dc0971659fc322134bcb",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-niddah-v5.amudi",
+      "size": 269527,
+      "sha256": "654214106ab62848aebe7cdfb8b527935c2c8226c6367090fe5d61c5e6a22f84",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-niddah-v5.amudi"
     }
   },
   {
@@ -146891,15 +147011,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-orlah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-orlah-v3.amudi",
-      "size": 6748,
-      "sha256": "fa71de5de3dab0ed6936e17121796e03d29308fe13a721f4838a432d98858dee",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-orlah-v3.amudi"
+      "crossReferencesSha256": "32debad38ca1f3ecbbcee1951435d26001d591205feeb17f5c623162734f11eb",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-orlah-v5.amudi",
+      "size": 759737,
+      "sha256": "76236a455a74789ddb984f33f3c5fb44181df2d3cc6130b1872c817b7a145310",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-orlah-v5.amudi"
     }
   },
   {
@@ -146915,15 +147037,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-peah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-peah-v3.amudi",
-      "size": 7109,
-      "sha256": "008c1f2b3eb2522959aba54261a6190f7bddc59cc6e6d9b2e700a9484db746be",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-peah-v3.amudi"
+      "crossReferencesSha256": "f5a06b7367f19e458c16cc1d7abee4e26203c56ef672cd7aa7315eef6c825b6f",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-peah-v5.amudi",
+      "size": 1454761,
+      "sha256": "4b893426d7a5ea3de61a1bad6336f590e574511f2a34de7dc8340279d8a54eed",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-peah-v5.amudi"
     }
   },
   {
@@ -146939,15 +147063,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-pesachim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-pesachim-v3.amudi",
-      "size": 7854,
-      "sha256": "49be2add6d1d07f0e7235c8dbf727e9b1bba1c2816274f535f6335da7ee15cf7",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-pesachim-v3.amudi"
+      "crossReferencesSha256": "31fc72d173fb4c3457fa049c56eb90ec355951e68e4b8c11826082c6252965e3",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-pesachim-v5.amudi",
+      "size": 1978605,
+      "sha256": "a5721b44c05a7bf0db9a0c874dc9256398f2837722166a585446596742559d25",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-pesachim-v5.amudi"
     }
   },
   {
@@ -146963,15 +147089,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-rosh-hashanah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-rosh-hashanah-v3.amudi",
-      "size": 6808,
-      "sha256": "accf3a7f707b787ddf34d78da0e53ced25fc832113e4a0bf770ef0430cea6f6e",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-rosh-hashanah-v3.amudi"
+      "crossReferencesSha256": "9116dd92560ec323e7da36e422bf1f53b87190aa85ff2b1b8c51730b55c55047",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-rosh-hashanah-v5.amudi",
+      "size": 653828,
+      "sha256": "0ef6b4563dae7fa85f31f99fddbd2a14b568e38dde7fa4c4afeb9462f5637ebb",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-rosh-hashanah-v5.amudi"
     }
   },
   {
@@ -146987,15 +147115,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-sanhedrin",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-sanhedrin-v3.amudi",
-      "size": 7550,
-      "sha256": "a7b7fb65f7cf81f8ceab618765a56601139c524e9cecee35ffaedfece7be2f61",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-sanhedrin-v3.amudi"
+      "crossReferencesSha256": "d50c820d6fddf15aaa650f62c5bd996425c5a3b6ea06f70704ab4ad060b49e1d",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-sanhedrin-v5.amudi",
+      "size": 1946104,
+      "sha256": "1183b800112eff627b321bb3cdb0bdf099b5f23d3e1d8098dff32ab40c88a49d",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-sanhedrin-v5.amudi"
     }
   },
   {
@@ -147011,15 +147141,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-shabbos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-shabbos-v3.amudi",
-      "size": 8328,
-      "sha256": "f9bc895d92998a926b4d6729c197a3537222819d5401670c506782383b1682da",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-shabbos-v3.amudi"
+      "crossReferencesSha256": "e3ea47628e9d8900bc4210cf9cd03b35a46b66ccae7c050a77ab1a548df4b1f4",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-shabbos-v5.amudi",
+      "size": 2875932,
+      "sha256": "702bdbebbaf13aa0406d7f8912f30ae70aafae2ead93a239b8cf1ade5006533f",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-shabbos-v5.amudi"
     }
   },
   {
@@ -147037,15 +147169,17 @@
     "editionLabel": "Yerushalmi edition",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-shekalim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-shekalim-v3.amudi",
-      "size": 7032,
-      "sha256": "e66df6cb2e58ec1006365883930378e8faec7a1314834ae6edb3fd8b55664196",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-shekalim-v3.amudi"
+      "crossReferencesSha256": "2792955de04d84c2a428870226aad452b6842151953be6b0c1e9427887b3e813",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-shekalim-v5.amudi",
+      "size": 1117843,
+      "sha256": "d2dc62cf70b3fecae860286a1b62a6425e577c21883daeab7f1d6cc2db3d8765",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-shekalim-v5.amudi"
     }
   },
   {
@@ -147061,15 +147195,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-sheviis",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-sheviis-v3.amudi",
-      "size": 6994,
-      "sha256": "253e77538216545efb3dfed09c116e5aba586fc0851e0c93d73c71475e40646c",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-sheviis-v3.amudi"
+      "crossReferencesSha256": "5fad01c25492e66302cab1caff7d9e3bc0bbfd2a7b327d0c0b74342339ca8be5",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-sheviis-v5.amudi",
+      "size": 1837024,
+      "sha256": "de79b3c82c192bfffa5ffc66710e5246adf7f2a331a4b19f2cfc3b1a786b1dda",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-sheviis-v5.amudi"
     }
   },
   {
@@ -147085,15 +147221,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-sotah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-sotah-v3.amudi",
-      "size": 7321,
-      "sha256": "1b150eee120459e0da8eae9f404369bb88db5b2f10b0d221971398e1e75577d7",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-sotah-v3.amudi"
+      "crossReferencesSha256": "06a0c2fea8147d34ad51b1d5feb5cd5fac7c4eb01c25b24a2089f7d43abf14ff",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-sotah-v5.amudi",
+      "size": 1397536,
+      "sha256": "b5222a997750b3ddf8adc90efd03a439be79cb762e3b8a4b4c2acedac9170eec",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-sotah-v5.amudi"
     }
   },
   {
@@ -147109,15 +147247,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-succah",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-succah-v3.amudi",
-      "size": 6881,
-      "sha256": "329d2272199bef05e8d4207742926b7fc7d48092fe46d3b6092e3fa395036db6",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-succah-v3.amudi"
+      "crossReferencesSha256": "b520ea99e2ebbe1ee3e69a6afb5b6cc225cf63c10dca3b44e24791241d102f65",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-succah-v5.amudi",
+      "size": 806855,
+      "sha256": "d436ca7d7c1b2c480b6e7361216328b07b714d8795c1386d1bb42cdfd2a1b5b5",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-succah-v5.amudi"
     }
   },
   {
@@ -147133,15 +147273,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-taanis",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-taanis-v3.amudi",
-      "size": 6880,
-      "sha256": "80c6b1dbb856721d9a46ee188ec1f2a1be5769b24a8cafba408bf0f751d9df5a",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-taanis-v3.amudi"
+      "crossReferencesSha256": "19865c026faf7fd39986ef74042c2077933e2e8283b518c2b0a09053fc3f15fc",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-taanis-v5.amudi",
+      "size": 778554,
+      "sha256": "16fc9b28fae492090465bb64ab3dad77c20387cd24fadf8f3a33d2d5343797c2",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-taanis-v5.amudi"
     }
   },
   {
@@ -147157,15 +147299,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-terumos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-terumos-v3.amudi",
-      "size": 7598,
-      "sha256": "fb48f5ba398a472d442c804f8f289d34c1388f03e758cea6d5ca43bb2f7c4869",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-terumos-v3.amudi"
+      "crossReferencesSha256": "858afeaf57a1034be1dcf89359ed95d58c7c92ff43f8efd9eeca802da5f46b79",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-terumos-v5.amudi",
+      "size": 2153160,
+      "sha256": "0383f103a21d94b53552613a82fb98189a4d2a555b0195cc58590ba3652bcea9",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-terumos-v5.amudi"
     }
   },
   {
@@ -147181,15 +147325,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-yoma",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-yoma-v3.amudi",
-      "size": 7223,
-      "sha256": "f200d89992850d912b33c3cb51f0ae9b885bf6ddb3a33c7dd2b0faef35a8a55d",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-yoma-v3.amudi"
+      "crossReferencesSha256": "276ecb5842dc543b377238bbb5b3541ffb1003e639356497d5de3f41aed9cd50",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-yoma-v5.amudi",
+      "size": 1317078,
+      "sha256": "b458ed5db21db4a7528a9699263ceffe9fd1844bc571b75664cc07524d405e4e",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-yoma-v5.amudi"
     }
   },
   {
@@ -147204,15 +147350,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-eduyos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-eduyos-v3.amudi",
-      "size": 6407,
-      "sha256": "97e9b40e1c05872695c2251f5ef0c0663181b2b12fde038e1c2b620471a33148",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-bavli-eduyos-v3.amudi"
+      "crossReferencesSha256": "812ca9194a98ea9b9e7965b8e2453aa07058e49eac85a63cc9273f431ee618a1",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-eduyos-v5.amudi",
+      "size": 168816,
+      "sha256": "5310a4afd8a648a8e80f00a32f66808474950f830c514dc66bbc90ac6193c412",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-bavli-eduyos-v5.amudi"
     }
   },
   {
@@ -147227,15 +147375,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-kinnim",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-kinnim-v3.amudi",
-      "size": 6305,
-      "sha256": "e3e137b2ba485b9b277beb51a9f2dbebea6d4e038f1aaf6b7516a4cdd83bafd5",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-bavli-kinnim-v3.amudi"
+      "crossReferencesSha256": "22efbe1d867d7546bdccac7f7cc2fb47e0074dbcfcbcbc6f25cfaa11111d2715",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-kinnim-v5.amudi",
+      "size": 24491,
+      "sha256": "87324ae97906168d826330d040ccbf01f1ca907dfe97899b0fe337a94235ca55",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-bavli-kinnim-v5.amudi"
     }
   },
   {
@@ -147250,15 +147400,17 @@
     "semanticCollection": "bavli",
     "package": {
       "id": "shas-semantic-talmud-bavli-middos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-bavli-middos-v3.amudi",
-      "size": 6318,
-      "sha256": "7354817c78c620851c1c0927c596091b36d5be56292448c334df654bc6b06413",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-bavli-middos-v3.amudi"
+      "crossReferencesSha256": "cb443b7982502812dac124a5041fd2120e867af110fa744c85646978c6185fd1",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-bavli-middos-v5.amudi",
+      "size": 72674,
+      "sha256": "e95b9c701de4fcd7ba4cf2275261d3f0c04e5af9203357803b83f2c96beef729",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-bavli-middos-v5.amudi"
     }
   },
   {
@@ -147274,15 +147426,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-horayos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-horayos-v3.amudi",
-      "size": 6732,
-      "sha256": "e5765dbf3520eb8545c140424832c62bedf6e64cc8bdc38bd398c3cd9257c684",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-horayos-v3.amudi"
+      "crossReferencesSha256": "79ea5ea969ff7bb80428cb0b9a2f3ff00c7e90df3a46544d11cfb2c9520b13cf",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-horayos-v5.amudi",
+      "size": 424804,
+      "sha256": "efd9641bf7690cea9e3d7f1212cb3646ad5069c1055adaf5d558359416028e73",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-horayos-v5.amudi"
     }
   },
   {
@@ -147298,15 +147452,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-makkos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-makkos-v3.amudi",
-      "size": 6494,
-      "sha256": "f7bb58c581686d3d8912c7cb104f74083685d63728c1da73f1190afb45189df1",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-makkos-v3.amudi"
+      "crossReferencesSha256": "f8ca99da85db91fe699365be14122be0ddd11bbed91b06db48b31184359945b6",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-makkos-v5.amudi",
+      "size": 240556,
+      "sha256": "ee04a760dad5ba12455c0320925417b71673d26ad43f04bcbc00c59a85890f08",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-makkos-v5.amudi"
     }
   },
   {
@@ -147322,15 +147478,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-shevuos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-shevuos-v3.amudi",
-      "size": 7290,
-      "sha256": "c8d14e5f4e9f4cba1b8e3ccb7d317c2e05e415d0b14011de4eaa3fd168d7665c",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-shevuos-v3.amudi"
+      "crossReferencesSha256": "c7679d335e619f76bf66aca943325c660bc84b1900d562a96a0f6d2f375bc0ce",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-shevuos-v5.amudi",
+      "size": 955471,
+      "sha256": "7ea1477b1841575e0aa07c2b4a9a796eacda29672973de68a1a418ae2b85bbaa",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-shevuos-v5.amudi"
     }
   },
   {
@@ -147346,15 +147504,17 @@
     "semanticCollection": "yerushalmi",
     "package": {
       "id": "shas-semantic-talmud-yerushalmi-vilna-yevamos",
-      "packageVersion": 3,
+      "packageVersion": 5,
       "keyVersion": 2,
       "formatVersion": 1,
       "encryption": "AES-256-GCM",
-      "file": "shas-semantic-talmud-yerushalmi-vilna-yevamos-v3.amudi",
-      "size": 8170,
-      "sha256": "560976c559641add8af1fcafa274a1339799784f44e8d2b00ef29f119b43f862",
-      "release": "library-v3-006",
-      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v3-006/shas-semantic-talmud-yerushalmi-vilna-yevamos-v3.amudi"
+      "crossReferencesSha256": "5ede6fe2a123eae7134d284616953f55bdf56876b8003370500fa03355d148b0",
+      "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
+      "file": "shas-semantic-talmud-yerushalmi-vilna-yevamos-v5.amudi",
+      "size": 2366842,
+      "sha256": "f633ae1255ff03521736fd1a5576b7e5745ce4b6c90068ca98207e8661b5cf7b",
+      "release": "library-v5-006",
+      "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-006/shas-semantic-talmud-yerushalmi-vilna-yevamos-v5.amudi"
     }
   }
 ]
