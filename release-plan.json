@@ -1,36 +1,36 @@
 {
   "repository": "6uard1an/amudi-library",
-  "packageVersion": 5,
+  "packageVersion": 6,
   "keyVersion": 2,
   "assetsPerRelease": 900,
   "sharedPackage": {
     "id": "library-shared",
-    "packageVersion": 5,
+    "packageVersion": 6,
     "keyVersion": 2,
     "formatVersion": 1,
     "encryption": "AES-256-GCM",
-    "rightsExclusionsSha256": "5d0351792902094f535b22c027f5b519ab659be0f9b450db8bd3127ff555d8e4",
-    "file": "library-shared-v5.amudi",
-    "fileCount": 10764,
-    "size": 10741347,
-    "sha256": "7e818e343b92f6e2c5cc09cd9fa7f87febf5ec057fc251353fcd63d64dc6c8b6",
-    "release": "library-v5-shared",
-    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v5-shared/library-shared-v5.amudi"
+    "rightsExclusionsSha256": "ab6e22b66a4cdff48f6a0c79421865d310d080c740cade45fcf5e962c4f575a7",
+    "file": "library-shared-v6.amudi",
+    "fileCount": 10766,
+    "size": 10743184,
+    "sha256": "04d7a44e785189b742719beda9eb860d5225a2536775a597a91aea2ab7c4113f",
+    "release": "library-v6-shared",
+    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v6-shared/library-shared-v6.amudi"
   },
   "releases": [
     {
-      "tag": "library-v5-001",
-      "directory": "library-v5-001",
+      "tag": "library-v6-001",
+      "directory": "library-v6-001",
       "assetCount": 38
     },
     {
-      "tag": "library-v5-006",
-      "directory": "library-v5-006",
+      "tag": "library-v6-006",
+      "directory": "library-v6-006",
       "assetCount": 42
     },
     {
-      "tag": "library-v5-shared",
-      "directory": "library-v5-shared",
+      "tag": "library-v6-shared",
+      "directory": "library-v6-shared",
       "assetCount": 1
     }
   ]
