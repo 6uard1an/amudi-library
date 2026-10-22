@@ -1,36 +1,38 @@
 {
   "repository": "6uard1an/amudi-library",
-  "packageVersion": 7,
+  "packageVersion": 8,
   "keyVersion": 2,
   "assetsPerRelease": 900,
   "sharedPackage": {
     "id": "library-shared",
-    "packageVersion": 7,
+    "packageVersion": 8,
     "keyVersion": 2,
     "formatVersion": 1,
     "encryption": "AES-256-GCM",
-    "rightsExclusionsSha256": "ab6e22b66a4cdff48f6a0c79421865d310d080c740cade45fcf5e962c4f575a7",
-    "file": "library-shared-v7.amudi",
-    "fileCount": 10766,
-    "size": 10743421,
-    "sha256": "4381cf8010072de496645ab7f32ba52d9e6c4f914d8fca47fca6579db38777be",
-    "release": "library-v7-shared",
-    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v7-shared/library-shared-v7.amudi"
+    "rightsExclusionsSha256": "690cfe053a6c10c7cea29423327279f5810021a8a6364a3d7883781ab462fec5",
+    "ccDownloadPolicySha256": "3e5a98646af8d9907010a2fe1fda79989585ad3e4d3bbfccfef73b1f18e1f7c6",
+    "releaseFilterSha256": "0b52bfffa8d2dcdc322567ec7ad3e932652f1083a3f7565c83b75421516dae81",
+    "file": "library-shared-v8.amudi",
+    "fileCount": 10800,
+    "size": 15639804,
+    "sha256": "5dd92c8b5d209e66ee588515ca1253e46acad1162151e65cbef23ffe012494ea",
+    "release": "library-v8-shared",
+    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v8-shared/library-shared-v8.amudi"
   },
   "releases": [
     {
-      "tag": "library-v7-001",
-      "directory": "library-v7-001",
+      "tag": "library-v8-001",
+      "directory": "library-v8-001",
       "assetCount": 38
     },
     {
-      "tag": "library-v7-006",
-      "directory": "library-v7-006",
-      "assetCount": 42
+      "tag": "library-v8-006",
+      "directory": "library-v8-006",
+      "assetCount": 88
     },
     {
-      "tag": "library-v7-shared",
-      "directory": "library-v7-shared",
+      "tag": "library-v8-shared",
+      "directory": "library-v8-shared",
       "assetCount": 1
     }
   ]
