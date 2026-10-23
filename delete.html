@@ -8,22 +8,34 @@
         input, button { display: block; width: 100%; margin-bottom: 15px; padding: 10px; font-size: 16px; }
         button { background-color: #ff4d4d; color: white; border: none; cursor: pointer; }
         button:hover { background-color: #cc0000; }
+        .google-btn { background-color: #4285F4; }
+        .google-btn:hover { background-color: #357ae8; }
+        hr { margin: 30px 0; }
     </style>
 </head>
 <body>
     <h2>Delete Your Amudi Account</h2>
-    <p>Enter your account details below to permanently delete your account and associated data.</p>
+    <p>Permanently delete your Amudi account and associated data.</p>
     
-    <input type="email" id="email" placeholder="Email address" required>
-    <input type="password" id="password" placeholder="Password" required>
-    <button onclick="deleteAccount()">Delete My Account</button>
+    <!-- Option 1: Email & Password Users -->
+    <h3>Delete via Email & Password</h3>
+    <input type="email" id="email" placeholder="Email address">
+    <input type="password" id="password" placeholder="Password">
+    <button onclick="deleteEmailAccount()">Delete Email Account</button>
 
-    <p id="status" style="font-weight: bold;"></p>
+    <hr>
+
+    <!-- Option 2: Google Sign-In (OAuth) Users -->
+    <h3>Delete via Google Account</h3>
+    <p>If you signed in using Google, click below to verify and delete your account.</p>
+    <button class="google-btn" onclick="deleteGoogleAccount()">Sign in with Google & Delete</button>
+
+    <p id="status" style="font-weight: bold; margin-top: 20px;"></p>
 
     <!-- Firebase SDK Scripts -->
     <script type="module">
         import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
-        import { getAuth, signInWithEmailAndPassword, deleteUser } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+        import { getAuth, signInWithEmailAndPassword, signInWithPopup, GoogleAuthProvider, deleteUser } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
 
         const firebaseConfig = {
             apiKey: "AIzaSyD2MTzJMz8jA9PVTFfHdRtUifQZjX7NwCs",
@@ -34,7 +46,7 @@
         const app = initializeApp(firebaseConfig);
         const auth = getAuth(app);
 
-        window.deleteAccount = async function() {
+        window.deleteEmailAccount = async function() {
             const email = document.getElementById('email').value;
             const password = document.getElementById('password').value;
             const status = document.getElementById('status');
@@ -42,16 +54,33 @@
             try {
                 status.style.color = "black";
                 status.innerText = "Authenticating...";
-                
                 const userCredential = await signInWithEmailAndPassword(auth, email, password);
-                const user = userCredential.user;
-
-                status.innerText = "Deleting account...";
                 
-                await deleteUser(user);
+                status.innerText = "Deleting account...";
+                await deleteUser(userCredential.user);
                 
                 status.style.color = "green";
                 status.innerText = "Your account has been successfully and permanently deleted.";
+            } catch (error) {
+                status.style.color = "red";
+                status.innerText = "Error: " + error.message;
+            }
+        };
+
+        window.deleteGoogleAccount = async function() {
+            const status = document.getElementById('status');
+            const provider = new GoogleAuthProvider();
+
+            try {
+                status.style.color = "black";
+                status.innerText = "Opening Google Sign-In...";
+                const userCredential = await signInWithPopup(auth, provider);
+                
+                status.innerText = "Deleting account...";
+                await deleteUser(userCredential.user);
+                
+                status.style.color = "green";
+                status.innerText = "Your Google-linked account has been successfully and permanently deleted.";
             } catch (error) {
                 status.style.color = "red";
                 status.innerText = "Error: " + error.message;
