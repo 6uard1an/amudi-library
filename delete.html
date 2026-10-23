@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete Account - Amudi</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 500px; margin: 50px auto; padding: 20px; }
+        input, button { display: block; width: 100%; margin-bottom: 15px; padding: 10px; font-size: 16px; }
+        button { background-color: #ff4d4d; color: white; border: none; cursor: pointer; }
+        button:hover { background-color: #cc0000; }
+    </style>
+</head>
+<body>
+    <h2>Delete Your Amudi Account</h2>
+    <p>Enter your account details below to permanently delete your account and associated data.</p>
+    
+    <input type="email" id="email" placeholder="Email address" required>
+    <input type="password" id="password" placeholder="Password" required>
+    <button onclick="deleteAccount()">Delete My Account</button>
+
+    <p id="status" style="font-weight: bold;"></p>
+
+    <!-- Firebase SDK Scripts -->
+    <script type="module">
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+        import { getAuth, signInWithEmailAndPassword, deleteUser } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+
+        const firebaseConfig = {
+            apiKey: "AIzaSyD2MTzJMz8jA9PVTFfHdRtUifQZjX7NwCs",
+            authDomain: "amudi-74641.firebaseapp.com",
+            projectId: "amudi-74641"
+        };
+
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+
+        window.deleteAccount = async function() {
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            const status = document.getElementById('status');
+
+            try {
+                status.style.color = "black";
+                status.innerText = "Authenticating...";
+                
+                const userCredential = await signInWithEmailAndPassword(auth, email, password);
+                const user = userCredential.user;
+
+                status.innerText = "Deleting account...";
+                
+                await deleteUser(user);
+                
+                status.style.color = "green";
+                status.innerText = "Your account has been successfully and permanently deleted.";
+            } catch (error) {
+                status.style.color = "red";
+                status.innerText = "Error: " + error.message;
+            }
+        };
+    </script>
+</body>
+</html>
