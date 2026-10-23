@@ -1,38 +1,58 @@
 {
   "repository": "6uard1an/amudi-library",
-  "packageVersion": 8,
+  "packageVersion": 9,
   "keyVersion": 2,
   "assetsPerRelease": 900,
   "sharedPackage": {
     "id": "library-shared",
-    "packageVersion": 8,
+    "packageVersion": 9,
     "keyVersion": 2,
     "formatVersion": 1,
     "encryption": "AES-256-GCM",
     "rightsExclusionsSha256": "690cfe053a6c10c7cea29423327279f5810021a8a6364a3d7883781ab462fec5",
     "ccDownloadPolicySha256": "3e5a98646af8d9907010a2fe1fda79989585ad3e4d3bbfccfef73b1f18e1f7c6",
     "releaseFilterSha256": "0b52bfffa8d2dcdc322567ec7ad3e932652f1083a3f7565c83b75421516dae81",
-    "file": "library-shared-v8.amudi",
-    "fileCount": 10800,
-    "size": 15639804,
-    "sha256": "5dd92c8b5d209e66ee588515ca1253e46acad1162151e65cbef23ffe012494ea",
-    "release": "library-v8-shared",
-    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v8-shared/library-shared-v8.amudi"
+    "file": "library-shared-v9.amudi",
+    "fileCount": 10804,
+    "size": 16024164,
+    "sha256": "68a302020a0c744a414f64841cb7fa7f586ad5e5f47ee86f0a9b8d6ca45d7ff9",
+    "release": "library-v9-shared",
+    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v9-shared/library-shared-v9.amudi"
   },
   "releases": [
     {
-      "tag": "library-v8-001",
-      "directory": "library-v8-001",
-      "assetCount": 38
+      "tag": "library-v9-001",
+      "directory": "library-v9-001",
+      "assetCount": 43
     },
     {
-      "tag": "library-v8-006",
-      "directory": "library-v8-006",
-      "assetCount": 88
+      "tag": "library-v9-002",
+      "directory": "library-v9-002",
+      "assetCount": 41
     },
     {
-      "tag": "library-v8-shared",
-      "directory": "library-v8-shared",
+      "tag": "library-v9-003",
+      "directory": "library-v9-003",
+      "assetCount": 1
+    },
+    {
+      "tag": "library-v9-004",
+      "directory": "library-v9-004",
+      "assetCount": 142
+    },
+    {
+      "tag": "library-v9-005",
+      "directory": "library-v9-005",
+      "assetCount": 12
+    },
+    {
+      "tag": "library-v9-006",
+      "directory": "library-v9-006",
+      "assetCount": 14
+    },
+    {
+      "tag": "library-v9-shared",
+      "directory": "library-v9-shared",
       "assetCount": 1
     }
   ]
