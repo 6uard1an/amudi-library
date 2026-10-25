@@ -1,91 +1,168 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Delete Account - Amudi</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 500px; margin: 50px auto; padding: 20px; }
-        input, button { display: block; width: 100%; margin-bottom: 15px; padding: 10px; font-size: 16px; }
-        button { background-color: #ff4d4d; color: white; border: none; cursor: pointer; }
-        button:hover { background-color: #cc0000; }
-        .google-btn { background-color: #4285F4; }
-        .google-btn:hover { background-color: #357ae8; }
-        hr { margin: 30px 0; }
-    </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <title>Delete an Amudi account</title>
+  <style>
+    :root{font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.55;color-scheme:light dark}
+    body{margin:0;background:#f4f1e9;color:#18263a}
+    main{max-width:680px;margin:0 auto;padding:clamp(18px,5vw,42px)}
+    article{background:#fff;border:1px solid #ddd6c7;border-radius:18px;padding:clamp(20px,5vw,40px);box-shadow:0 12px 36px #15223814}
+    h1{line-height:1.15;margin-top:0}h2{margin-top:1.8em}
+    label{display:block;margin:.9em 0 .25em;font-weight:650}
+    input{box-sizing:border-box;width:100%;padding:12px;border:1px solid #8793a1;border-radius:8px;font:inherit}
+    button{display:block;width:100%;margin-top:14px;padding:12px 16px;border:0;border-radius:9px;background:#185d75;color:white;font:inherit;font-weight:700;cursor:pointer}
+    button.google{background:#315fa8}button:disabled{opacity:.6;cursor:wait}
+    .notice{padding:12px 14px;border-left:4px solid #b77b13;background:#fff7e7}
+    #status{min-height:1.6em;margin-top:18px;font-weight:650;white-space:pre-wrap}
+    a{color:#145a76}
+    @media(prefers-color-scheme:dark){body{background:#101820;color:#edf2f5}article{background:#18232d;border-color:#344452}.notice{background:#302817}a{color:#8fd5f1}}
+  </style>
 </head>
 <body>
-    <h2>Delete Your Amudi Account</h2>
-    <p>Permanently delete your Amudi account and associated data.</p>
-    
-    <!-- Option 1: Email & Password Users -->
-    <h3>Delete via Email & Password</h3>
-    <input type="email" id="email" placeholder="Email address">
-    <input type="password" id="password" placeholder="Password">
-    <button onclick="deleteEmailAccount()">Delete Email Account</button>
+<main><article>
+  <h1>Delete your Amudi account and cloud data</h1>
+  <p>Use the sign-in method already linked to your Amudi account. We verify your identity, remove the account’s Amudi cloud records, then delete its Firebase sign-in account.</p>
+  <p class="notice"><strong>This cannot be undone.</strong> It deletes synchronized reading data and saved Amudi book-ownership records. Books, notes, and settings stored only on this device are not affected; delete those separately in the app under Settings → Privacy and your data.</p>
 
-    <hr>
+  <h2>Email and password</h2>
+  <form id="email-delete-form" autocomplete="on">
+    <label for="email">Amudi account email</label>
+    <input id="email" name="username" type="email" autocomplete="username" required>
+    <label for="password">Current password</label>
+    <input id="password" name="password" type="password" autocomplete="current-password" required>
+    <button id="email-delete-button" type="submit">Verify and delete account</button>
+  </form>
 
-    <!-- Option 2: Google Sign-In (OAuth) Users -->
-    <h3>Delete via Google Account</h3>
-    <p>If you signed in using Google, click below to verify and delete your account.</p>
-    <button class="google-btn" onclick="deleteGoogleAccount()">Sign in with Google & Delete</button>
+  <h2>Google sign-in</h2>
+  <p>If you created your Amudi account with Google, verify it with Google to continue.</p>
+  <button id="google-delete-button" class="google" type="button">Verify with Google and delete account</button>
 
-    <p id="status" style="font-weight: bold; margin-top: 20px;"></p>
+  <p id="status" role="status" aria-live="polite"></p>
+  <p>Need help? <a href="mailto:guardian.thisdevice@gmail.com?subject=Amudi%20account%20deletion%20help">Contact Amudi support</a>.</p>
+</article></main>
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+  import {
+    GoogleAuthProvider, browserSessionPersistence, deleteUser, getAdditionalUserInfo,
+    getAuth, setPersistence, signInWithEmailAndPassword, signInWithPopup, signOut,
+  } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+  import {
+    collection, getDocs, getFirestore, writeBatch,
+  } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js";
 
-    <!-- Firebase SDK Scripts -->
-    <script type="module">
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
-        import { getAuth, signInWithEmailAndPassword, signInWithPopup, GoogleAuthProvider, deleteUser } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+  const firebaseConfig = {
+    apiKey: "AIzaSyD2MTzJMz8jA9PVTFfHdRtUifQZjX7NwCs",
+    authDomain: "amudi-74641.firebaseapp.com",
+    projectId: "amudi-74641",
+  };
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+  const database = getFirestore(app);
+  const persistenceReady = setPersistence(auth, browserSessionPersistence);
+  const form = document.getElementById("email-delete-form");
+  const passwordInput = document.getElementById("password");
+  const status = document.getElementById("status");
+  const buttons = [...document.querySelectorAll("button")];
 
-        const firebaseConfig = {
-            apiKey: "AIzaSyD2MTzJMz8jA9PVTFfHdRtUifQZjX7NwCs",
-            authDomain: "amudi-74641.firebaseapp.com",
-            projectId: "amudi-74641"
-        };
+  function setBusy(busy, message) {
+    buttons.forEach((button) => { button.disabled = busy; });
+    status.textContent = message;
+  }
 
-        const app = initializeApp(firebaseConfig);
-        const auth = getAuth(app);
+  function askToDelete(email) {
+    return window.confirm(
+      `Permanently delete the Amudi account${email ? ` for ${email}` : ""}, its synchronized data, and saved Amudi book ownership? This cannot be undone. Device-only data will remain on this device.`,
+    );
+  }
 
-        window.deleteEmailAccount = async function() {
-            const email = document.getElementById('email').value;
-            const password = document.getElementById('password').value;
-            const status = document.getElementById('status');
+  function friendlyError(error, stage) {
+    if (error?.code === "auth/invalid-credential" || error?.code === "auth/wrong-password" || error?.code === "auth/user-not-found") {
+      return "The sign-in details did not match an Amudi account. Check them and try again.";
+    }
+    if (error?.code === "auth/popup-closed-by-user") return "Google sign-in was cancelled; no account data was deleted.";
+    if (stage === "cleanup") return "Amudi could not remove all cloud records, so the sign-in account was left in place. Check your connection and try again, or contact support.";
+    if (stage === "auth-delete") return "The Amudi cloud records were removed, but Firebase could not finish deleting the sign-in account. Sign in again and retry, or contact support.";
+    return "Account deletion could not be completed. No success is being reported; contact support if retrying does not work.";
+  }
 
-            try {
-                status.style.color = "black";
-                status.innerText = "Authenticating...";
-                const userCredential = await signInWithEmailAndPassword(auth, email, password);
-                
-                status.innerText = "Deleting account...";
-                await deleteUser(userCredential.user);
-                
-                status.style.color = "green";
-                status.innerText = "Your account has been successfully and permanently deleted.";
-            } catch (error) {
-                status.style.color = "red";
-                status.innerText = "Error: " + error.message;
-            }
-        };
+  async function deleteCollectionDocuments(userId, collectionName) {
+    const snapshot = await getDocs(collection(database, "users", userId, collectionName));
+    // Keep each request comfortably below Firestore's batch-write limit.
+    for (let offset = 0; offset < snapshot.docs.length; offset += 400) {
+      const group = snapshot.docs.slice(offset, offset + 400);
+      const batch = writeBatch(database);
+      group.forEach((document) => batch.delete(document.ref));
+      await batch.commit();
+    }
+  }
 
-        window.deleteGoogleAccount = async function() {
-            const status = document.getElementById('status');
-            const provider = new GoogleAuthProvider();
+  async function removeAmudiCloudData(userId) {
+    // These are the account-owned Firestore paths used by the current Amudi app.
+    // Keep Authentication intact unless every cloud-data deletion succeeds.
+    await deleteCollectionDocuments(userId, "sync");
+    await deleteCollectionDocuments(userId, "entitlements");
+  }
 
-            try {
-                status.style.color = "black";
-                status.innerText = "Opening Google Sign-In...";
-                const userCredential = await signInWithPopup(auth, provider);
-                
-                status.innerText = "Deleting account...";
-                await deleteUser(userCredential.user);
-                
-                status.style.color = "green";
-                status.innerText = "Your Google-linked account has been successfully and permanently deleted.";
-            } catch (error) {
-                status.style.color = "red";
-                status.innerText = "Error: " + error.message;
-            }
-        };
-    </script>
+  async function finishDeletion(user, newGoogleAccount = false) {
+    if (newGoogleAccount) {
+      // A first-time Google popup can create an empty Firebase account. Remove
+      // only that just-created account instead of implying an old one existed.
+      await deleteUser(user);
+      setBusy(false, "No existing Amudi account was found for this Google profile. The newly created empty sign-in was removed; no other account was touched.");
+      return;
+    }
+
+    let stage = "cleanup";
+    try {
+      setBusy(true, "Removing synchronized Amudi data and book ownership…");
+      await removeAmudiCloudData(user.uid);
+      stage = "auth-delete";
+      setBusy(true, "Cloud data removed. Deleting the sign-in account…");
+      await deleteUser(user);
+      setBusy(false, "Your Amudi account and associated Amudi cloud data have been deleted. Device-only data remains on that device.");
+    } catch (error) {
+      console.error("Amudi account deletion did not complete", { code: error?.code, stage });
+      await signOut(auth).catch(() => {});
+      setBusy(false, friendlyError(error, stage));
+    }
+  }
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    if (!form.reportValidity()) return;
+    const email = document.getElementById("email").value.trim();
+    if (!askToDelete(email)) return;
+    setBusy(true, "Verifying your Amudi account…");
+    try {
+      await persistenceReady;
+      const credential = await signInWithEmailAndPassword(auth, email, passwordInput.value);
+      passwordInput.value = "";
+      await finishDeletion(credential.user);
+    } catch (error) {
+      passwordInput.value = "";
+      console.error("Amudi email deletion sign-in failed", { code: error?.code });
+      setBusy(false, friendlyError(error, "sign-in"));
+    }
+  });
+
+  document.getElementById("google-delete-button").addEventListener("click", async () => {
+    if (!askToDelete("for the Google account you choose")) return;
+    setBusy(true, "Verifying with Google…");
+    try {
+      await persistenceReady;
+      const result = await signInWithPopup(auth, new GoogleAuthProvider());
+      const isNewUser = getAdditionalUserInfo(result)?.isNewUser === true;
+      await finishDeletion(result.user, isNewUser);
+    } catch (error) {
+      console.error("Amudi Google deletion sign-in failed", { code: error?.code });
+      setBusy(false, friendlyError(error, "sign-in"));
+    }
+  });
+
+  window.addEventListener("pagehide", () => { void signOut(auth); }, { once: true });
+</script>
 </body>
 </html>
