@@ -1,0 +1,20 @@
+{
+  "baseBookPath": "Rabbinic/Rambam on Mishnah Kelim",
+  "baseChapter": 5,
+  "translationBookPath": "Rabbinic/Rambam on Mishnah Kelim — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    5,
+    10,
+    1
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 10,
+      "baseTextSha256": "5f4827861c9183d7a663e20e045cdbf82f20eacb9b68382579ddd77809aec336",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "5e1e20c596df031df05ba520ed2270293c9579acf75ec75340ddae757b9acb11"
+    }
+  ]
+}

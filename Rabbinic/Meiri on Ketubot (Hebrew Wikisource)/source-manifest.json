@@ -1,0 +1,278 @@
+{
+  "createdAt": "2026-10-30T05:16:52.612736+00:00",
+  "title": "Meiri on Ketubot — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Ketubot (Hebrew Wikisource)",
+  "bibliographySourceLines": [
+    1749,
+    2276,
+    2496
+  ],
+  "sourceSeriesAuthorEvidence": {
+    "url": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1&oldid=3083958",
+    "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-cfaafcd23d7bef60.json",
+    "sourceSnapshotSha256": "fc395fc563d7fb56aa9cef6f5b719106228673e70bec7b86ddf7434cb553d373",
+    "finding": "The selected series identifies BeitHaBechira as Menachem benShlomo of theMeir family. The Ketubot/BavaBatra/Avot introductions explicitly name the author. No contrary authorship attribution was found in the inspected selected pages; this is not a survey of disputes beyond those source pages."
+  },
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Ketubot, Menachem Meiri (Menachem benShlomo HaMeiri). Typed digital edition and editorial notes by Hebrew Wikisource contributors, CC BY-SA4.0. Individual source revisions, source-page permalinks and contributor histories are recorded in source-manifest.json.",
+  "changes": "Amudi removed only source navigation and parser edit controls, image/style/script tags and parser attributes, and made source/reference links absolute. Ordinary reader chapters contain flat text/HTML strings and are bounded to16000plain characters /32000markup characters per group. Exceptionally long HTML blocks are converted to escaped plain-text chunks at whitespace boundaries; all selected reading text, notes, variants and explicit source gaps remain conserved in source order. No OCR or new translation. Copyrightable Amudi adaptations remain CC BY-SA4.0.",
+  "coverageScope": "PARTIAL: only the typed tractate introduction, the actual first-chapter introduction and the daf2 reading fragment. The first-chapter page contains613characters of authored introduction after navigation removal, so that text is retained. Other dafs/chapters are not supplied. Explicit source omission/editorial notices retained:1.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/כתובות/הקדמה",
+      "canonicalTitle": "מאירי על הש\"ס/כתובות/הקדמה",
+      "requestedAliases": [
+        "מאירי על הש\"ס/כתובות/הקדמה"
+      ],
+      "sourcePageId": 274266,
+      "sourceRevision": {
+        "id": 540373,
+        "timestamp": "2014-04-29T11:31:09Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=540373",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-d5aa012b05caa1af.json",
+      "sourceSnapshotSha256": "52feb08e0573d8d7f9b46f8d56c62b2cd61e0a4f3065450bc1a7d801ad85f0aa",
+      "sourceHtmlSha256": "f28c0385c2e98efed69907cb7d4702bb3c20f3cdd5293d324cba1886c56f1ee8",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-3-1c3ddf56fc11.request.json",
+        "requestSha256": "40f658841dadc8e62aee8e6bad18a6929f291afeba5cf8d23103a96def8050ed",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-3-1c3ddf56fc11.json",
+        "responseSha256": "32a21200a0b414286efa94c1e81c50626daa06bcbc6d2aeaad8ece9960febd3e",
+        "sourceWrapperId": "amudi-meiri-source-1"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 4278,
+      "sourceHeadings": [],
+      "convertedChapters": [
+        1
+      ],
+      "sourceNormalizedTextSha256": "185896b004460f2d9c08e0ec05e3cffc7e4ac2d9d9cbd6290b960de6f51063f0",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/כתובות/פרק א",
+      "canonicalTitle": "מאירי על הש\"ס/כתובות/פרק א",
+      "requestedAliases": [
+        "מאירי על הש\"ס/כתובות/פרק א"
+      ],
+      "sourcePageId": 274276,
+      "sourceRevision": {
+        "id": 522694,
+        "timestamp": "2014-01-14T08:21:40Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=522694",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-f3635f67e6679305.json",
+      "sourceSnapshotSha256": "4fcdbb2f9b11b2f25292f7d178fbe7309207ad12253979af5631a34c1065abce",
+      "sourceHtmlSha256": "bcd6508c77dba1fe9eba4f869960ba7c633d6e41e0f72021ea44c2158216b63a",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.request.json",
+        "requestSha256": "0b8730129e11875efc41bab086490b714532a0bb8c4205cfe1261ac50a151028",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.json",
+        "responseSha256": "582aa19561aad98837929d06336d29960ae76f75b0b7f62c0095aac8aff5dd9c",
+        "sourceWrapperId": "amudi-meiri-source-4"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 620,
+      "sourceHeadings": [],
+      "convertedChapters": [
+        2
+      ],
+      "sourceNormalizedTextSha256": "5a96ff8bc70f6f1e133a4d2dc8c2aff29b4bb5ac062222e00bfe6ad2cdde6faa",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/כתובות/פרק א/דף ב",
+      "canonicalTitle": "מאירי על הש\"ס/כתובות/פרק א/דף ב",
+      "requestedAliases": [
+        "מאירי על הש\"ס/כתובות/פרק א/דף ב"
+      ],
+      "sourcePageId": 274277,
+      "sourceRevision": {
+        "id": 996132,
+        "timestamp": "2020-11-02T09:18:42Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90/%D7%93%D7%A3_%D7%91&oldid=996132",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90/%D7%93%D7%A3_%D7%91&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-a6672c49e6e7a00c.json",
+      "sourceSnapshotSha256": "315b15cece39b79ea749e54ccfdc4fdee61553e10c065aa4322191efe4deba01",
+      "sourceHtmlSha256": "3f1394466900603a5ac7f9a5a900d466773ab7f2aa223660ace296dd70e459e6",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-3-1c3ddf56fc11.request.json",
+        "requestSha256": "40f658841dadc8e62aee8e6bad18a6929f291afeba5cf8d23103a96def8050ed",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-3-1c3ddf56fc11.json",
+        "responseSha256": "32a21200a0b414286efa94c1e81c50626daa06bcbc6d2aeaad8ece9960febd3e",
+        "sourceWrapperId": "amudi-meiri-source-2"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 4597,
+      "sourceHeadings": [],
+      "convertedChapters": [
+        3
+      ],
+      "sourceNormalizedTextSha256": "71a8de027de56df8d97af3cf83989b8be36118b364d83a28b39490b7a0f5c978",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/כתובות/הקדמה",
+      "sourceTitle": "מאירי על הש\"ס/כתובות/הקדמה",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 540373,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=540373",
+      "paragraphs": 8,
+      "plainCharacters": 4277,
+      "outputFile": "Original/1.json",
+      "outputSha256": "d488e94e063602ec9e62e5eaa0cd54a40aff57719d63634b4a1cd7290c52acec",
+      "normalizedTextSha256": "185896b004460f2d9c08e0ec05e3cffc7e4ac2d9d9cbd6290b960de6f51063f0",
+      "payloadBytes": 8148
+    },
+    {
+      "chapter": 2,
+      "title": "מאירי על הש\"ס/כתובות/פרק א",
+      "sourceTitle": "מאירי על הש\"ס/כתובות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 522694,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=522694",
+      "paragraphs": 4,
+      "plainCharacters": 618,
+      "outputFile": "Original/2.json",
+      "outputSha256": "15d375801c4bb1b33744cf020f1b8d4460e2af4764ee7f7bb278016ef2a4d040",
+      "normalizedTextSha256": "5a96ff8bc70f6f1e133a4d2dc8c2aff29b4bb5ac062222e00bfe6ad2cdde6faa",
+      "payloadBytes": 1485
+    },
+    {
+      "chapter": 3,
+      "title": "מאירי על הש\"ס/כתובות/פרק א/דף ב",
+      "sourceTitle": "מאירי על הש\"ס/כתובות/פרק א/דף ב",
+      "sourceIndex": 3,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 996132,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90/%D7%93%D7%A3_%D7%91&oldid=996132",
+      "paragraphs": 6,
+      "plainCharacters": 4596,
+      "outputFile": "Original/3.json",
+      "outputSha256": "a0643f785eb0fb6dc25225b7bab5f4a14cc705ac73ad1b37e8f9d33dc24bc612",
+      "normalizedTextSha256": "71a8de027de56df8d97af3cf83989b8be36118b364d83a28b39490b7a0f5c978",
+      "payloadBytes": 8861
+    }
+  ],
+  "sourceWarnings": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/כתובות/פרק א/דף ב",
+      "notice": "עדיין לא גמור",
+      "context": "ישראל שנתקדשה פחותה מבת שלש שנים:\n\n\n\nהעריכה בעיצומה\n\nשימו לב! דף זה (או קטע זה) עדיין לא גמור והוא לא מציג את היצירה בשלמותה.דף זה (או קטע זה) נמצא כעת בשלבי הקלדה. אם יש באפשרותכם להמשיך את הה",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90/%D7%93%D7%A3_%D7%91&oldid=996132",
+      "scope": "Source omission/editorial notice retained; no independent whole-historical-work collation claim."
+    }
+  ],
+  "longSourceBlocksConvertedToBoundedPlainStrings": 0,
+  "verification": {
+    "currentPrimaryCC4LicenseVerified": true,
+    "beforeAfterSourceRevisionStable": true,
+    "canonicalPageIdsUnique": true,
+    "selectedSourceOrderAndTextConserved": true,
+    "sourceNormalizedTextSha256": "aa2035f273afb6f91e98cfa4fb409b556d98ef09c7e6589a38b7576a97b922a4",
+    "retainedNormalizedTextSha256": "aa2035f273afb6f91e98cfa4fb409b556d98ef09c7e6589a38b7576a97b922a4",
+    "chapterParagraphsFlatStrings": true,
+    "chapterPayloadsBounded": true,
+    "noOcrPerformed": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false,
+    "existingBooksOrCatalogsChanged": false
+  }
+}

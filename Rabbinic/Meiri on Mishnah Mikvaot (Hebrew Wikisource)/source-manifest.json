@@ -1,0 +1,964 @@
+{
+  "createdAt": "2026-10-30T05:16:53.889122+00:00",
+  "title": "Meiri on Mishnah Mikvaot — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Mishnah Mikvaot (Hebrew Wikisource)",
+  "bibliographySourceLines": [
+    1749,
+    2276,
+    2496
+  ],
+  "sourceSeriesAuthorEvidence": {
+    "url": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1&oldid=3083958",
+    "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-cfaafcd23d7bef60.json",
+    "sourceSnapshotSha256": "fc395fc563d7fb56aa9cef6f5b719106228673e70bec7b86ddf7434cb553d373",
+    "finding": "The selected series identifies BeitHaBechira as Menachem benShlomo of theMeir family. The Ketubot/BavaBatra/Avot introductions explicitly name the author. No contrary authorship attribution was found in the inspected selected pages; this is not a survey of disputes beyond those source pages."
+  },
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Mishnah Mikvaot, Menachem Meiri (Menachem benShlomo HaMeiri). Typed digital edition and editorial notes by Hebrew Wikisource contributors, CC BY-SA4.0. Individual source revisions, source-page permalinks and contributor histories are recorded in source-manifest.json.",
+  "changes": "Amudi removed only source navigation and parser edit controls, image/style/script tags and parser attributes, and made source/reference links absolute. Ordinary reader chapters contain flat text/HTML strings and are bounded to16000plain characters /32000markup characters per group. Exceptionally long HTML blocks are converted to escaped plain-text chunks at whitespace boundaries; all selected reading text, notes, variants and explicit source gaps remain conserved in source order. No OCR or new translation. Copyrightable Amudi adaptations remain CC BY-SA4.0.",
+  "coverageScope": "All ten chapter reading pages of the selected typed Mishnah Mikvaot commentary. Whole-source retention, not an independent collation of every printed recension.",
+  "partialWork": false,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק א",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק א",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק א"
+      ],
+      "sourcePageId": 1739034,
+      "sourceRevision": {
+        "id": 2999811,
+        "timestamp": "2026-03-22T23:55:54Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2999811",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-6cff0a6805bfdb8d.json",
+      "sourceSnapshotSha256": "ad1597aa4406c5d6ec62c550ec98755694a525b480997e5738e3d7acddbcebb1",
+      "sourceHtmlSha256": "d2537a142faccbb0c99ce789117f128f9e2cf9f42792e0e386040dae7b1e5124",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.request.json",
+        "requestSha256": "08de55d711cb4f9e9136d36db47b5ad602cca915a9dfd3cd1cb35c8e06258f01",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.json",
+        "responseSha256": "120693be6d01dc7465f9cac133b66536ac7df32a6fe30d5967e649392dc45500",
+        "sourceWrapperId": "amudi-meiri-source-1"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 17100,
+      "sourceHeadings": [
+        "פתיחה",
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה",
+        "משנה ו",
+        "משנה ז",
+        "משנה ח"
+      ],
+      "convertedChapters": [
+        1,
+        2
+      ],
+      "sourceNormalizedTextSha256": "45fa3acc22b28b95d8aa8800d6e0133d6ca508a308b42b01ae0b94993e50a48b",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ב",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ב",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ב"
+      ],
+      "sourcePageId": 1739035,
+      "sourceRevision": {
+        "id": 2999812,
+        "timestamp": "2026-03-22T23:58:58Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2999812",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-68fdf8bdfd38aab9.json",
+      "sourceSnapshotSha256": "91e5415d4555d6daf4f043fbc45c7e6a989cec01f35370667b99459da48fa401",
+      "sourceHtmlSha256": "f20e3d5bf357c46964a884621048a3bd3bc56af8d1f9b9b51721cedfef67b371",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.request.json",
+        "requestSha256": "08de55d711cb4f9e9136d36db47b5ad602cca915a9dfd3cd1cb35c8e06258f01",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.json",
+        "responseSha256": "120693be6d01dc7465f9cac133b66536ac7df32a6fe30d5967e649392dc45500",
+        "sourceWrapperId": "amudi-meiri-source-2"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 16827,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה",
+        "משנה ו",
+        "משנה ז",
+        "משנה ח",
+        "משנה ט",
+        "משנה י"
+      ],
+      "convertedChapters": [
+        3,
+        4
+      ],
+      "sourceNormalizedTextSha256": "da66df21a2c99a6c3be131278352c1130a553a175e3fe199178dd5806268a1ba",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ג",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ג",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ג"
+      ],
+      "sourcePageId": 1739036,
+      "sourceRevision": {
+        "id": 2999813,
+        "timestamp": "2026-03-23T00:00:34Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2999813",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-9b9713a9fbdacaac.json",
+      "sourceSnapshotSha256": "c97e58b2c1ce3544dbcf822e0ea9780eb0b3c69aaa96033757bbd93038a001bf",
+      "sourceHtmlSha256": "6de003b6f877b30f4c932e985ecb10d97b765d691d8f03de76511e90869e7f19",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.request.json",
+        "requestSha256": "08de55d711cb4f9e9136d36db47b5ad602cca915a9dfd3cd1cb35c8e06258f01",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.json",
+        "responseSha256": "120693be6d01dc7465f9cac133b66536ac7df32a6fe30d5967e649392dc45500",
+        "sourceWrapperId": "amudi-meiri-source-3"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 9642,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד"
+      ],
+      "convertedChapters": [
+        5
+      ],
+      "sourceNormalizedTextSha256": "7d8e256119b74b5ecdc5d394152c00f96991a1153e8ec7cd9da72e8ee3252975",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ד",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ד",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ד"
+      ],
+      "sourcePageId": 1739037,
+      "sourceRevision": {
+        "id": 2999814,
+        "timestamp": "2026-03-23T00:02:08Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=2999814",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-e55a0dca8c67da05.json",
+      "sourceSnapshotSha256": "2c0c68ac2f8729e045e332b9b1683e7f6b857745f3da99f3ddafcee422dd35bc",
+      "sourceHtmlSha256": "3a23de4c5997cdcb11ae78d7c162b64c6bc934b69578f60f7908aadc27f8928c",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.request.json",
+        "requestSha256": "08de55d711cb4f9e9136d36db47b5ad602cca915a9dfd3cd1cb35c8e06258f01",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-7-a11c5bc18ae0.json",
+        "responseSha256": "120693be6d01dc7465f9cac133b66536ac7df32a6fe30d5967e649392dc45500",
+        "sourceWrapperId": "amudi-meiri-source-4"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 13316,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה"
+      ],
+      "convertedChapters": [
+        6
+      ],
+      "sourceNormalizedTextSha256": "5f4c1e2ea8fa9a319b8d8b4bb7246d4f5f4615ae4be8ce72843d26e73d6611a6",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ה",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ה",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ה"
+      ],
+      "sourcePageId": 1739038,
+      "sourceRevision": {
+        "id": 2999815,
+        "timestamp": "2026-03-23T00:03:16Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2999815",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-78dbdeac6f6c2c89.json",
+      "sourceSnapshotSha256": "584ef171baf0a5b71117b5b6717f1d543b57cdb1c9c5c233fbe063bbbaa8b0f5",
+      "sourceHtmlSha256": "903bb27784abddaae05eae91ea75a9523ccd12e25d1aca106f103653168c33f9",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.request.json",
+        "requestSha256": "c81fc101afbd0a5d90f2a6c939409e82e3dcc1b21feac093d4650ebb11d8e9f7",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.json",
+        "responseSha256": "4a6dc2d7c3f2a196c70802f48e1b2a351d3e9a9da58a564152eb359ce0f445d4",
+        "sourceWrapperId": "amudi-meiri-source-0"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 16507,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ה",
+        "משנה ד",
+        "משנה ו"
+      ],
+      "convertedChapters": [
+        7,
+        8
+      ],
+      "sourceNormalizedTextSha256": "65bda85ad6fc3670fb84a74bf12b8a6aee9819e168a2885eaf496bd70047d1d5",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ו",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ו",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ו"
+      ],
+      "sourcePageId": 1739039,
+      "sourceRevision": {
+        "id": 2999816,
+        "timestamp": "2026-03-23T00:04:16Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2999816",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-3e5a01cab006f722.json",
+      "sourceSnapshotSha256": "2b33dc6352caa7ad11c7b069edd7a49326fa8a46138d1bdaf432e717cfb08dca",
+      "sourceHtmlSha256": "51d0a986ab7a53e08a39a34859a00fd72ce2e93ba056b5f20f94d11ed4d1e6a4",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.request.json",
+        "requestSha256": "c81fc101afbd0a5d90f2a6c939409e82e3dcc1b21feac093d4650ebb11d8e9f7",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.json",
+        "responseSha256": "4a6dc2d7c3f2a196c70802f48e1b2a351d3e9a9da58a564152eb359ce0f445d4",
+        "sourceWrapperId": "amudi-meiri-source-1"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 16735,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה",
+        "משנה ו",
+        "משנה ז",
+        "משנה ח",
+        "משנה ט",
+        "משנה י",
+        "משנה יא"
+      ],
+      "convertedChapters": [
+        9,
+        10
+      ],
+      "sourceNormalizedTextSha256": "17f1011a96a21a0c8e9709b2231cfad8c5093eba4e04922a1ffe79a381aa7204",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ז",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ז",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ז"
+      ],
+      "sourcePageId": 1739040,
+      "sourceRevision": {
+        "id": 2999817,
+        "timestamp": "2026-03-23T00:05:07Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2999817",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-dfcb0bdbc2475fe3.json",
+      "sourceSnapshotSha256": "914a91056922c680106479361030f1e2ac7b4ed37641faa08740e17c1cfa59b3",
+      "sourceHtmlSha256": "c71c4bc18f58a83299e9dd524cb001d6c31fbb6c72365cff1328a661ad0c1a45",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.request.json",
+        "requestSha256": "c81fc101afbd0a5d90f2a6c939409e82e3dcc1b21feac093d4650ebb11d8e9f7",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.json",
+        "responseSha256": "4a6dc2d7c3f2a196c70802f48e1b2a351d3e9a9da58a564152eb359ce0f445d4",
+        "sourceWrapperId": "amudi-meiri-source-2"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 14513,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה",
+        "משנה ו",
+        "משנה ז"
+      ],
+      "convertedChapters": [
+        11
+      ],
+      "sourceNormalizedTextSha256": "4779295019e59c65fb6e3559cd52f9d831da23830092b864a8c34810494cde35",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ח",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ח",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ח"
+      ],
+      "sourcePageId": 1739041,
+      "sourceRevision": {
+        "id": 2999819,
+        "timestamp": "2026-03-23T00:06:06Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2999819",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-07f4df651bf5327f.json",
+      "sourceSnapshotSha256": "dcc4b17191ca78ca07af660f778c5531d3d90a6ad3185221f9aaec12e4708a38",
+      "sourceHtmlSha256": "d01d91d1210fd2ccc66d1a23739f307ae50ef2bf38b8da31720e54b3137459fd",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.request.json",
+        "requestSha256": "c81fc101afbd0a5d90f2a6c939409e82e3dcc1b21feac093d4650ebb11d8e9f7",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.json",
+        "responseSha256": "4a6dc2d7c3f2a196c70802f48e1b2a351d3e9a9da58a564152eb359ce0f445d4",
+        "sourceWrapperId": "amudi-meiri-source-3"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 9920,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה"
+      ],
+      "convertedChapters": [
+        12
+      ],
+      "sourceNormalizedTextSha256": "419e3b0f6002957ff325686c1d7ab6565b703599e7b8fa0a12dea1dea0a74439",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ט",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ט",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק ט"
+      ],
+      "sourcePageId": 1739042,
+      "sourceRevision": {
+        "id": 2999820,
+        "timestamp": "2026-03-23T00:07:09Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&oldid=2999820",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-139e041b1d9efea5.json",
+      "sourceSnapshotSha256": "58718bf8f3f54ae38023b9cdfe9dbb16bd9693197ac682c7fcc7e41293e83ac1",
+      "sourceHtmlSha256": "372c4e0fd8685f3979e9c7d08604ca9e8af91cfc9f0a7cc95bfbde790a2ab211",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.request.json",
+        "requestSha256": "c81fc101afbd0a5d90f2a6c939409e82e3dcc1b21feac093d4650ebb11d8e9f7",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-8-f246a3c5f9e5.json",
+        "responseSha256": "4a6dc2d7c3f2a196c70802f48e1b2a351d3e9a9da58a564152eb359ce0f445d4",
+        "sourceWrapperId": "amudi-meiri-source-4"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 15438,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה",
+        "משנה ו",
+        "משנה ז"
+      ],
+      "convertedChapters": [
+        13
+      ],
+      "sourceNormalizedTextSha256": "9467dc9b13151c569b6cd0753e638f21db7587b1538b1b51c27767bdf4a76ffd",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק י",
+      "canonicalTitle": "מאירי על הש\"ס/משנה מקוואות/פרק י",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה מקוואות/פרק י"
+      ],
+      "sourcePageId": 1739043,
+      "sourceRevision": {
+        "id": 2999822,
+        "timestamp": "2026-03-23T00:17:25Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%99&oldid=2999822",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%99&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-a13a4110f0656108.json",
+      "sourceSnapshotSha256": "29924a028d4df5cff4762b0da876e054f46bf2f158a2faf6bd22e66426ba62df",
+      "sourceHtmlSha256": "665f479aedf130e7309737df5531112a9edd55e4a1d9466dd962ef043ec038c7",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.request.json",
+        "requestSha256": "b2cf061a9768e5e09d9d9e98d72fd0c047f25ed24242fbc26a11cb8298586eb8",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.json",
+        "responseSha256": "9a528cb64540457301242394d8d04b2566825e06df2894b952d3ad660aa9a77c",
+        "sourceWrapperId": "amudi-meiri-source-0"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 17976,
+      "sourceHeadings": [
+        "משנה א",
+        "משנה ב",
+        "משנה ג",
+        "משנה ד",
+        "משנה ה",
+        "משנה ו",
+        "משנה ז",
+        "משנה ח"
+      ],
+      "convertedChapters": [
+        14,
+        15
+      ],
+      "sourceNormalizedTextSha256": "307e3c1d82e1b9bd1a7a34eec1fd18727ddf9c4de8dfdd8005e6f25ae3f453ff",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק א · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999811,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2999811",
+      "paragraphs": 20,
+      "plainCharacters": 13369,
+      "outputFile": "Original/1.json",
+      "outputSha256": "644c315444c8c8ebc6d703aa13e4bb08cac6ab017151036e3b8a830fa81b7456",
+      "normalizedTextSha256": "efed3ce13a4b24a7c1685afdf6714fa863780106ebbf13c3799394784ec0fbaf",
+      "payloadBytes": 25010
+    },
+    {
+      "chapter": 2,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק א · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2999811,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2999811",
+      "paragraphs": 2,
+      "plainCharacters": 3730,
+      "outputFile": "Original/2.json",
+      "outputSha256": "520762330ef2285ac95b531e41930a366e34d68453f76737e0e938b50b5e58b9",
+      "normalizedTextSha256": "012506ad51831057027bc3f86fd65799c98bb427aea5f33aa24a41f221a10890",
+      "payloadBytes": 6760
+    },
+    {
+      "chapter": 3,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ב · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ב",
+      "sourceIndex": 2,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999812,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2999812",
+      "paragraphs": 23,
+      "plainCharacters": 14246,
+      "outputFile": "Original/3.json",
+      "outputSha256": "0e2e689e06886aa0a1b9dbbebd423f6c7499064378c03fcee051cf2f3b879031",
+      "normalizedTextSha256": "b374bbf1cb90939a7e84844444198c1a02e9b3713c27fd5bec2fe6047339edf8",
+      "payloadBytes": 26669
+    },
+    {
+      "chapter": 4,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ב · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ב",
+      "sourceIndex": 2,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2999812,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2999812",
+      "paragraphs": 2,
+      "plainCharacters": 2580,
+      "outputFile": "Original/4.json",
+      "outputSha256": "e70c38aeb2d406c542bff756130c8c6697101dff342a48de25877fbbf31b9f4c",
+      "normalizedTextSha256": "b5f413272c6fb68b6df781dbc1d6183405cf553691c40dce82ce9ca34aa0f027",
+      "payloadBytes": 4683
+    },
+    {
+      "chapter": 5,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ג",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999813,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2999813",
+      "paragraphs": 12,
+      "plainCharacters": 9641,
+      "outputFile": "Original/5.json",
+      "outputSha256": "0e1dc6d8aa8db930565a92626bd763d3eca35cb7c04c221d43ca2c9413330b11",
+      "normalizedTextSha256": "7d8e256119b74b5ecdc5d394152c00f96991a1153e8ec7cd9da72e8ee3252975",
+      "payloadBytes": 17828
+    },
+    {
+      "chapter": 6,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ד",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ד",
+      "sourceIndex": 4,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999814,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=2999814",
+      "paragraphs": 13,
+      "plainCharacters": 13315,
+      "outputFile": "Original/6.json",
+      "outputSha256": "969abff858b982a3a9937e3c15346b1f6e3a49f104a8875e4cebd4b8377312f5",
+      "normalizedTextSha256": "5f4c1e2ea8fa9a319b8d8b4bb7246d4f5f4615ae4be8ce72843d26e73d6611a6",
+      "payloadBytes": 24456
+    },
+    {
+      "chapter": 7,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ה · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ה",
+      "sourceIndex": 5,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999815,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2999815",
+      "paragraphs": 14,
+      "plainCharacters": 11404,
+      "outputFile": "Original/7.json",
+      "outputSha256": "12e17193055ff2dfce875486dd5ad12251ab57e4df276d728fab9b1b3bb8ca0f",
+      "normalizedTextSha256": "35e2080680df65522c29483122f099d6ef433f6b5126813e455e18ea39a3cf90",
+      "payloadBytes": 21192
+    },
+    {
+      "chapter": 8,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ה · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ה",
+      "sourceIndex": 5,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2999815,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2999815",
+      "paragraphs": 2,
+      "plainCharacters": 5102,
+      "outputFile": "Original/8.json",
+      "outputSha256": "88b6c852dbe9edea18c26097332cc7871bd5f2fb69c83e52be516fc1dfb81a58",
+      "normalizedTextSha256": "73bb7d42e36fbc5e49cc524e6809a1aa1ef46434129125ddad558d27cfbaf725",
+      "payloadBytes": 9214
+    },
+    {
+      "chapter": 9,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ו · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ו",
+      "sourceIndex": 6,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999816,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2999816",
+      "paragraphs": 22,
+      "plainCharacters": 14827,
+      "outputFile": "Original/9.json",
+      "outputSha256": "d19d61f30005a53c2420a88dd2b718b8e5daf5c361bd58d0268846619c66b529",
+      "normalizedTextSha256": "62da76613570aafd99fc6776ec9e9719a9d09cd47185d4ae2e44a9d695c46e86",
+      "payloadBytes": 27894
+    },
+    {
+      "chapter": 10,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ו · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ו",
+      "sourceIndex": 6,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2999816,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2999816",
+      "paragraphs": 2,
+      "plainCharacters": 1907,
+      "outputFile": "Original/10.json",
+      "outputSha256": "dd609857f327702ff00a8fbef6db44f9624b971dc4a36590bfae1b63b7f606f8",
+      "normalizedTextSha256": "70ae1ad11e2f53cd711257ae15b812f771d36005f0b37815a444290ce2edcfea",
+      "payloadBytes": 3497
+    },
+    {
+      "chapter": 11,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ז",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ז",
+      "sourceIndex": 7,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999817,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2999817",
+      "paragraphs": 16,
+      "plainCharacters": 14512,
+      "outputFile": "Original/11.json",
+      "outputSha256": "aa0d7f6d5b3f600e456745c1955fffcb08cfb20aadf892b298fd272c18036fb5",
+      "normalizedTextSha256": "4779295019e59c65fb6e3559cd52f9d831da23830092b864a8c34810494cde35",
+      "payloadBytes": 26863
+    },
+    {
+      "chapter": 12,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ח",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ח",
+      "sourceIndex": 8,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999819,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2999819",
+      "paragraphs": 16,
+      "plainCharacters": 9919,
+      "outputFile": "Original/12.json",
+      "outputSha256": "579a5d7c0cadecbb59f155353b9d9dc9b902d0ce588bb5835732fa807ec99908",
+      "normalizedTextSha256": "419e3b0f6002957ff325686c1d7ab6565b703599e7b8fa0a12dea1dea0a74439",
+      "payloadBytes": 18520
+    },
+    {
+      "chapter": 13,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק ט",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק ט",
+      "sourceIndex": 9,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999820,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&oldid=2999820",
+      "paragraphs": 20,
+      "plainCharacters": 15437,
+      "outputFile": "Original/13.json",
+      "outputSha256": "765a924d68012e4c2c8b61e5f6310b641928f0fca77ed32597cc29f051062527",
+      "normalizedTextSha256": "9467dc9b13151c569b6cd0753e638f21db7587b1538b1b51c27767bdf4a76ffd",
+      "payloadBytes": 28607
+    },
+    {
+      "chapter": 14,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק י · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק י",
+      "sourceIndex": 10,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2999822,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%99&oldid=2999822",
+      "paragraphs": 20,
+      "plainCharacters": 12903,
+      "outputFile": "Original/14.json",
+      "outputSha256": "a3bb555124eff2b7c6caa8030416a78ed39da604d9c97dca891e605a6793cc7e",
+      "normalizedTextSha256": "9488a040f7a02391d6e409b1f223d763bc5bb5cb230d0ed80c092afc124f7aa0",
+      "payloadBytes": 24283
+    },
+    {
+      "chapter": 15,
+      "title": "מאירי על הש\"ס/משנה מקוואות/פרק י · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/משנה מקוואות/פרק י",
+      "sourceIndex": 10,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2999822,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%9E%D7%A7%D7%95%D7%95%D7%90%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%99&oldid=2999822",
+      "paragraphs": 2,
+      "plainCharacters": 5072,
+      "outputFile": "Original/15.json",
+      "outputSha256": "3156f76ce1eb8ce391b661141f3d48b378dfce5059cccb63e2903570e8a6cdef",
+      "normalizedTextSha256": "98a09a9d9fc7d06c1dc6997ca419c65120e8d9e4f1060487ce932b1d5ac70e9d",
+      "payloadBytes": 9166
+    }
+  ],
+  "sourceWarnings": [],
+  "longSourceBlocksConvertedToBoundedPlainStrings": 0,
+  "verification": {
+    "currentPrimaryCC4LicenseVerified": true,
+    "beforeAfterSourceRevisionStable": true,
+    "canonicalPageIdsUnique": true,
+    "selectedSourceOrderAndTextConserved": true,
+    "sourceNormalizedTextSha256": "83a932b106418ca89d674c12d56d229b503d900fd0103832e30093e5d19a1208",
+    "retainedNormalizedTextSha256": "83a932b106418ca89d674c12d56d229b503d900fd0103832e30093e5d19a1208",
+    "chapterParagraphsFlatStrings": true,
+    "chapterPayloadsBounded": true,
+    "noOcrPerformed": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false,
+    "existingBooksOrCatalogsChanged": false
+  }
+}

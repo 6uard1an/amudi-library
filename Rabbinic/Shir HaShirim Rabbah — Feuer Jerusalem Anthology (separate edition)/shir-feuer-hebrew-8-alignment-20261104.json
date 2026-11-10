@@ -1,0 +1,16 @@
+{
+  "baseBookPath": "Rabbinic/Shir HaShirim Rabbah",
+  "baseChapter": 8,
+  "translationBookPath": "Rabbinic/Shir HaShirim Rabbah — Feuer Jerusalem Anthology (separate edition)",
+  "method": "English source numbering differs from Hebrew: matched the persecution generation, jealousy for Zion and fire/water passage within Hebrew paragraph. English excerpt omits prior Hebrew material.",
+  "pairs": [
+    {
+      "basePosition": 7,
+      "baseTextSha256": "28cd325d66032dd8bbd4a5b4a9ca332989831c4dd89db7e99bdf00e901437217",
+      "translationChapter": 7,
+      "translationPosition": 1,
+      "translationTextSha256": "27adf9d5bff74e535107c3b73be1f475c6ac8c503c204ab199fc0c822d319b03",
+      "partialTranslation": true
+    }
+  ]
+}

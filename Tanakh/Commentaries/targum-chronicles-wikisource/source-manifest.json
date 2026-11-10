@@ -1,0 +1,365 @@
+{
+  "schemaVersion": 1,
+  "title": "Targum to Chronicles — Wikisource edition",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "David Wiscot identified on source page as provider of typed and vocalized text; Hebrew Wikisource contributors.",
+  "changes": "Extracted source verse sections and removed numbering/category tags; normalized whitespace. Recorded local alignment corrections and source wording differences. No OCR or translation.",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "shareAlikeRequired": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY-SA 4.0"
+  },
+  "pages": [
+    {
+      "title": "תרגום דברי הימים",
+      "revision": 728465,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=728465",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%A8%D7%92%D7%95%D7%9D%20%D7%93%D7%91%D7%A8%D7%99%20%D7%94%D7%99%D7%9E%D7%99%D7%9D&action=history",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceTextSha256": "0ea8a9c80ae3e8e6af00fac7bea1f2442aae45c8eeddf49ad3eb63b7b5ce96ea"
+    }
+  ],
+  "englishSource": {
+    "title": "Sefaria Community Translation",
+    "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Targum/Targum%20Jerusalem/Targum%20of%20I%20Chronicles/English/Sefaria%20Community%20Translation.json",
+    "sourceRawSha256": "11ef6a8062c87807aa0801e97927e264c6738dcf888e860de46c98e4184c6386",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "coverage": "50 verses in I Chronicles only; independent source edition, not a translation of every reading in the Wikisource edition."
+  },
+  "sourceAlignmentNotes": [
+    {
+      "book": "I Chronicles",
+      "chapter": 9,
+      "verse": 39,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 5,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 6,
+      "sourceComparison": "Wikisource wording differs from indexed local verse",
+      "alignmentNote": "Source heading gives verse 6; its first word identifies the corresponding biblical verse, while the inline number is absent."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 7,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 8,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 9,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 10,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 11,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 12,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 13,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 14,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 15,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 16,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 17,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 18,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 19,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 20,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 21,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 22,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 23,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 24,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 25,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 26,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 27,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 28,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 29,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 30,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 31,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 32,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 33,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 34,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 35,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 36,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 37,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 38,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 39,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 40,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 12,
+      "verse": 41,
+      "sourceComparison": "Identical to indexed local verse",
+      "alignmentNote": "Heading matches indexed verse; a run of visible numeric labels is one lower in this source."
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 28,
+      "verse": 18,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "I Chronicles",
+      "chapter": 29,
+      "verse": 30,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "II Chronicles",
+      "chapter": 13,
+      "verse": 23,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "II Chronicles",
+      "chapter": 15,
+      "verse": 16,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "II Chronicles",
+      "chapter": 27,
+      "verse": 9,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "II Chronicles",
+      "chapter": 28,
+      "verse": 27,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "II Chronicles",
+      "chapter": 29,
+      "verse": 25,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    },
+    {
+      "book": "II Chronicles",
+      "chapter": 34,
+      "verse": 3,
+      "sourceComparison": "Wikisource wording differs from indexed local verse"
+    }
+  ],
+  "summary": [
+    {
+      "book": "I Chronicles",
+      "passages": 943,
+      "englishPassages": 50,
+      "sourceReadingDifferences": 5,
+      "correctedLabels": 36
+    },
+    {
+      "book": "II Chronicles",
+      "passages": 822,
+      "englishPassages": 0,
+      "sourceReadingDifferences": 6,
+      "correctedLabels": 0
+    }
+  ]
+}

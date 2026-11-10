@@ -1,0 +1,89 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 27,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "1acf8132dc40e78d6a7e0da52664126ddc71bf06e4be04a13574afb92d2cfcb5",
+      "translationChapter": 29,
+      "translationPosition": 1,
+      "translationTextSha256": "8c057349b28bf4f281005401a7a133b321dada12a400d0bd1633c0a5e2321cf1",
+      "followingBaseTextSha256s": [
+        "969bc876095425f83eed4b4ad156818dd39bdc36d2b37953733e67bbc1d064af",
+        "745b61542b88fef1999b40d2f70ac2469c522d637401a2578e0032766ccd3014",
+        "d8597f52ff66bbed760943e75907357e38d44c89ebca24904176091780b4abf7",
+        "db2eb8805672806c9c2ebc60c619195cad4719f9415722ac969fd8c853ac33a7",
+        "e21409bf8f346fc176afc5208e4dd4fd4b7315011507f29c3135814a5ef1c8cb"
+      ]
+    },
+    {
+      "basePosition": 8,
+      "baseTextSha256": "5050488ecf137ad56e0889217b069f1a6ed8a5944a802573041e0df150e68123",
+      "translationChapter": 29,
+      "translationPosition": 2,
+      "translationTextSha256": "b5c7b47014b059452726d1772ea30cbb425fc5e189f93356fe9fece9db24473e"
+    },
+    {
+      "basePosition": 9,
+      "baseTextSha256": "fe616439ebbbb3add68f2b4856f7e3ba1eeffc10eed05f98f8b3bd54d58c8ddc",
+      "translationChapter": 29,
+      "translationPosition": 3,
+      "translationTextSha256": "4f8dfd192e9b5f309a82cf2b5c35ff73545f5c07940aeb818005a6d256907534",
+      "followingBaseTextSha256s": [
+        "c586d99e8b5e9d10041ffe4a3d3ede3417153fecf74f2e422700986d08820353",
+        "cd976349ffe1b6132f5855c6c3a885c0c06558da520cbc9977a50d65c88a2926",
+        "745b61542b88fef1999b40d2f70ac2469c522d637401a2578e0032766ccd3014",
+        "d8597f52ff66bbed760943e75907357e38d44c89ebca24904176091780b4abf7",
+        "7d1e22b48af6c61c4b9ac6cca9e460622c1136583277764a8558a014070dff2e",
+        "488da900777fe839de02a5a3d720413a8c3e48c4d9a3851d5e1d5d8419e79473"
+      ]
+    },
+    {
+      "basePosition": 19,
+      "baseTextSha256": "735697027eed9341894f2dc7c7d1b806dbeef8f1393929705d78600b00fdc2a9",
+      "translationChapter": 29,
+      "translationPosition": 5,
+      "translationTextSha256": "ce55b005af3ffe9ec7ad2869dd044e59711105a0236f3fbdeb867863f41526f3",
+      "followingBaseTextSha256s": [
+        "eaf03ca431178fd34f695dbca97f4d0a3f78c2bade8bdeb81db86715027e3d41"
+      ]
+    },
+    {
+      "basePosition": 21,
+      "baseTextSha256": "fc1a52aa47b5e345edd24e2cdfacc242652242a3f12ca957e4fc7ae71d2254db",
+      "translationChapter": 29,
+      "translationPosition": 6,
+      "translationTextSha256": "5d76ccf31f270b668f7473e1ccdeb2b14b0696974f26af2a4a6f265540788396",
+      "followingBaseTextSha256s": [
+        "f277bb762cf757ea0f32e721af4db5761e00ffac6eb0ee895435f61ded50c4c4",
+        "e0d37460d19265633b7a0c2da24cbd5f26af12d9b398d5f12cd723c415aec0f3"
+      ]
+    },
+    {
+      "basePosition": 24,
+      "baseTextSha256": "464ad790fbc44662fd5ffb5271cd583e5982fed0471a5a4ec7b363612f2292b8",
+      "translationChapter": 29,
+      "translationPosition": 7,
+      "translationTextSha256": "8eefd91dd9e988a4b2209c74a4cf73ee8d9aadaa30b2bd7918198568076ea667",
+      "followingBaseTextSha256s": [
+        "bcc3fcd95a686affc8e32c355a34607424f7fdffb077cdc2019d6cbac86fa174"
+      ]
+    },
+    {
+      "basePosition": 30,
+      "baseTextSha256": "c7b1920161ab2cfb91fba801b99514f0d23775c05351512e586ee9b24ff37120",
+      "translationChapter": 29,
+      "translationPosition": 9,
+      "translationTextSha256": "09f0f4b7fcd8dd96fc1d34dc9b12a82fe87a68198227218ae0ea1d8f1c4f041a",
+      "followingBaseTextSha256s": [
+        "b8fd47b483678756697e08d2368ca79152731a8382cf3fb1d5a56ba7a7abebf8",
+        "2319de48134663a74ffaf407d444a3f016077d3fb97986eac71d3dcebf120ca9"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1850 @@
+{
+  "sourceIndexRevisionUrl": "https://he.wikisource.org/w/index.php?oldid=2747729",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Ruth Rabbah; Hebrew Wikisource contributors. Exact source revisions and contributor-history links are recorded for each passage in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Amudi removed site navigation, edit controls, separate commentary panels and parser/style markup; retained the typed source body in source passage order and added whitespace at block boundaries. Three positions explicitly reported empty in the source retain empty slots. Original source wikitext is included. No OCR or new translation performed by Amudi. Copyrightable adaptations remain under CC BY-SA 4.0.",
+  "sourceTermsUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+  "sourceRightsInfo": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+    "text": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "coverageStatus": "All 91 passage pages indexed by this Wikisource edition acquired: 88 contain reading text, and 4:6–8 explicitly state that the printed numbering has no text there. Eight parashot plus the seven-part introduction (reading chapter 9). Completeness is against this source index, not every historical edition.",
+  "pages": [
+    {
+      "title": "רות רבה פתיחתא א",
+      "revisionId": 298103,
+      "historyCount": 3,
+      "firstDate": "2009-04-23T06:43:59Z",
+      "lastDate": "2009-05-19T13:58:00Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1036a3f7aed2bca4-parsed.json",
+      "parsedSha256": "2989127703fefb2054a1dadba00ff53e66d24c20bc9e4ff28ebd23919f07b56f",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1036a3f7aed2bca4-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=298103",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%20%D7%90&action=history",
+      "chapter": 9,
+      "position": 1,
+      "textSha256": "7da7cc5b114f886e11bfa52adc559fe746da9579437838ef839b8a5238783c87",
+      "warning": "",
+      "storedTextSha256": "7da7cc5b114f886e11bfa52adc559fe746da9579437838ef839b8a5238783c87"
+    },
+    {
+      "title": "רות רבה פתיחתא ב",
+      "revisionId": 721139,
+      "historyCount": 2,
+      "firstDate": "2009-04-23T07:49:57Z",
+      "lastDate": "2016-08-07T16:59:42Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c41b366d7e225537-parsed.json",
+      "parsedSha256": "ec6e09b5107525dd74db41c21019de3e76e0fd66f4f8dab43ea15139a38d595f",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c41b366d7e225537-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721139",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%20%D7%91&action=history",
+      "chapter": 9,
+      "position": 2,
+      "textSha256": "ef9fc36b45859365c39b4426f99cf27fbc3900b3582c97abd0762795b40f891c",
+      "warning": "",
+      "storedTextSha256": "ef9fc36b45859365c39b4426f99cf27fbc3900b3582c97abd0762795b40f891c"
+    },
+    {
+      "title": "רות רבה פתיחתא ג",
+      "revisionId": 721140,
+      "historyCount": 2,
+      "firstDate": "2009-04-23T07:50:26Z",
+      "lastDate": "2016-08-07T16:59:52Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/efae92824c372865-parsed.json",
+      "parsedSha256": "8a1b6312184c70c06260eb81676b7bf0a2da5549746923584f0c2ee78d63a50f",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/efae92824c372865-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721140",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%20%D7%92&action=history",
+      "chapter": 9,
+      "position": 3,
+      "textSha256": "11f93f02bfac1fe6f8e629845cf48d75a26cb0822e205cf353761c216d9e24b7",
+      "warning": "",
+      "storedTextSha256": "11f93f02bfac1fe6f8e629845cf48d75a26cb0822e205cf353761c216d9e24b7"
+    },
+    {
+      "title": "רות רבה פתיחתא ד",
+      "revisionId": 274563,
+      "historyCount": 1,
+      "firstDate": "2009-04-23T09:13:53Z",
+      "lastDate": "2009-04-23T09:13:53Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/3e0b2ace7dff67e8-parsed.json",
+      "parsedSha256": "6591d6afb56f6d052607f6ea5867ee33df89c7b220175fae64c59b32edc96175",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/3e0b2ace7dff67e8-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=274563",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%20%D7%93&action=history",
+      "chapter": 9,
+      "position": 4,
+      "textSha256": "59cdb2e4b51be193375b61c66ca5d6dac77261cb67635b90adc9c6331362c62b",
+      "warning": "",
+      "storedTextSha256": "59cdb2e4b51be193375b61c66ca5d6dac77261cb67635b90adc9c6331362c62b"
+    },
+    {
+      "title": "רות רבה פתיחתא ה",
+      "revisionId": 274578,
+      "historyCount": 1,
+      "firstDate": "2009-04-23T13:47:55Z",
+      "lastDate": "2009-04-23T13:47:55Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f67db1c16ea2aa00-parsed.json",
+      "parsedSha256": "5a6c09707331d709382c0ea196e55ce4942cfa8f1cb2f01201119658148e5ee2",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f67db1c16ea2aa00-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=274578",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%20%D7%94&action=history",
+      "chapter": 9,
+      "position": 5,
+      "textSha256": "c426469e119eabaa11b369c0787de9a57b8f144913d5e63089243fcefd9145a7",
+      "warning": "",
+      "storedTextSha256": "c426469e119eabaa11b369c0787de9a57b8f144913d5e63089243fcefd9145a7"
+    },
+    {
+      "title": "רות רבה פתיחתא ו",
+      "revisionId": 721141,
+      "historyCount": 2,
+      "firstDate": "2009-04-23T13:48:35Z",
+      "lastDate": "2016-08-07T17:00:01Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b505ef1085ebf371-parsed.json",
+      "parsedSha256": "8b86ebcce1c9c0ecb1c95a45aebb02a657f4e252018f69bd4d36f30fbf7a0c28",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b505ef1085ebf371-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721141",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%20%D7%95&action=history",
+      "chapter": 9,
+      "position": 6,
+      "textSha256": "b15ace1e829325ca1f473c2b7683096eb6f8dfe52e61c1d9975a7de4c3e11a97",
+      "warning": "",
+      "storedTextSha256": "b15ace1e829325ca1f473c2b7683096eb6f8dfe52e61c1d9975a7de4c3e11a97"
+    },
+    {
+      "title": "רות רבה פתיחתא ז",
+      "revisionId": 419171,
+      "historyCount": 2,
+      "firstDate": "2009-04-30T09:52:27Z",
+      "lastDate": "2011-07-18T17:15:44Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/77df1d2d9d1f05ce-parsed.json",
+      "parsedSha256": "ff2b866c821393031f2f000753511fe8b292f32fd2976102d295eb4d6a9952b0",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/77df1d2d9d1f05ce-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=419171",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%20%D7%96&action=history",
+      "chapter": 9,
+      "position": 7,
+      "textSha256": "63222ca24434c51acde5760baa66b048e3c3f70dc8791944f3c6096c015f6bd3",
+      "warning": "",
+      "storedTextSha256": "63222ca24434c51acde5760baa66b048e3c3f70dc8791944f3c6096c015f6bd3"
+    },
+    {
+      "title": "רות רבה א א",
+      "revisionId": 298105,
+      "historyCount": 2,
+      "firstDate": "2009-04-30T10:19:56Z",
+      "lastDate": "2009-05-19T14:02:59Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/666e3bcc29eed630-parsed.json",
+      "parsedSha256": "3f1c91f16e66c13c14969026c456d5a16c0ea5ed303be12f6fc2549e6b46dc68",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/666e3bcc29eed630-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=298105",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%90%20%D7%90&action=history",
+      "chapter": 1,
+      "position": 1,
+      "textSha256": "3a06c5a66bc1480d8f84cb429764234c8b9b819c36cd2268f58d081da45064a7",
+      "warning": "",
+      "storedTextSha256": "3a06c5a66bc1480d8f84cb429764234c8b9b819c36cd2268f58d081da45064a7"
+    },
+    {
+      "title": "רות רבה א ב",
+      "revisionId": 418624,
+      "historyCount": 3,
+      "firstDate": "2009-04-30T10:20:43Z",
+      "lastDate": "2011-07-11T04:08:32Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d6a692803b87482f-parsed.json",
+      "parsedSha256": "4eb48ca068441e3762f7472c66d994c72f25279ca38ffa48c7d92b9e17e260d6",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d6a692803b87482f-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=418624",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%90%20%D7%91&action=history",
+      "chapter": 1,
+      "position": 2,
+      "textSha256": "998cd9057df4c3c16bebb5e17316d25b9f6c1d89b96de8e29c32c0878c02348b",
+      "warning": "",
+      "storedTextSha256": "998cd9057df4c3c16bebb5e17316d25b9f6c1d89b96de8e29c32c0878c02348b"
+    },
+    {
+      "title": "רות רבה א ג",
+      "revisionId": 275947,
+      "historyCount": 1,
+      "firstDate": "2009-04-30T10:21:14Z",
+      "lastDate": "2009-04-30T10:21:14Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/217245f39b565ecc-parsed.json",
+      "parsedSha256": "929037e1147a57165b2194d5cab6ed9f1c7e82186305b930af6b22f0d323604a",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/217245f39b565ecc-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=275947",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%90%20%D7%92&action=history",
+      "chapter": 1,
+      "position": 3,
+      "textSha256": "1294427b9d7b991df5b90a0837b8a070a7eb2798bffaaef7993e6c5804397cf9",
+      "warning": "",
+      "storedTextSha256": "1294427b9d7b991df5b90a0837b8a070a7eb2798bffaaef7993e6c5804397cf9"
+    },
+    {
+      "title": "רות רבה א ד",
+      "revisionId": 350868,
+      "historyCount": 3,
+      "firstDate": "2009-05-11T16:38:22Z",
+      "lastDate": "2009-10-28T19:06:12Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/88e1e24d346b13b6-parsed.json",
+      "parsedSha256": "a9eb5b0649d61911d62065a41f37c073d53a085aaac7688bac610648df4d9a77",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/88e1e24d346b13b6-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=350868",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%90%20%D7%93&action=history",
+      "chapter": 1,
+      "position": 4,
+      "textSha256": "02d93f7587d1c4c0ceed8c7e379ddcbcab246abce8209da361e69ef8bde02841",
+      "warning": "",
+      "storedTextSha256": "02d93f7587d1c4c0ceed8c7e379ddcbcab246abce8209da361e69ef8bde02841"
+    },
+    {
+      "title": "רות רבה א ה",
+      "revisionId": 280510,
+      "historyCount": 1,
+      "firstDate": "2009-05-11T16:42:55Z",
+      "lastDate": "2009-05-11T16:42:55Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/888cbcc5f9e1e00f-parsed.json",
+      "parsedSha256": "61c3845ce2cecf283fdb258599683779a91f3c516951f4b71c186c8ba8560036",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/888cbcc5f9e1e00f-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=280510",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%90%20%D7%94&action=history",
+      "chapter": 1,
+      "position": 5,
+      "textSha256": "c52364c83d43d176dcffd0b89a046221c364f539a138ac7b0bae195a7ca4569c",
+      "warning": "",
+      "storedTextSha256": "c52364c83d43d176dcffd0b89a046221c364f539a138ac7b0bae195a7ca4569c"
+    },
+    {
+      "title": "רות רבה ב א",
+      "revisionId": 280724,
+      "historyCount": 2,
+      "firstDate": "2009-05-11T17:00:18Z",
+      "lastDate": "2009-05-13T14:57:43Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/4e7c0bfce8736910-parsed.json",
+      "parsedSha256": "d3d0e917088867ebacfddacf1ca4b54dbe4555fb89bcb09de80372d91859f5f2",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/4e7c0bfce8736910-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=280724",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%90&action=history",
+      "chapter": 2,
+      "position": 1,
+      "textSha256": "af89ed4d50814fa50ea98f190149573fbd2b262dbad91f55c5eac24cd9437f6f",
+      "warning": "",
+      "storedTextSha256": "af89ed4d50814fa50ea98f190149573fbd2b262dbad91f55c5eac24cd9437f6f"
+    },
+    {
+      "title": "רות רבה ב ב",
+      "revisionId": 280729,
+      "historyCount": 4,
+      "firstDate": "2009-05-13T15:00:34Z",
+      "lastDate": "2009-05-13T15:07:29Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/9b214c2047aeaa0b-parsed.json",
+      "parsedSha256": "219fc06ede865302dd5e53a4ce288881f1188f62ea60e1c7e7b6381287847edd",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/9b214c2047aeaa0b-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=280729",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%91&action=history",
+      "chapter": 2,
+      "position": 2,
+      "textSha256": "a8228e0a0c492ca48bda19b023d13425ceb31f7b4c1e61053168e789dfb9494c",
+      "warning": "",
+      "storedTextSha256": "a8228e0a0c492ca48bda19b023d13425ceb31f7b4c1e61053168e789dfb9494c"
+    },
+    {
+      "title": "רות רבה ב ג",
+      "revisionId": 280730,
+      "historyCount": 1,
+      "firstDate": "2009-05-13T15:28:33Z",
+      "lastDate": "2009-05-13T15:28:33Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7487de066f9a59dc-parsed.json",
+      "parsedSha256": "49d53a24c576db29d4ffca28f01329940ae89a6be41c8f8937fd1fb50641b63e",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7487de066f9a59dc-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=280730",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%92&action=history",
+      "chapter": 2,
+      "position": 3,
+      "textSha256": "99c00579374bfde16ab8687588ff7d759cc7dcc612df6d2e3e92cc391c06495a",
+      "warning": "",
+      "storedTextSha256": "99c00579374bfde16ab8687588ff7d759cc7dcc612df6d2e3e92cc391c06495a"
+    },
+    {
+      "title": "רות רבה ב ד",
+      "revisionId": 280732,
+      "historyCount": 1,
+      "firstDate": "2009-05-13T15:39:43Z",
+      "lastDate": "2009-05-13T15:39:43Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/a94b2b87578dbe86-parsed.json",
+      "parsedSha256": "637b9ca0dcb247dd91911135bd90de93b6f045e71ecbdb71b9f5118ad1940d91",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/a94b2b87578dbe86-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=280732",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%93&action=history",
+      "chapter": 2,
+      "position": 4,
+      "textSha256": "9bc26bec4e7eabf00300d8751a342281478824fbfb41ea981347858c33e5c9ae",
+      "warning": "",
+      "storedTextSha256": "9bc26bec4e7eabf00300d8751a342281478824fbfb41ea981347858c33e5c9ae"
+    },
+    {
+      "title": "רות רבה ב ה",
+      "revisionId": 280733,
+      "historyCount": 1,
+      "firstDate": "2009-05-13T15:43:11Z",
+      "lastDate": "2009-05-13T15:43:11Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f2aa3e3d8daf58ed-parsed.json",
+      "parsedSha256": "e33c0b5a39c87e87d179d6361d8a22b0a0ea8475a590340435cfb59d8b4135fa",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f2aa3e3d8daf58ed-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=280733",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%94&action=history",
+      "chapter": 2,
+      "position": 5,
+      "textSha256": "75a1cde43693fb0008ab5fe9e5432a833161324aa076d4cec8d13e124fc5105b",
+      "warning": "",
+      "storedTextSha256": "75a1cde43693fb0008ab5fe9e5432a833161324aa076d4cec8d13e124fc5105b"
+    },
+    {
+      "title": "רות רבה ב ו",
+      "revisionId": 280734,
+      "historyCount": 1,
+      "firstDate": "2009-05-13T15:43:52Z",
+      "lastDate": "2009-05-13T15:43:52Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/dfc1b091b12fe9f2-parsed.json",
+      "parsedSha256": "54959e3f7fb334d816ad52acd28a615591acc5594ee45799716ec1a0b7b53230",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/dfc1b091b12fe9f2-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=280734",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%95&action=history",
+      "chapter": 2,
+      "position": 6,
+      "textSha256": "e003f104d2739f9c140cb373e4d2055568695d7a09d22ffcbf966e20b533a3cb",
+      "warning": "",
+      "storedTextSha256": "e003f104d2739f9c140cb373e4d2055568695d7a09d22ffcbf966e20b533a3cb"
+    },
+    {
+      "title": "רות רבה ב ז",
+      "revisionId": 288196,
+      "historyCount": 1,
+      "firstDate": "2009-05-18T00:18:57Z",
+      "lastDate": "2009-05-18T00:18:57Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/2176ebed51d260db-parsed.json",
+      "parsedSha256": "3429724fff2530295a9a50f469c5dc300ab40d3d433d775431b30e034060bbd7",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/2176ebed51d260db-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=288196",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%96&action=history",
+      "chapter": 2,
+      "position": 7,
+      "textSha256": "b9eb180a935a32414c45326901e3f0b37565ccaffadcee8ad29b7afab5671f1b",
+      "warning": "",
+      "storedTextSha256": "b9eb180a935a32414c45326901e3f0b37565ccaffadcee8ad29b7afab5671f1b"
+    },
+    {
+      "title": "רות רבה ב ח",
+      "revisionId": 288195,
+      "historyCount": 1,
+      "firstDate": "2009-05-18T00:17:46Z",
+      "lastDate": "2009-05-18T00:17:46Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/62049030d25d5f30-parsed.json",
+      "parsedSha256": "0c50d3508c56e4d8cd38b7301814c9d6fac2b088e6cfd6ca5e4d21a745ae5661",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/62049030d25d5f30-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=288195",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%97&action=history",
+      "chapter": 2,
+      "position": 8,
+      "textSha256": "117a85f43d1712ab81fa0df95fa5390aa5611f276135835b6c58e29b2b911636",
+      "warning": "",
+      "storedTextSha256": "117a85f43d1712ab81fa0df95fa5390aa5611f276135835b6c58e29b2b911636"
+    },
+    {
+      "title": "רות רבה ב ט",
+      "revisionId": 2995534,
+      "historyCount": 2,
+      "firstDate": "2009-05-18T00:16:17Z",
+      "lastDate": "2026-03-05T21:16:05Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0a3af18472970e43-parsed.json",
+      "parsedSha256": "5b2b7889191678bb592f8ed53585ecd20521c4c7bf023cbeb0b929a75ebbc7fa",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0a3af18472970e43-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2995534",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%98&action=history",
+      "chapter": 2,
+      "position": 9,
+      "textSha256": "f9a2a704ec6ebc69348285a9a101c1641e32bef088f55b506317b72989dfbae8",
+      "warning": "",
+      "storedTextSha256": "f9a2a704ec6ebc69348285a9a101c1641e32bef088f55b506317b72989dfbae8"
+    },
+    {
+      "title": "רות רבה ב י",
+      "revisionId": 298077,
+      "historyCount": 1,
+      "firstDate": "2009-05-19T11:26:02Z",
+      "lastDate": "2009-05-19T11:26:02Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/188b5a0ec0e99528-parsed.json",
+      "parsedSha256": "87ee2a28f73f6a1a7072e250947148edf74dbe606bd8b02e4e4e973f3c7faecd",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/188b5a0ec0e99528-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=298077",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99&action=history",
+      "chapter": 2,
+      "position": 10,
+      "textSha256": "c1fdde1b984467b31578c53477af888bc0e5ac2100144cd2192b8f16fd396c8d",
+      "warning": "",
+      "storedTextSha256": "c1fdde1b984467b31578c53477af888bc0e5ac2100144cd2192b8f16fd396c8d"
+    },
+    {
+      "title": "רות רבה ב יא",
+      "revisionId": 298293,
+      "historyCount": 1,
+      "firstDate": "2009-05-21T12:35:59Z",
+      "lastDate": "2009-05-21T12:35:59Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/948a2427064e70a1-parsed.json",
+      "parsedSha256": "8e60c27e55c43256830e406cc1fc3150f460a1f7a092abff2961186c961fff91",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/948a2427064e70a1-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=298293",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99%D7%90&action=history",
+      "chapter": 2,
+      "position": 11,
+      "textSha256": "cc7585329e4abceced424251a3717bf165f8721b89ac2960ce16f91fb988cb65",
+      "warning": "",
+      "storedTextSha256": "cc7585329e4abceced424251a3717bf165f8721b89ac2960ce16f91fb988cb65"
+    },
+    {
+      "title": "רות רבה ב יב",
+      "revisionId": 298301,
+      "historyCount": 1,
+      "firstDate": "2009-05-21T13:57:36Z",
+      "lastDate": "2009-05-21T13:57:36Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/2e0e4c0a77e82611-parsed.json",
+      "parsedSha256": "e4e558ff50f3ac13b334524f98e21d489c8eb830a323ef01eee5318fbdd4c286",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/2e0e4c0a77e82611-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=298301",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99%D7%91&action=history",
+      "chapter": 2,
+      "position": 12,
+      "textSha256": "64ba7cfdfe99e7be423ed1c51d96720288bcd33879760c1a580e66422c2cc28c",
+      "warning": "",
+      "storedTextSha256": "64ba7cfdfe99e7be423ed1c51d96720288bcd33879760c1a580e66422c2cc28c"
+    },
+    {
+      "title": "רות רבה ב יג",
+      "revisionId": 915218,
+      "historyCount": 3,
+      "firstDate": "2009-05-24T22:12:10Z",
+      "lastDate": "2019-08-11T14:12:01Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/632e826a6bcf28be-parsed.json",
+      "parsedSha256": "5b7256ebcd08ce53e807cef0b88f3f282f2e095fa370a7a4c12e352ef6452c27",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/632e826a6bcf28be-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=915218",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99%D7%92&action=history",
+      "chapter": 2,
+      "position": 13,
+      "textSha256": "0427bf992ee877ea1a477e6e244ff07d253e7e67dcb1eef6fe38a1f39cae8546",
+      "warning": "",
+      "storedTextSha256": "0427bf992ee877ea1a477e6e244ff07d253e7e67dcb1eef6fe38a1f39cae8546"
+    },
+    {
+      "title": "רות רבה ב יד",
+      "revisionId": 299395,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:12:41Z",
+      "lastDate": "2009-05-24T22:12:41Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/bf5bda23dd4aaebd-parsed.json",
+      "parsedSha256": "09746549cf23877eabca7aa8fac9083bba416c64d894e116e8319e5a1ba2b4aa",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/bf5bda23dd4aaebd-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299395",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99%D7%93&action=history",
+      "chapter": 2,
+      "position": 14,
+      "textSha256": "54ff01789a1616831219d420abcf1af66ee4ee990fab47f29543ca5a6ddd0cff",
+      "warning": "",
+      "storedTextSha256": "54ff01789a1616831219d420abcf1af66ee4ee990fab47f29543ca5a6ddd0cff"
+    },
+    {
+      "title": "רות רבה ב טו",
+      "revisionId": 299396,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:13:17Z",
+      "lastDate": "2009-05-24T22:13:17Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/447b23bb00ca2a4b-parsed.json",
+      "parsedSha256": "5bd4650d1910043d13607b54969095d32a79fd6686c98ad752eae75ffa0292f0",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/447b23bb00ca2a4b-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299396",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%98%D7%95&action=history",
+      "chapter": 2,
+      "position": 15,
+      "textSha256": "75ed187dc8e37539e805dc6e197f31dcb4755453f030cc71ab22eb52b0704dfc",
+      "warning": "",
+      "storedTextSha256": "75ed187dc8e37539e805dc6e197f31dcb4755453f030cc71ab22eb52b0704dfc"
+    },
+    {
+      "title": "רות רבה ב טז",
+      "revisionId": 299397,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:13:33Z",
+      "lastDate": "2009-05-24T22:13:33Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0a143a71ec25919b-parsed.json",
+      "parsedSha256": "1a2e9fe6697ec4ef0f666bb363a06ad2f54e2a84b820678430a8c9738e789100",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0a143a71ec25919b-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299397",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%98%D7%96&action=history",
+      "chapter": 2,
+      "position": 16,
+      "textSha256": "8633e0701401c39ad6c4ed66db319b20340821518582ce3c6d5995957a5251ac",
+      "warning": "",
+      "storedTextSha256": "8633e0701401c39ad6c4ed66db319b20340821518582ce3c6d5995957a5251ac"
+    },
+    {
+      "title": "רות רבה ב יז",
+      "revisionId": 299398,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:29:28Z",
+      "lastDate": "2009-05-24T22:29:28Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8c59f2f1f02d2706-parsed.json",
+      "parsedSha256": "0c3f12bac872bec4fa217607a975ea3ddc26bf7959fe89aa6f95068fc8919e4e",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8c59f2f1f02d2706-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299398",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99%D7%96&action=history",
+      "chapter": 2,
+      "position": 17,
+      "textSha256": "c9e6f8745b30aa3873910cd61366d1bd8a9690058bfa168f1721020a71213484",
+      "warning": "",
+      "storedTextSha256": "c9e6f8745b30aa3873910cd61366d1bd8a9690058bfa168f1721020a71213484"
+    },
+    {
+      "title": "רות רבה ב יח",
+      "revisionId": 299399,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:30:30Z",
+      "lastDate": "2009-05-24T22:30:30Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1dc1cfed41346ebd-parsed.json",
+      "parsedSha256": "14b4f5175fa0daacf63455a220a17ef23557854be97d9fdab205b6eb79aedcb9",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1dc1cfed41346ebd-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299399",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99%D7%97&action=history",
+      "chapter": 2,
+      "position": 18,
+      "textSha256": "606615a6eb1aff277c966f045eda053b0ea4f1f978f4458f67f78b9c81a4c440",
+      "warning": "",
+      "storedTextSha256": "606615a6eb1aff277c966f045eda053b0ea4f1f978f4458f67f78b9c81a4c440"
+    },
+    {
+      "title": "רות רבה ב יט",
+      "revisionId": 299402,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:32:35Z",
+      "lastDate": "2009-05-24T22:32:35Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b7bb8a120409873b-parsed.json",
+      "parsedSha256": "12f61d1ac2679c253f6b671036ad6fc72b7ff1678834dd56eb5221e835ba3e86",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b7bb8a120409873b-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299402",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%99%D7%98&action=history",
+      "chapter": 2,
+      "position": 19,
+      "textSha256": "89a65747ddbd530c9512851cdc79cb5809d0b11310771719aa5585319dd052e8",
+      "warning": "",
+      "storedTextSha256": "89a65747ddbd530c9512851cdc79cb5809d0b11310771719aa5585319dd052e8"
+    },
+    {
+      "title": "רות רבה ב כ",
+      "revisionId": 299403,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:34:42Z",
+      "lastDate": "2009-05-24T22:34:42Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b2e266657c08b3cf-parsed.json",
+      "parsedSha256": "05ccdfa00c8c21aec557a2a0aaaa2a9835dc6226849e55f1d09b832751c3f302",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b2e266657c08b3cf-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299403",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%9B&action=history",
+      "chapter": 2,
+      "position": 20,
+      "textSha256": "a06b2e76adc1ec0f20887a47daed69c9233d0e5154df29c49acb3980c2fa9201",
+      "warning": "",
+      "storedTextSha256": "a06b2e76adc1ec0f20887a47daed69c9233d0e5154df29c49acb3980c2fa9201"
+    },
+    {
+      "title": "רות רבה ב כא",
+      "revisionId": 299406,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:36:57Z",
+      "lastDate": "2009-05-24T22:36:57Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7bb6c57a1fb4c519-parsed.json",
+      "parsedSha256": "de911772f72a42bbddcbdd6c991d763652a2810c0b283d0610a1e3946601aca6",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7bb6c57a1fb4c519-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299406",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%9B%D7%90&action=history",
+      "chapter": 2,
+      "position": 21,
+      "textSha256": "773e2ad2b4df96ac0d586e185bf821392208205121f881de7473f7f7b3047f7b",
+      "warning": "",
+      "storedTextSha256": "773e2ad2b4df96ac0d586e185bf821392208205121f881de7473f7f7b3047f7b"
+    },
+    {
+      "title": "רות רבה ב כב",
+      "revisionId": 299407,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:37:35Z",
+      "lastDate": "2009-05-24T22:37:35Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/bc64bc864ddb3b5a-parsed.json",
+      "parsedSha256": "3446eba986d6dee2079662fe8cf8eba2255a1cf4ff27d31dc0f5e64e75186024",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/bc64bc864ddb3b5a-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299407",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%9B%D7%91&action=history",
+      "chapter": 2,
+      "position": 22,
+      "textSha256": "b1dc1319fc5edec3f847bd4a756353a3d7c5245c6e8610385c933787a364d4cc",
+      "warning": "",
+      "storedTextSha256": "b1dc1319fc5edec3f847bd4a756353a3d7c5245c6e8610385c933787a364d4cc"
+    },
+    {
+      "title": "רות רבה ב כג",
+      "revisionId": 299408,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:38:09Z",
+      "lastDate": "2009-05-24T22:38:09Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/6f9420c3fd1840e3-parsed.json",
+      "parsedSha256": "a1b6c500423c8c300b4eaf847d8e43101e484c68297c8d23ea80b253fdbf9573",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/6f9420c3fd1840e3-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299408",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%9B%D7%92&action=history",
+      "chapter": 2,
+      "position": 23,
+      "textSha256": "072712937f4ace0402f8571ea89ef612ff3670e811eccde510c52c46e01eb67c",
+      "warning": "",
+      "storedTextSha256": "072712937f4ace0402f8571ea89ef612ff3670e811eccde510c52c46e01eb67c"
+    },
+    {
+      "title": "רות רבה ב כד",
+      "revisionId": 299409,
+      "historyCount": 1,
+      "firstDate": "2009-05-24T22:38:40Z",
+      "lastDate": "2009-05-24T22:38:40Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/67ddcd2a9c1a9465-parsed.json",
+      "parsedSha256": "98c32b4fcd35d253c13f5c86a4962f139a79d7b4364a8d5df14ab1085b002ffd",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/67ddcd2a9c1a9465-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=299409",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%91%20%D7%9B%D7%93&action=history",
+      "chapter": 2,
+      "position": 24,
+      "textSha256": "73dd713a64648937bf24c1452b493afc4c7646027f5ee4c41d384311676cf8cb",
+      "warning": "",
+      "storedTextSha256": "73dd713a64648937bf24c1452b493afc4c7646027f5ee4c41d384311676cf8cb"
+    },
+    {
+      "title": "רות רבה ג א",
+      "revisionId": 721150,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T17:02:08Z",
+      "lastDate": "2016-08-07T17:05:44Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/911a0530aeb2b2be-parsed.json",
+      "parsedSha256": "e875efe4ff5e412ab444169d61262d6dcfea1c584cb03ce01dea326061980251",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/911a0530aeb2b2be-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721150",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%92%20%D7%90&action=history",
+      "chapter": 3,
+      "position": 1,
+      "textSha256": "1c04b165c0a2286d3045d90bc3e4ab2ffbfefec652e87cf8a3f20aefffc4256f",
+      "warning": "",
+      "storedTextSha256": "1c04b165c0a2286d3045d90bc3e4ab2ffbfefec652e87cf8a3f20aefffc4256f"
+    },
+    {
+      "title": "רות רבה ג ב",
+      "revisionId": 721151,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T17:02:19Z",
+      "lastDate": "2016-08-07T17:05:59Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/46aeecede443581f-parsed.json",
+      "parsedSha256": "eae776b2955f1bddfeca905079c9019869f5f1eccc6862d37799482c6d845d99",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/46aeecede443581f-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721151",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%92%20%D7%91&action=history",
+      "chapter": 3,
+      "position": 2,
+      "textSha256": "8c0f32b4f61fd1935697ed6c85f3e8a483ff1a598467fde5c1816519b4283201",
+      "warning": "",
+      "storedTextSha256": "8c0f32b4f61fd1935697ed6c85f3e8a483ff1a598467fde5c1816519b4283201"
+    },
+    {
+      "title": "רות רבה ג ג",
+      "revisionId": 721152,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T17:02:27Z",
+      "lastDate": "2016-08-07T17:06:28Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/ab711894f43fbac9-parsed.json",
+      "parsedSha256": "07c2e0037b1fdea585b439261a795e9ecc25f38f713d3c88b55f8610794709d5",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/ab711894f43fbac9-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721152",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%92%20%D7%92&action=history",
+      "chapter": 3,
+      "position": 3,
+      "textSha256": "2d46ba53dae2623b441aef5e1b3870491a4c4e7c4d3ca31b1a9cba0055a6d29e",
+      "warning": "",
+      "storedTextSha256": "2d46ba53dae2623b441aef5e1b3870491a4c4e7c4d3ca31b1a9cba0055a6d29e"
+    },
+    {
+      "title": "רות רבה ג ד",
+      "revisionId": 721153,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T17:02:36Z",
+      "lastDate": "2016-08-07T17:06:41Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/79231968970ff4f7-parsed.json",
+      "parsedSha256": "bf811db28dc15f969995b4b4f9755f4e448ed52d1e7d594fd5fca57dfaf5dae9",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/79231968970ff4f7-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721153",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%92%20%D7%93&action=history",
+      "chapter": 3,
+      "position": 4,
+      "textSha256": "583469c6c1c4456264a2675b5972c600028651d182ec14a9631b824de3ff5458",
+      "warning": "",
+      "storedTextSha256": "583469c6c1c4456264a2675b5972c600028651d182ec14a9631b824de3ff5458"
+    },
+    {
+      "title": "רות רבה ג ה",
+      "revisionId": 721154,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T17:02:46Z",
+      "lastDate": "2016-08-07T17:06:54Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/45a5c02525967a14-parsed.json",
+      "parsedSha256": "4616322f9dd346437f8ab53b773a1f78367e3dac65dfbd20a18e7b53c481e316",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/45a5c02525967a14-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721154",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%92%20%D7%94&action=history",
+      "chapter": 3,
+      "position": 5,
+      "textSha256": "de983b7ef5c2ee3b33ed0ac51c710e02c00a0eced6cfb08c742cba4e831dcd29",
+      "warning": "",
+      "storedTextSha256": "de983b7ef5c2ee3b33ed0ac51c710e02c00a0eced6cfb08c742cba4e831dcd29"
+    },
+    {
+      "title": "רות רבה ג ו",
+      "revisionId": 721155,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T17:02:56Z",
+      "lastDate": "2016-08-07T17:07:06Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/464a72deb7d51dae-parsed.json",
+      "parsedSha256": "b6274a65aae402525431dc0a925ad165569b56d9c95b664e9effacd7ea508e2d",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/464a72deb7d51dae-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721155",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%92%20%D7%95&action=history",
+      "chapter": 3,
+      "position": 6,
+      "textSha256": "4d4a5a223808ac081c3f432f8e779a63b5b938be2f246a48fdd848e6b11c2ec0",
+      "warning": "",
+      "storedTextSha256": "4d4a5a223808ac081c3f432f8e779a63b5b938be2f246a48fdd848e6b11c2ec0"
+    },
+    {
+      "title": "רות רבה ג ז",
+      "revisionId": 721156,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T17:03:04Z",
+      "lastDate": "2016-08-07T17:07:12Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e9ddcf41eb5fe791-parsed.json",
+      "parsedSha256": "df68ad3ae64b500b34451e9b5f6700ca42e6556aea21ac8b6a77881a9019c9b1",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e9ddcf41eb5fe791-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721156",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%92%20%D7%96&action=history",
+      "chapter": 3,
+      "position": 7,
+      "textSha256": "6c2e86520070a921258a0218fb27306575c79ff5f8dd76004f79762bab9cfc74",
+      "warning": "",
+      "storedTextSha256": "6c2e86520070a921258a0218fb27306575c79ff5f8dd76004f79762bab9cfc74"
+    },
+    {
+      "title": "רות רבה ד א",
+      "revisionId": 721184,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:00:29Z",
+      "lastDate": "2016-08-07T18:03:29Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/07840669e3efa434-parsed.json",
+      "parsedSha256": "1cd8a93052774c00676caa3b94d6392ced64c54c62b7d61e27b5f3be698cf911",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/07840669e3efa434-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721184",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%90&action=history",
+      "chapter": 4,
+      "position": 1,
+      "textSha256": "2beba3bcdb938a846502a394e61c2b320859d7b7dc4369fa31fbfe53adbd5b80",
+      "warning": "",
+      "storedTextSha256": "2beba3bcdb938a846502a394e61c2b320859d7b7dc4369fa31fbfe53adbd5b80"
+    },
+    {
+      "title": "רות רבה ד ב",
+      "revisionId": 721185,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:00:40Z",
+      "lastDate": "2016-08-07T18:03:40Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d8feee77715c7f14-parsed.json",
+      "parsedSha256": "053257e539f045c3b2a6b231a80e59c83d2ee4b7304429bffc62ec77c9fc926a",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d8feee77715c7f14-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721185",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%91&action=history",
+      "chapter": 4,
+      "position": 2,
+      "textSha256": "f3c5e6d789634a9a6b49677fdc28b94809144f5f8e59a67e810960782b8e5799",
+      "warning": "",
+      "storedTextSha256": "f3c5e6d789634a9a6b49677fdc28b94809144f5f8e59a67e810960782b8e5799"
+    },
+    {
+      "title": "רות רבה ד ג",
+      "revisionId": 721186,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:00:49Z",
+      "lastDate": "2016-08-07T18:03:58Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/177b1a2957ca4186-parsed.json",
+      "parsedSha256": "f37b7fea916b99b0b5c2292e34431efff473ad3264c694c126e77b4965cd5c88",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/177b1a2957ca4186-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721186",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%92&action=history",
+      "chapter": 4,
+      "position": 3,
+      "textSha256": "1d60f51b06fee18ddc972cfc231d9bae70f2f96d1c97abbef266b21f8b8748fe",
+      "warning": "",
+      "storedTextSha256": "1d60f51b06fee18ddc972cfc231d9bae70f2f96d1c97abbef266b21f8b8748fe"
+    },
+    {
+      "title": "רות רבה ד ד",
+      "revisionId": 721187,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:00:59Z",
+      "lastDate": "2016-08-07T18:04:11Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c43d519c76e91a97-parsed.json",
+      "parsedSha256": "50f17e1ac988c8edb0b003064a1e0c80e4b29fc630fc9cfd102032d71301fc2e",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c43d519c76e91a97-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721187",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%93&action=history",
+      "chapter": 4,
+      "position": 4,
+      "textSha256": "f4fdc18c2cdf95dca2a7e0e716b4dccf9f86e1ddeb432aab03c9764771b87a1e",
+      "warning": "",
+      "storedTextSha256": "f4fdc18c2cdf95dca2a7e0e716b4dccf9f86e1ddeb432aab03c9764771b87a1e"
+    },
+    {
+      "title": "רות רבה ד ה",
+      "revisionId": 721188,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:01:09Z",
+      "lastDate": "2016-08-07T18:04:25Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/09f3e9c34568d6a4-parsed.json",
+      "parsedSha256": "63c6edaf4a34d0e27b8bc273b08de8d63c1b19200a1e52072fd90f1ae6c04e5e",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/09f3e9c34568d6a4-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721188",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%94&action=history",
+      "chapter": 4,
+      "position": 5,
+      "textSha256": "9654f39e4a303f80109eae3e9028a084f3ed40ac93fb9b129dc790a05d4a8bb1",
+      "warning": "",
+      "storedTextSha256": "9654f39e4a303f80109eae3e9028a084f3ed40ac93fb9b129dc790a05d4a8bb1"
+    },
+    {
+      "title": "רות רבה ד ו",
+      "revisionId": 721189,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:01:18Z",
+      "lastDate": "2016-08-07T18:04:53Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d934c96b31bed38c-parsed.json",
+      "parsedSha256": "a719ed4f9c6f4c2599d4ea5bd42b03e99e5f180823476aa7eba3ac26f8444a73",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d934c96b31bed38c-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721189",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%95&action=history",
+      "chapter": 4,
+      "position": 6,
+      "textSha256": "85d7d5558ecfe444e33d95ee3bab87d184fd1faef1b58adce61f9251971a30c4",
+      "warning": "Source explicitly reports no text at this printed passage number.",
+      "storedTextSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "title": "רות רבה ד ז",
+      "revisionId": 721190,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:01:28Z",
+      "lastDate": "2016-08-07T18:04:59Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8528b84d49b54212-parsed.json",
+      "parsedSha256": "0c3d393bcd936603e840dde9e07ed864f6950f59cc55aabf82772d261e456bc2",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8528b84d49b54212-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721190",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%96&action=history",
+      "chapter": 4,
+      "position": 7,
+      "textSha256": "85d7d5558ecfe444e33d95ee3bab87d184fd1faef1b58adce61f9251971a30c4",
+      "warning": "Source explicitly reports no text at this printed passage number.",
+      "storedTextSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "title": "רות רבה ד ח",
+      "revisionId": 721191,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:01:53Z",
+      "lastDate": "2016-08-07T18:05:06Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/07fe3a593ed4a0ae-parsed.json",
+      "parsedSha256": "bcf02a5609c824fd0869a1344c3e544ccac26042cd88d6adb8193c44bf55cf65",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/07fe3a593ed4a0ae-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721191",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%97&action=history",
+      "chapter": 4,
+      "position": 8,
+      "textSha256": "85d7d5558ecfe444e33d95ee3bab87d184fd1faef1b58adce61f9251971a30c4",
+      "warning": "Source explicitly reports no text at this printed passage number.",
+      "storedTextSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "title": "רות רבה ד ט",
+      "revisionId": 721192,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:02:02Z",
+      "lastDate": "2016-08-07T18:05:20Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8b25ca3629e74145-parsed.json",
+      "parsedSha256": "5ad1a0ca62cefe43def14b5cf5a2786b314d8fb5fc72bfe783436c82d117926a",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8b25ca3629e74145-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721192",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%98&action=history",
+      "chapter": 4,
+      "position": 9,
+      "textSha256": "dfec4e04beba63b8aa20bfbbee96948700d67ede6b8c707ed6cbe0c2dde02faa",
+      "warning": "",
+      "storedTextSha256": "dfec4e04beba63b8aa20bfbbee96948700d67ede6b8c707ed6cbe0c2dde02faa"
+    },
+    {
+      "title": "רות רבה ד י",
+      "revisionId": 721193,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:02:11Z",
+      "lastDate": "2016-08-07T18:05:36Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/bc375ca63c34485b-parsed.json",
+      "parsedSha256": "d6ec2c1753d699af3ed60de841fad9ff8b2f044d7b9e0435538d380a16bd871a",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/bc375ca63c34485b-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721193",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%99&action=history",
+      "chapter": 4,
+      "position": 10,
+      "textSha256": "6a67d827d9a9b3b45e05a19112c5f669b9adab05e825fcedcb133e4efa8ba651",
+      "warning": "",
+      "storedTextSha256": "6a67d827d9a9b3b45e05a19112c5f669b9adab05e825fcedcb133e4efa8ba651"
+    },
+    {
+      "title": "רות רבה ד יא",
+      "revisionId": 721194,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:02:25Z",
+      "lastDate": "2016-08-07T18:05:49Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7e5cf1890ae4a5c1-parsed.json",
+      "parsedSha256": "92c3dfae62ac17ca21b1b251c04145c1a692b6da7c6be0f71faae25bd9722e74",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7e5cf1890ae4a5c1-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721194",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%99%D7%90&action=history",
+      "chapter": 4,
+      "position": 11,
+      "textSha256": "c9aece709c37ba0d92aa2a02c9fdf03f980ad4959f465973aa8ff866182f6794",
+      "warning": "",
+      "storedTextSha256": "c9aece709c37ba0d92aa2a02c9fdf03f980ad4959f465973aa8ff866182f6794"
+    },
+    {
+      "title": "רות רבה ד יב",
+      "revisionId": 721195,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:02:33Z",
+      "lastDate": "2016-08-07T18:06:02Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c7725d7a82e3c12c-parsed.json",
+      "parsedSha256": "2bfbc3ac0d113f504b42135dd87dfcdb1a5f0a7987c4fe2810c4ee4f34c271e6",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c7725d7a82e3c12c-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721195",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%93%20%D7%99%D7%91&action=history",
+      "chapter": 4,
+      "position": 12,
+      "textSha256": "1e4443f0c8176b23a98b40943cb68630ffc88c4de5e018f7299891731ab6aef4",
+      "warning": "",
+      "storedTextSha256": "1e4443f0c8176b23a98b40943cb68630ffc88c4de5e018f7299891731ab6aef4"
+    },
+    {
+      "title": "רות רבה ה א",
+      "revisionId": 721211,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:06:33Z",
+      "lastDate": "2016-08-07T18:10:18Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/767c299dec772246-parsed.json",
+      "parsedSha256": "99ecd893d9fd6702af68df98447115566ee97573181b8235613d177d039e1834",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/767c299dec772246-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721211",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%90&action=history",
+      "chapter": 5,
+      "position": 1,
+      "textSha256": "f036d3a73a22cfdb0c0eb47afd6c9972d059f370736978f074679fc6ad8b3c7e",
+      "warning": "",
+      "storedTextSha256": "f036d3a73a22cfdb0c0eb47afd6c9972d059f370736978f074679fc6ad8b3c7e"
+    },
+    {
+      "title": "רות רבה ה ב",
+      "revisionId": 721212,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:06:41Z",
+      "lastDate": "2016-08-07T18:10:32Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7baf10cb7d51f498-parsed.json",
+      "parsedSha256": "f1d535897a558cf1c39b6e1cffd4602cb13b366c2bca47be1bef4abdab2ff354",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7baf10cb7d51f498-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721212",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%91&action=history",
+      "chapter": 5,
+      "position": 2,
+      "textSha256": "84f800c01334ff401c99b5316b97fa5300a190730b340e3214f9d702c0c4d5e1",
+      "warning": "",
+      "storedTextSha256": "84f800c01334ff401c99b5316b97fa5300a190730b340e3214f9d702c0c4d5e1"
+    },
+    {
+      "title": "רות רבה ה ג",
+      "revisionId": 721213,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:06:48Z",
+      "lastDate": "2016-08-07T18:10:49Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/cd4fb8ce5518a68a-parsed.json",
+      "parsedSha256": "a06a562fda39bb70602bfd718fc565624f3b49aff62e40ec82c3bd3f94bec795",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/cd4fb8ce5518a68a-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721213",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%92&action=history",
+      "chapter": 5,
+      "position": 3,
+      "textSha256": "9b7801c16e6a9bec2e2d9207eb422dd6ebdd1faa8dd77ab1612b24ec7c7b1165",
+      "warning": "",
+      "storedTextSha256": "9b7801c16e6a9bec2e2d9207eb422dd6ebdd1faa8dd77ab1612b24ec7c7b1165"
+    },
+    {
+      "title": "רות רבה ה ד",
+      "revisionId": 721214,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:06:56Z",
+      "lastDate": "2016-08-07T18:11:05Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f90b6b876e23d5fb-parsed.json",
+      "parsedSha256": "9380e812f19743259ccc041ad82c8d7db36b7a7dc610af397e006198d385e88c",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f90b6b876e23d5fb-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721214",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%93&action=history",
+      "chapter": 5,
+      "position": 4,
+      "textSha256": "ab2595a568d1b5b0a305c733713b24378cd34a6bb8009e830c7200e13fbb0895",
+      "warning": "",
+      "storedTextSha256": "ab2595a568d1b5b0a305c733713b24378cd34a6bb8009e830c7200e13fbb0895"
+    },
+    {
+      "title": "רות רבה ה ה",
+      "revisionId": 721215,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:07:04Z",
+      "lastDate": "2016-08-07T18:12:31Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/3797b24ddfa5a811-parsed.json",
+      "parsedSha256": "2cdf9c135f0285c577ed2b1fc36ac626c63b1aa4a9db46e92d5a81c13a90862c",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/3797b24ddfa5a811-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721215",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%94&action=history",
+      "chapter": 5,
+      "position": 5,
+      "textSha256": "ed6cb7f23158a361c96aba1a92a0d4a72106554a3de54e8f3987c2968aa616f4",
+      "warning": "",
+      "storedTextSha256": "ed6cb7f23158a361c96aba1a92a0d4a72106554a3de54e8f3987c2968aa616f4"
+    },
+    {
+      "title": "רות רבה ה ו",
+      "revisionId": 721216,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:07:13Z",
+      "lastDate": "2016-08-07T18:12:52Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7609208ff1db21b7-parsed.json",
+      "parsedSha256": "5f12d344156b155df28211ba521d37c51c6cee7699c6445a15cc5e6ec840fc18",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/7609208ff1db21b7-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721216",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%95&action=history",
+      "chapter": 5,
+      "position": 6,
+      "textSha256": "ac6e064e32adc160b07cdf9e86b57fafc0f25ecc0e6f9e73dbd0f74afaa2a338",
+      "warning": "",
+      "storedTextSha256": "ac6e064e32adc160b07cdf9e86b57fafc0f25ecc0e6f9e73dbd0f74afaa2a338"
+    },
+    {
+      "title": "רות רבה ה ז",
+      "revisionId": 721218,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:07:21Z",
+      "lastDate": "2016-08-07T18:13:05Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8bb5e8fc782b484b-parsed.json",
+      "parsedSha256": "ee06d7d4271bdcf2a2ff822dbacd160131fd4af8a1c8acfd76d7408170066a2b",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8bb5e8fc782b484b-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721218",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%96&action=history",
+      "chapter": 5,
+      "position": 7,
+      "textSha256": "861e28993928531f6b0c40d5a994da6a1ff352ace4946b9b97950e0431217947",
+      "warning": "",
+      "storedTextSha256": "861e28993928531f6b0c40d5a994da6a1ff352ace4946b9b97950e0431217947"
+    },
+    {
+      "title": "רות רבה ה ח",
+      "revisionId": 721219,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:07:32Z",
+      "lastDate": "2016-08-07T18:13:17Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0233a7342e6a4073-parsed.json",
+      "parsedSha256": "dcc07b287187a42a200936b1d46b00d50e7edef2bee5c079de74ee100e4b19af",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0233a7342e6a4073-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721219",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%97&action=history",
+      "chapter": 5,
+      "position": 8,
+      "textSha256": "aa598a5875c6adc315f8ddec3041be076569a444b01b77b008f5b1df4daaca2b",
+      "warning": "",
+      "storedTextSha256": "aa598a5875c6adc315f8ddec3041be076569a444b01b77b008f5b1df4daaca2b"
+    },
+    {
+      "title": "רות רבה ה ט",
+      "revisionId": 721220,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:08:05Z",
+      "lastDate": "2016-08-07T18:13:36Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/9f2969a420cbe8f8-parsed.json",
+      "parsedSha256": "3cd12d896415c8be14a16045421cf9d30378d68a699c566c60cc8cc51322eb61",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/9f2969a420cbe8f8-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721220",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%98&action=history",
+      "chapter": 5,
+      "position": 9,
+      "textSha256": "ca54487ce5c71747b4867920817a2714075d4b47162f716a421ef20faba2a55f",
+      "warning": "",
+      "storedTextSha256": "ca54487ce5c71747b4867920817a2714075d4b47162f716a421ef20faba2a55f"
+    },
+    {
+      "title": "רות רבה ה י",
+      "revisionId": 721221,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:08:15Z",
+      "lastDate": "2016-08-07T18:13:47Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d4e507d171d7db4a-parsed.json",
+      "parsedSha256": "e0abc7b0ebcab0e99de30a2e6e04a62e0c71f2a35a2ba260da32ed7907c8d72f",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d4e507d171d7db4a-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721221",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%99&action=history",
+      "chapter": 5,
+      "position": 10,
+      "textSha256": "2c37c9f0ca971361a9b633c3bd810028c223ba679b734a0bf58698b52f784a7c",
+      "warning": "",
+      "storedTextSha256": "2c37c9f0ca971361a9b633c3bd810028c223ba679b734a0bf58698b52f784a7c"
+    },
+    {
+      "title": "רות רבה ה יא",
+      "revisionId": 721222,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:08:27Z",
+      "lastDate": "2016-08-07T18:14:03Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1cbc170860506456-parsed.json",
+      "parsedSha256": "ae9ccf8d6a090b3e4bc775ef96cb2677b1754a00e10269be6a2ea083c934cbdd",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1cbc170860506456-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721222",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%99%D7%90&action=history",
+      "chapter": 5,
+      "position": 11,
+      "textSha256": "5ef4071f581243a0919dc62af3bab9d573165eff99ab415766535dfee2ffe0f4",
+      "warning": "",
+      "storedTextSha256": "5ef4071f581243a0919dc62af3bab9d573165eff99ab415766535dfee2ffe0f4"
+    },
+    {
+      "title": "רות רבה ה יב",
+      "revisionId": 721223,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:08:34Z",
+      "lastDate": "2016-08-07T18:14:15Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0b602e824e89985d-parsed.json",
+      "parsedSha256": "8f70d3ed9cf09726bf1e5f22463b26424357ac42b05e8c1212ea59729d61114b",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/0b602e824e89985d-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721223",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%99%D7%91&action=history",
+      "chapter": 5,
+      "position": 12,
+      "textSha256": "f1e90baa0bb1c10d915c7c4134387b6728f5af86d247bf74b85a9fc91dfdf86a",
+      "warning": "",
+      "storedTextSha256": "f1e90baa0bb1c10d915c7c4134387b6728f5af86d247bf74b85a9fc91dfdf86a"
+    },
+    {
+      "title": "רות רבה ה יג",
+      "revisionId": 721224,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:08:43Z",
+      "lastDate": "2016-08-07T18:14:30Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/201736ceabcd5d1d-parsed.json",
+      "parsedSha256": "55a679332125395fdeebef6b4a1b9b9416bd05412d9da987a48736e491f9121d",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/201736ceabcd5d1d-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721224",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%99%D7%92&action=history",
+      "chapter": 5,
+      "position": 13,
+      "textSha256": "c7d1168596c44b6f4ca0fef6569a06c7c6f50957ddb089a163e74396e365d4d8",
+      "warning": "",
+      "storedTextSha256": "c7d1168596c44b6f4ca0fef6569a06c7c6f50957ddb089a163e74396e365d4d8"
+    },
+    {
+      "title": "רות רבה ה יד",
+      "revisionId": 721225,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:08:54Z",
+      "lastDate": "2016-08-07T18:14:40Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b09ecd4f117958b8-parsed.json",
+      "parsedSha256": "f3d7cbf6e8da4dc0cfc855ea1e8d313bc1b1d2d5d5036657cd6b80129c96ffff",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/b09ecd4f117958b8-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721225",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%99%D7%93&action=history",
+      "chapter": 5,
+      "position": 14,
+      "textSha256": "8bac2314480b233dd8549a2752281024f85616b95617f22d1124c5a72e219447",
+      "warning": "",
+      "storedTextSha256": "8bac2314480b233dd8549a2752281024f85616b95617f22d1124c5a72e219447"
+    },
+    {
+      "title": "רות רבה ה טו",
+      "revisionId": 721226,
+      "historyCount": 2,
+      "firstDate": "2016-08-07T18:09:10Z",
+      "lastDate": "2016-08-07T18:14:46Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8b2d2990ccd760a5-parsed.json",
+      "parsedSha256": "482dc858e0ad5449f9ccc220ae9b68bcbe3316ed8d9d5dded7f14362b7fa5689",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/8b2d2990ccd760a5-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721226",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%94%20%D7%98%D7%95&action=history",
+      "chapter": 5,
+      "position": 15,
+      "textSha256": "292d103c18414b46a8681c8908a02b2e0a478d46135583c45e1205870f2d982b",
+      "warning": "",
+      "storedTextSha256": "292d103c18414b46a8681c8908a02b2e0a478d46135583c45e1205870f2d982b"
+    },
+    {
+      "title": "רות רבה ו א",
+      "revisionId": 721397,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:34:23Z",
+      "lastDate": "2016-08-10T17:35:36Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/de226305436e48ab-parsed.json",
+      "parsedSha256": "6944daf37c88c9dbe99613f317e94cba81ed3e7f44efcc57bc0063fb3611818c",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/de226305436e48ab-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721397",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%95%20%D7%90&action=history",
+      "chapter": 6,
+      "position": 1,
+      "textSha256": "59dc0261f9d25e19bb3a13a17eb61949b902c747be1f29b5c0244a36d05fe78d",
+      "warning": "",
+      "storedTextSha256": "59dc0261f9d25e19bb3a13a17eb61949b902c747be1f29b5c0244a36d05fe78d"
+    },
+    {
+      "title": "רות רבה ו ב",
+      "revisionId": 721398,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:34:32Z",
+      "lastDate": "2016-08-10T17:35:49Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c4a4ac87cb147d1d-parsed.json",
+      "parsedSha256": "a3b4bad6d322e3c04eec5b308e67b92718c0afd190faeecb8ef710815c108de3",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c4a4ac87cb147d1d-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721398",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%95%20%D7%91&action=history",
+      "chapter": 6,
+      "position": 2,
+      "textSha256": "2ead3685504cead06048e7c7e4e911fb672d2ef6f2a5501e0de8f9f0c6752942",
+      "warning": "",
+      "storedTextSha256": "2ead3685504cead06048e7c7e4e911fb672d2ef6f2a5501e0de8f9f0c6752942"
+    },
+    {
+      "title": "רות רבה ו ג",
+      "revisionId": 721399,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:34:40Z",
+      "lastDate": "2016-08-10T17:36:03Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f5faca4433ae9519-parsed.json",
+      "parsedSha256": "b9cdb2788648e94e0c3d6e30d2081f66020e1af6d2cfadf059bdebf237e3ae48",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f5faca4433ae9519-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721399",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%95%20%D7%92&action=history",
+      "chapter": 6,
+      "position": 3,
+      "textSha256": "39bb2e7eabb7fac720924622e796f38ed3bb09bbce098894ade3d2e3b955af4e",
+      "warning": "",
+      "storedTextSha256": "39bb2e7eabb7fac720924622e796f38ed3bb09bbce098894ade3d2e3b955af4e"
+    },
+    {
+      "title": "רות רבה ו ד",
+      "revisionId": 721401,
+      "historyCount": 3,
+      "firstDate": "2016-08-10T17:34:48Z",
+      "lastDate": "2016-08-10T17:36:27Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f9209841f9db50b8-parsed.json",
+      "parsedSha256": "412dc42e0a5c5cd6d4fb08804f0ccd3688c28a7a9c18f5c8e6c83a86ae618df1",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/f9209841f9db50b8-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721401",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%95%20%D7%93&action=history",
+      "chapter": 6,
+      "position": 4,
+      "textSha256": "f4d05453af5e175c29ea456fe45436629bd9fa863a65f448f12c05ec11434672",
+      "warning": "",
+      "storedTextSha256": "f4d05453af5e175c29ea456fe45436629bd9fa863a65f448f12c05ec11434672"
+    },
+    {
+      "title": "רות רבה ז א",
+      "revisionId": 721418,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:37:01Z",
+      "lastDate": "2016-08-10T17:40:51Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/43ba6c859a58eb58-parsed.json",
+      "parsedSha256": "99dd18c8ab9a743f3ffe0ebd6e27321ac5fa3ed13b013ab2bad52c4b16d68983",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/43ba6c859a58eb58-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721418",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%90&action=history",
+      "chapter": 7,
+      "position": 1,
+      "textSha256": "f8e11ed5037597d34c765b67635aaf59eaad43aa061cfae357c011a620c13b98",
+      "warning": "",
+      "storedTextSha256": "f8e11ed5037597d34c765b67635aaf59eaad43aa061cfae357c011a620c13b98"
+    },
+    {
+      "title": "רות רבה ז ב",
+      "revisionId": 721419,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:37:33Z",
+      "lastDate": "2016-08-10T17:41:08Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/50ad8dbca6f0a020-parsed.json",
+      "parsedSha256": "b353e7ad4aa8eb1ef7779c73a122e8c9bc359446f2b5dd5e9b2ed0b582c8eac2",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/50ad8dbca6f0a020-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721419",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%91&action=history",
+      "chapter": 7,
+      "position": 2,
+      "textSha256": "867c2dc8fad7b6841c24a00597adff2c758fd00b7e8d54a318f7d6af8a9656d0",
+      "warning": "",
+      "storedTextSha256": "867c2dc8fad7b6841c24a00597adff2c758fd00b7e8d54a318f7d6af8a9656d0"
+    },
+    {
+      "title": "רות רבה ז ג",
+      "revisionId": 721420,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:37:49Z",
+      "lastDate": "2016-08-10T17:41:19Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/6db2c8eb72778149-parsed.json",
+      "parsedSha256": "f1139f1fcade9443df447a7010f5f015894ac2db7cd91f701dc6e754648e45fb",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/6db2c8eb72778149-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721420",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%92&action=history",
+      "chapter": 7,
+      "position": 3,
+      "textSha256": "c08079aeff7a984c8d955f894cd947912cb95ff72d5a9c4cc77ed56130574c29",
+      "warning": "",
+      "storedTextSha256": "c08079aeff7a984c8d955f894cd947912cb95ff72d5a9c4cc77ed56130574c29"
+    },
+    {
+      "title": "רות רבה ז ד",
+      "revisionId": 721421,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:38:01Z",
+      "lastDate": "2016-08-10T17:41:46Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/18a944acf08b0a54-parsed.json",
+      "parsedSha256": "4ff41e284afedd8a7b5eee4d0791cc8bc260335e96de5cc77d360a1a2c6f576a",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/18a944acf08b0a54-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721421",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%93&action=history",
+      "chapter": 7,
+      "position": 4,
+      "textSha256": "4b89abd1ba338f359518582ed0c1e1e4fa16c67c457b70f34188f9691a0b0811",
+      "warning": "",
+      "storedTextSha256": "4b89abd1ba338f359518582ed0c1e1e4fa16c67c457b70f34188f9691a0b0811"
+    },
+    {
+      "title": "רות רבה ז ה",
+      "revisionId": 721422,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:38:09Z",
+      "lastDate": "2016-08-10T17:41:58Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d85cb4ff7020efb5-parsed.json",
+      "parsedSha256": "c13baa3955d014c5de6b2a5c86289fab66dd4c69692012652fb2f4dc5aa20881",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/d85cb4ff7020efb5-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721422",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%94&action=history",
+      "chapter": 7,
+      "position": 5,
+      "textSha256": "2c8f95426b9b745b306932f8dbb75613cd2cf2d8701b19ba9dd08896e9d77c1f",
+      "warning": "",
+      "storedTextSha256": "2c8f95426b9b745b306932f8dbb75613cd2cf2d8701b19ba9dd08896e9d77c1f"
+    },
+    {
+      "title": "רות רבה ז ו",
+      "revisionId": 721423,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:38:17Z",
+      "lastDate": "2016-08-10T17:42:08Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/11c188650725a26c-parsed.json",
+      "parsedSha256": "150dfbc77b30e7da41af724d582ba0516ef1333ad8e8b38c2ef96cdc729c9898",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/11c188650725a26c-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721423",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%95&action=history",
+      "chapter": 7,
+      "position": 6,
+      "textSha256": "e4ea2267254a9ee1698acf99a5794e93029f56ae2d10c9070e8a9457e1de11f8",
+      "warning": "",
+      "storedTextSha256": "e4ea2267254a9ee1698acf99a5794e93029f56ae2d10c9070e8a9457e1de11f8"
+    },
+    {
+      "title": "רות רבה ז ז",
+      "revisionId": 721424,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:38:35Z",
+      "lastDate": "2016-08-10T17:42:27Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1fe8acc6962d28e7-parsed.json",
+      "parsedSha256": "d3f75180ac44a3e8efda97230a8879e393b73c4b662ffe174f9d22a1b36782f4",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/1fe8acc6962d28e7-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721424",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%96&action=history",
+      "chapter": 7,
+      "position": 7,
+      "textSha256": "0cb5e3f9aa566fbf02f2ba7e1e53e2d39bb5a9ad31b9b486cb95b2c538ef3b46",
+      "warning": "",
+      "storedTextSha256": "0cb5e3f9aa566fbf02f2ba7e1e53e2d39bb5a9ad31b9b486cb95b2c538ef3b46"
+    },
+    {
+      "title": "רות רבה ז ח",
+      "revisionId": 721425,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:38:51Z",
+      "lastDate": "2016-08-10T17:42:37Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/76d6217b74c6d6ef-parsed.json",
+      "parsedSha256": "3f74281cbaa968261125ae4103a4afd2f74c3a0f2b5efe7e2ac8771fe3c54658",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/76d6217b74c6d6ef-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721425",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%97&action=history",
+      "chapter": 7,
+      "position": 8,
+      "textSha256": "56cc4d5591400028a3288065d14873ea09719f4603fbacc14b3749a64c3eae95",
+      "warning": "",
+      "storedTextSha256": "56cc4d5591400028a3288065d14873ea09719f4603fbacc14b3749a64c3eae95"
+    },
+    {
+      "title": "רות רבה ז ט",
+      "revisionId": 721426,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:39:00Z",
+      "lastDate": "2016-08-10T17:42:48Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/34247266d5a9e98c-parsed.json",
+      "parsedSha256": "00adeaf3b2a23ece7b4dcc4bb2e2d1aa7582f08c955d8e51a1ad1b86253c5680",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/34247266d5a9e98c-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721426",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%98&action=history",
+      "chapter": 7,
+      "position": 9,
+      "textSha256": "98f150b8ffaf83baadf02ecba177b29d4fec993c118ccf73c75f14dc9005673d",
+      "warning": "",
+      "storedTextSha256": "98f150b8ffaf83baadf02ecba177b29d4fec993c118ccf73c75f14dc9005673d"
+    },
+    {
+      "title": "רות רבה ז י",
+      "revisionId": 721427,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:39:24Z",
+      "lastDate": "2016-08-10T17:42:58Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/65106cd3a9fe3e8a-parsed.json",
+      "parsedSha256": "5b7e0aac7a198813005b00b8d0c68aa6b40f5f37431441daeef5990c81dfeb0e",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/65106cd3a9fe3e8a-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721427",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%99&action=history",
+      "chapter": 7,
+      "position": 10,
+      "textSha256": "77490b6a7f5de07fc5ad42df7306bdbcc0eeefd10ba513ec9673830b6048859e",
+      "warning": "",
+      "storedTextSha256": "77490b6a7f5de07fc5ad42df7306bdbcc0eeefd10ba513ec9673830b6048859e"
+    },
+    {
+      "title": "רות רבה ז יא",
+      "revisionId": 721428,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:39:33Z",
+      "lastDate": "2016-08-10T17:43:12Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/654c966af7c245c0-parsed.json",
+      "parsedSha256": "4513a3285a8a0eee7efd01ba54e3c789c4220340fe4ee151e25c8c2938a7df6d",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/654c966af7c245c0-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721428",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%99%D7%90&action=history",
+      "chapter": 7,
+      "position": 11,
+      "textSha256": "5a7ea8bf6b504bb2eb246edec97d5fc5bdc2fadd71bab27b1f6343b2e1a4a5c6",
+      "warning": "",
+      "storedTextSha256": "5a7ea8bf6b504bb2eb246edec97d5fc5bdc2fadd71bab27b1f6343b2e1a4a5c6"
+    },
+    {
+      "title": "רות רבה ז יב",
+      "revisionId": 721429,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:39:42Z",
+      "lastDate": "2016-08-10T17:43:23Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e7c62f40d923d8b5-parsed.json",
+      "parsedSha256": "ed7d163c1d18671725b76b6f80698357d95dbb03058e8f6aa9d94e354d0be28d",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e7c62f40d923d8b5-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721429",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%99%D7%91&action=history",
+      "chapter": 7,
+      "position": 12,
+      "textSha256": "a563a62003a6f94d3ebd2debda2b770b2fc38c3a3e57f3dee42eb5feb7539ed7",
+      "warning": "",
+      "storedTextSha256": "a563a62003a6f94d3ebd2debda2b770b2fc38c3a3e57f3dee42eb5feb7539ed7"
+    },
+    {
+      "title": "רות רבה ז יג",
+      "revisionId": 721430,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:39:50Z",
+      "lastDate": "2016-08-10T17:43:34Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e7736b867bf54a1e-parsed.json",
+      "parsedSha256": "c3a29bbcc3653872157cfc7394cb9c2e6c0390228e6a91b56fd5dc64c122a958",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e7736b867bf54a1e-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721430",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%99%D7%92&action=history",
+      "chapter": 7,
+      "position": 13,
+      "textSha256": "9c40ef3a1437e020dcb7a697c8eb4e1ad7dc22d079c9b6cf12b102c44eb4e31d",
+      "warning": "",
+      "storedTextSha256": "9c40ef3a1437e020dcb7a697c8eb4e1ad7dc22d079c9b6cf12b102c44eb4e31d"
+    },
+    {
+      "title": "רות רבה ז יד",
+      "revisionId": 721431,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:40:03Z",
+      "lastDate": "2016-08-10T17:43:44Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/393f607b81b3d65b-parsed.json",
+      "parsedSha256": "bbc1611fc9d15c5da88249004192be790208673ebdb99c45e543df53ad31c40b",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/393f607b81b3d65b-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721431",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%99%D7%93&action=history",
+      "chapter": 7,
+      "position": 14,
+      "textSha256": "e73ae1d9d6b09038652b9c9b71c33c591c6f579ab748ee961a57035f7f9d4705",
+      "warning": "",
+      "storedTextSha256": "e73ae1d9d6b09038652b9c9b71c33c591c6f579ab748ee961a57035f7f9d4705"
+    },
+    {
+      "title": "רות רבה ז טו",
+      "revisionId": 721432,
+      "historyCount": 2,
+      "firstDate": "2016-08-10T17:40:14Z",
+      "lastDate": "2016-08-10T17:43:55Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c1e8f1a3d7299967-parsed.json",
+      "parsedSha256": "b390d15914fc443f0fc7d9e43085164074b9a352f7481a90f32afe74ae75da4f",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/c1e8f1a3d7299967-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721432",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%98%D7%95&action=history",
+      "chapter": 7,
+      "position": 15,
+      "textSha256": "f96c8e7ccf6ea5c55f970203c919d419f91e57e17efd8feaa781f5d459532457",
+      "warning": "",
+      "storedTextSha256": "f96c8e7ccf6ea5c55f970203c919d419f91e57e17efd8feaa781f5d459532457"
+    },
+    {
+      "title": "רות רבה ז טז",
+      "revisionId": 721434,
+      "historyCount": 3,
+      "firstDate": "2016-08-10T17:40:24Z",
+      "lastDate": "2016-08-10T17:45:15Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/3b893c65b4ddc3bd-parsed.json",
+      "parsedSha256": "fe965da52b0006c05249417704304a7ef278e61217b8f44631c1bf1d42bed319",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/3b893c65b4ddc3bd-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721434",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%96%20%D7%98%D7%96&action=history",
+      "chapter": 7,
+      "position": 16,
+      "textSha256": "ae35bb3ca46e80e929befd7b5c37d5b91d36f291c28d98c951d7fae955dfd7da",
+      "warning": "",
+      "storedTextSha256": "ae35bb3ca46e80e929befd7b5c37d5b91d36f291c28d98c951d7fae955dfd7da"
+    },
+    {
+      "title": "רות רבה ח א",
+      "revisionId": 721437,
+      "historyCount": 3,
+      "firstDate": "2016-08-10T17:46:07Z",
+      "lastDate": "2016-08-10T17:46:21Z",
+      "flags": [],
+      "parsedSnapshot": "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e79ea1c206308c0a-parsed.json",
+      "parsedSha256": "3af066f3e27a5d3726fcc0415abc44e4616904be3230fcbde4ca5ad0b8eb96b0",
+      "historySnapshots": [
+        "Amudi/data/rights/ruth-rabbah-typed-source-20261104/e79ea1c206308c0a-history-0.json"
+      ],
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=721437",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%95%D7%AA%20%D7%A8%D7%91%D7%94%20%D7%97%20%D7%90&action=history",
+      "chapter": 8,
+      "position": 1,
+      "textSha256": "ab89ace9b9f409f12ccce564186e19894292aadeed0e27e26d81c99631433ca4",
+      "warning": "",
+      "storedTextSha256": "ab89ace9b9f409f12ccce564186e19894292aadeed0e27e26d81c99631433ca4"
+    }
+  ],
+  "sourceWarnings": [
+    {
+      "title": "רות רבה ד ו",
+      "warning": "Source explicitly reports no text at this printed passage number."
+    },
+    {
+      "title": "רות רבה ד ז",
+      "warning": "Source explicitly reports no text at this printed passage number."
+    },
+    {
+      "title": "רות רבה ד ח",
+      "warning": "Source explicitly reports no text at this printed passage number."
+    }
+  ],
+  "review": "Collected complete visible source-page histories and pinned rendered revisions. No Torat Emet, Daat, Sefaria or rights-conflict declaration was found in the retained revision content/comments. This relies on the source license and does not warrant every contributor’s authority."
+}

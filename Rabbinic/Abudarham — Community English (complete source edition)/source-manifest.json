@@ -1,0 +1,1293 @@
+{
+  "schemaVersion": 1,
+  "work": "Abudarham",
+  "parentPath": "Rabbinic/Abudarham",
+  "editionName": "Abudarham — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Rishonim/Abudarham/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/3ef0537b3e2cb22940a2.json",
+  "sourceRawSha256": "6a44855f395725f225ab2b8da0b5ac7cb96a334174a4a0ca0f671606a9ba16d0",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Abudarham; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Abudarham",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Rishonim/Abudarham/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/3ef0537b3e2cb22940a2.json",
+    "sourceRawSha256": "6a44855f395725f225ab2b8da0b5ac7cb96a334174a4a0ca0f671606a9ba16d0",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Abudarham",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Abudarham",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/69b3e414208f0a36de2b-versions.json",
+      "rawSha256": "62a64af18bd1475970502eabfc53e2bd71b43850525e01d8b6c6228424788a8a",
+      "retrievedAt": "2026-10-30T04:25:33.563Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": 3,
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Abudarham",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Abudarham, Third Gate; Blessings on Commandments"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Third Gate; Blessings on Commandments",
+      "sourcePosition": [
+        "Third Gate; Blessings on Commandments"
+      ],
+      "payloadSha256": "9f7dcc4cfb92abf060932ba35a4d04d48dfc708c55144f52d7bd5ea206c058d0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Gate; Blessings on Commandments",
+            1
+          ],
+          "sourceTextSha256": "76748edaa1ad3c224ea889e5bd15bbd92db2b093993d00f8edc1392969082d4b",
+          "retainedTextSha256": "76748edaa1ad3c224ea889e5bd15bbd92db2b093993d00f8edc1392969082d4b"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Gate; Blessings on Commandments",
+            2
+          ],
+          "sourceTextSha256": "c48096683a790987cb14be1e329181373d7a08d1eb089f37ab1c7dd43ba3e06d",
+          "retainedTextSha256": "c48096683a790987cb14be1e329181373d7a08d1eb089f37ab1c7dd43ba3e06d"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Gate; Blessings on Commandments",
+            3
+          ],
+          "sourceTextSha256": "b5ef3ecf4121093bc4fea510c349ce1bfa583818dadddcbed5768a0383453464",
+          "retainedTextSha256": "b5ef3ecf4121093bc4fea510c349ce1bfa583818dadddcbed5768a0383453464"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Gate; Blessings on Commandments",
+            4
+          ],
+          "sourceTextSha256": "a2ff6e5d5202211d59897b542289a7d527b7d7ce7e4fd9390ee6a0c34adb371b",
+          "retainedTextSha256": "a2ff6e5d5202211d59897b542289a7d527b7d7ce7e4fd9390ee6a0c34adb371b"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Gate; Blessings on Commandments",
+            28
+          ],
+          "sourceTextSha256": "f94b4aa0ee552f758d216a627e003f2439d1c32f5496dc3cb2b53c5165a0a392",
+          "retainedTextSha256": "f94b4aa0ee552f758d216a627e003f2439d1c32f5496dc3cb2b53c5165a0a392"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "Weekday Prayers · Morning Blessings",
+      "sourcePosition": [
+        "Weekday Prayers",
+        "Morning Blessings"
+      ],
+      "payloadSha256": "b272eea43af1e1d2bdfb3e115f02ec157257887a92bac163cb089b241eaca07b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Weekday Prayers",
+            "Morning Blessings",
+            29
+          ],
+          "sourceTextSha256": "d627fa788fdb39ee0577c2272cc82646719afcb1447c6f72beef2c79d0d43103",
+          "retainedTextSha256": "21220a49ecd1881100e09912b5f5f0e92518aa3e2cd8d982dfea84895c862750"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Weekday Prayers",
+            "Morning Blessings",
+            31
+          ],
+          "sourceTextSha256": "7ef253796e285730002457c50397a7290b57e775690e1825d8a80814757c692c",
+          "retainedTextSha256": "06cdc729f001399172f743e7ac5e54f6508cb9af97049368218aceb797443b45"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "Weekday Prayers · Evening Service",
+      "sourcePosition": [
+        "Weekday Prayers",
+        "Evening Service"
+      ],
+      "payloadSha256": "d2f3f7445c9efb07829f7c2c115880e9f1dabbb8f6f1d0306429016550b7baea",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Weekday Prayers",
+            "Evening Service",
+            8
+          ],
+          "sourceTextSha256": "0b9c5f9ba5b5ea236dc25cabdad334eadb986e58878ec9b4fbc2b447e139af9d",
+          "retainedTextSha256": "0b9c5f9ba5b5ea236dc25cabdad334eadb986e58878ec9b4fbc2b447e139af9d"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "Purim",
+      "sourcePosition": [
+        "Purim"
+      ],
+      "payloadSha256": "948396c33fcbd0dbe8057e3d3fc8e0b0f1a614a2c665c010b1d9fa06d4a69447",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Purim",
+            1
+          ],
+          "sourceTextSha256": "1714af10ed8580f64aa84c1b95c323b2c906950b7b795c31d6bd4f32f999aeb3",
+          "retainedTextSha256": "1714af10ed8580f64aa84c1b95c323b2c906950b7b795c31d6bd4f32f999aeb3"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Purim",
+            2
+          ],
+          "sourceTextSha256": "3ccaa41c33fd52380b87ee200378d1fc84479404cfe34b06088eb25252a771d0",
+          "retainedTextSha256": "3ccaa41c33fd52380b87ee200378d1fc84479404cfe34b06088eb25252a771d0"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Purim",
+            3
+          ],
+          "sourceTextSha256": "e6e467405a2df8c56093497b68426df86b924831603e162e82adb8890716cb4c",
+          "retainedTextSha256": "e6e467405a2df8c56093497b68426df86b924831603e162e82adb8890716cb4c"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "label": "Pesach · Second Part of the Seder",
+      "sourcePosition": [
+        "Pesach",
+        "Second Part of the Seder"
+      ],
+      "payloadSha256": "7734cd6c7982c74c8b321a414dd8601a3e62da671841740cedd170ce982ad7cd",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Pesach",
+            "Second Part of the Seder",
+            24
+          ],
+          "sourceTextSha256": "2907ed40175ccc06bd482cac613bd7214ff402ef3a7dbd921dbec7f5b2041f7e",
+          "retainedTextSha256": "2907ed40175ccc06bd482cac613bd7214ff402ef3a7dbd921dbec7f5b2041f7e"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Pesach",
+            "Second Part of the Seder",
+            25
+          ],
+          "sourceTextSha256": "55381e71bcad9773706073d16bc52f400b6b3d13a4c525587d9f3f5029a44444",
+          "retainedTextSha256": "55381e71bcad9773706073d16bc52f400b6b3d13a4c525587d9f3f5029a44444"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Pesach",
+            "Second Part of the Seder",
+            26
+          ],
+          "sourceTextSha256": "3932ea1816749e2d773a9e50afcb27df1a3705b2cf85595e51feb326bc65683f",
+          "retainedTextSha256": "3932ea1816749e2d773a9e50afcb27df1a3705b2cf85595e51feb326bc65683f"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Pesach",
+            "Second Part of the Seder",
+            27
+          ],
+          "sourceTextSha256": "5dd6f967222c534f85e0b44f3703584638f976c351d58c6d2683ce81a5c605dc",
+          "retainedTextSha256": "5dd6f967222c534f85e0b44f3703584638f976c351d58c6d2683ce81a5c605dc"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Pesach",
+            "Second Part of the Seder",
+            28
+          ],
+          "sourceTextSha256": "3a545c0cabce5b9c6dec8859c9c6f6ec3387eac97bbedaa362e5d11b9f3ea94f",
+          "retainedTextSha256": "3a545c0cabce5b9c6dec8859c9c6f6ec3387eac97bbedaa362e5d11b9f3ea94f"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Pesach",
+            "Second Part of the Seder",
+            29
+          ],
+          "sourceTextSha256": "5949e8f7056b3c73dcd7083becdbaa1eecec2fa886a1aa83ed2e1492440069f4",
+          "retainedTextSha256": "5949e8f7056b3c73dcd7083becdbaa1eecec2fa886a1aa83ed2e1492440069f4"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Pesach",
+            "Second Part of the Seder",
+            30
+          ],
+          "sourceTextSha256": "340e5be7822b319f12e4b65a36dd1c0b9eddaed48454c623d4953d2689b99e14",
+          "retainedTextSha256": "340e5be7822b319f12e4b65a36dd1c0b9eddaed48454c623d4953d2689b99e14"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "label": "Pesach · Festival Prayers",
+      "sourcePosition": [
+        "Pesach",
+        "Festival Prayers"
+      ],
+      "payloadSha256": "f848f6f4b08a3b7222094f17ba4b866b11ab51f49baf947758902c5d75c51eeb",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Pesach",
+            "Festival Prayers",
+            12
+          ],
+          "sourceTextSha256": "3489206067cce9fb706f487dc60ef09ebeb96be075736fb0e3faa4c7c5354114",
+          "retainedTextSha256": "8eab392b8d2b627d8c91ff90b8c412c30ec2b684519e7b5198eae8d9cdb5b993"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Pesach",
+            "Festival Prayers",
+            16
+          ],
+          "sourceTextSha256": "895afaa07252ba7213d62d6752d252079b35bb840d6fedf67a228a53f96b9c9d",
+          "retainedTextSha256": "895afaa07252ba7213d62d6752d252079b35bb840d6fedf67a228a53f96b9c9d"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "label": "Fasts · Tishah B'Av",
+      "sourcePosition": [
+        "Fasts",
+        "Tishah B'Av"
+      ],
+      "payloadSha256": "fd07f493500816de93ef8e1c183a7b032f7cf526fa538a305cc270cbf221dce0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            1
+          ],
+          "sourceTextSha256": "6b5b66f799113581ee23b479b343d7855c8ffaed33a54e603ed430fe2b391a2f",
+          "retainedTextSha256": "e0c496aec00e5ef1e812dd53859173f9e11a549209621084d87bb5508a25dc27"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            2
+          ],
+          "sourceTextSha256": "76001d7d3ea4d20023c192cd0bd6dcfbb121c6d09814725aa038f475cd2d9163",
+          "retainedTextSha256": "f2aef3687aebc20723f27c991eb5712c24bff6ebe0df0a459c9e6b8b5e3e5e25"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            3
+          ],
+          "sourceTextSha256": "1d6c28c546d628f40d7501adf0da7764a4b7737c6c94a5ad38bc1d330345f971",
+          "retainedTextSha256": "2e11631e3dfc3f4170014e893fdee2c5be23320cf50e0e5f66b82a5004bd65cd"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            4
+          ],
+          "sourceTextSha256": "4546c3c0ddab5dbecb98dc77491e9b0dc53ab0c3d040421ab76b05cf0104fa7a",
+          "retainedTextSha256": "2ca3f59ef4a6b4f0f696f5fe7abdabbbfe8d686f5a52f69997a93d05b87ab8c0"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            5
+          ],
+          "sourceTextSha256": "b8975573b1f78c8b4b4881a50a286fcc3dbddf529d7a0e5cf41edbed5d612106",
+          "retainedTextSha256": "d2b3d51f296debb127d398f2f1182c62cb48db4c819a63c60f9117eb0b43a91a"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            6
+          ],
+          "sourceTextSha256": "f383bcd94280e9daf0192af43cf1b1552b036fc60e229e369780bd406d25b1f3",
+          "retainedTextSha256": "a9e05f882d66129582c505984c43e0b7cccc8e26c8891d80c8e9f82d425bccfe"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            7
+          ],
+          "sourceTextSha256": "259802fe27d016bdb7ff2ddf847cb2fd87dd7558b15ffc31334e9871e1cacccd",
+          "retainedTextSha256": "85c9a91393b8ee993a0472f24c2b531bb26d7eb7ac328aa1698383246254f892"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            8
+          ],
+          "sourceTextSha256": "c34c9c84d969341b4e053c33f0f4f027fe9b9f4e5361d2a1635870c88dd0a0a0",
+          "retainedTextSha256": "9943dec95c95efc40331f18d464af9c83e5edfa58f5a52f49f0210de4e10b2ce"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            9
+          ],
+          "sourceTextSha256": "d7457faa0a8369400907f0603d9bce2987fe1fa4b5efae395befb606bfa7c058",
+          "retainedTextSha256": "15b9d20711eb876cf3bf1c15e399669064c2afc8785ce683bc5b6c2a290962aa"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Fasts",
+            "Tishah B'Av",
+            10
+          ],
+          "sourceTextSha256": "f31d984fd2222023886634b15d474fc34a22b44811fe79d77bc55df7db5ac94c",
+          "retainedTextSha256": "2ea7361ab8d1072aaf33ce36ec689c61e3a6d7b833fb7bc7728e2b7b91788674"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "label": "Rosh HaShanah · Prayers",
+      "sourcePosition": [
+        "Rosh HaShanah",
+        "Prayers"
+      ],
+      "payloadSha256": "e54da23d1d0c47771f6751f8f1879a2580fcdc84993dc3c1b89df4dc296cfa6b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Rosh HaShanah",
+            "Prayers",
+            8
+          ],
+          "sourceTextSha256": "e1f5fb5ccc13152a3162733f9c2b495073b5b8cc9b7dd62b6edbca81a0feea49",
+          "retainedTextSha256": "65d8a2f2f52a8dbb3e9ec95b4fdb08252712e5a9edf291f87b80ce834afd3aa9"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "label": "Rosh HaShanah · Blowing the Shofar",
+      "sourcePosition": [
+        "Rosh HaShanah",
+        "Blowing the Shofar"
+      ],
+      "payloadSha256": "6840e5b6c516c6805ea633038a71a96e63a9090c9f7d8f367091655d27701cf2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Rosh HaShanah",
+            "Blowing the Shofar",
+            15
+          ],
+          "sourceTextSha256": "c7116cb0db6d41a20a3aa65c3c878ca08d12de77e2145eda47cddad7ac982338",
+          "retainedTextSha256": "c7116cb0db6d41a20a3aa65c3c878ca08d12de77e2145eda47cddad7ac982338"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "label": "Yom Kippur · Confession",
+      "sourcePosition": [
+        "Yom Kippur",
+        "Confession"
+      ],
+      "payloadSha256": "b0459acc48e95d9e41d826b99d987133dc9dc7c8cf74a1f3e04a63c9f6ddb173",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Yom Kippur",
+            "Confession",
+            5
+          ],
+          "sourceTextSha256": "bddfa087d692df22038c0d47a585e47ca87de5994dda05ee82eae62d41677287",
+          "retainedTextSha256": "bddfa087d692df22038c0d47a585e47ca87de5994dda05ee82eae62d41677287"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Yom Kippur",
+            "Confession",
+            6
+          ],
+          "sourceTextSha256": "a85c04c85869ea7cb8ff7e243a7c949ada515b426a6aa43224a2e8026789e5f1",
+          "retainedTextSha256": "a85c04c85869ea7cb8ff7e243a7c949ada515b426a6aa43224a2e8026789e5f1"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "label": "Sukkot and Shemini Atzeret · Hoshana Rabba",
+      "sourcePosition": [
+        "Sukkot and Shemini Atzeret",
+        "Hoshana Rabba"
+      ],
+      "payloadSha256": "7a30436b50e6547ad3b0735f98ec6b1536df22eb57fd11a3ea1f9a881270b259",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Sukkot and Shemini Atzeret",
+            "Hoshana Rabba",
+            3
+          ],
+          "sourceTextSha256": "5cca5696f5b59df3404c6d95a19fdf4f7a7fcfcc491c1608f2a8328e20f2cc32",
+          "retainedTextSha256": "9cb4e71383d2da70078e1c754fa38e04177c7e27861e3be72ac3b46b39692419"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Sukkot and Shemini Atzeret",
+            "Hoshana Rabba",
+            4
+          ],
+          "sourceTextSha256": "651d9ec3235cb12f63bbefbda65369e930cf8e1f21b3eb8cf8eb3c6383de5593",
+          "retainedTextSha256": "651d9ec3235cb12f63bbefbda65369e930cf8e1f21b3eb8cf8eb3c6383de5593"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Sukkot and Shemini Atzeret",
+            "Hoshana Rabba",
+            5
+          ],
+          "sourceTextSha256": "b0b9e409a12e3a1078876cf5c114571cacfe11322f94ad0d934414431c842766",
+          "retainedTextSha256": "b0b9e409a12e3a1078876cf5c114571cacfe11322f94ad0d934414431c842766"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "label": "Sukkot and Shemini Atzeret · Shmini Atzeret",
+      "sourcePosition": [
+        "Sukkot and Shemini Atzeret",
+        "Shmini Atzeret"
+      ],
+      "payloadSha256": "bbadca0f0205f2130522b2a0a009f27b62705bef0747ed3bde53c76cc47f92da",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Sukkot and Shemini Atzeret",
+            "Shmini Atzeret",
+            6
+          ],
+          "sourceTextSha256": "81c339f0173fa0dac66cb61f271feb8d27faa70af570309525c13d192fd5d66f",
+          "retainedTextSha256": "b609a0d12fe70e6686707e8034a23bad31a7833ee4c5b97df43789d15e054662"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Sukkot and Shemini Atzeret",
+            "Shmini Atzeret",
+            7
+          ],
+          "sourceTextSha256": "cb3c66b3941b248f8bf3d97de51ea29fc2937c6ba93a48770eb3cbac8a8ad36a",
+          "retainedTextSha256": "cb3c66b3941b248f8bf3d97de51ea29fc2937c6ba93a48770eb3cbac8a8ad36a"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "label": "Hebrew Calendar · Introduction",
+      "sourcePosition": [
+        "Hebrew Calendar",
+        "Introduction"
+      ],
+      "payloadSha256": "5e6d03c8a37992a699cbe3c9ff6f1ccfda0aa2c50d3ba99360d3d0384869833f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Introduction",
+            11
+          ],
+          "sourceTextSha256": "e71bada46f6deab898bada424a6efc8a6141782220689c90a2fe47f1cc5f47bd",
+          "retainedTextSha256": "e71bada46f6deab898bada424a6efc8a6141782220689c90a2fe47f1cc5f47bd"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Introduction",
+            12
+          ],
+          "sourceTextSha256": "c675daa779ddb602e4969fc56583d3adaf6650c096008bee5e9a9e21438ca466",
+          "retainedTextSha256": "c675daa779ddb602e4969fc56583d3adaf6650c096008bee5e9a9e21438ca466"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "label": "Hebrew Calendar · Order of Parashiot and Haftarot",
+      "sourcePosition": [
+        "Hebrew Calendar",
+        "Order of Parashiot and Haftarot"
+      ],
+      "payloadSha256": "f9ecd86733d92518217e7fd6375ef54910476f342757cc84dd807ed72d693c29",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            1
+          ],
+          "sourceTextSha256": "6c81e0c632f92bf3c4bd49a6d8b01a21c3cbf51599a51ba0aa725659dd1c8c8c",
+          "retainedTextSha256": "0b847e5ee1b2f5109ce2826c69703bca411d25b7fc7a67989ccf04f5a041e0fe"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            2
+          ],
+          "sourceTextSha256": "e332e635e25a6e6f3b53b60663aec769cbc064f150409d6ae910f163a4a54527",
+          "retainedTextSha256": "5e5eff38ab884dbad3c176da5dd834d1ce5a9727f154f31dade5acd47402c5f5"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            3
+          ],
+          "sourceTextSha256": "d90a35b6be5f71dc7ae829f435def0a0c0997697c6c51f7657aca5ec07401fad",
+          "retainedTextSha256": "715cd37f62683696722d7b64637df9e62b482442abfee2f8ac0b79a36f873b80"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            4
+          ],
+          "sourceTextSha256": "d36de1535eaa7206e7fc2cef20537bd35ddf6b37ae67df82271e1d53116ea35c",
+          "retainedTextSha256": "fd11bb8d6f86249b1bac2f230a7831ce9f8a0842c0ebd422708c85ed93e5cdca"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            5
+          ],
+          "sourceTextSha256": "ed890e934b9a088366ac6c130c9c5e7308c76b14f20f4b8a422595e9b18c36d4",
+          "retainedTextSha256": "5cd8deab67b1784695213b6f04770f277ddb896166a6216ca2d6b01ce4c66c51"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            6
+          ],
+          "sourceTextSha256": "0d96c7021fd58bcaa529042e49ee11ec912bb9587cd77d3a2b1f9fab24da9f71",
+          "retainedTextSha256": "27e6497b302f9f06ac7b2d5053e4b6412705e251b7523ee3079337834a14d80b"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            7
+          ],
+          "sourceTextSha256": "9ec6fb869c137e81841c84a094e95cbafc2677a3aad447be5ed8812a3848f75b",
+          "retainedTextSha256": "6f10a890a2af2703c52a7db85fb95fa715c7fdee3155a9ed182d61a21b26ea8e"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            8
+          ],
+          "sourceTextSha256": "f755e76889036ae1171e4eb6ceb525edb523eb9a170488c6fd3dcf66af0d1206",
+          "retainedTextSha256": "851142efdf78968fdb01843bdca7aad92a779c83351e6d2862055a721bec4b18"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            9
+          ],
+          "sourceTextSha256": "2045ed32d14928217c19a69856defb74fe72ea082436f10c3a2efed36e31fba6",
+          "retainedTextSha256": "fbea9f57935dd57642dfb2c25a7fc62ce9b35d0e2783c1e43406628bfd891dd0"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            10
+          ],
+          "sourceTextSha256": "0be1a137692dc270888d27eb1095532643e5e2cbc40b547b3e4ad150cd34d606",
+          "retainedTextSha256": "fe964fc689dd59a35e9da877c089ba86e20296a594c2cc7e4e4daa33c5dc4330"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            11
+          ],
+          "sourceTextSha256": "fed5f23c9bf38b53526b906c2d241b55eca0d502b0ebea526fc4dcb4f276b369",
+          "retainedTextSha256": "6497124012454d97969d359b727a22ed0e6f161d84b75ee4f27979520a17356e"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            12
+          ],
+          "sourceTextSha256": "c934f09e779c8d84a455ba73dffd987f787e7a741a4f1365d882680e92581f95",
+          "retainedTextSha256": "f6b0a566e715b4cb6a9046b66d7f610377c37ccb14752fcbf4abc335ef4994fe"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            13
+          ],
+          "sourceTextSha256": "44fa064b2d0c36b54d99356db43cbb813464a8244e45054b962a2295d26cd9ec",
+          "retainedTextSha256": "96729dc26a2fd35d2e8fb5fe992253f0a2d8a4f1f4de0587c836b4a3c554ecee"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            14
+          ],
+          "sourceTextSha256": "8c965396fbd3b60379346e34230eae2b18d4a0096407956ba67458770d9491dc",
+          "retainedTextSha256": "b229ef0e1d68ec3d1acfd16ef1447d7a61487e013a3ccdd3fa2b0a572c3a2bd4"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            15
+          ],
+          "sourceTextSha256": "7da9047e7cce4e31eec5d8394e1f9ab78de85cfd956065967de822c4ff50ec14",
+          "retainedTextSha256": "625cc4b856646cf1aae50faff8154606bb1d93061725ecd280b94913ffad31d0"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            16
+          ],
+          "sourceTextSha256": "76354ac97691d6374fca7f04b5260c4058083c4d6090288199f70d99564e9f05",
+          "retainedTextSha256": "ce088fbd1205e5c6ae70e026521a361fed7ad2b211ffe965370ebd4061699cd6"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            17
+          ],
+          "sourceTextSha256": "5ef1319b98748a41911c0dbadb9a5044197c08336a5c2d4b3d15e3be667d7506",
+          "retainedTextSha256": "2345a5d1a66648455277cdd0935c0578b1578dd725ffb60e1cc0bbf0ed22a96d"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            18
+          ],
+          "sourceTextSha256": "837db65b58e74791e7ee032f4d8f2ac53a819229c3bfbfdd7c055d12188a8214",
+          "retainedTextSha256": "03a0592ef023929db6d098b1b5fa427f2138c41d78d473dc3067da21ab8ece72"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            19
+          ],
+          "sourceTextSha256": "a29a293417e2a1a8d104e07241d1cd53ba9396d34296d0aa53c8fba2aac3df0b",
+          "retainedTextSha256": "597959e9c01c07718961a4a44711ab18cd186e1d5dae736250fea219e924b939"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            20
+          ],
+          "sourceTextSha256": "2c275a694d16efa13b34ab9ad2da4ce16b152d591074609d2e08713d05c1c996",
+          "retainedTextSha256": "ba7c5b6f5038c010017848a6a21de287509b4b9906d1cb1d6b48668a69fac6f3"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            21
+          ],
+          "sourceTextSha256": "239e61783769bab9d91e2d93869667df587f612e73b360ddef566d88c50e63f1",
+          "retainedTextSha256": "16965734e9442af1a11aaef8b45367bcca241aff1cf0bebefb950f6d11af7d00"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            22
+          ],
+          "sourceTextSha256": "5bfe2dcdc9b68e1f8859f572b99be39e4fe7f3085e1d0ff19610561b0eaf6e21",
+          "retainedTextSha256": "e49d1ee0d388a85968b2e97e765295c538f03f38bd68f322e53c300525843258"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            23
+          ],
+          "sourceTextSha256": "9d8ded0f42d906adff2ce23cc9c264d9f44eb94c363f4c249e7f4e000fcf93ac",
+          "retainedTextSha256": "994372b3403781033e920fd1b456f8bc2826c6aaf66a323d91710a65b79016f6"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            24
+          ],
+          "sourceTextSha256": "41827e162385fa14908b888f22f4e33a9e421042931862418a14d706d0710a8f",
+          "retainedTextSha256": "01a8671f9d66e1bdb69775c3f085f55422627b96b6d2d985ada2fc405bc3e361"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            25
+          ],
+          "sourceTextSha256": "eac92870966407a154202ce3cd1f8f01a468fad50ec7e2d0ce6d2f460b06ac76",
+          "retainedTextSha256": "1d748a40a3e0ca54c20e46e80e4c4de8e923eee47f14be46e1a3e26722bb4065"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            26
+          ],
+          "sourceTextSha256": "4fba74bfda5213fdad32090f18e8081cffb61e40b59ad6f122c87c9063d6f942",
+          "retainedTextSha256": "61537074ac9dea157e74375b1dc4885223a0586788877a3b511c3586eb83f701"
+        },
+        {
+          "paragraph": 27,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            27
+          ],
+          "sourceTextSha256": "41c119671cda7c169243735066dc15081d89626c175a4892efc04a46ddd45f9c",
+          "retainedTextSha256": "23f07c828815227c9461a4491f0cf72b8e1e62b037d840563fb01ffa8663573a"
+        },
+        {
+          "paragraph": 28,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            28
+          ],
+          "sourceTextSha256": "0ed0c5211dd37fff3582d7167d111118a0ee45a2b1e71cc00a465279d57db4b4",
+          "retainedTextSha256": "bd04c98a05ecf77f982410510a2ca31620e249f608f0fc062a1bec11158f0693"
+        },
+        {
+          "paragraph": 29,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            29
+          ],
+          "sourceTextSha256": "a1f51f61b136275b1be6cb4b1aba6bf12b1de21cc3a6b503c91195534155ce2b",
+          "retainedTextSha256": "09359d41da2764e6856e424b3526f48d5f7d653b93b48fee3541d8c3239d30d2"
+        },
+        {
+          "paragraph": 30,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            30
+          ],
+          "sourceTextSha256": "3ca7bc95559d17846ee0d91c6cf857e709099fe4a179cee6b85c4a2b9fcc55cd",
+          "retainedTextSha256": "3c1eb8524cd663982c52779540d1ccc8a161d3cb34c71788251fad04b5354c8c"
+        },
+        {
+          "paragraph": 31,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            31
+          ],
+          "sourceTextSha256": "e8e1942d8bae4ac926ed5e56ae1b480ca46a3d43af8d3eea68eeb7f228254b8c",
+          "retainedTextSha256": "b2920de3994f4426e7841800471c52011fd87512594a8e8a139291fccfe28561"
+        },
+        {
+          "paragraph": 32,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            32
+          ],
+          "sourceTextSha256": "589ca2ced3418c039094d21bb05d43a5a6f47165cd17aec0ca16491e9b55b1a9",
+          "retainedTextSha256": "fcd902371997dbe29b22e0d7f07d99a257a8539a09e920c6210d67355547ba8c"
+        },
+        {
+          "paragraph": 33,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            33
+          ],
+          "sourceTextSha256": "e943dfbf2705845ab9391b6c23cee3a6e16932e9dc498d1010f631689d0c0278",
+          "retainedTextSha256": "13a864c2571594605d6466e8ea08e84c9929c26ba4c8ed98c7e8221bb05fa210"
+        },
+        {
+          "paragraph": 34,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            34
+          ],
+          "sourceTextSha256": "8d110e2970e275918d7e6b1e81d10286655876ee6b8f9bb16fd46e5194343946",
+          "retainedTextSha256": "0002b832848733bcb464d5a48f6ec6a6a6621f77c8212f18dfdca7f057ab9837"
+        },
+        {
+          "paragraph": 35,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            35
+          ],
+          "sourceTextSha256": "6c339b243283f4257d2ddc329288ac198dfba68d7844b972951aab3cbcff9d47",
+          "retainedTextSha256": "252e2662afc30ea54a04ac992be8ce355823d1ec8b7502ed62838061e2d0eca3"
+        },
+        {
+          "paragraph": 36,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            36
+          ],
+          "sourceTextSha256": "23fac48392f7254e963c3362b84a343afcdf33567a6e77a8afeb0acfedb31677",
+          "retainedTextSha256": "24c7768bb58ed9624e835f5bc09d646ac55bf8277dfabcdc73261ff00fc0e761"
+        },
+        {
+          "paragraph": 37,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            37
+          ],
+          "sourceTextSha256": "7ee95acf133e296738e99760fab4505ac2aad9bcc9b3c79651d90e10d7b0f3db",
+          "retainedTextSha256": "9a0b4d74e37f25241b7984ecad341f746fce23182fd17d7c302ddf0463aeadaa"
+        },
+        {
+          "paragraph": 38,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            38
+          ],
+          "sourceTextSha256": "4520e537d9f0389b372ff2b643a83d3c6a2ffcb08e4ce152fefa8ec005a98b65",
+          "retainedTextSha256": "5b8947d130eb839aa0011403097d569f392da5184d8362518231ab1db930c318"
+        },
+        {
+          "paragraph": 39,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            39
+          ],
+          "sourceTextSha256": "62756df45e9f85bd783b1ebac2114993cf94149403e4ab59a597860dce4edaa4",
+          "retainedTextSha256": "6bdb32102be595750954d4e82f581eca07dbaadf69ca59b8dad630d3ec2920fc"
+        },
+        {
+          "paragraph": 40,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            40
+          ],
+          "sourceTextSha256": "87004516eab263bfbba1553abdcc781008b157ecf3e026ecd92f33b290bbdbd5",
+          "retainedTextSha256": "b0e0ba8c23eb8b12c92e25e6b027224f6aa3858c7b32e50263a12b384d8acc5d"
+        },
+        {
+          "paragraph": 41,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            41
+          ],
+          "sourceTextSha256": "a3acb9ec5a16f97a8a5f6f4a641b44e252185fb0b4f3c6d8297e9c73f3c9534a",
+          "retainedTextSha256": "5f6d98144091f01b965114becbf3af3fcd9401161c7c2ebf08df68a3059540c3"
+        },
+        {
+          "paragraph": 42,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            42
+          ],
+          "sourceTextSha256": "31384fccb15dec2e13adfbbe9b833baec5cb80d3f6f3125f82d2e0f90c65c345",
+          "retainedTextSha256": "05adb7ec97b52c9a1508f7a5ae90220a40fba1719fc5ed361817696280a10901"
+        },
+        {
+          "paragraph": 43,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            43
+          ],
+          "sourceTextSha256": "85b0b1ab9e68d232613664cdf09f5e539274913020e0847d95f3840c2d8e4380",
+          "retainedTextSha256": "09c28d4e97f9e5d45a91f6d456299a82f5fc005d828e4a12631c81d2a0020230"
+        },
+        {
+          "paragraph": 44,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            44
+          ],
+          "sourceTextSha256": "f04c2681505afdc47bee4f0e444643db1189e00a13cbf719031607d5a6b20230",
+          "retainedTextSha256": "b60e17869def479a437711c5cdd7f25ca56da69b954d78f8759a47d7faa5bbf8"
+        },
+        {
+          "paragraph": 45,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            45
+          ],
+          "sourceTextSha256": "6a7f979c11fb6f52e6799db02bf778a9bb4a3cb7d2d6be043d1879ed18b47936",
+          "retainedTextSha256": "7e08cfc11cc694e7517195a5873b3536b81cc266dca39f0cdc4c44085e4b6a0a"
+        },
+        {
+          "paragraph": 46,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            46
+          ],
+          "sourceTextSha256": "8722e01ff7871fe4efc9a0e72c36bf3aa2f5392918ca48992f8dee3417610fbc",
+          "retainedTextSha256": "539e43e1978d0bf8bd22b52dc67c881624e711d79acd03de032d660599df9753"
+        },
+        {
+          "paragraph": 47,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            47
+          ],
+          "sourceTextSha256": "9a25e5c66925d596e2af33328b99601c217db12bc1ab64fbe942f13f43ef8c51",
+          "retainedTextSha256": "266da5973232daf206e86fa8af35f0d472a3ef039a43c104ac12b4427361f909"
+        },
+        {
+          "paragraph": 48,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            48
+          ],
+          "sourceTextSha256": "72ff62ff3e37d43e697fab1271b717d328a7934e4409850d74d4ccdf9e505127",
+          "retainedTextSha256": "5a0f7389c623e93e55e0ae9e8518750b00b9cea07c451fde47e82828f985ef0f"
+        },
+        {
+          "paragraph": 49,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            49
+          ],
+          "sourceTextSha256": "e588f2c72ef1628b7ff62a5d8d58d62a362560c91ad8a75218a55a7c1f73832c",
+          "retainedTextSha256": "136fd90965e522dc039b339f261c377ad32d53d56340f1fda1784867c4871f01"
+        },
+        {
+          "paragraph": 50,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            50
+          ],
+          "sourceTextSha256": "dfe0a80d93eed4cb2248aed2ccffee783b4759aeb6fd3c21d1bf554b30bc0f5a",
+          "retainedTextSha256": "d9bd2ccbae0d24ead000bee67e5ed148e3653232fd08148e03f9a28330c44190"
+        },
+        {
+          "paragraph": 51,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            51
+          ],
+          "sourceTextSha256": "a6f8a8f31d3b625afc52a453b5e54fbe661b718c30c23455eb426398543a1b74",
+          "retainedTextSha256": "f0b137f02f1709485180acfa2b3ad0def70ea84e8c4141b2fdb0be97e9b3925d"
+        },
+        {
+          "paragraph": 52,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            52
+          ],
+          "sourceTextSha256": "558b84a30462a08802b72d500a42d731b3ec3413c81a0a63b18616f80171a589",
+          "retainedTextSha256": "c61618f1b63c79c912dc07efabd06597233d17b8d1e1371a60c2a6de13bebb82"
+        },
+        {
+          "paragraph": 53,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            53
+          ],
+          "sourceTextSha256": "ed68bdc6a8ed7d6478a3c0a2bdcfe1cc904de64b9fd90514c7c35962a6a6a3f8",
+          "retainedTextSha256": "ea15066b58cff63da5fce2414e079052d58f7a1dff9fee7ddef970764c12b4e9"
+        },
+        {
+          "paragraph": 54,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            54
+          ],
+          "sourceTextSha256": "e63d88a67b54c2c4bb0969581859bae7a926da39aae775b7f4d83213514e3489",
+          "retainedTextSha256": "e4eeaabf01f9c08bdd2025e38d1f3b3e329c05cddc95038a466f005e333e4845"
+        },
+        {
+          "paragraph": 55,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            55
+          ],
+          "sourceTextSha256": "61c9ff8debb2281d8d9652e1422e892131014e3fd3e53b7b912952f1e7e607c4",
+          "retainedTextSha256": "94bbdb1e4eb9722629319e5a97d284bde537683ba3e5924d7e3e80d4af309e51"
+        },
+        {
+          "paragraph": 56,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            56
+          ],
+          "sourceTextSha256": "69d58f7db9e02fc2dc92b2a20fdfdb3ffdd0bfc1831e499f71cf5d0e55525657",
+          "retainedTextSha256": "7a0abd94cb9eecf2a11ace8146bed86aba34defae59d9e6ec2ae981a0023898f"
+        },
+        {
+          "paragraph": 57,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            57
+          ],
+          "sourceTextSha256": "4b709d6dcb2d1329425c5b553676b7914d01487bf89d50a4febcb6cafee6ac93",
+          "retainedTextSha256": "8573c8177a58e9ebc3b42cd1c28903fff33028d55db79efd424f5e06251a461c"
+        },
+        {
+          "paragraph": 58,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            58
+          ],
+          "sourceTextSha256": "86ac052a33c108da0c6a8b655bb00ae9788963fc5a426eef09b4b9aee457f34e",
+          "retainedTextSha256": "8e4b18fa8cb5983e23a99dd9346d9d7921222f46357eac6c38489d50c9b75e96"
+        },
+        {
+          "paragraph": 59,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            59
+          ],
+          "sourceTextSha256": "f313a35715a47d1d4d96e0781d834b09d6c2244faa0efc878e0aaee65841f7eb",
+          "retainedTextSha256": "f313a35715a47d1d4d96e0781d834b09d6c2244faa0efc878e0aaee65841f7eb"
+        },
+        {
+          "paragraph": 60,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            60
+          ],
+          "sourceTextSha256": "a01a975d6794efec0dc2924a7753657f3cc12a16d149464c8459f40b8d4d39b9",
+          "retainedTextSha256": "a01a975d6794efec0dc2924a7753657f3cc12a16d149464c8459f40b8d4d39b9"
+        },
+        {
+          "paragraph": 61,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            61
+          ],
+          "sourceTextSha256": "a5cf137029068c5d11e8ab250c5e616f551cd7665188d3ee3c5cd2955e1ee5cb",
+          "retainedTextSha256": "4784df6efc4596f117f38b6ebb9dccc646354049379c53d8962d5ed92dbb360a"
+        },
+        {
+          "paragraph": 62,
+          "sourcePosition": [
+            "Hebrew Calendar",
+            "Order of Parashiot and Haftarot",
+            62
+          ],
+          "sourceTextSha256": "c86830fdd865a774b280389edaaf0903750e9e45d9e76a2a7c25afc953d2c632",
+          "retainedTextSha256": "95975a6afceb8b24e342906339baabb49ea541c9fc861358673c8cebe2d62500"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "label": "Laws of Blessings · Introduction",
+      "sourcePosition": [
+        "Laws of Blessings",
+        "Introduction"
+      ],
+      "payloadSha256": "1a806513a1080ca969f31b6e81ab99355d553c1b60c5c4e807704e1c6d03e89c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Laws of Blessings",
+            "Introduction",
+            3
+          ],
+          "sourceTextSha256": "dc1362aeb62fe428e86270003fd03f01a7a0fdc53a59f130acb6e860114ffd4f",
+          "retainedTextSha256": "dc1362aeb62fe428e86270003fd03f01a7a0fdc53a59f130acb6e860114ffd4f"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 104,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.448Z"
+}

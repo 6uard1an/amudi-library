@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "malbim-leviticus-open-excerpts",
+  "title": "Malbim on Leviticus — open source-matched excerpts",
+  "hebrewTitle": "מלבי״ם על ויקרא — קטעים פתוחים",
+  "authors": [
+    {
+      "name": "Meir Leibush ben Yehiel Michel (Malbim)",
+      "role": "Commentary author"
+    },
+    {
+      "name": "Hebrew Wikisource contributors",
+      "role": "Digitization and editorial contributions"
+    }
+  ],
+  "volumeCount": 1,
+  "languages": [
+    "Hebrew"
+  ],
+  "licenses": [
+    "CC BY-SA 4.0"
+  ],
+  "volumes": [
+    {
+      "book": "Leviticus",
+      "hebrewBook": "ויקרא",
+      "section": "Torah",
+      "bookPath": "Torah/Leviticus",
+      "file": "Tanakh/Commentaries/malbim-leviticus-open-excerpts/leviticus.json",
+      "chapterCount": 27,
+      "languages": [
+        "Hebrew"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export and Hebrew Wikisource",
+          "workTitle": "Malbim on Leviticus",
+          "versionTitle": "Source-matched excerpts, Wikisource pages and Sefaria export",
+          "language": "Hebrew",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Malbim/Torah/Malbim%20on%20Leviticus/Hebrew/Malbim%20on%20Vayikra%20%E2%80%93%20Wikisource.json",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Malbim; Sefaria Export; Hebrew Wikisource contributors. Exact pages, revisions and contributor-history links are listed in source-manifest.json. Passage links: Sefaria links dataset, CC BY 4.0.",
+          "changes": "Selected source paragraphs with matching Hebrew-letter or complete ordered Hebrew-word sequences on Wikisource verse pages and matching provider references or unambiguous single-verse page titles; preserved source wording and punctuation and reorganized by Bible verse. No OCR or translation. Sefaria labels its export Public Domain; this edition is conservatively distributed under CC BY-SA 4.0.",
+          "sourceManifestPath": "Tanakh/Commentaries/malbim-leviticus-open-excerpts/source-manifest.json",
+          "coverageStatus": "Partial: 733 source-matched excerpts from nine parashot. Some source punctuation and editorial additions may differ from the current Wikisource pages."
+        }
+      ],
+      "supplementarySectionCount": 0
+    }
+  ],
+  "coverageStatus": "Partial: 733 source-matched excerpts from nine parashot. Some source punctuation and editorial additions may differ from the current Wikisource pages.",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "shareAlikeRequired": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY-SA 4.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/malbim-leviticus-open-excerpts/source-manifest.json"
+  ]
+}

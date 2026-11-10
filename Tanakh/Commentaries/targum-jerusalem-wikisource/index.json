@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "targum-jerusalem-wikisource",
+  "title": "Fragment Targum on Torah — Wikisource edition",
+  "hebrewTitle": "תרגום ירושלמי (קטעים) — מהדורת ויקיטקסט",
+  "authors": [
+    {
+      "name": "Traditional Targum Jerusalem",
+      "role": "Traditional text; ancient authorship uncertain"
+    },
+    {
+      "name": "David Wiscot and Hebrew Wikisource contributors",
+      "role": "Digitization and transcription"
+    }
+  ],
+  "volumeCount": 5,
+  "languages": [
+    "Aramaic"
+  ],
+  "licenses": [
+    "CC BY-SA 4.0"
+  ],
+  "volumes": [
+    {
+      "book": "Genesis",
+      "hebrewBook": "בראשית",
+      "section": "Torah",
+      "bookPath": "Torah/Genesis",
+      "file": "Tanakh/Commentaries/targum-jerusalem-wikisource/genesis.json",
+      "chapterCount": 50,
+      "languages": [
+        "Aramaic"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Fragment Targum on Torah",
+          "versionTitle": "Typed Wikisource chapter revisions",
+          "language": "Aramaic",
+          "actualLanguage": "arc",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?oldid=755120",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Wikisource pages display CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Wiscot, identified as transcriber and vocalizer on the source index; Hebrew Wikisource contributors. Each used chapter revision and contributor history is in the source manifest.",
+          "changes": "Extracted passage text into book/chapter/verse arrays and collapsed whitespace. Marker errors were reconciled using visible source labels and a separately indexed edition. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-jerusalem-wikisource/source-manifest.json",
+          "textSha256": "cd5ef4cdcaca72b5ddb6ddbaeba1f1593224d5e53c7c27d471b1e09c1ea5ae59"
+        }
+      ],
+      "supplementarySectionCount": 0
+    },
+    {
+      "book": "Exodus",
+      "hebrewBook": "שמות",
+      "section": "Torah",
+      "bookPath": "Torah/Exodus",
+      "file": "Tanakh/Commentaries/targum-jerusalem-wikisource/exodus.json",
+      "chapterCount": 40,
+      "languages": [
+        "Aramaic"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Fragment Targum on Torah",
+          "versionTitle": "Typed Wikisource chapter revisions",
+          "language": "Aramaic",
+          "actualLanguage": "arc",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?oldid=769884",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Wikisource pages display CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Wiscot, identified as transcriber and vocalizer on the source index; Hebrew Wikisource contributors. Each used chapter revision and contributor history is in the source manifest.",
+          "changes": "Extracted passage text into book/chapter/verse arrays and collapsed whitespace. Marker errors were reconciled using visible source labels and a separately indexed edition. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-jerusalem-wikisource/source-manifest.json",
+          "textSha256": "ca0a170218f5ed86ba78f19cd272a7307707c5a30a3902a2f0ba920ae78983c8"
+        }
+      ],
+      "supplementarySectionCount": 0
+    },
+    {
+      "book": "Leviticus",
+      "hebrewBook": "ויקרא",
+      "section": "Torah",
+      "bookPath": "Torah/Leviticus",
+      "file": "Tanakh/Commentaries/targum-jerusalem-wikisource/leviticus.json",
+      "chapterCount": 27,
+      "languages": [
+        "Aramaic"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Fragment Targum on Torah",
+          "versionTitle": "Typed Wikisource chapter revisions",
+          "language": "Aramaic",
+          "actualLanguage": "arc",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?oldid=756956",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Wikisource pages display CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Wiscot, identified as transcriber and vocalizer on the source index; Hebrew Wikisource contributors. Each used chapter revision and contributor history is in the source manifest.",
+          "changes": "Extracted passage text into book/chapter/verse arrays and collapsed whitespace. Marker errors were reconciled using visible source labels and a separately indexed edition. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-jerusalem-wikisource/source-manifest.json",
+          "textSha256": "3cb2025b76bb5c7d8e30f8e8bb3cb93989dc5d1de3ebe39e0fe4dc9db04aaaf6"
+        }
+      ],
+      "supplementarySectionCount": 0
+    },
+    {
+      "book": "Numbers",
+      "hebrewBook": "במדבר",
+      "section": "Torah",
+      "bookPath": "Torah/Numbers",
+      "file": "Tanakh/Commentaries/targum-jerusalem-wikisource/numbers.json",
+      "chapterCount": 36,
+      "languages": [
+        "Aramaic"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Fragment Targum on Torah",
+          "versionTitle": "Typed Wikisource chapter revisions",
+          "language": "Aramaic",
+          "actualLanguage": "arc",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?oldid=769867",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Wikisource pages display CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Wiscot, identified as transcriber and vocalizer on the source index; Hebrew Wikisource contributors. Each used chapter revision and contributor history is in the source manifest.",
+          "changes": "Extracted passage text into book/chapter/verse arrays and collapsed whitespace. Marker errors were reconciled using visible source labels and a separately indexed edition. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-jerusalem-wikisource/source-manifest.json",
+          "textSha256": "678b1e18a8cfd4a6a482957794bdaa32adbd1fd514e7527289270239229b1d24"
+        }
+      ],
+      "supplementarySectionCount": 0
+    },
+    {
+      "book": "Deuteronomy",
+      "hebrewBook": "דברים",
+      "section": "Torah",
+      "bookPath": "Torah/Deuteronomy",
+      "file": "Tanakh/Commentaries/targum-jerusalem-wikisource/deuteronomy.json",
+      "chapterCount": 34,
+      "languages": [
+        "Aramaic"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Fragment Targum on Torah",
+          "versionTitle": "Typed Wikisource chapter revisions",
+          "language": "Aramaic",
+          "actualLanguage": "arc",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?oldid=769365",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Wikisource pages display CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Wiscot, identified as transcriber and vocalizer on the source index; Hebrew Wikisource contributors. Each used chapter revision and contributor history is in the source manifest.",
+          "changes": "Extracted passage text into book/chapter/verse arrays and collapsed whitespace. Marker errors were reconciled using visible source labels and a separately indexed edition. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-jerusalem-wikisource/source-manifest.json",
+          "textSha256": "12794d844c7e9258a44196ce8c8cf641413af18270ba6b90ec4f875485c7e0ab"
+        }
+      ],
+      "supplementarySectionCount": 0
+    }
+  ],
+  "coverageStatus": "Fragmentary source; source marker errors and manual corrections are documented.",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "shareAlikeRequired": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY-SA 4.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/targum-jerusalem-wikisource/source-manifest.json"
+  ]
+}

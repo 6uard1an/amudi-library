@@ -1,0 +1,154 @@
+{
+  "work": "Ruth Rabbah",
+  "parentPath": "Rabbinic/Ruth Rabbah (Hebrew Wikisource)",
+  "translationPath": "Sefaria 2022 English (reviewed Wikisource passages)",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Ruth%20Rabbah/English/The%20Sefaria%20Midrash%20Rabbah%2C%202022.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Ruth Rabbah; The Sefaria Midrash Rabbah, 2022; original publisher/source: http://sefaria.org; Sefaria Export. [Managing Editor: Jason Rappoport\nTranslator: Joshua Schreier\nEditor: Michael Siev\nEditor: Yaacov Francus\nCopy-editor: Deborah Meghnagi Bailey\nCopy-editor: Ilana Sobel]",
+  "sourceEditionPath": "Rabbinic/Ruth Rabbah/Sefaria 2022 English (source mapped)",
+  "sourceEditionMapping": "english-source-mapping-6cf79f489191.json",
+  "pairs": [
+    {
+      "chapter": 9,
+      "passage": 6,
+      "hebrewSha256": "b15ace1e829325ca1f473c2b7683096eb6f8dfe52e61c1d9975a7de4c3e11a97",
+      "priorHebrewSha256": "af5f61e103d5e38bf8b6c2d80712f0c36a932fb16ce8abef88ac71ddaa24a75c",
+      "englishSha256": "33e6bc319d8418933fefac0b1ca4a99f7308f1f4577249319862689468ccba8d",
+      "spellingDifferences": [
+        {
+          "prior": "ו",
+          "new": ""
+        },
+        {
+          "prior": "",
+          "new": "ו"
+        },
+        {
+          "prior": "",
+          "new": "ו"
+        },
+        {
+          "prior": "",
+          "new": "ו"
+        },
+        {
+          "prior": "ו",
+          "new": ""
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "passage": 1,
+      "hebrewSha256": "3a06c5a66bc1480d8f84cb429764234c8b9b819c36cd2268f58d081da45064a7",
+      "priorHebrewSha256": "885aab53501cb50df4939ace3899fbf2417e6b91c947ac5e59c0f80bb479f2c5",
+      "englishSha256": "8f51e0be52cc91b3ea54b10be250e80b2da3437a70b039645a428c54b8f7f9d7",
+      "spellingDifferences": [
+        {
+          "prior": "",
+          "new": "ו"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "passage": 17,
+      "hebrewSha256": "c9e6f8745b30aa3873910cd61366d1bd8a9690058bfa168f1721020a71213484",
+      "priorHebrewSha256": "9fb85207c549d8b29844b39849ea5793bf24ae12239ddceebfc782d887c0c113",
+      "englishSha256": "cd9e7af82e58b0ef53c82596aed0181f51b5fa66ec8e0491b11eb2883f332ef7",
+      "spellingDifferences": [
+        {
+          "prior": "",
+          "new": "י"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "passage": 23,
+      "hebrewSha256": "072712937f4ace0402f8571ea89ef612ff3670e811eccde510c52c46e01eb67c",
+      "priorHebrewSha256": "4fe177b8a9d7956861d88d80f87cbcc750cd8e7f419e39ecd7f0c9a7dadb6526",
+      "englishSha256": "f7b60dc86a30386366f58547eec1f5441ac52a58cd8cca5a2c2d96623a8351b2",
+      "spellingDifferences": [
+        {
+          "prior": "",
+          "new": "ו"
+        },
+        {
+          "prior": "",
+          "new": "ו"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "passage": 2,
+      "hebrewSha256": "84f800c01334ff401c99b5316b97fa5300a190730b340e3214f9d702c0c4d5e1",
+      "priorHebrewSha256": "8a63236fa9ad447642320546a301766c3614dba222982d38615093c9df663057",
+      "englishSha256": "ce6ae083c2f5c8cee30f81604e510162904c86b47ed559d1e37a2465a82e2e90",
+      "spellingDifferences": []
+    },
+    {
+      "chapter": 5,
+      "passage": 10,
+      "hebrewSha256": "2c37c9f0ca971361a9b633c3bd810028c223ba679b734a0bf58698b52f784a7c",
+      "priorHebrewSha256": "d042d8694341fd22e7ca7ea6aef1c3f1f553543ef4fbe1d50e50897605544219",
+      "englishSha256": "367df3a2e040d3702a21b424b64efe90345106e0b2e88c1b9b23f0a859697e6c",
+      "spellingDifferences": [
+        {
+          "prior": "",
+          "new": "ו"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "passage": 11,
+      "hebrewSha256": "5ef4071f581243a0919dc62af3bab9d573165eff99ab415766535dfee2ffe0f4",
+      "priorHebrewSha256": "79fbfcb6e398c9fe4d301137d2f67aa24d08bc58ff43dc003bd10542379c7c3c",
+      "englishSha256": "878f22c56800ee44517856cb810acc560930443bbe43810c31c5ccf1c8d1e430",
+      "spellingDifferences": [
+        {
+          "prior": "",
+          "new": "י"
+        },
+        {
+          "prior": "",
+          "new": "ו"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "passage": 3,
+      "hebrewSha256": "c08079aeff7a984c8d955f894cd947912cb95ff72d5a9c4cc77ed56130574c29",
+      "priorHebrewSha256": "955a8b435cb7d6fbc6b9dd8dd2d3add18389bd5b4f504e1419d9f3ded40e921a",
+      "englishSha256": "5a5c72ab7e29d95762e92ac047934d774904c18d0bb1df4f2b7adcb721df6af8",
+      "spellingDifferences": []
+    },
+    {
+      "chapter": 7,
+      "passage": 4,
+      "hebrewSha256": "4b89abd1ba338f359518582ed0c1e1e4fa16c67c457b70f34188f9691a0b0811",
+      "priorHebrewSha256": "5cfc226828fc9b809969e46b43120768042101cac293e7fe9141555b8850fa50",
+      "englishSha256": "e453e490ceda9bb40d8c87f69f1677cf459db98333f985c5aef6c3228155b9e7",
+      "spellingDifferences": []
+    },
+    {
+      "chapter": 7,
+      "passage": 6,
+      "hebrewSha256": "e4ea2267254a9ee1698acf99a5794e93029f56ae2d10c9070e8a9457e1de11f8",
+      "priorHebrewSha256": "d59b5953187c171e7f31718402664568297cd3eef8b9e225ca65da27ea1e3952",
+      "englishSha256": "1f4e677bf6f217779d199ffc725daec6359c30a1dfb3025928526d709d387a31",
+      "spellingDifferences": [
+        {
+          "prior": "",
+          "new": "ו"
+        }
+      ]
+    }
+  ],
+  "method": "Retained the existing licensed English wording. Ten Wikisource Hebrew passages were compared with their prior English-aligned Hebrew: differences after vowel/punctuation, biblical-reference and explicit Rabbi-abbreviation normalization are limited to recorded vav/yod spelling variants. Expanded biblical quotations and translator notes in the English remain intact. No new translation or OCR.",
+  "scope": "Ten passage pairs; a spelling comparison is not independent translation proofreading, whole-work completeness or release clearance."
+}

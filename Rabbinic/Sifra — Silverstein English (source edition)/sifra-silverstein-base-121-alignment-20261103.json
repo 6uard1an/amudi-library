@@ -1,0 +1,46 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 121,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 3,
+      "baseTextSha256": "9860a5c73ebe6fa22cb9fbe00b7a735d340e1686d071a011c2a02f835a4b196e",
+      "translationChapter": 125,
+      "translationPosition": 2,
+      "translationTextSha256": "0fec7743c37a5c1e02aa255d9a736fe473de2b90dfdb9dbf907e71253786cccb",
+      "followingBaseTextSha256s": [
+        "89d70abc962f0f4406290d99051f2c16e6e395eb2adbde4633ee6bb05e63f370",
+        "2f8e94bf036697c4fb39cf50b3cd88e371905d3a6dc621fe9aeb3ed92f0ecb07"
+      ]
+    },
+    {
+      "basePosition": 6,
+      "baseTextSha256": "295b287ed5f86f894327f02f632f2eb6cf79c09120504f86ebfe7c88d273e296",
+      "translationChapter": 125,
+      "translationPosition": 3,
+      "translationTextSha256": "c20e3560b82b1741237dd369e17eb57e92a8ae46a7c725586c44c31a87280fcf",
+      "followingBaseTextSha256s": [
+        "42e884effe6116583cf3cdc213003e146e687ae031768dff26c8d87193b655ff"
+      ]
+    },
+    {
+      "basePosition": 8,
+      "baseTextSha256": "8b18571280c351f456a17b0644c10150d9fd08c9b2afe3aadc4f8a6be2461cf0",
+      "translationChapter": 125,
+      "translationPosition": 4,
+      "translationTextSha256": "f43c186e4037a0b62ac1ec8bd6619690b6b2fc053e7d22de97c394a8ade75d8e",
+      "followingBaseTextSha256s": [
+        "0c2aef9af65632095706c12f2f2b51adc0005da4d7531d6a948946e7ce0a88f4",
+        "9bbe90fb0c9de8e50eb37d62eac70075fae8a2eb7974f034c04a4f0f7ce34527",
+        "d4cb48697da46ece4dcf2ae5c03b572b039d25b909baf8dd347865a83a9f8ca1",
+        "09bc784033e4a3080649304863e6c0f9322d31bca71541fc82136a55d5f27e6d",
+        "e25e96aeeba71dc6f1cc18a8a67a7c7a57ba63fb384f074d78e71e09b7beab70"
+      ]
+    }
+  ]
+}

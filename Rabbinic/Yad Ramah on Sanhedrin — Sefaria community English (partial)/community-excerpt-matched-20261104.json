@@ -1,0 +1,19 @@
+{
+  "baseBookPath": "Rabbinic/Yad Ramah on Sanhedrin",
+  "baseChapter": 54,
+  "translationBookPath": "Rabbinic/Yad Ramah on Sanhedrin — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    57,
+    1
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "a247495b9c1fa204796546c03a0c3b7a969c18ad4992a82410777b1c7aeac879",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "7794f1746ce8dbd28eff3159a0c5b6c7a35a4c7f1941868365e3ad005d182b6e"
+    }
+  ]
+}

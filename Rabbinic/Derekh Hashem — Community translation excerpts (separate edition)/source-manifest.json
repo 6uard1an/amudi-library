@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "work": "Derekh Hashem",
+  "parentPath": "Rabbinic/Derekh Hashem",
+  "editionName": "Derekh Hashem — Community translation excerpts (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Derekh%20Hashem/English/Sefaria%20Community%20Translation.json",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Derekh Hashem, original work; Sefaria Community Translation; Sefaria Export. Translator/contributor credit as supplied by the exact source edition.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/ef299218a7c6204c26d0.json",
+  "sourceRawSha256": "2e3a31d8593f79d35d38ad9b4795e58a001a831498a7fca5aa4676d93a0fd4bc",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Derekh%20Hashem",
+    "rawSha256": "7b12f738fda0b8a496469f84315f95cc1b121d48f5c9b599554865299efd0056",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-f63b6f1659eab8efeb7b.json",
+    "versionTitle": "Sefaria Community Translation",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC0"
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Introduction",
+      "sourcePosition": [
+        "Introduction"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Introduction",
+            1
+          ],
+          "sourceTextSha256": "4c9ab120c5169570c1032b14e786a73f09491e17cc8f74750d7563b472fb4b57",
+          "retainedTextSha256": "4c9ab120c5169570c1032b14e786a73f09491e17cc8f74750d7563b472fb4b57"
+        }
+      ],
+      "payloadSha256": "d9d02817bf6017d1a9ea9f19e2319d8444981b363f105a44aa9443a5513e7f35"
+    },
+    {
+      "chapter": 2,
+      "label": "Part One · On the Creator",
+      "sourcePosition": [
+        "Part One",
+        "On the Creator"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            1
+          ],
+          "sourceTextSha256": "59f182e9b8a76b8290c76f8c140a425a31137eaafa267281df7816c36cbc16f9",
+          "retainedTextSha256": "59f182e9b8a76b8290c76f8c140a425a31137eaafa267281df7816c36cbc16f9"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            2
+          ],
+          "sourceTextSha256": "2af0cda53e18b1d0356e5062de1d9d71c7f6fd16c5746998be7e9902f721add4",
+          "retainedTextSha256": "2af0cda53e18b1d0356e5062de1d9d71c7f6fd16c5746998be7e9902f721add4"
+        }
+      ],
+      "payloadSha256": "da0e8f3a11ff8f07c1232e7d5468f2076ce1d8609d7a71f81cf54ec21faad7ce"
+    },
+    {
+      "chapter": 3,
+      "label": "Part One · On Mankind",
+      "sourcePosition": [
+        "Part One",
+        "On Mankind"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            1
+          ],
+          "sourceTextSha256": "a17753b885347812d30c6fe65d2381bd519d97e1ef9d02a1ae0f8f8a0fa07d09",
+          "retainedTextSha256": "a17753b885347812d30c6fe65d2381bd519d97e1ef9d02a1ae0f8f8a0fa07d09"
+        }
+      ],
+      "payloadSha256": "57ae8e25337bec4eb0b3a8c40551e039e6431b2d220dbd8723b7fedba4d92a65"
+    },
+    {
+      "chapter": 4,
+      "label": "Part Two · On the Influence of the Stars",
+      "sourcePosition": [
+        "Part Two",
+        "On the Influence of the Stars"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On the Influence of the Stars",
+            1
+          ],
+          "sourceTextSha256": "a824283937015fbc6eef2ae2194cf1ebf8316306f69d039c61d2cc273974d211",
+          "retainedTextSha256": "a824283937015fbc6eef2ae2194cf1ebf8316306f69d039c61d2cc273974d211"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On the Influence of the Stars",
+            2
+          ],
+          "sourceTextSha256": "b4d6c8411d299994944d8fd5cb9d78fd538a418287946a22ee0a9d31a1922152",
+          "retainedTextSha256": "b4d6c8411d299994944d8fd5cb9d78fd538a418287946a22ee0a9d31a1922152"
+        }
+      ],
+      "payloadSha256": "ce007d0a291ed2143b0c04bd54ec00ecb4e5b35520ce48db3dfad02b8764b00e"
+    },
+    {
+      "chapter": 5,
+      "label": "Part Four · On Torah Study",
+      "sourcePosition": [
+        "Part Four",
+        "On Torah Study"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            1
+          ],
+          "sourceTextSha256": "03d1a5fb2322f1aa7c15464e2c34c7ae18f719335963fc592f618109506bba40",
+          "retainedTextSha256": "03d1a5fb2322f1aa7c15464e2c34c7ae18f719335963fc592f618109506bba40"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            2
+          ],
+          "sourceTextSha256": "c3e6b167a83ba8f3e7962b1d37c565f37908345c5e6680f67714781ac8ce7d4b",
+          "retainedTextSha256": "c3e6b167a83ba8f3e7962b1d37c565f37908345c5e6680f67714781ac8ce7d4b"
+        }
+      ],
+      "payloadSha256": "cc69ad62f19bd891f206ff563f285cd2a33dd313497f2de4726bfa620eb5b13c"
+    },
+    {
+      "chapter": 6,
+      "label": "Part Four · On Love and Fear of God",
+      "sourcePosition": [
+        "Part Four",
+        "On Love and Fear of God"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Love and Fear of God",
+            1
+          ],
+          "sourceTextSha256": "61c31aa66b175073f2ae403b2369ac46ae96a1092b02b9cf192409d2f979efe8",
+          "retainedTextSha256": "61c31aa66b175073f2ae403b2369ac46ae96a1092b02b9cf192409d2f979efe8"
+        }
+      ],
+      "payloadSha256": "a7946951e0ef7c14bf0408d3bdc155d2b64e111eaa06153b1958e6cfda58e8ba"
+    }
+  ],
+  "sourceEntries": 9,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T03:51:11.673Z"
+}

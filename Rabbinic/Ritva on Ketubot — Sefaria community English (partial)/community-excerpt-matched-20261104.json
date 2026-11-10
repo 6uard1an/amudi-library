@@ -1,0 +1,19 @@
+{
+  "baseBookPath": "Rabbinic/Ritva on Ketubot",
+  "baseChapter": 31,
+  "translationBookPath": "Rabbinic/Ritva on Ketubot — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    33,
+    4
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 4,
+      "baseTextSha256": "8699ba641cf4e89207f9b3e322c312c87771765f27291add30b7d8849473f00c",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "ab6b766d3bc546662cfd38b8b8c9f0231fb4ab677c811ebae1b9ccbc6c99b726"
+    }
+  ]
+}

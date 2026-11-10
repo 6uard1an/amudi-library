@@ -1,0 +1,63 @@
+{
+  "title": "Rosh on Mishnah Peah — Wikisource notes (partial)",
+  "source": "Hebrew Wikisource",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Rosh (Rabbi Asher ben Yehiel), notes attributed to him on Mishnah Peah; Hebrew Wikisource contributors. Source-page revisions and contributor histories are listed in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Amudi selected only the source sections headed Rosh, removed formatting and navigation, retained the source note labels and text, and grouped the notes by their named Mishnah. No OCR or new translation. Copyrightable adaptations are shared under CC BY-SA 4.0.",
+  "coverageStatus": "Five attributed notes on Mishnah Peah 1:1, 1:3 and 1:4 only; not the full Rosh commentary or full tractate. The notes concern the Mishnah and associated commentary.",
+  "pages": [
+    {
+      "chapter": 1,
+      "mishnah": 1,
+      "title": "משנה פאה א א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1077562",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=1785&action=history",
+      "sourceSnapshot": "Amudi/data/rights/rosh-peah-wikisource-candidate-20261030/1785.json",
+      "sourceSnapshotSha256": "6eab8d4ce02818c5eac6c9a0e35ff1970b36051fa7ddb2943682a1070a5de481",
+      "revisionId": 1077562,
+      "paragraphs": 3
+    },
+    {
+      "chapter": 1,
+      "mishnah": 3,
+      "title": "משנה פאה א ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1077564",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=1787&action=history",
+      "sourceSnapshot": "Amudi/data/rights/rosh-peah-wikisource-candidate-20261030/1787.json",
+      "sourceSnapshotSha256": "0a1be70d32e70478233facbda21ecefb9f4f25d6327e64ac231c6786d5cba46c",
+      "revisionId": 1077564,
+      "paragraphs": 1
+    },
+    {
+      "chapter": 1,
+      "mishnah": 4,
+      "title": "משנה פאה א ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1077565",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=1788&action=history",
+      "sourceSnapshot": "Amudi/data/rights/rosh-peah-wikisource-candidate-20261030/1788.json",
+      "sourceSnapshotSha256": "a8a1fef469b18111821c2ed702de4de7cecc618cecf0efdbc653255c7edf4082",
+      "revisionId": 1077565,
+      "paragraphs": 1
+    }
+  ],
+  "baseSourceEvidence": {
+    "url": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Seder Zeraim/Mishnah Peah/Hebrew/Mishnah, ed. Romm, Vilna 1913.json",
+    "snapshot": "Amudi/data/rights/rosh-peah-wikisource-candidate-20261030/base-source.json",
+    "sha256": "1565d23abdbc7257fa5046c25d17264d36c0dc42bb59cc2bec4d35c0780b04cf"
+  },
+  "baseVersionsEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Mishnah%20Peah",
+    "snapshot": "Amudi/data/rights/rosh-peah-wikisource-candidate-20261030/base-versions.json",
+    "sha256": "47b468ab60dec2f6d40c7fabf183f85409e0c72794f5716a0d67fe2e537d07bf"
+  },
+  "siteLicenseEvidence": {
+    "url": "https://he.wikisource.org/w/api.php?action=query&meta=siteinfo&siprop=rightsinfo&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/rosh-peah-wikisource-candidate-20261030/siteinfo.json",
+    "sha256": "dc1e901a698fa8c6188340efd21acafb137226bd857ff1903514808a2471f911",
+    "declared": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    }
+  }
+}

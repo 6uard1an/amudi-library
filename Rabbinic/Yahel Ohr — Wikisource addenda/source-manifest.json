@@ -1,0 +1,18 @@
+{
+  "work": "Yahel Ohr — Wikisource addenda",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Vilna Gaon, Yahel Ohr; Hebrew Wikisource contributors. The exact source revision and contributor history are in source-manifest.json.",
+  "changes": "Converted the typed source page to chapter JSON, retaining wording and order while removing editing controls and non-text media and adding spacing between blocks. Source editorial notes remain identified by the source. No OCR or new translation. Adaptations are offered under CC BY-SA 4.0.",
+  "pages": [
+    {
+      "chapter": 1,
+      "title": "יהל אור/ליקוטים",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=1059331",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1059331",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=381481&action=history",
+      "contentSha256": "8b791f40ce2482682900140e54927fc1412fc290bb2555f49e6796d58a48a97e"
+    }
+  ],
+  "limitations": "The original source page and contributor history establish the exact source for this edition. Other Yahel Ohr editions and release-wide compliance are separate."
+}

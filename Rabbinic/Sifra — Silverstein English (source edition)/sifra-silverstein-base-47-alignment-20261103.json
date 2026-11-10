@@ -1,0 +1,94 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 47,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "0a8a0469a526aa7d68ab9fd6f046e682b25c4ad7f766a53fc4630086ca919da7",
+      "translationChapter": 50,
+      "translationPosition": 1,
+      "translationTextSha256": "6f787a69d945d64c2bea0bb2fd7cf641629c24d6376f135f58642be2826c4296"
+    },
+    {
+      "basePosition": 3,
+      "baseTextSha256": "9f256ddc50f9b26be624f30073ac8a730e106057b06d698aab56e00e9a1ed4c6",
+      "translationChapter": 50,
+      "translationPosition": 2,
+      "translationTextSha256": "d598adf5c659379545348b526092b35c66beceb400e2e9a59b5341209b31e477",
+      "followingBaseTextSha256s": [
+        "2b76237ee630f3f519ccca6749b8c7f926d801c79754718aaf2547e2dedc2880"
+      ]
+    },
+    {
+      "basePosition": 9,
+      "baseTextSha256": "994da913bb4b5112eead93e5f73bf0d454ef44b66f92c4d99b106470e7990fd7",
+      "translationChapter": 50,
+      "translationPosition": 4,
+      "translationTextSha256": "a8a070972ed6a502c457d377e8b9a200a762548d9e41afe8209bd9331aca08cc"
+    },
+    {
+      "basePosition": 10,
+      "baseTextSha256": "c302b464171e1cc1f2daa0ea72a6ed815d7dbbb8bc1d22f5b60eb66ea295248d",
+      "translationChapter": 50,
+      "translationPosition": 5,
+      "translationTextSha256": "d77b94e19c66114035bf62b812362aab1b7c6ad65db8c2877b9407f4e15eb3f2"
+    },
+    {
+      "basePosition": 11,
+      "baseTextSha256": "f9e3ab0f84a7966062a49f187b92a8999be6d638bbb28e1b1535cc90ecd16f87",
+      "translationChapter": 50,
+      "translationPosition": 6,
+      "translationTextSha256": "e59717f94f0233de6476858693b839cb48ff9bfbbac9c2e4b0167358aceb46f0",
+      "followingBaseTextSha256s": [
+        "4f62aa723ef2fa70d3fc7c9e21a02326bebff80fb82e240634d8694e9740c0d7",
+        "7523b106fe6db08ec247b218290c42357fea3cb36e5ae32d86d3fd6dab178d80"
+      ]
+    },
+    {
+      "basePosition": 14,
+      "baseTextSha256": "4db736d0b99be655a7f9596a3ef57f4388e9039c7b7d6279f362a7727b79bcb4",
+      "translationChapter": 50,
+      "translationPosition": 7,
+      "translationTextSha256": "74a8e0f332eb3df10a85cb9154744b80482684bed3a9a2b9c6bba045c981ec1b"
+    },
+    {
+      "basePosition": 15,
+      "baseTextSha256": "3e85fa0cbb9b196caecab6b624c5425282b31f7187f8695a272812bfc7dd5650",
+      "translationChapter": 50,
+      "translationPosition": 8,
+      "translationTextSha256": "28a032e88f939c58d9ea78371db69749e3e74b410e58b51e856ef1045eb9fb53",
+      "followingBaseTextSha256s": [
+        "cf4ea1608237df1ad8eccbba3279bf71440a1d6c56b769a96b87948f78905990",
+        "f77811d30eca27818e74d9c627f46f9cf9c4b12946bd8495104354965922be27"
+      ]
+    },
+    {
+      "basePosition": 18,
+      "baseTextSha256": "909faffcab6e2d52d4ad061c2bbd16944a11dfdafa1e535aafe51d9d27734b8e",
+      "translationChapter": 50,
+      "translationPosition": 9,
+      "translationTextSha256": "3e051da0368f7c108bfab397e6b526123199d5ace5c269eb06f34ae1cf45a2a5",
+      "followingBaseTextSha256s": [
+        "fab745f65ff895341ad3b697f954fe23914b87db33da9fb4046085abbb73a705",
+        "76baf94050177d2e8548ebbf7af50d0e0b6a6c4548f37488f920b57fe1d65af2"
+      ]
+    },
+    {
+      "basePosition": 21,
+      "baseTextSha256": "a6b290dedf61919e35b2e13ee9e1433be75fae169653ff6530e86a5b0d2a9dc5",
+      "translationChapter": 50,
+      "translationPosition": 10,
+      "translationTextSha256": "7e5a819d79f0ef2ee8a09d8feeecfc2e56e2f3303b7a54c57086f05da832ebfe",
+      "followingBaseTextSha256s": [
+        "0ccc9988d691ffdb4f9e6ec0aaa0239deb30e08571ffcf772c97e140ac9fef38",
+        "9a7f8aabe85c9a4e324d2b22c2403a3c3647a5b81efb03b198f001cc085f0ecf",
+        "52f856bddbbe35759cc08f8c404f8645dea6dc8495175efa694bbfda728c05fb"
+      ]
+    }
+  ]
+}

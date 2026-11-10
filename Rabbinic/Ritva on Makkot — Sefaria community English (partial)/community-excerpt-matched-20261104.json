@@ -1,0 +1,19 @@
+{
+  "baseBookPath": "Rabbinic/Ritva on Makkot",
+  "baseChapter": 39,
+  "translationBookPath": "Rabbinic/Ritva on Makkot — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    42,
+    6
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 6,
+      "baseTextSha256": "b2ae0340f36609d4cf709da7cb80c4ec0be518f2b012a8344b874b5f698e6953",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "4aafb39f974f6b531f9ea8b599071faf543c4708d85c0bd83f853558e25a4a38"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "work": "Rambam on Mishnah Horayot",
+  "parentPath": "Rabbinic/Rambam on Mishnah Horayot",
+  "editionName": "Rambam on Mishnah Horayot — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Rishonim%20on%20Mishnah/Rambam/Seder%20Nezikin/Rambam%20on%20Mishnah%20Horayot/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/20b4b1aa883b4433d3ee.json",
+  "sourceRawSha256": "ee0bc07f7767b66f21d9e81d7ca39c108bc2aa11ac819dbf55a0dbdcbdd0dcc4",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Rambam on Mishnah Horayot; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Rambam on Mishnah Horayot",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Rishonim%20on%20Mishnah/Rambam/Seder%20Nezikin/Rambam%20on%20Mishnah%20Horayot/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/20b4b1aa883b4433d3ee.json",
+    "sourceRawSha256": "ee0bc07f7767b66f21d9e81d7ca39c108bc2aa11ac819dbf55a0dbdcbdd0dcc4",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Rambam%20on%20Mishnah%20Horayot",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Rambam%20on%20Mishnah%20Horayot",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/7b2bab584b6e3eb59198-versions.json",
+      "rawSha256": "82453168f8e696e7a3a87bf4c5056b5bff4ba330d4327074387fcafc6897307a",
+      "retrievedAt": "2026-10-30T04:25:34.059Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Rambam on Mishnah Horayot",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Rambam on Mishnah Horayot, Introduction"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Introduction",
+      "sourcePosition": [
+        "Introduction"
+      ],
+      "payloadSha256": "cd69a7288a80161152506dde4d9d55da04d64cfbfa46d0a0504cd876f9452362",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Introduction",
+            1
+          ],
+          "sourceTextSha256": "bcb58f39586d25db5bd47c972a170fc67c828582d591af2e2b5e8f41912d74f9",
+          "retainedTextSha256": "bcb58f39586d25db5bd47c972a170fc67c828582d591af2e2b5e8f41912d74f9"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Introduction",
+            2
+          ],
+          "sourceTextSha256": "f6cf99d5e547b235c1a6ab3b73db60d29fa3ae84ae5a6e4b755e2f1d9806874a",
+          "retainedTextSha256": "f6cf99d5e547b235c1a6ab3b73db60d29fa3ae84ae5a6e4b755e2f1d9806874a"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Introduction",
+            3
+          ],
+          "sourceTextSha256": "c4c9fef2d58ba6f25eb505741dda5bd091358b08f0382a1ff801bd745e713a73",
+          "retainedTextSha256": "c4c9fef2d58ba6f25eb505741dda5bd091358b08f0382a1ff801bd745e713a73"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "3 · 7",
+      "sourcePosition": [
+        "",
+        3,
+        7
+      ],
+      "payloadSha256": "c2d1a994659cbb71211005e697ea90de19c38d8757da1478e54b778e9d073dbd",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            3,
+            7,
+            1
+          ],
+          "sourceTextSha256": "c4fffb37a331415510b7e5aa6647f5f214cfb0269d6a807bc5a30ab4386a76b3",
+          "retainedTextSha256": "c4fffb37a331415510b7e5aa6647f5f214cfb0269d6a807bc5a30ab4386a76b3"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 4,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.554Z"
+}

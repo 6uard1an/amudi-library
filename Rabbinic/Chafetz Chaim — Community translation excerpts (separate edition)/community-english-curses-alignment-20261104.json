@@ -1,0 +1,19 @@
+{
+  "baseBookPath": "Rabbinic/Chafetz Chaim",
+  "baseChapter": 35,
+  "translationBookPath": "Rabbinic/Chafetz Chaim — Community translation excerpts (separate edition)",
+  "method": "Same source-work coordinates and exact Hebrew and English source fingerprints; English is incomplete.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Acharonim/Chafetz%20Chaim/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 42,
+      "baseTextSha256": "d009b1c5d8525dcc4bedd18f32c2801efe35b8a4a14fc3395b8b9e1d31bfae71",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "871973ca8582dca3a0a42baf48575e01250fabec92da61ca5e3a72f38e6be581",
+      "partialTranslation": true
+    }
+  ]
+}

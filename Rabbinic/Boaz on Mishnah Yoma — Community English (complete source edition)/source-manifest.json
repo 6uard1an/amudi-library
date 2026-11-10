@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "work": "Boaz on Mishnah Yoma",
+  "parentPath": "Rabbinic/Boaz on Mishnah Yoma",
+  "editionName": "Boaz on Mishnah Yoma — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Boaz/Seder%20Moed/Boaz%20on%20Mishnah%20Yoma/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/99993517b835c2842f11.json",
+  "sourceRawSha256": "46a7f0c14e3cc1175c57ab9b2f1b6b3627fcfca3d8707ab708974401dc0fce91",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Boaz on Mishnah Yoma; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Boaz on Mishnah Yoma",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Mishnah/Acharonim%20on%20Mishnah/Boaz/Seder%20Moed/Boaz%20on%20Mishnah%20Yoma/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/99993517b835c2842f11.json",
+    "sourceRawSha256": "46a7f0c14e3cc1175c57ab9b2f1b6b3627fcfca3d8707ab708974401dc0fce91",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Boaz%20on%20Mishnah%20Yoma",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Boaz%20on%20Mishnah%20Yoma",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/79635f1e7c77ad0e156f-versions.json",
+      "rawSha256": "7a64b2d14056147707d970777ec0e74f7c1a1f66585648d3e949c76e942d1b7c",
+      "retrievedAt": "2026-10-30T04:25:33.522Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Boaz on Mishnah Yoma",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Boaz on Mishnah Yoma 8"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "8",
+      "sourcePosition": [
+        8
+      ],
+      "payloadSha256": "f86adcbafe06b3cf7e73203fe2b09901940a1ec9173e7f49cb59369e5552b970",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            8,
+            3
+          ],
+          "sourceTextSha256": "4f54cc7157180a708acf399025e8ece9f2a32a5eabd3dc35aa721f384bb1033c",
+          "retainedTextSha256": "4f54cc7157180a708acf399025e8ece9f2a32a5eabd3dc35aa721f384bb1033c"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 1,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.505Z"
+}

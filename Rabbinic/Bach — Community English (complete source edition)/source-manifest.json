@@ -1,0 +1,393 @@
+{
+  "schemaVersion": 1,
+  "work": "Bach",
+  "parentPath": "Rabbinic/Bach",
+  "editionName": "Bach — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Tur/Commentary/Bach/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/3e632c52cb682e3031b9.json",
+  "sourceRawSha256": "920ef8a14314364f0b2bb3c6170dbecc205dd80f472f9ba6af633145c477bbc3",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Bach; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Bach",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Tur/Commentary/Bach/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/3e632c52cb682e3031b9.json",
+    "sourceRawSha256": "920ef8a14314364f0b2bb3c6170dbecc205dd80f472f9ba6af633145c477bbc3",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Bach",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Bach",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cf44623c9c550c9cc784-versions.json",
+      "rawSha256": "e37a2788ce47b4c5104660336cf49946a4ed7ed2324fc4327b54f5c0ce35757f",
+      "retrievedAt": "2026-10-30T04:25:34.493Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Bach",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Bach, Orach Chayim 1:1"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Orach Chayim · 1 · 1",
+      "sourcePosition": [
+        "Orach Chayim",
+        1,
+        1
+      ],
+      "payloadSha256": "3614242b98d90edda1f7bafd3c9f1b45a2b06d69dbca0c3ceaa33ac8b4ea6c12",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Orach Chayim",
+            1,
+            1,
+            1
+          ],
+          "sourceTextSha256": "c63ceee2afd7b2a55d3ef62d27e79d595405c5e635582c6be8c1b92615fcc568",
+          "retainedTextSha256": "c63ceee2afd7b2a55d3ef62d27e79d595405c5e635582c6be8c1b92615fcc568"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Orach Chayim",
+            1,
+            1,
+            2
+          ],
+          "sourceTextSha256": "07a2c0ff0f6cf0f22593c397cad3c1b828cada34d60630a702863a3f1ddb775d",
+          "retainedTextSha256": "07a2c0ff0f6cf0f22593c397cad3c1b828cada34d60630a702863a3f1ddb775d"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "Orach Chayim · 1 · 2",
+      "sourcePosition": [
+        "Orach Chayim",
+        1,
+        2
+      ],
+      "payloadSha256": "e39e265fc4bc707f979aaab6f33d7122be07e8941ade9957b93209dcfdd8f097",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Orach Chayim",
+            1,
+            2,
+            1
+          ],
+          "sourceTextSha256": "51bdb789fba6cbf5583c6f5b56a2a011afbb308b4c6bbd11d3ebbf4a6745248f",
+          "retainedTextSha256": "51bdb789fba6cbf5583c6f5b56a2a011afbb308b4c6bbd11d3ebbf4a6745248f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Orach Chayim",
+            1,
+            2,
+            2
+          ],
+          "sourceTextSha256": "822dfe1c66bb797381df6f2615e7861a53d12b5097d79b9d126f6a31c6bc4a26",
+          "retainedTextSha256": "822dfe1c66bb797381df6f2615e7861a53d12b5097d79b9d126f6a31c6bc4a26"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "Orach Chayim · 46 · 11",
+      "sourcePosition": [
+        "Orach Chayim",
+        46,
+        11
+      ],
+      "payloadSha256": "4f80fb82563fcb45ddcbe6190304561c20d98d7da802302e76fc1b3b8892dae0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Orach Chayim",
+            46,
+            11,
+            1
+          ],
+          "sourceTextSha256": "6364a3844b63b8e2c537910832e737127e8f729c42764f96b3e835edc74b1f5b",
+          "retainedTextSha256": "12cf2f1e07c968f7ee6fa91d45b22f64442d0ddebdd72880adabe003aeb4fb1d"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "Orach Chayim · 271 · 3",
+      "sourcePosition": [
+        "Orach Chayim",
+        271,
+        3
+      ],
+      "payloadSha256": "fbb35d9075f1bb63ca7a84deb63594b3bb432ea81b901af68449addc9a726090",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Orach Chayim",
+            271,
+            3,
+            1
+          ],
+          "sourceTextSha256": "e0dda9bd9c9e42999a9bfb8fed0ad2407b1d700ed7974fe1bb561f2e7298a0b4",
+          "retainedTextSha256": "e0dda9bd9c9e42999a9bfb8fed0ad2407b1d700ed7974fe1bb561f2e7298a0b4"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "label": "Orach Chayim · 694 · 1",
+      "sourcePosition": [
+        "Orach Chayim",
+        694,
+        1
+      ],
+      "payloadSha256": "f7ded154c0fc944ce6165e40864c9c35a5c3adf1d508c547784d3745cd113c27",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Orach Chayim",
+            694,
+            1,
+            1
+          ],
+          "sourceTextSha256": "063ea79d8336737f6942d974ea2c0b55838eecb530ab8fdff60fd7ecdda1a697",
+          "retainedTextSha256": "063ea79d8336737f6942d974ea2c0b55838eecb530ab8fdff60fd7ecdda1a697"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "label": "Orach Chayim · 695 · 5",
+      "sourcePosition": [
+        "Orach Chayim",
+        695,
+        5
+      ],
+      "payloadSha256": "f08234573e1e343874d4a9d63e38b72c67bd58b7fd7c0504f9ea21bfd63b231b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Orach Chayim",
+            695,
+            5,
+            1
+          ],
+          "sourceTextSha256": "49c4b276a590912e83a69867c672d18b04d742a595ac49eb99032fafa77735e3",
+          "retainedTextSha256": "49c4b276a590912e83a69867c672d18b04d742a595ac49eb99032fafa77735e3"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "label": "Yoreh De'ah · 158 · 1",
+      "sourcePosition": [
+        "Yoreh De'ah",
+        158,
+        1
+      ],
+      "payloadSha256": "1569a84af8eee410a7b45c8e318a257817518e362a8957086d7f52786012f676",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Yoreh De'ah",
+            158,
+            1,
+            1
+          ],
+          "sourceTextSha256": "429b5d2c8c385ac9a9a7d6ca877189929f34b22d1b7ca7c585d7ea96b4b9b475",
+          "retainedTextSha256": "429b5d2c8c385ac9a9a7d6ca877189929f34b22d1b7ca7c585d7ea96b4b9b475"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Yoreh De'ah",
+            158,
+            1,
+            2
+          ],
+          "sourceTextSha256": "53209422b9b6576d95fc22a9b12b84737921fe2623fcb1d8243d0047fc5e4e12",
+          "retainedTextSha256": "53209422b9b6576d95fc22a9b12b84737921fe2623fcb1d8243d0047fc5e4e12"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Yoreh De'ah",
+            158,
+            1,
+            3
+          ],
+          "sourceTextSha256": "0a8cf35eff1e9309ec63d68bc38dcf77eddb613b6c061aa350b7a712940e091a",
+          "retainedTextSha256": "0a8cf35eff1e9309ec63d68bc38dcf77eddb613b6c061aa350b7a712940e091a"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Yoreh De'ah",
+            158,
+            1,
+            4
+          ],
+          "sourceTextSha256": "3a105f9bdc46399d120858181f9016f5d14801bc4eb9edb91893ad225b5edb8d",
+          "retainedTextSha256": "3a105f9bdc46399d120858181f9016f5d14801bc4eb9edb91893ad225b5edb8d"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Yoreh De'ah",
+            158,
+            1,
+            5
+          ],
+          "sourceTextSha256": "25cfa2a6171bf97302829e7e75ea13430bb2ba61f1a6dedb1d017ce651ac0bc6",
+          "retainedTextSha256": "25cfa2a6171bf97302829e7e75ea13430bb2ba61f1a6dedb1d017ce651ac0bc6"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Yoreh De'ah",
+            158,
+            1,
+            6
+          ],
+          "sourceTextSha256": "36b3215b664cef37b06f9826ffb0585cb8064e412cfa1bbe8d014f49e311b6ac",
+          "retainedTextSha256": "36b3215b664cef37b06f9826ffb0585cb8064e412cfa1bbe8d014f49e311b6ac"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Yoreh De'ah",
+            158,
+            1,
+            7
+          ],
+          "sourceTextSha256": "7c54c2733ff0bb244aec48b8018e9340fafdfd759cbd0eecba1c32568052062d",
+          "retainedTextSha256": "7c54c2733ff0bb244aec48b8018e9340fafdfd759cbd0eecba1c32568052062d"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "label": "Even HaEzer · 4 · 10",
+      "sourcePosition": [
+        "Even HaEzer",
+        4,
+        10
+      ],
+      "payloadSha256": "be980c42f8dbb45357045de204567273a6baea9da72297aa66aff27db565a5e4",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Even HaEzer",
+            4,
+            10,
+            1
+          ],
+          "sourceTextSha256": "6217448f5bf6d5a384dd78a0d51526c0d3d5b7536a5e06456944bf94a015c68c",
+          "retainedTextSha256": "6217448f5bf6d5a384dd78a0d51526c0d3d5b7536a5e06456944bf94a015c68c"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "label": "Choshen Mishpat · 1 · 1",
+      "sourcePosition": [
+        "Choshen Mishpat",
+        1,
+        1
+      ],
+      "payloadSha256": "61ac0e6312b7f3f41c04a5ec5849fbd966adb622c0b34bc13d179adfada0de68",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Choshen Mishpat",
+            1,
+            1,
+            1
+          ],
+          "sourceTextSha256": "932e4f32bb77fe0c688ceee3ca06960dac928e181d8f50e908f900592d30aa7e",
+          "retainedTextSha256": "932e4f32bb77fe0c688ceee3ca06960dac928e181d8f50e908f900592d30aa7e"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 17,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.455Z"
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "work": "Guide for the Perplexed",
+  "parentPath": "Rabbinic/Guide for the Perplexed",
+  "editionName": "Guide for the Perplexed — Feuer Jerusalem Anthology (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Guide for the Perplexed; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/26d0108bd9212ac10167.json",
+  "sourceRawSha256": "a08a0bebfde548d13fb8e8f83c81a96c09a4e0c330968955c549e369ff384f86",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Guide%20for%20the%20Perplexed",
+    "rawSha256": "b409d41cf77318b7e8165af1ebeae72a1a3d4c6171012499690833e0d1422a7f",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-1097cf3c27080373061c.json",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Guide for the Perplexed",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Guide for the Perplexed"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/26d0108bd9212ac10167.json",
+    "sourceRawSha256": "a08a0bebfde548d13fb8e8f83c81a96c09a4e0c330968955c549e369ff384f86",
+    "sourceTextSha256": "ad013051c50947c0c232012227e5e63051387de59bcd41ba978e2a0ff0fb0a0e",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 1,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Guide%20for%20the%20Perplexed",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Guide%20for%20the%20Perplexed",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:55:50.889Z",
+      "rawSha256": "b409d41cf77318b7e8165af1ebeae72a1a3d4c6171012499690833e0d1422a7f",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-1097cf3c27080373061c87.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": "",
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "רבי מייק פוייר, לקט ירושלים",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "Rabbi Mike Feuer",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Guide for the Perplexed",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Guide for the Perplexed, Part 3 45"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Part 3 · 45",
+      "sourcePosition": [
+        "Part 3",
+        "",
+        45
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part 3",
+            "",
+            45,
+            1
+          ],
+          "sourceTextSha256": "8ff5ca179407d31c471b91dc188b8c6326e5ae9ece9b7bd22abdd8c8e8ca43cd",
+          "retainedTextSha256": "8ff5ca179407d31c471b91dc188b8c6326e5ae9ece9b7bd22abdd8c8e8ca43cd"
+        }
+      ],
+      "payloadSha256": "9c1726bc134d911df798b2f78667d2c9788da42df9ad4f02f7e77ec76264e3a3"
+    }
+  ],
+  "sourceEntries": 1,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:27.582Z"
+}

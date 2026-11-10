@@ -1,0 +1,2206 @@
+{
+  "work": "Sifra — Hebrew Wikisource (Malbim edition)",
+  "sourceIndex": "https://he.wikisource.org/w/index.php?oldid=1408042",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Sifra according to the Malbim edition, transcribed by Hebrew Wikisource contributors. Individual source revisions and contributor-history links are provided in source-manifest.json.",
+  "changes": "Converted the typed Wikisource source pages to chapter JSON; removed navigation, edit controls, and non-text media, and added whitespace between blocks. Page order and wording retained. No OCR or new translation. Adaptations are offered under CC BY-SA 4.0. The separate Baraita opening was added as chapter 274 from its individually credited Wikisource page.",
+  "pages": [
+    {
+      "chapter": 1,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569901",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256773&action=history",
+      "snapshotSha256": "dab14e3947c5b2bf5d3e774b6c37215515b4f126680faa31362cb2ac986ede0f",
+      "contentSha256": "0158426ba8684797edf9fd49c62cd7f93324a01887472f87c1a4169b8d2ad63a"
+    },
+    {
+      "chapter": 2,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569902",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256774&action=history",
+      "snapshotSha256": "d379217e2c75edaadcbdbcfd22d69d7bbeaa5f09c0ea8eb4c8fc2e48dc8cb0c0",
+      "contentSha256": "e7bccd129d11a93251beffa7989e227babf4c2b1acf33e17d69ef2c9b7287ccf"
+    },
+    {
+      "chapter": 3,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569903",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257244&action=history",
+      "snapshotSha256": "a8cadfcac5c60768c6194982f97d514c511b7a27c9ed9be74294f2bbd6604c24",
+      "contentSha256": "f4c0c0e0ce0f575f16dd5cee24a89d97fa419fccff815f24673e26b72d6726d1"
+    },
+    {
+      "chapter": 4,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569904",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257747&action=history",
+      "snapshotSha256": "a64d9d28face148ef004d54407a1f36c0918167f1798fb0d0a5e3311116c0c6c",
+      "contentSha256": "b9fbcdcae1fcd1ee075cc3bc54c4ca1636bf328b90fdace661e6d3f1ee5a5dec"
+    },
+    {
+      "chapter": 5,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569905",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257755&action=history",
+      "snapshotSha256": "3ac97c8d4de0fa8b530c64e8e83816fb85bef05beec222d3f6050755798bd714",
+      "contentSha256": "66a38f131daacf8869be350d5e3deccb25a0d5f7cb5b2ae4fab2e2b89bb4cddc"
+    },
+    {
+      "chapter": 6,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569906",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257768&action=history",
+      "snapshotSha256": "2fb834ff8a87a71397ae7c0938e9c1382bfefe2e6e0135279bfc1b82b740d845",
+      "contentSha256": "8e515a22a61cf892f96a70f5e00fa6a38a3df8e23c7ef382b93c483033579612"
+    },
+    {
+      "chapter": 7,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569907",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257905&action=history",
+      "snapshotSha256": "42344b047e0067eca32d09089e14cd9841415dd3538cf640ed9cef7aaa4e230a",
+      "contentSha256": "3fa36df71658c18f05394182ba8157a0dff86d63a670c5f07f9375684b0910a4"
+    },
+    {
+      "chapter": 8,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569908",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257915&action=history",
+      "snapshotSha256": "af8d1fa722c33b00388808e86b0b3f62d10a4c7ce4e48450899d8b1b9677cba5",
+      "contentSha256": "b2fadb95ab7e8d1fcccbdf94855600372aece6f6e2f0a5343824f07180ed17d0"
+    },
+    {
+      "chapter": 9,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569910",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257928&action=history",
+      "snapshotSha256": "7a1abd9c6dd09e41cb527fa7536828d6d26cc409d2a681567dc17ffb269b3a69",
+      "contentSha256": "dc4e022f49e962a80dc7693d5904622974b3b91c6635e2ac2aa48e89e7ad5231"
+    },
+    {
+      "chapter": 10,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569911",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257943&action=history",
+      "snapshotSha256": "74e0aee36d1551dc53ce1f2ab9df730eb5bbf268d8e3eb94a01d7504f26eb798",
+      "contentSha256": "3a43a916040e253e85a372eec36757c08a68db76bf64865cbf6752a99af2dc94"
+    },
+    {
+      "chapter": 11,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569912",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257956&action=history",
+      "snapshotSha256": "0cc8265b1bbe0fb91023aab64361cae60677765835f4c75df1b72a02a9c10c24",
+      "contentSha256": "8942f35a2a1c27223718af4b9ae0d2bda5f81922fb1261863794a16790679b3a"
+    },
+    {
+      "chapter": 12,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569914",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257976&action=history",
+      "snapshotSha256": "737eceae6ca8cde64fe2245793703762ff0287d297bc0abc89a43866a5da3ec7",
+      "contentSha256": "1989f6ed65971ee2d31c2d673ab85f055aabfef8cd6866270761737c596aa9fb"
+    },
+    {
+      "chapter": 13,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569915",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257984&action=history",
+      "snapshotSha256": "dc8034426611ec26d89110589ef4e134e08cbc6ad87850e5f52ea0ed32685761",
+      "contentSha256": "108e0b9e1af18480f9c21e24b23adc35c0e0b7bce9b99443392b9f945a6be5cf"
+    },
+    {
+      "chapter": 14,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569916",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=257988&action=history",
+      "snapshotSha256": "c37bdb0c6655e6ce89767b63a8cd5c8faa47c116e628b16c84c663a7fcf8fe72",
+      "contentSha256": "bacdd6a01fe7bd84e8563f51331919f3b67cdff7da2f912281c8a6b5fbbacca9"
+    },
+    {
+      "chapter": 15,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569917",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=258028&action=history",
+      "snapshotSha256": "a38cfcc3d87b8a648573febf74f87b549b6481c38d6db4a62fb2adef20fbb68e",
+      "contentSha256": "65286ae7d35e475e035c76ac941dd00bf48d32a39595ea933e26a8def1a932f5"
+    },
+    {
+      "chapter": 16,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1382387",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=258044&action=history",
+      "snapshotSha256": "fec08ac645a11f2a406e68a53c25942170562e8029f5ae5a0f36d72cfcafe3f1",
+      "contentSha256": "91fefe5bc1b39e7a81eb5313844c7b76b781a205a2806469b860a68f1d470130"
+    },
+    {
+      "chapter": 17,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569919",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=258053&action=history",
+      "snapshotSha256": "c35c24abb606f17215dbb45a48d45b73445ea6176bea2155a7df0beb1df9fbd0",
+      "contentSha256": "97995f97ef898edb049e22a1ac313e444a1993f46831093e39050694af531f14"
+    },
+    {
+      "chapter": 18,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569920",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=258637&action=history",
+      "snapshotSha256": "156a8f2289240541e895a5c234d0e296e8f91b01fde547e43f5078727e8429e7",
+      "contentSha256": "6f8f31aed724173ce2d79abe1e5212248355fd6139837e43cd5b865796538aa9"
+    },
+    {
+      "chapter": 19,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569921",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259174&action=history",
+      "snapshotSha256": "3a5bf0b6fb8b7d4d9845d2d4abe0368bf67ba5fa373fd4e529f0be467fee47c4",
+      "contentSha256": "2411b9dbe978a4f66f32bf72236d874783bf5f2c3ab60c6265bc85d53b341ee8"
+    },
+    {
+      "chapter": 20,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569922",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259424&action=history",
+      "snapshotSha256": "ffca6e225e7b7a2834c836303ce80782e797c1b85ee343a727ff92237705975e",
+      "contentSha256": "08f757ece8115854e84b6ae61cb5ff8655f5b259aa9cec5d1bdac48adc5ec364"
+    },
+    {
+      "chapter": 21,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569923",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259465&action=history",
+      "snapshotSha256": "4c539780cbd1fd7896fc362d31f78ae300c52880b399a88b8fa6c61a8f1e80a7",
+      "contentSha256": "e13250bf11c4fadf9525608f5443b7cf031c92d1bde32c96a6e8b620108dcaca"
+    },
+    {
+      "chapter": 22,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה יא ופרק יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569924",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259555&action=history",
+      "snapshotSha256": "3c9367f326f32c2a255ae966ebfa9415ddec33af6a7d45372c8ecd0ee506af76",
+      "contentSha256": "08ba2815206648359ad51af7db9761e3ca2b442063e4f4e422e9cc41b52d31ff"
+    },
+    {
+      "chapter": 23,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569925",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259620&action=history",
+      "snapshotSha256": "b3c3518480de19169e05df1fd144c28ca3cb16afc94c2ecca47df270d27c47dc",
+      "contentSha256": "d26394a80356805a35d2e5ded876dfc6eed94cc7a167d2c0ac1d677dc584282f"
+    },
+    {
+      "chapter": 24,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק יד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569926",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259861&action=history",
+      "snapshotSha256": "8804ee484dd423767ed45624d821ea29dfc870291dd00158fc2e3d3fd8684ad0",
+      "contentSha256": "566555cd3e85bda496e65cfe091c3741564971f931ec67fc76b70ca733eafc8e"
+    },
+    {
+      "chapter": 25,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569927",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259869&action=history",
+      "snapshotSha256": "926eb3a14c3523c7ab1e01301aa8cbe8bf65ac42a366f2d9f56c30dd5a9383ed",
+      "contentSha256": "9c7e2ebc30acc2a06744a6e3f3d37b50bc00f03be59557a3cda9b96738f04459"
+    },
+    {
+      "chapter": 26,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק טו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569928",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259884&action=history",
+      "snapshotSha256": "3524a31f002a6f7e91a7c12bcebd11d181228db9b1958514e2435556270fb60f",
+      "contentSha256": "fb21f93006c8dbff6d12556295e3fd0c0632a2e7892af12acaf1d318cd523346"
+    },
+    {
+      "chapter": 27,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק טז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569929",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259895&action=history",
+      "snapshotSha256": "6f014e7a4ff95d8560ef0e6ff1b948d165eda750e358fbf315423d87308e72b9",
+      "contentSha256": "3c649eeee10022a8efea351b76e1522ec8aa17f64e2651958194500b3983f1db"
+    },
+    {
+      "chapter": 28,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק יז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569930",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259915&action=history",
+      "snapshotSha256": "8c385ec56fcb54ca06390aede7d76c2d4178504d729336b4304388f7c9952b92",
+      "contentSha256": "5fc0a883a8e34480e6cd94724e48a30612cb14688eb320b6662b0fddc7eb793e"
+    },
+    {
+      "chapter": 29,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרשה יד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569931",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=259931&action=history",
+      "snapshotSha256": "4afcdd45d73256ad522ba7fc1a50c3af2a4ba102c05e295e1fb56010b5558bae",
+      "contentSha256": "7065a6705379c789460273bd7b4f17f307083e629ff92fd77b9dcb7f65ce3ccc"
+    },
+    {
+      "chapter": 30,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק יח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569932",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260330&action=history",
+      "snapshotSha256": "bf1d6c7c61d41161fd4121c5c11ca921dd484bbe6d3e273ef865575b370eba56",
+      "contentSha256": "66496da0b2791de0041b011d7820ee3686929ae96324d9313a9ab6964cb89c7d"
+    },
+    {
+      "chapter": 31,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק יט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569933",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260345&action=history",
+      "snapshotSha256": "6ad9e907d1a75fc4c6b9261ddc6a48b3df022eecaa6baf334760b6b03942ecbf",
+      "contentSha256": "60668e6c6a0845d603a8334387b5c790f2a12cf572bef08bf4dbde81ce27a040"
+    },
+    {
+      "chapter": 32,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא נדבה/פרק כ",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569934",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260404&action=history",
+      "snapshotSha256": "6f96ad113577fcf7e0f7f034719d469f3b0208d0bac83b64f20c6ebe221822f3",
+      "contentSha256": "9d3e4b8a4e85d6b05892469ba318942dc4f875d61c83a52c3a83fb7746cbcc11"
+    },
+    {
+      "chapter": 33,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה א ופרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=969212",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260432&action=history",
+      "snapshotSha256": "6f07a1dee16d4a769232492dc846f8ab2db31b00f82d3fa561fa28afcd8d877b",
+      "contentSha256": "fc61f08365889fc49c2ed4f67684c408dbfdd9146a91b5628192592b2bbf6f3e"
+    },
+    {
+      "chapter": 34,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569789",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260630&action=history",
+      "snapshotSha256": "02eb3103c662b761f4f801b2ef7b40911e988e84676e28530e0ad525127325c6",
+      "contentSha256": "c49316f8166e4c4abaf3ecbf97d730ccec726bf7df6a917df10ff3b4825d4331"
+    },
+    {
+      "chapter": 35,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569790",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260656&action=history",
+      "snapshotSha256": "7df5b797a4ab53fd5c309bb6566b4f49a7bd37b245ea8362d43a5a2e4503c3d3",
+      "contentSha256": "5b04c397b047b69326375c0af6525304e4115ed508331cbef9d9f7d99606f95a"
+    },
+    {
+      "chapter": 36,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569791",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260679&action=history",
+      "snapshotSha256": "d106a6de15799a1e8ef4d4b981d662c5ef51ab8a6393a20d46c19adced245880",
+      "contentSha256": "faa6852b6fa1ec82af00455b6f9a121b6b781481646973b28bbea931c3061475"
+    },
+    {
+      "chapter": 37,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569792",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260711&action=history",
+      "snapshotSha256": "4f2a0f2b0b159c3478c607878f4acf0d216f0d5b425806dbeab3ac2a4deb31fe",
+      "contentSha256": "a82f68e7b97ca9d2e602ea5b04cfac730dba4b2947894d47e56886d69bb40465"
+    },
+    {
+      "chapter": 38,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569793",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=260994&action=history",
+      "snapshotSha256": "c43c6f3daca762951b189c0a907d265b90bf7380d24b17a4375eb18d078b230b",
+      "contentSha256": "f5561d673795897dd45936b743013794247809f5984a4038957ddc2ddd272e51"
+    },
+    {
+      "chapter": 39,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569794",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=261001&action=history",
+      "snapshotSha256": "d6db48ef2562c3ec734844c51f6a15a64204a0faf325f890f546c5997174047a",
+      "contentSha256": "c553f82203ed36c1113cb986dd5b0bab686c98f224aa36d6e1f900d3e37ff1e2"
+    },
+    {
+      "chapter": 40,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569795",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=261185&action=history",
+      "snapshotSha256": "2610e2ed1af49575156cb70feb3f5bd5fc79a3609c3917d868f65a01ae95dc4f",
+      "contentSha256": "58c2db127edd3a8c81ff539eaeffa3a383f5ce35f4150c1262f1dafcccbf1ae9"
+    },
+    {
+      "chapter": 41,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569796",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=261306&action=history",
+      "snapshotSha256": "c5115fe13153c2972f1e222be0be15cf000179af05570c72bf89081737022edd",
+      "contentSha256": "1c97ab4dbfb4c89d1d1a77e2119649ff506c308577e5c1b244f778233927b5c1"
+    },
+    {
+      "chapter": 42,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569797",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263243&action=history",
+      "snapshotSha256": "f60efc152e726b50bb95ee7a757da53e0bd9a1ef8656c61c552c0d058dbcb949",
+      "contentSha256": "27dd29aa406ebc2b083c7d1e31a066990c8c9def16a4174e38012ccddae3eea2"
+    },
+    {
+      "chapter": 43,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569798",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263252&action=history",
+      "snapshotSha256": "df04de45151810ab2e2ba47af8c1f927d22f1226dc80918a104757a2d87294b1",
+      "contentSha256": "3add5038ac0ffe1623d68578d8e38e1c4e0749939169adeac67461789c421ac6"
+    },
+    {
+      "chapter": 44,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569799",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263260&action=history",
+      "snapshotSha256": "f696a032368ae721b072c61070394bff3e4c523569792881a05687d493da3a24",
+      "contentSha256": "0dd8e73687618ef66b27d1e9c7292c76cf213ca95cf8a1fba032bbd1e1c30272"
+    },
+    {
+      "chapter": 45,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569800",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263293&action=history",
+      "snapshotSha256": "ed0cf694a35031dc031a4b6db1fc12e7772d47ebe39ccdccd26b77d6ab12c5db",
+      "contentSha256": "bf3a9956c9b382adf59f34cf577b97a0a2dc34d53cf8b413ddbefc9a767210ad"
+    },
+    {
+      "chapter": 46,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569801",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263299&action=history",
+      "snapshotSha256": "79b6bcbd35e5e7bcd1ad41d894e90c1bc4896c5979d8c34b312d2341c8a93496",
+      "contentSha256": "b104b3d9d5cd43e027c962b7fba302232826a9524504c209be71959b09f5c2fa"
+    },
+    {
+      "chapter": 47,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569802",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263310&action=history",
+      "snapshotSha256": "7cea8baafc5db55d12b229ba152da300a1038386f5b5aef751b73fc44bf454fa",
+      "contentSha256": "1fdff70ab3d130da333a9fcf4421cdcdb1dbd963134fa6ba89fc1450e9ca9dbe"
+    },
+    {
+      "chapter": 48,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569804",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263317&action=history",
+      "snapshotSha256": "316c6a2e8e471dbac7958b0f34a08d3e8e20d88bfd090f9303a730689eaaf2bc",
+      "contentSha256": "df4defb89a754a62bd49efc2925bd8d9496c0f8c795c18b0f2cdab2a0a6714f9"
+    },
+    {
+      "chapter": 49,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569805",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263352&action=history",
+      "snapshotSha256": "ad22f2066de6bea894805db7376ca3031f02a0a7e9831b1392c33f40d4312a5d",
+      "contentSha256": "0c18216a71044c9fd499caabd46fdb2ea20d4188f4f97fd4d28bd8a7f568969c"
+    },
+    {
+      "chapter": 50,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ח ופרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569806",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=263654&action=history",
+      "snapshotSha256": "69074442ebe6f25de75eb912dfafb68717490b4e8cb05da2f7e277653cbcb4d7",
+      "contentSha256": "e6fc49c701e63ad0af0d84be7c1e91c8e8de60ac9a466a4a380d651e0f24ae96"
+    },
+    {
+      "chapter": 51,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569807",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=264221&action=history",
+      "snapshotSha256": "9544a689574e8b6142140ae89700eaba1fbd14010c3070f7457cd597553eba03",
+      "contentSha256": "be370fd7f25423577df0c4ba034a9356f26bf5222f147dc084f4fb27847cb98f"
+    },
+    {
+      "chapter": 52,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1389591",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=264268&action=history",
+      "snapshotSha256": "504917d13f808a57b8b8580da263fc555c70c31693394b1f73517ac156763714",
+      "contentSha256": "37c314e101dd9541cf080fd60f4b76ab36b678738f3ab979bc9041273b7fdea7"
+    },
+    {
+      "chapter": 53,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק יד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569809",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=264283&action=history",
+      "snapshotSha256": "0ff663e6b1c1eeb4de58dc44cd3cf7937527f3481c0da751c9f6454c440130e3",
+      "contentSha256": "2490d0462538af696309ef506c732549e40ae5d2a0e8c22fb156dc5f748d4874"
+    },
+    {
+      "chapter": 54,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק טו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569810",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=264284&action=history",
+      "snapshotSha256": "59384e11506cc63a50ef3488c6311d01f6424cd9c66435723518dd42953436a0",
+      "contentSha256": "0b098d5bcc6ba37825d2c62103abef4df79e5cf04af6d2a6346f1a8245ba1e8d"
+    },
+    {
+      "chapter": 55,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק טז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569811",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=264287&action=history",
+      "snapshotSha256": "2ab8092fc3016bfd300ec8a17249e494f06d455f3d9f03c5f76dbddb587822fe",
+      "contentSha256": "1121be6b2d8c3cfe055f44ccdd8503489944138d9f6cd64f4f78b504f647a444"
+    },
+    {
+      "chapter": 56,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק יז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=783004",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=264288&action=history",
+      "snapshotSha256": "a376bd3d695996b8029bc67f4c9f12f38aae07a3ed89e06a13849901639060d2",
+      "contentSha256": "79d9384117939d8a315f8a98320ee395a352359dc0984fd28c1e9063d644de16"
+    },
+    {
+      "chapter": 57,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569813",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=265563&action=history",
+      "snapshotSha256": "19bae94bcd9f89346fae1bb79d16d99cb4efb01ed3e0408662129e1a2f6ae595",
+      "contentSha256": "ef4758ba3d0762006b0b87dfcbe6e9d273a96f932d4c6c0ddb4302ac64d5323b"
+    },
+    {
+      "chapter": 58,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק יח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569814",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=265587&action=history",
+      "snapshotSha256": "4c8dd303a51706fc7875f6f3588e5ebc9db01b35af5a4fc81f22ce7560fce8b2",
+      "contentSha256": "8a1b693ce932e01c2a22ddcb1a8b9e4f8ecf6aba58f6cdc2ab906f8306e79499"
+    },
+    {
+      "chapter": 59,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק יט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569815",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=265702&action=history",
+      "snapshotSha256": "d4c4ea6d18c7d5432259b5afef09193a8a134f3b29758cab5d5dc73288b82465",
+      "contentSha256": "961f911d7ea4441aac6a41fb26aa77355fea69f24e54f6c132684989938a7035"
+    },
+    {
+      "chapter": 60,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569816",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=265753&action=history",
+      "snapshotSha256": "4f1ad8c09325ae46c44578735d72a387841f50f0bafe4c978f69e751d72edc6d",
+      "contentSha256": "1dc9a7c113670d91bfaf2a799c10274951f61bf2c54f2ca977d6388049cfc0e4"
+    },
+    {
+      "chapter": 61,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק כ",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569817",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=265761&action=history",
+      "snapshotSha256": "00ca4a81d72e2d26246e31a378159e54b164b4cfbfff58ceb5e81b0d56505fd6",
+      "contentSha256": "bae88d4931282f860f0d2e73f132ba992b76584719cc5176862719bd36b29788"
+    },
+    {
+      "chapter": 62,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569818",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=265118&action=history",
+      "snapshotSha256": "9b5da9e66b2914d65c706c2b18693c390c1d09ac5d625dc86ba245c5ad33d791",
+      "contentSha256": "d2c91837727cc0b3ca39885a6f17c09af70ef8a911995dea7d5932483a3b7562"
+    },
+    {
+      "chapter": 63,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק כא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1393151",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=266097&action=history",
+      "snapshotSha256": "f85eeb78021952662c869c31dc1a7a8ee9860a3b8276a6acc618fd5614857535",
+      "contentSha256": "88d3ad828a55d0b98591460f5631e581bc31dee8ac1160baf78f42c127e53593"
+    },
+    {
+      "chapter": 64,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק כב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569821",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=266235&action=history",
+      "snapshotSha256": "96ce7b090d922f0b8a251c9c9434d6458d3572c057d8ae6a3ea8b0284d4b1fd9",
+      "contentSha256": "0c051c5d7976233e0704c3aac163ebc69451d34835723c3d7cba8217f778365c"
+    },
+    {
+      "chapter": 65,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרשה יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569820",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=266312&action=history",
+      "snapshotSha256": "28d88d847ac51ce0eb32557e4cae96e0d60998e530122b11dfc33ae6dbcd7bca",
+      "contentSha256": "1e519a5b2e5fb8130fb82b85c99c8b155b0ab9a713d04bca4c0f749c64dde391"
+    },
+    {
+      "chapter": 66,
+      "title": "ספרא (מלבי\"ם)/פרשת ויקרא חובה/פרק כג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569822",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=266342&action=history",
+      "snapshotSha256": "7287e7938601cfae0de5b4b1c169e5b896a0ad4796676b54ef7446d91b3b5331",
+      "contentSha256": "7efb1ecfb8a6695f10a355c7dd938c81a64275cb319d3ce5ca2d9de162a261bc"
+    },
+    {
+      "chapter": 67,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1393574",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=284705&action=history",
+      "snapshotSha256": "54ce4e0e58f412c0bf6d03a32b66dfb17d9f6342cfc07d4febd9199f976463d6",
+      "contentSha256": "096da23a9f5fcddb147e575d105212c80f732d502e1607a79d4508f8bb431d30"
+    },
+    {
+      "chapter": 68,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569614",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=266787&action=history",
+      "snapshotSha256": "78c57bdb1e41bd76063d51e683ccf56e1fb7c5751cf8ef0fd42d041d4e9b0e19",
+      "contentSha256": "aa195246e1c09cd6df8dfae6d279427711bda972e1fd119c3361932a683682de"
+    },
+    {
+      "chapter": 69,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569612",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=270041&action=history",
+      "snapshotSha256": "60fc1207ecc106f22f7de829d41bb9c97ca882bbd5bcd87916aeee0a76374160",
+      "contentSha256": "8df4cfd89bf1529dfcd31a3221ad1e6c60702e46ba9ae860c5ae9c88d95766b5"
+    },
+    {
+      "chapter": 70,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569613",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=270323&action=history",
+      "snapshotSha256": "eebf3604a7d0b567ecf6a4c188a23112121b773a9662d3d95948a70d66bba7a9",
+      "contentSha256": "68e32755ee172207ba7d9b6ab01b8d4fbcf77972b950b436c2d55763a9eff193"
+    },
+    {
+      "chapter": 71,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569608",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=270502&action=history",
+      "snapshotSha256": "13114bf477f6ac98f39fce72b536ff3a76752f7613d180252ec58fd23a1a8b43",
+      "contentSha256": "570f1add69d63230277d6e6a94aeb64ed14649ad29c9ba835369a8b67afdde34"
+    },
+    {
+      "chapter": 72,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569615",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=270630&action=history",
+      "snapshotSha256": "55f73e307e1e76f44cfb1f458957c3580582166fa882b033327f047912c14624",
+      "contentSha256": "037d4d9d99c8937960b4a6885deee3bc924aff54d3bddb63f0d6bb72fbbfaf37"
+    },
+    {
+      "chapter": 73,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569616",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=270696&action=history",
+      "snapshotSha256": "4adfc1c1523fe5d3b0249a6de4978e90d12895469a7dd765e4b8ca6995d8c8dd",
+      "contentSha256": "4a8021f4a1a0848452759d97c2621d1eed4c2a9559703113011949558a13657b"
+    },
+    {
+      "chapter": 74,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569617",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=270885&action=history",
+      "snapshotSha256": "c0fab84677a8975ee4ef45309851ba91ef2b1f6242579367a1a7ef9582e50409",
+      "contentSha256": "dfb8fd27c8a8362e61ddd10731d0e50f8a4313ab530ad5056ac3344735be9ac4"
+    },
+    {
+      "chapter": 75,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569618",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=271191&action=history",
+      "snapshotSha256": "f63334224f2831162cf96c18d62a30bfd7672a5c6b838108f7e5a1cec75e2dcd",
+      "contentSha256": "c9b4c811718c0d17410857ba96c268ded2d950471322f3ec904668fdcc2b88f2"
+    },
+    {
+      "chapter": 76,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569619",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=271252&action=history",
+      "snapshotSha256": "7d5dd96a069b965e7609cf56504097d9f78628637dcb3b8333fd3e4d4f530208",
+      "contentSha256": "cb1ab9d6efedd36fe9beb28a753c301a79534a1b62208ecfc6e3501134bbdf66"
+    },
+    {
+      "chapter": 77,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569620",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=271520&action=history",
+      "snapshotSha256": "4e6f12acbb85d14ecb1a309a06cd3b8e1496d6742d3439319d783a2dcce0ffcb",
+      "contentSha256": "1596e684571c4690562d720174b089fbf177b5d881bf210a14129df915376aab"
+    },
+    {
+      "chapter": 78,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569621",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=271621&action=history",
+      "snapshotSha256": "9814493efeeda65fa14ae6f003a2b3142552ca157c9bc00e50ba848881c57f28",
+      "contentSha256": "ed7e7ace42364c87288f0d3780750b16eb30e886cfc8f52d768db11701b55956"
+    },
+    {
+      "chapter": 79,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569622",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=272126&action=history",
+      "snapshotSha256": "1f1ecd76550680cb789a2b13d1dd216d209be9c4cc3b7f0ccc41190847b42082",
+      "contentSha256": "4e1e781fdfa2930e21dc114bea2499674cdea2f6ef728edaa9eac6260ad2de73"
+    },
+    {
+      "chapter": 80,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569623",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=272784&action=history",
+      "snapshotSha256": "69b463abd5837e3d1cccb390fb666988c141a0b1e438b7cc72bb671937908d65",
+      "contentSha256": "c585c269b423273a8d3648895f75069d7c353e1a3250837a175dc325542b2ced"
+    },
+    {
+      "chapter": 81,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569624",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=272909&action=history",
+      "snapshotSha256": "ca510e1870b150be281cad3fad15f3e5ac79d27dd3d4ddfe568e595266ddf953",
+      "contentSha256": "5e07cd8c672760a6ab35dd728eae232ab155a8490f63b70f82e4d113da38b78e"
+    },
+    {
+      "chapter": 82,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569625",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=273031&action=history",
+      "snapshotSha256": "879da8ecb2d1b2326876bbbd052894a4266052eda06369a0d1bd2e5465b89e06",
+      "contentSha256": "6a14d723f313dc63f5470b6fefbbbc92e44c243f4b760cab6a090f0832c25932"
+    },
+    {
+      "chapter": 83,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569626",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=273127&action=history",
+      "snapshotSha256": "0c66f08352dbf717b5149cf55601e811659a983297fc146886e019ab4429890e",
+      "contentSha256": "4b1315c4f3fb15619d6f9d63a723de9a8aaa147f33d6e6dc94ba000b6697ff84"
+    },
+    {
+      "chapter": 84,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1057557",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=273544&action=history",
+      "snapshotSha256": "e1e57e68a0dcbdf39c8e42cc052f9aa2bdca731740c9eb7f320a075ae4959ab2",
+      "contentSha256": "e15dc695c8ef3cd91a7c6fd02ff876a6d0e402fd0992465b143d2ccadd0233b8"
+    },
+    {
+      "chapter": 85,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=768298",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274025&action=history",
+      "snapshotSha256": "ad8415443a2d545822c3282c380e04137c505aaa3631760a25d6f62f7d8b214f",
+      "contentSha256": "f3e0ad09e87bb1b70c1be58f75092ea30a5e5c83d69e1f1fbe5836d9ddb4cca9"
+    },
+    {
+      "chapter": 86,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569630",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274051&action=history",
+      "snapshotSha256": "327f7407d67941d0a17bf11196fdb3c95f0bd62e299ae9a70e0551f6d1f030e0",
+      "contentSha256": "5e14cc2cc1c30627748353374145ebd3d720d0c8249b3c6c61e9feb00b57a6df"
+    },
+    {
+      "chapter": 87,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569631",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274143&action=history",
+      "snapshotSha256": "849018e9b46675d4ce70014a97cfbd9746c26f89cfdab90baf2aaa9c27a65f5a",
+      "contentSha256": "4c7cf12aa4909b66d5fdcdc068ac49402064550a19b187584e2df11b2812d9c2"
+    },
+    {
+      "chapter": 88,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק יד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569632",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274232&action=history",
+      "snapshotSha256": "509b59508ab0de96a99474172f88ff6333f5cc51003a6615db9f3c2a9ce37d51",
+      "contentSha256": "eacefd1cbdd3a07cda138ef013eb5b0e0f3729fc6a33791b99ff71ea48bd42ac"
+    },
+    {
+      "chapter": 89,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק טו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569633",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274278&action=history",
+      "snapshotSha256": "3730311262a715e7cacffc4542d7cd2c51d7e1e7f3cd91b3ce31c396786d9faf",
+      "contentSha256": "7a618c6c5f35226afac9a3f871d7f55be23d1f9d65c7d6bd74a2ecb137ee865e"
+    },
+    {
+      "chapter": 90,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569634",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274341&action=history",
+      "snapshotSha256": "0dbf00058b858947d0f415a2ad4578bb9883bf4218cd1c971216e09a2f80735d",
+      "contentSha256": "63f4ae087878a108e90ffbc9baf1a44164ec81646d1029c26a16fdc312258abc"
+    },
+    {
+      "chapter": 91,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרשה יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569635",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274673&action=history",
+      "snapshotSha256": "742b0ff1a89fa58d4a6a65162c18ae386a71bab7a866e3ff191aeac01dd3388e",
+      "contentSha256": "37787bc0659a505fe548d8f90c378f922d7c10fd04b7de22c7330e74acca2352"
+    },
+    {
+      "chapter": 92,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק טז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569636",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274801&action=history",
+      "snapshotSha256": "719567665778acd646c4b986d06574545d21a19611fa198e281fb6e7ef57b853",
+      "contentSha256": "aa2ad3589109024a895f23f0ccca5c0b97a6de4e002e0e5859f8640d03f3264a"
+    },
+    {
+      "chapter": 93,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק יז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569637",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274833&action=history",
+      "snapshotSha256": "0109b64dd207a0f2f60f104aa56eef47ab37bda62a6dd84f0dc688b58cdff048",
+      "contentSha256": "f115d67e8bd7e07251d99b7abf898dac543d458827f2f522466438a8de413ac0"
+    },
+    {
+      "chapter": 94,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/פרק יח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1108029",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274922&action=history",
+      "snapshotSha256": "7a4f7c599821595c2bba0661ce7c33ea8a00da2b74bad1a80d85678e6710780d",
+      "contentSha256": "6f82bbf25d5e943bf4c9b1bdf03fabb1d64e2d8181392509271e3edede487e1a"
+    },
+    {
+      "chapter": 95,
+      "title": "ספרא (מלבי\"ם)/פרשת צו/מכילתא דמלואים",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569641",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=274985&action=history",
+      "snapshotSha256": "385efdbea51b9953690a771a46d273f7eea501482d3b1c93c6fe9b6b68ac3177",
+      "contentSha256": "3abca621bff986ccfc87d3294e98666d4a223be19c38f61973589e2ba7871648"
+    },
+    {
+      "chapter": 96,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/מכילתא דמלואים",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1404730",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=277842&action=history",
+      "snapshotSha256": "98cb58bab29a35cc2ee342a4e2e8bb8a6ee72301c444a2a80af4aac217aa770f",
+      "contentSha256": "14bc80fecdbd524022e63f30f871118ab72ad0605fe15540062faa62f351b384"
+    },
+    {
+      "chapter": 97,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569690",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=278318&action=history",
+      "snapshotSha256": "3a0dbbd8aad71b49749499a4edba9c1427e93cf272540eefb3178a7abfc1d82c",
+      "contentSha256": "5e033e2e6c3ee585133c32584f86b64fe0bf0d95a8aa28ed5f953b064887eb9b"
+    },
+    {
+      "chapter": 98,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569691",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=278349&action=history",
+      "snapshotSha256": "35b8da1a1c9ae0f64e997c7adfccf0d1282dd8114a33c183fd474052af8d1e9f",
+      "contentSha256": "ce5721a5e3296f887d0a8ccf52f1f49f911d4d91a4f2bc4363aace95a7783a18"
+    },
+    {
+      "chapter": 99,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=3002763",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=279692&action=history",
+      "snapshotSha256": "05ae96ea3e930bfefd3b84ac82cb310718dbf31189155a4f2476e72d1edfc6b9",
+      "contentSha256": "56a7d0dbc62f17059669821850d3511ba596dfa4a400c21e617f1b59933c453e"
+    },
+    {
+      "chapter": 100,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1406201",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=279719&action=history",
+      "snapshotSha256": "fac908d56c4f12c0a46470d1e6ead491d446780bb86c805481c97788e0328544",
+      "contentSha256": "312e00f72ab730d66db94dd8788f4d111cf5ed2cf64a0528d564e519894e5a20"
+    },
+    {
+      "chapter": 101,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569694",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280118&action=history",
+      "snapshotSha256": "8928ab482f949afdfe1804c42f1f23666297e6908fb95073b3b12850176313d3",
+      "contentSha256": "ea2c4e156cea0c6a7c1c1b3b3c46e110f7e42c05880743b81fe133f2d74f278b"
+    },
+    {
+      "chapter": 102,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1406722",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280123&action=history",
+      "snapshotSha256": "10a34bb575160380eb1a9ef51a519ed11e22c622e62e106d1b0e1d6d1a68add9",
+      "contentSha256": "60edeb0ff347efb0e5721a2e572ea59f8418b0d21cfe7741d3cca9818ba5a938"
+    },
+    {
+      "chapter": 103,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1406888",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280314&action=history",
+      "snapshotSha256": "f18f378807b2038a03596bf3ac322da43464c809034eb8539106b81baf373975",
+      "contentSha256": "027ac6234c7994fc5f2f5aff2f654542a3b5b86faa84fb242771d5e5e6628d69"
+    },
+    {
+      "chapter": 104,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1407015",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280520&action=history",
+      "snapshotSha256": "9852bb876bc59fca4d6ffc8889ef55c87dea6b5cfcae3f617d830d2d840f8d69",
+      "contentSha256": "cc32641bb3e6ada4a51fb74b2606b83252029ddf2974230c1360d8ce4a4f0e42"
+    },
+    {
+      "chapter": 105,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1407025",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280559&action=history",
+      "snapshotSha256": "7de9d0cd377f2d88c2adb07e9d90ac9f3f752d00015f43d69ecf4eb3b0205944",
+      "contentSha256": "50bc3bb191d075534a544f6b555a721c62c625e1a049c7c8414de7b287504193"
+    },
+    {
+      "chapter": 106,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569699",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280628&action=history",
+      "snapshotSha256": "0ae16ad8e17f0f3a6ff853aedb153c937cbf9ee2d624ce5ce4a45ec385acb91f",
+      "contentSha256": "e19dfce584116f412c76eceb20d54197a1fccf6fbf5704a2a1530289f24f2f85"
+    },
+    {
+      "chapter": 107,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569700",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280788&action=history",
+      "snapshotSha256": "af77a77d4dbce98e84612dfe2f94b9b50a9bfc95e3508a0835bcadbad21fd307",
+      "contentSha256": "084cd100e60ac44fb14c8b5bf34356071c2ce612b8a13a8a9840453fc3b0d317"
+    },
+    {
+      "chapter": 108,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1407834",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280832&action=history",
+      "snapshotSha256": "960e0b8ad7507516cfcd67906b4f38b4eedc7850462625feeb359061c91ef9d5",
+      "contentSha256": "9941812091b35337d4fab54e517785c35f3a43dd1521ff78be0b5479f681f4d6"
+    },
+    {
+      "chapter": 109,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569702",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=280976&action=history",
+      "snapshotSha256": "1ee09998825f37b1c8684d2503f5ec197dfaa0c84bc3bf34cb29d6d5a1d8ec49",
+      "contentSha256": "fbcdca76f54dce25a9150db8c61154b6ecba6723ed1647c9e1343962f078dd0c"
+    },
+    {
+      "chapter": 110,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1408018",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281146&action=history",
+      "snapshotSha256": "dcac101ed42fafc864fb2cf473f549a8984b7ce991e032d26a06fd79e9030bf9",
+      "contentSha256": "680e35fb2c49cfbe00af0a4f8e59cab1d110f07ec8d26b03b32d65c746ef63b4"
+    },
+    {
+      "chapter": 111,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1409111",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281153&action=history",
+      "snapshotSha256": "65bfe0032381dfb6d7d593d1da2fcda04e06c84b8d3942c6bbce06640310a2d1",
+      "contentSha256": "fb18f046cb8385c04ab13e962709828c27aa4b11d8572d086bf15e4d40c3af9f"
+    },
+    {
+      "chapter": 112,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569705",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281189&action=history",
+      "snapshotSha256": "b19314d5d0334640ff14ba5c4f2eaaac8e8498526aff1e9193bee6bbe21a0d84",
+      "contentSha256": "91918e6c4f9c5279a9152e77ab8d3e0151b41d368065a982509ed63731552056"
+    },
+    {
+      "chapter": 113,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569706",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281454&action=history",
+      "snapshotSha256": "17694882d02a4375a9e757c7736de11aa94e698f93b8e4f2af131edc5d11b502",
+      "contentSha256": "1d8c2dbef5b9b7e7d8570b7ad2c77e135427171b8227c4743c4432311e04cc92"
+    },
+    {
+      "chapter": 114,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1410478",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281498&action=history",
+      "snapshotSha256": "c4b4734276449d4caa27e51c07f42053ee4f188ffcb214a5b20966baa2c1129a",
+      "contentSha256": "3b78dc549015900098a0d463cfafee8a17a3e08d1f28471c543053100580dc94"
+    },
+    {
+      "chapter": 115,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569708",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281508&action=history",
+      "snapshotSha256": "e37011cf2adf245cb1cc3692ae108e1b7cc89be3b486937007292c4e2080b04f",
+      "contentSha256": "03aa2a2941e2e4b89ee8c32bb02d80749b9232b26e3a8bdf7dc7857cd10faa54"
+    },
+    {
+      "chapter": 116,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569709",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281621&action=history",
+      "snapshotSha256": "55de6a38e731f992f3f3ae7768b6fdf983f6798551ed6e74c18f0123bfaca743",
+      "contentSha256": "3afdcd22a6fd696420d7a6b0a58dd8e6e804dc7317059c4c4b680be0b056f345"
+    },
+    {
+      "chapter": 117,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרשה י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569710",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281731&action=history",
+      "snapshotSha256": "82813ede02516ef63ca53e1a5bdac0c478a6245e11741630c624e9741fe63ec2",
+      "contentSha256": "dcadfbde69d5df357bb4665276884b87a975826e04308d493050f46dd0a3f05d"
+    },
+    {
+      "chapter": 118,
+      "title": "ספרא (מלבי\"ם)/פרשת שמיני/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=569711",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=281922&action=history",
+      "snapshotSha256": "31d15cd0935436aaa76ceaf4185e5e578bf248c70a960b2caa2180d92c668846",
+      "contentSha256": "51f48864503d1dc744f70da14ca19931de9a21cc7b1e150034a25b083f923c58"
+    },
+    {
+      "chapter": 119,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע יולדת/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570064",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250118&action=history",
+      "snapshotSha256": "d9ad09af78c146892b451b3206ba41dca93baf4cbd11f04e7b02401add1d8055",
+      "contentSha256": "bcc1c6677eba4354fa920bc9272c2b6b92b1cb6d28d13c68ca66ad4cf7e5f74a"
+    },
+    {
+      "chapter": 120,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע יולדת/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=593151",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250119&action=history",
+      "snapshotSha256": "b26a0a16e3c54aeb6b733724d19c0a4409e829d41f55154070cef8752ba6ebf4",
+      "contentSha256": "5b37d4725565d2977883e56ce6026df0af25ac6c0374c86719a83b7d409e8ea2"
+    },
+    {
+      "chapter": 121,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע יולדת/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1413427",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250120&action=history",
+      "snapshotSha256": "ab32e894b3b76fe66a976cf89b4601b4f3a86b05d5c9559969da5ca58a955fe5",
+      "contentSha256": "8c03e80d574bf90d75916e243326dd9fceb2d3618afc84f593d2bac418d937e4"
+    },
+    {
+      "chapter": 122,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע יולדת/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570067",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250121&action=history",
+      "snapshotSha256": "343bc63cb9b626d6c117874953f4fc477b247333c0753dbe5b41c737205142d9",
+      "contentSha256": "3e37cbbc11e382286c9493679dd55f99dda96de071d74b462c71ea2bfc9b803b"
+    },
+    {
+      "chapter": 123,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע יולדת/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570068",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250122&action=history",
+      "snapshotSha256": "73cc11283e43d5cdbfe94f429de59cbd8c0789134f0fd0a0ee4290ac09fab20b",
+      "contentSha256": "1dc0d2e026a78a388c06eedd4f35823b41996d24e3ddffe216b06b765fee79dd"
+    },
+    {
+      "chapter": 124,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570069",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250067&action=history",
+      "snapshotSha256": "fbafa48cdc9d2438185bf4cf1d119d693cd4acaac285b854c7f3eaa03d4e16ea",
+      "contentSha256": "6640c27e22e664ca83af8bc36c801640625ed3915366d912789e637841c935e7"
+    },
+    {
+      "chapter": 125,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570070",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250068&action=history",
+      "snapshotSha256": "bce7e8d185f6e9164e3a63ac92680315cbcaab8f6bcdab3138ba123e43623774",
+      "contentSha256": "13993b3fce6fc9cf18793da5c77b5a193587043b58c866c3aca6effd826f2e0a"
+    },
+    {
+      "chapter": 126,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1413970",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250088&action=history",
+      "snapshotSha256": "4db6ddf4d3673a7af2067693a8f2bb28877e13dc1c601807f762e24b23ded9e1",
+      "contentSha256": "b801fdc7dcfd72594f05378eb0bea3439d53c647d938959da2e8fffe62813334"
+    },
+    {
+      "chapter": 127,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ב*",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1413991",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250089&action=history",
+      "snapshotSha256": "7e80dd83762ec35ba149e157e21fd68f7faee4f058352e448e99fc4659380e7a",
+      "contentSha256": "fc57e8b456070793f8c3eb9e000302a29d2062eb783b2599ba1f84e842ac9433"
+    },
+    {
+      "chapter": 128,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=650704",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250090&action=history",
+      "snapshotSha256": "480a36f96ed719977cc098d5740ceddada8a7512954eeecb5f36206b9ebec395",
+      "contentSha256": "b398b9670a9f28d90eb27b2403653ee331f487905083f6182ace183926e132d4"
+    },
+    {
+      "chapter": 129,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=650705",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250091&action=history",
+      "snapshotSha256": "62f02a3f30e22c30198e8dc7295942bc3ba5e53916ea3118d704ecc25937c8e7",
+      "contentSha256": "9a02861cd5967b6c28944458b80351b367cd2b3d5b2223b15603cc181cfa8ba4"
+    },
+    {
+      "chapter": 130,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=650706",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250095&action=history",
+      "snapshotSha256": "570eac3b3f6345cff46a9aa4c986988d7f9b4af061e2cd6820de92f7901b9306",
+      "contentSha256": "3baa519ae8ffd0951c52549104fcf500785bab3e600717a3d1c6ff6152cd4384"
+    },
+    {
+      "chapter": 131,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1414632",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250096&action=history",
+      "snapshotSha256": "864decdd8873a17141a7af4e9a94df26711cdd1100b6b49b631a335f4d63f52c",
+      "contentSha256": "e5cead6161b72c41530b30b89172bb5d0cc1dddbcfa632296ef103c2043183fb"
+    },
+    {
+      "chapter": 132,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570077",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250097&action=history",
+      "snapshotSha256": "86a16d292536ed3a6a7630a720e07b33572d361d5314e1326a069fb3fa78eca4",
+      "contentSha256": "de739d50002d5999cdb1420217a76492aa53fd557891f34119dbbee2e711ea9c"
+    },
+    {
+      "chapter": 133,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570078",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250098&action=history",
+      "snapshotSha256": "8769e0a6bb03aeffedde9e0cae24e894b9f7e1110752fa6276f79fcaaada1916",
+      "contentSha256": "399c8b29e8376ebb588692ffa63db5a861bbbfdb31708feda099cab052852450"
+    },
+    {
+      "chapter": 134,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570079",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250099&action=history",
+      "snapshotSha256": "75b8307199c015af3f8d5fb3c7aa42beb01868db820a4ea14f6ab56a6d8d602b",
+      "contentSha256": "c9b8ea51f4c41fbefaf6add7fc28f57ca9d64cbb92ab23a7fdae61892fb5e7a3"
+    },
+    {
+      "chapter": 135,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570080",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250100&action=history",
+      "snapshotSha256": "0953f5cbc50072237da1bdebbbd7ccafe37745b5b56606fdd7d346a89f1932b5",
+      "contentSha256": "f580cc36d97f7a0f7d77df17b9b8b0a557911bec0f53673512486d75154f065a"
+    },
+    {
+      "chapter": 136,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=597197",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250101&action=history",
+      "snapshotSha256": "6310fc0d6dbe505ea9773cfe2ef93c5fa34d05144d4ecea4c76dad268d1dc57e",
+      "contentSha256": "45c5a4dfa4e10595bb1b539fa53c53ff00a4d0fe7dc237be159b66ac350e2484"
+    },
+    {
+      "chapter": 137,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1415054",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250102&action=history",
+      "snapshotSha256": "2b7068a70aefdb97028ad8e7174e389a489e842ad9bea4fbfae5c78e87412621",
+      "contentSha256": "f9734ef1189cb66b4e64fd742de7f404a4cee6cc0355410cf5939e226b51565a"
+    },
+    {
+      "chapter": 138,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570083",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250103&action=history",
+      "snapshotSha256": "cb4bd34652285903ce9fe5c6f440a8816a5c1fae3a0374cd105d7ed285766efe",
+      "contentSha256": "97dc4066fd358c9147c3bba18e65f852f8067eef065f51700441c64edb99e44e"
+    },
+    {
+      "chapter": 139,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570084",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250104&action=history",
+      "snapshotSha256": "8fe6376fcef7c963ba04dc6cf3d9d2ecb432349958d174f17531e05cae6d1c40",
+      "contentSha256": "3e7c4457b9af7123b2908a2480769f9a458d31bb674ae85b1c75a301f6723f34"
+    },
+    {
+      "chapter": 140,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570085",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250105&action=history",
+      "snapshotSha256": "0c63708f7ac9a5f435aa6e86fa295489c68fdb0296b5398081eb03cf1b111522",
+      "contentSha256": "e53837c17670475192ba98e593d7367a4649c52f97268d1ef9cd8a6e0b2e0370"
+    },
+    {
+      "chapter": 141,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרקים יג-יד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1416113",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250106&action=history",
+      "snapshotSha256": "35269fe8af1cf8b818db261fb2a205f054fe1162a0b85aa09648e96a1cdbee28",
+      "contentSha256": "95839a6255513b65e2f9868a298ef7a7d7235bf414592525217494b0f9a97143"
+    },
+    {
+      "chapter": 142,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק טו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570087",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250115&action=history",
+      "snapshotSha256": "e026dcc7f66fbd93725730452c69bd7ccb498b1ac0f2c086bf93e1f16499b233",
+      "contentSha256": "261c315a697c0aef8fe977c817c20e1cc9e7047978fd0ee1650c3c511fd62570"
+    },
+    {
+      "chapter": 143,
+      "title": "ספרא (מלבי\"ם)/פרשת תזריע נגעים/פרק טז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570088",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250116&action=history",
+      "snapshotSha256": "2879ed9c6b6e73ace7aae9ffae064201d0b04509aa75626a3c2351068fd167dd",
+      "contentSha256": "bc8c17f9c34d9c3d8233f23ebd3e555c560903e2a58248040845ffac9c635b5a"
+    },
+    {
+      "chapter": 144,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570146",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250123&action=history",
+      "snapshotSha256": "542b9e3a106ab4b93d9d78e7eb95b8edaf339fa07b1b51b6ef2356450573a132",
+      "contentSha256": "6480164cb1d883cdbf96b0257bbf2f392b1c70e6889d2dfdf7d1485a9531bc45"
+    },
+    {
+      "chapter": 145,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570147",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250130&action=history",
+      "snapshotSha256": "d28de08f0c19902c505cb49da41b3a1ae8580d8a3fb404f2379c7dd2106c57fc",
+      "contentSha256": "205cba8aefc3cf365613d74723da9997d57a55962665c0b9df76be3fedd2e520"
+    },
+    {
+      "chapter": 146,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=885647",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250131&action=history",
+      "snapshotSha256": "1aaea987481ab45fdd475832ed275239f50e9db9537b07c97dc56f571173e8c7",
+      "contentSha256": "3e8287baaca6179f19a91de84cc64e4686e914ca16ea0cfe978b6d92a38c630f"
+    },
+    {
+      "chapter": 147,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570149",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250138&action=history",
+      "snapshotSha256": "3b74376e53bb2b53783758a88bf7d04f2fc1410f7940390fa70a8d2049a58c4b",
+      "contentSha256": "7991a123e30ed1b848209135cbbaa0be1f78bcd34971705ad734e7028b196e66"
+    },
+    {
+      "chapter": 148,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570150",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250139&action=history",
+      "snapshotSha256": "5b3d68dabbb49a6d48a4c8d3491f6c4dcd7f1c5cac53df51428b53ad2278b48b",
+      "contentSha256": "34599214a5ab4962a170ef6c66391ddd5d40954234c4b2653857754f0ef198c4"
+    },
+    {
+      "chapter": 149,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570151",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250140&action=history",
+      "snapshotSha256": "6d8e384d8a54a1ea23e239e4d126a5f4c6a7c748809e0427ed0e9ead0e163804",
+      "contentSha256": "901b31f4375320ed6c9ec3ffd816381aa0e40a909e9a2b11ed49579a6b4614d4"
+    },
+    {
+      "chapter": 150,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570152",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250141&action=history",
+      "snapshotSha256": "893637f668102f66c1db2b341f4a87821ef904eb614c87fccb9a3a525ef98813",
+      "contentSha256": "a9cc5e87776f541ad9548d7f53f40d07b79705505f14747e8e6f50f05d0b3a21"
+    },
+    {
+      "chapter": 151,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570153",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250142&action=history",
+      "snapshotSha256": "d6b44e653ff53d4bdcfb4a2a5ecb98e536707e52d42876a7e8729814c39a67a7",
+      "contentSha256": "13a61640ca4c556c15c2ab7d27da6ed945e5bc764acc49ab159308a421b35d04"
+    },
+    {
+      "chapter": 152,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570154",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250143&action=history",
+      "snapshotSha256": "5792b3f6deef4591d7c9a27e45920520167be3b6ea25d5a226697b9c5795d3e0",
+      "contentSha256": "d299719505fecda65200b9d47675bcea197f8213e4dca322745731a8bdef365e"
+    },
+    {
+      "chapter": 153,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=813304",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250144&action=history",
+      "snapshotSha256": "0e8b74cdef8fc500c390d67cdce2b06fa24e408b93d567e360520270ea9a11df",
+      "contentSha256": "aa3d68db32f215d323bc71255bb7877754f2a81bf8124d98ec758aa0077be05f"
+    },
+    {
+      "chapter": 154,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרשה ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570156",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250145&action=history",
+      "snapshotSha256": "d94453c5225955eb232bf21f844bc1c16b0f0a8efd2744e3c7d48f9f32f7b9c8",
+      "contentSha256": "538e5ba3e775772677d5defd6b2d0d563bae149e5dd6eb7d09265cd25ea040a2"
+    },
+    {
+      "chapter": 155,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע מצורע/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570157",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250155&action=history",
+      "snapshotSha256": "2079c3c3e566a03abdffae8a2e4b6f127819101961accd9f945125e48b908616",
+      "contentSha256": "f5b33774875b9423a2596aac6985a862cc6a1f13f1e4eb43240d2f44c64c9a8e"
+    },
+    {
+      "chapter": 156,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1417785",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250204&action=history",
+      "snapshotSha256": "7df1878bb8176eadb1e4133d0396a1d11da958765283659440ae16909913044a",
+      "contentSha256": "e3cccd6299a5d539ecc5f8fc29f0f6a4aaf80fac25295c55c698bc287c5e8a5a"
+    },
+    {
+      "chapter": 157,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570159",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250205&action=history",
+      "snapshotSha256": "e2fb986b82304e417e56a79747d93f5a2a8319702ee6d681804c3f9da6b782c5",
+      "contentSha256": "e12fc036429c8ac8b094dbb2b8f4f3829e2988b155a556dd1204b6674b79495d"
+    },
+    {
+      "chapter": 158,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1419430",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250206&action=history",
+      "snapshotSha256": "bd803692c91ef53379e98035a9d9500bcfb3331b4451b86d9dc89f864d9ad1a7",
+      "contentSha256": "c065234459574ba391d8292e60466cb24c01a269ee113f8c92b86381550c22db"
+    },
+    {
+      "chapter": 159,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570161",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250303&action=history",
+      "snapshotSha256": "4abf5e11d4f9b111f19899e19defe1f8e3d70a23f5733e51f26090eb57a5046b",
+      "contentSha256": "122921c9d4256067b4bb7c6ee48a07857b5708affc6df3ad2c9a88ba8759531e"
+    },
+    {
+      "chapter": 160,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570162",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250304&action=history",
+      "snapshotSha256": "960b1a51ea87ba4ff602ab8c9d711a0796e0978035f49de3fbd37be14faa2b19",
+      "contentSha256": "342eff08051c7c11aebb1cdea975972548ba98bb62a7610d5d5e12d58d9b3f0e"
+    },
+    {
+      "chapter": 161,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570163",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250305&action=history",
+      "snapshotSha256": "3d3f535082e54bc454a494a84952a6329eda5377a78c8e7514d62579a7055b0e",
+      "contentSha256": "99a3564f917790e70d6d2617820527e5dceedf05d1b6a165861e2345c3e430e8"
+    },
+    {
+      "chapter": 162,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570164",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250306&action=history",
+      "snapshotSha256": "6b8aa66f31969df6a4b26d58f4ad9b8c860b7597bd5ec31583b31700935c11f7",
+      "contentSha256": "01c2c4cbcf1c38192e2f6da5d56b02a44847df8a1d13ff45f2e460e4bb6df264"
+    },
+    {
+      "chapter": 163,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1419813",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250307&action=history",
+      "snapshotSha256": "e13d5c9ca383bc9656e304f655107b4d78a705c54b578d5815de3e4959d79557",
+      "contentSha256": "0d9a11014364f6ae25681f7f68c546cfeda656aeae98ca184854d2bd14407742"
+    },
+    {
+      "chapter": 164,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570166",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250308&action=history",
+      "snapshotSha256": "415a87214bb9a9166a7e228b2fcfefd58abab94e8c359e22050410111d62f866",
+      "contentSha256": "580c77bdec762980969afafe1edb856245b297afca662381a8cc7dbb293392ca"
+    },
+    {
+      "chapter": 165,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570167",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250310&action=history",
+      "snapshotSha256": "781b9df4e11ffceb15ecfabc49fd5be3328f759f031fe6630bfe9bbcef3be98f",
+      "contentSha256": "55612d3932e343b51459d06a9f3747d68fd3cf7d2fe19a327cb00b64769ac9b6"
+    },
+    {
+      "chapter": 166,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570168",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250311&action=history",
+      "snapshotSha256": "bfc97fd1e6994ba344897c42c794edec7b2ff7a0afc50509a84bad4d3a1b61f5",
+      "contentSha256": "8d2cd7a33cc3317d6f3db53a2dab04e5c810c36e7efc6159e27a967c28f5b549"
+    },
+    {
+      "chapter": 167,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570169",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250312&action=history",
+      "snapshotSha256": "e8297e68d7ce103b71c6c1300f8308ead604e810147a3a5e41921fe8395b38e0",
+      "contentSha256": "728fdc9f33977d429484b22a5d9ab49d8a505f60dc6be365f0975e22b6ff9c9d"
+    },
+    {
+      "chapter": 168,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570170",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250317&action=history",
+      "snapshotSha256": "f3b1084d58f133ec0a0bc6f9b7fff357610e51fac58715d129a0ee7905b8b73f",
+      "contentSha256": "802d674920585ca0fd5dcc0e70ba3111e5139b03c2cb5e2b60ec13fc2c91ab5c"
+    },
+    {
+      "chapter": 169,
+      "title": "ספרא (מלבי\"ם)/פרשת מצורע זבים/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570171",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250319&action=history",
+      "snapshotSha256": "a72576662dd4d254c18c5bbe2ba796ef649403f772a93fba7d45188cd08dbb1a",
+      "contentSha256": "73edcfecc48a9ba0d2a7886cb76b81df6d3f027e99302276475fb5c05c54baa0"
+    },
+    {
+      "chapter": 170,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=704445",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250565&action=history",
+      "snapshotSha256": "2a5cb5f90e842f506ba463ef1a97c04f6aaa60db88ca2a20c92168c33aee91d8",
+      "contentSha256": "e5d741d146f365238e350453c87bdb2317445c8442c1691767c5c4246c996727"
+    },
+    {
+      "chapter": 171,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1421444",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250569&action=history",
+      "snapshotSha256": "c0bd3380ad07d5591d3de81cd89c0b4ecfd0bf9ece9433f9ad89c4444c21d495",
+      "contentSha256": "4335411a9033270b4101b3192f76a19fbf8ebb22fd12c7d9e6347df587c6d99f"
+    },
+    {
+      "chapter": 172,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570291",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250575&action=history",
+      "snapshotSha256": "24742e3970421e3af3c9d096d5deeca29620dc8d285c23470b649ffbac03a239",
+      "contentSha256": "23e7779f5aff9c51447106e10f1da86860086077d4712c341a60af4fe376552b"
+    },
+    {
+      "chapter": 173,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1421546",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250583&action=history",
+      "snapshotSha256": "423b6ec1681b64bf638855f620a9c17a66d6218297932d8e9eec1aa65f2b1243",
+      "contentSha256": "814434805eddac089216ce0392e2beee999fb306699afd241a499e479a0ef2d0"
+    },
+    {
+      "chapter": 174,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570293",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250662&action=history",
+      "snapshotSha256": "17d05705bb464354597eb071123715c69ed0514c2ce58d6547c22b7a3210fcb2",
+      "contentSha256": "6c7e4107546d18e5a3c450ad68b5897ef158df242480c9e35827e609aa734e5d"
+    },
+    {
+      "chapter": 175,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570294",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250663&action=history",
+      "snapshotSha256": "2d0aa76401136a6ad85735fe5978a5290c6e625e48f3e6683195db52457ae396",
+      "contentSha256": "1b56944288b9f7b313f494900b158f5732ce3f2c9fde5d4ad3f29244d7930bd7"
+    },
+    {
+      "chapter": 176,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570295",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250664&action=history",
+      "snapshotSha256": "a6e2f4aea9899d1f924266a926e83721c08a41dd9e87a6b6ee0cc0beedb9475f",
+      "contentSha256": "97044b61503a99246d64e141633852780b2a19beea209c4ab5de82a4ecbcd570"
+    },
+    {
+      "chapter": 177,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570296",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250674&action=history",
+      "snapshotSha256": "efec4b3bc7af546158fbaf4fc51d5ef1524386a7bc06b980662ef204a53d77a6",
+      "contentSha256": "05a3445e86659f4473ffedb1745f4ef4cc5b62f28d961bf0ace4d7650f073a16"
+    },
+    {
+      "chapter": 178,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570297",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250675&action=history",
+      "snapshotSha256": "c24adc27e1704d963c4c91afddcfcc7a2ffff638a346025c5cab3ab8316e41cd",
+      "contentSha256": "7178b39ffb23649bcceefd69f7f5802a3e3a5b66e2c1b52551fbcffd8de353c4"
+    },
+    {
+      "chapter": 179,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570298",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250676&action=history",
+      "snapshotSha256": "99ab5299fc0ed7bd2efa2c6653bd2db8d8928bd59f518370b3b9f279605a901a",
+      "contentSha256": "221cd62120b43f527af6d2ad40f57ce57721c3ab753fa41585276e05374eb52e"
+    },
+    {
+      "chapter": 180,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570299",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250678&action=history",
+      "snapshotSha256": "b707b3a98304d8bf8447a94a89f09076126dde507fe435ec580a900ef33f2652",
+      "contentSha256": "11c000dd350b59c75cdad2606ddc9804bf65edce1744708ddae64375c1c43617"
+    },
+    {
+      "chapter": 181,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570300",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250679&action=history",
+      "snapshotSha256": "b7b4289943359c6cab24e04397c2a31850704c1188a13addfdea5e130be9680d",
+      "contentSha256": "155fc9c034fc595fe091aaee13269898953a696e75e69881405ffb9808ea0cbe"
+    },
+    {
+      "chapter": 182,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570301",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250682&action=history",
+      "snapshotSha256": "df5cf21d1f9e80b1c58924c26276259ea67658c943be6d932cded9b67b8c7028",
+      "contentSha256": "cff6760ff8fa4e4e51257d53569b89f816bcdda9124853ceb0d1df6bb3119bd7"
+    },
+    {
+      "chapter": 183,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570302",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250722&action=history",
+      "snapshotSha256": "c8f5b7cc5844271f5906d47a087cf9fb336d6b6272850ac9d0b2647ba055a54d",
+      "contentSha256": "83bfa265cb2674e873537a3b9f8dec3993f14f0e4444a9524bbebc78614e8161"
+    },
+    {
+      "chapter": 184,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570303",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250724&action=history",
+      "snapshotSha256": "68fb0701e40f6771b18b94f7675e088af64bbafce3d6d4c8311e48898ee6c37a",
+      "contentSha256": "e5250e576b779c30546ad46b4b334dcab19cd5357f52d0fe19ab1c4159faac4f"
+    },
+    {
+      "chapter": 185,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570304",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250725&action=history",
+      "snapshotSha256": "5ed7216d85118ebaeffe255baf5db8adfd521b4e92d435113910f007b05860e4",
+      "contentSha256": "db243ab2a8c9917a8f02ac37cf00a78a62ff73e1decc8c730dfe04652d25ead3"
+    },
+    {
+      "chapter": 186,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570305",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250728&action=history",
+      "snapshotSha256": "a0e8af0d694d5b75bdfdd04bbd70446f6ab86093f29e15d13aca5c0d6fd22894",
+      "contentSha256": "db557108e945498faac27bf552b60df6393012484caf9a72c2634a40b3db63e6"
+    },
+    {
+      "chapter": 187,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570306",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250731&action=history",
+      "snapshotSha256": "34f8a021d06ea3f3455adc852c1cd8d94e2fcafd438f61b3884d28e47c094137",
+      "contentSha256": "73729ca633f96c091ec92c70124f95e334434c4c327d5fa3485c77938bd892cc"
+    },
+    {
+      "chapter": 188,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570307",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250743&action=history",
+      "snapshotSha256": "ddcfb3d8b20230651905f4fdeaa6d7427bf2aff98c8a8efa86657fcf9b14f8fa",
+      "contentSha256": "e0d554775c252c32e92fc5d58a5cc158b8bcc50b90c0570386f38d3541f48248"
+    },
+    {
+      "chapter": 189,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרשה ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570308",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250846&action=history",
+      "snapshotSha256": "9d012d3b124e7f078a1c8317ca7ea0e3180e1a6eda426520fd5218803d23ad24",
+      "contentSha256": "d47b00c48f98fb77040f4a689fb910febbcb0972d93f79d8d90b03115df4473a"
+    },
+    {
+      "chapter": 190,
+      "title": "ספרא (מלבי\"ם)/פרשת אחרי מות/פרק יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570309",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250854&action=history",
+      "snapshotSha256": "59b52a2309ef92564df5a2e2d1ab2445b4025b88dcedaf4a08bca6c547ae40d0",
+      "contentSha256": "e9759f70dfc3c90f07fb50fe1328907e82eaf571543cb379c63614d1dbc01f4b"
+    },
+    {
+      "chapter": 191,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570310",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250883&action=history",
+      "snapshotSha256": "8a1622ca21a1d75644529aa75fdb74521555077f060d01daf750f599534aeb59",
+      "contentSha256": "33cfc3ba9eb5481f62f92c609190e51182b045b2fee986d7d26d06c32c974ad2"
+    },
+    {
+      "chapter": 192,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570311",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250884&action=history",
+      "snapshotSha256": "cbf9f84e7b1f527c312976f4825e59d0c11f6a2f4204f2b002e15c83df16006c",
+      "contentSha256": "e0edd08974472490fb363368e368220cb1785c43680ba1c90a62a927366ab99f"
+    },
+    {
+      "chapter": 193,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570312",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250890&action=history",
+      "snapshotSha256": "6be50a0700f916c140dd3c4794db154abfe38d52e759b4095261ea3a8edd1f31",
+      "contentSha256": "ac91a019636278ab0b965e78bfac9f7c2b9cbafdb057aa1b49c34083453b0d51"
+    },
+    {
+      "chapter": 194,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570313",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250917&action=history",
+      "snapshotSha256": "cb2f1915c587fca06ece88d22c5691b78a67d85149f2ba34c52cb03db560fb51",
+      "contentSha256": "0eee4ae9161f108ddf9f156981ccf5c436aa087b795cd0f7999cc29f760c4141"
+    },
+    {
+      "chapter": 195,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570314",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250918&action=history",
+      "snapshotSha256": "60859662d21c92fa0f78e28291356e228e5ba427a5340a83330529118c183c34",
+      "contentSha256": "3908e658a54b337af29229cdd25508aaa86ec62e0702e9e2659315e03ec82aa3"
+    },
+    {
+      "chapter": 196,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1427026",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250934&action=history",
+      "snapshotSha256": "0a7f672e1e21f0632fb38ba4d1f2e04d34e1a79629f1003dcec7f23dc32e7d79",
+      "contentSha256": "de6602bd3736cadbea083298419dbf627fc88247201fa0738db3839eb34f91fb"
+    },
+    {
+      "chapter": 197,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1427074",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250989&action=history",
+      "snapshotSha256": "1f8cf787912a246e5f14192b684a9d64cb6de3e8e8ba7a15c9c7ba9a56151e83",
+      "contentSha256": "718f11ef62ddb7245ebafec75fd6a85b025aa665e1219f2ba22a6b744381ee29"
+    },
+    {
+      "chapter": 198,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1430132",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=250993&action=history",
+      "snapshotSha256": "d8c45dd7512d7285b36cc8166d4c88e5a0a88346882eb5e5fdf449afbc149559",
+      "contentSha256": "991d03cc65d483e4333ffeea689af86b744643c94254635b5289fc813f64f026"
+    },
+    {
+      "chapter": 199,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570318",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251128&action=history",
+      "snapshotSha256": "40116658703787cc10c4f7e7bdcee565027a3676e48685c18cdd1f62c31197c0",
+      "contentSha256": "96e46ab4b6432505c38591841d72d15e0e94ca12da5bcb3683c958612f9fc741"
+    },
+    {
+      "chapter": 200,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570319",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251129&action=history",
+      "snapshotSha256": "4e10e5609bef6bee9895e4cf10a96c3a6ef522a99c3f468e4ee367c67dda2236",
+      "contentSha256": "17086c85695bb9a37c8781df65dda5262166b641c518bd1937bcdd5ac915770f"
+    },
+    {
+      "chapter": 201,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570320",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251131&action=history",
+      "snapshotSha256": "98c1158b4de0612e93e33964481c3fae5fd2a3771a16599e72329899b40e6702",
+      "contentSha256": "c87bdef0a4fa79439950f53c45270bd402f1a79a9cc07fdb613ecc9ba2d63a38"
+    },
+    {
+      "chapter": 202,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570321",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251198&action=history",
+      "snapshotSha256": "2ac615e60029c8f74ffaa60c695ad254aeecee0b19d8bd5417101e94c5e52104",
+      "contentSha256": "850b90fad0277fafcf5a5f004741cebb32c7d0d34d5f56f38d96b662289cbd2c"
+    },
+    {
+      "chapter": 203,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570322",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251199&action=history",
+      "snapshotSha256": "273af0cb1593458f9018e85584e63aed2f3c05fb9a04b253ed8bc2c109ec5673",
+      "contentSha256": "71be0931c2b35ecf8461c5998c743f216cebde3b6ddf2e52a8355d25c25e3b79"
+    },
+    {
+      "chapter": 204,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1437869",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251200&action=history",
+      "snapshotSha256": "3a29ea51fdcb623a058821a72af73923b3db708f3d441bb99c954ad651e9451b",
+      "contentSha256": "63cd0c1d231617c3ea6eabac1cd341f7e4cf8b5c1500a46971b7461dcb298934"
+    },
+    {
+      "chapter": 205,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=747828",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251201&action=history",
+      "snapshotSha256": "b8d4ce84a041849f3141e3c886b91e3590b221d00edb049dd848b6df95fc4f68",
+      "contentSha256": "c45a5f5afa6053c247cf73f59267d7fec39cdfc1a31c557dcf93343585dc3be6"
+    },
+    {
+      "chapter": 206,
+      "title": "ספרא (מלבי\"ם)/פרשת קדושים/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1438537",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251202&action=history",
+      "snapshotSha256": "8d1e759a4daecd67c428735d535b686e5c9657e224fc1b0ee9c7c6bbd4df5fb5",
+      "contentSha256": "d926ac194e6130e9c2810b4fc30f684677fca269e53de438e4e33461bd3a0509"
+    },
+    {
+      "chapter": 207,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570485",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251379&action=history",
+      "snapshotSha256": "c45484c7a3e627048c5107e073bc93513dc4bdfc26d5a248b4469ee03f2cb0ad",
+      "contentSha256": "0c9b53aa1e428ceea7a70e198ec0f3dbb23b6c7c2ebb1a946bac095d76f47e5c"
+    },
+    {
+      "chapter": 208,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570486",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251407&action=history",
+      "snapshotSha256": "cd97bc3a2d5a6f45b8ff71c3dee53957f78f82db399615055ed8c88938027515",
+      "contentSha256": "5f9f42be05c7b3d7503aa985ca1ddb4fe1064a1685610319c2b804e5d0c7d892"
+    },
+    {
+      "chapter": 209,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570487",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251488&action=history",
+      "snapshotSha256": "ca980fe8372fa790e42aac7b8db21b887f1688d563a7040e40256b5268fc7c08",
+      "contentSha256": "010d0f91e0f653bd7313f31b5f0e3c3924730c68cdeda477ab044111ec91f063"
+    },
+    {
+      "chapter": 210,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570488",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251495&action=history",
+      "snapshotSha256": "14219b2f51b4cd34c6240bca5c34dc645ff4d287f4612545235456142acaae31",
+      "contentSha256": "7cca120d6b2204e7ec9b730ea248ab5afdd214b10f69ebc20be71d06a4e4365b"
+    },
+    {
+      "chapter": 211,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570489",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251508&action=history",
+      "snapshotSha256": "2aa2828f2dede33e3df66b1cca8fd216aea3e3e49037eebccdcc2b5f57e79579",
+      "contentSha256": "3e034713bda48a2944db140961d61aa172c4b98b1c59c020edf5de7d1707e346"
+    },
+    {
+      "chapter": 212,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1441099",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251524&action=history",
+      "snapshotSha256": "edc175b6b46cb8be5f19bf8f1e15dbd4fc946af263d4040d35e7a515544bf660",
+      "contentSha256": "132c450cef413422ade7dd94089f6e14f001b18e0834e32e1e31da6d2d7eb4a4"
+    },
+    {
+      "chapter": 213,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570491",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251531&action=history",
+      "snapshotSha256": "99de3afd4d4bd33994ed739c1fc7c853d2c72d55854326b885ac480a50603f1a",
+      "contentSha256": "9ce4d8055e3682c9e90ec00b86260cb365656485899a209ec36da2a3cfb1b1dd"
+    },
+    {
+      "chapter": 214,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570492",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251538&action=history",
+      "snapshotSha256": "d7d6decc1848b0a7fa9b7cdf8747300a4a9eb0335cb90ff4a42167730803206e",
+      "contentSha256": "284170960cce66884e99969f35334bc809bb0e5832dc2c895e5db3a705f5b8fc"
+    },
+    {
+      "chapter": 215,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570493",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251574&action=history",
+      "snapshotSha256": "c354b8dbb4220d39d2f079df2c6fe5f9c29ba84c642134efba3b65bc1abf73f6",
+      "contentSha256": "d607ef0b358146f28bea3d0b5bd6c3846b77edd77d0e49d755c6ac1f2b93e510"
+    },
+    {
+      "chapter": 216,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570494",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251600&action=history",
+      "snapshotSha256": "9bffb45708f7e0516c3f699983464fe6f2c8e9ba4a74fcb47fb1be0ee6211e5b",
+      "contentSha256": "961d79fb44e1c7cecd932a57b8e4b5838fb5081902ed6f56f32097c52f4008bd"
+    },
+    {
+      "chapter": 217,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570495",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251604&action=history",
+      "snapshotSha256": "46d0087ad22ae94f05d7a51f5aae0c8fe60fe5b4566ec289a5a87502bd345281",
+      "contentSha256": "6bab11b7a8e44b8abc51557327c2ba5968a2aafad3b960289f004933985cb205"
+    },
+    {
+      "chapter": 218,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570496",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251606&action=history",
+      "snapshotSha256": "8c744525057c81e0fe9ffc00549b6dec0fccd1319c2acb88360462b2ceed4068",
+      "contentSha256": "52d9ffcd7be5192fcaa61aec187cb4c3eea67f5bc71aeeab7f35e04db2fcff0f"
+    },
+    {
+      "chapter": 219,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570497",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251622&action=history",
+      "snapshotSha256": "99856f8563994b26feaeb61e1a032e578554be65e40167c102745ff1c22dabe4",
+      "contentSha256": "8c27fa764ff36544c8630552c613f350fe627afd88d5afa416b24bebb58bd905"
+    },
+    {
+      "chapter": 220,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570498",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251714&action=history",
+      "snapshotSha256": "a5bb7e2df195cab349755730ef0c79ae29c8905bb65c82e7e0d6f2b617ed4180",
+      "contentSha256": "48c1490092a3c702b28704dfbce158c70e99f03069742bb67a343b0927b3049b"
+    },
+    {
+      "chapter": 221,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570499",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251740&action=history",
+      "snapshotSha256": "d79a63bf38054588ce4e5bb12867e1843974b8e3e5dd9cfe8d7eb841525170a1",
+      "contentSha256": "9793b3942bd64575e44d4d4ce2d1bd398f7469a156be1423033730cc16763393"
+    },
+    {
+      "chapter": 222,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570500",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251766&action=history",
+      "snapshotSha256": "0e5435ad96d8b0aa4237cdd846b401fb10359de46771a79c26e6a9108b2006a7",
+      "contentSha256": "5c34c43203bb354bb6fd9b26719ca235e3faa0f7a96eebeb32bcdb48117a3280"
+    },
+    {
+      "chapter": 223,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570501",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251778&action=history",
+      "snapshotSha256": "788a72a297216e14845cb1fbe75baf76d3097dc942f349e43f7e287482026fa7",
+      "contentSha256": "8f9d234ea83d0b8cb054f96ef71cde3e4aa26e5e0653974099cc3a4a11039353"
+    },
+    {
+      "chapter": 224,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570502",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251819&action=history",
+      "snapshotSha256": "d9bf77ccb26286de70556e4ffe5fcfbe6c7e0fdc3f4ea9f12ff8e5f195b3dda3",
+      "contentSha256": "30e5f456ec0c71b0b9b21c0583e5fd9b361c62d5f1b274fd7de65a1e9d4151da"
+    },
+    {
+      "chapter": 225,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570503",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251824&action=history",
+      "snapshotSha256": "a8367ff565db2e9e78824dda9f821a31f5b04f914ebc7721453d38fdaf794d44",
+      "contentSha256": "ce19512c6f26f17af42fdcdab5679a4194eea0e21d9ea24de9b65cd94f8c0fa6"
+    },
+    {
+      "chapter": 226,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570504",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251826&action=history",
+      "snapshotSha256": "f82a06bc60c1a889f4592d74d55a31761258afd74210363f8d484ed674b5e101",
+      "contentSha256": "c2b4e130133e453abeec87a70dfa18f4f716218dcadd9534d22161de38b4781c"
+    },
+    {
+      "chapter": 227,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570505",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251841&action=history",
+      "snapshotSha256": "b1aaee7de5590cdaba6d9be537ffb4dc38b411907e98e48c9a40195ec03cf54e",
+      "contentSha256": "14bfeae79dc68bf6331371c2c76a40f231e6cd62598b35d186bbc3ed27e95cad"
+    },
+    {
+      "chapter": 228,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570506",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251859&action=history",
+      "snapshotSha256": "d669707d4e2b28ee704f3252aac20eb5f3921c24a26fcd95bc79512519f79a0f",
+      "contentSha256": "a677048e6dd23228e0bdb91917ebec05e6c2714023309839507b64b19f6e337c"
+    },
+    {
+      "chapter": 229,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1443574",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251868&action=history",
+      "snapshotSha256": "b584acae197225bfd29e0472c83818a6bbe3b2e8eb2800b0a1ab37b72183674a",
+      "contentSha256": "b8e6a5293c071557b307970608be649ad00df47d92afa4e52e3407b01955b4c4"
+    },
+    {
+      "chapter": 230,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570508",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251890&action=history",
+      "snapshotSha256": "8061b94a208ad1c6f38fd4dbb5513152d6790de9001bd17cb1d153d0377518f5",
+      "contentSha256": "e630fa7594e10d9c5aaa49597aa63e7734faad3f7f6d3ab067b575df15b71082"
+    },
+    {
+      "chapter": 231,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק יד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570509",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251903&action=history",
+      "snapshotSha256": "2aaf87c80e8afe34426507f24dd262d8be529082c7217f47209f39ad0e824c98",
+      "contentSha256": "0871dfddcd44b5f8563286b6713d79a9974525251d709c68e3675819227161d2"
+    },
+    {
+      "chapter": 232,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570510",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251923&action=history",
+      "snapshotSha256": "75c8990c119877d8c5b728d0db8e95bb340ce633fa2eef90d1f09baee66f21f6",
+      "contentSha256": "e962b04e18d1b2f18fe29064443aef4ca297c1f19c13019c8d24db0148244447"
+    },
+    {
+      "chapter": 233,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק טו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570511",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251939&action=history",
+      "snapshotSha256": "ec9f46172c806d3b2bf5c62e7e59724b946b39925bde370f5f1f825e3bdd5650",
+      "contentSha256": "fc99348316b6f64e6b2beb3e4ff28737257bfb681e2bd4c89306bbd914a614b8"
+    },
+    {
+      "chapter": 234,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק טז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570512",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251965&action=history",
+      "snapshotSha256": "6d375a13734063c329184245651468edfe37d06dc555f3b9f7e852e4dd0420c4",
+      "contentSha256": "ad8c62bdf54d4e187ac461e89582c0aed4b3cdbfe2cade702a681184a57c38c0"
+    },
+    {
+      "chapter": 235,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק יז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570513",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=251973&action=history",
+      "snapshotSha256": "cc35c7a4722886ac193766a7c8bb162bf78a96eabcc4677ffeb8be16cfe4a83d",
+      "contentSha256": "79ec4674ffde45510a85da6c2e6b9f743dd5526751a243343e0b13f0216a3f26"
+    },
+    {
+      "chapter": 236,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570515",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=252089&action=history",
+      "snapshotSha256": "612dd8c49c0eb7ec9895c6a8929ac9079fb5334aff33c67aaab8c82cefe4bb3e",
+      "contentSha256": "11ea07c2b9af449d27f3be6b2bd15352ef66ab2284e593253f1667b6ed5fae9e"
+    },
+    {
+      "chapter": 237,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק יח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570514",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=252113&action=history",
+      "snapshotSha256": "371472899c457a42f3519dc661d9b967bb466e344df82787c904ebf94a9dc4f9",
+      "contentSha256": "9a7034d7271e9ee21dfac32c3b4c042e1aa3e1e4a402fa2b03a17da5f5d6fa48"
+    },
+    {
+      "chapter": 238,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרשה יד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570516",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=253605&action=history",
+      "snapshotSha256": "4f842a27fefa2d251ac798b724010f1578cae32c9a1834d0feccc3587a29b0f5",
+      "contentSha256": "cadfb859f8a6f8b80c4235ff44fbc01c43fa706ce6ec830d2012cb821dc37fb1"
+    },
+    {
+      "chapter": 239,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק יט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570517",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=254992&action=history",
+      "snapshotSha256": "4fef6f5efea1e3c3f88bbe56ae4982dc5e61335d186e7e391531e9aef8d14097",
+      "contentSha256": "4b30b755fac254bc47abc864834301ecfb4f08bf776f9b6ca8e8c6df5c73e86d"
+    },
+    {
+      "chapter": 240,
+      "title": "ספרא (מלבי\"ם)/פרשת אמור/פרק כ",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1445802",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255010&action=history",
+      "snapshotSha256": "31c3c2a7dbbd0b8612d8df744c6b5603fe8917566e096e7c80433976c8ab0d95",
+      "contentSha256": "bd90a9ff61215c98e957a074c3ef6295ed0446d15a9c4f3a36b10bf7c1c7b3fc"
+    },
+    {
+      "chapter": 241,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570532",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255035&action=history",
+      "snapshotSha256": "91413a06fc8fae983e1b7f49aa34f0a3ee9ea5693d2ba8954f39763b16ca89cb",
+      "contentSha256": "0228a1ee03e4fd733bc92a7f656f5028d62af864e8507642c2778fd826b12948"
+    },
+    {
+      "chapter": 242,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=912549",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255041&action=history",
+      "snapshotSha256": "3614ade180dd3b154784fc928e7a6a178fe1452fd1761385663d9f0596ef2cb0",
+      "contentSha256": "76ae27727fd8280d4df5cf7c4efa3225069792df82869c095baac3d70d561917"
+    },
+    {
+      "chapter": 243,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570534",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255159&action=history",
+      "snapshotSha256": "071bcaac72edc45b9a53d349c2681230fd3f041862a6db38dfa9b9bd1ea346e8",
+      "contentSha256": "5bb5f92d92465c8ea527237524a043de56bdec8886af6ca9133ddb13964e4d75"
+    },
+    {
+      "chapter": 244,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570535",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255163&action=history",
+      "snapshotSha256": "b1c1b1c4566e8a641af26fd984bdc425ed974e7b55d3f3b0969f1af10d207b7f",
+      "contentSha256": "16a530c6d156faa53dcca19993b4c3e4f4487840c15e1676fe7f8624f8f22212"
+    },
+    {
+      "chapter": 245,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570536",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255195&action=history",
+      "snapshotSha256": "e927dd98cbc1a08de83b8b018392e1132b2f26b0e3d71c17fcf574f18d12769d",
+      "contentSha256": "0f91e3504a781dc7280322f7dad60434ed6f36b406376fbfc2b7926737e86aac"
+    },
+    {
+      "chapter": 246,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1446194",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255236&action=history",
+      "snapshotSha256": "07a5398e0124f791884959cc27034b3baa640a1c25b5a593cd9820b12585a1f2",
+      "contentSha256": "346e66b4a703a93a0f3bd9158fcbac08a31fddec9062ea75c139eb820291d4e3"
+    },
+    {
+      "chapter": 247,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570538",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255251&action=history",
+      "snapshotSha256": "efcc0aea94b2daed26ddd693f1247187a240ef9c12d49f9a47d6fa1c3f487eb3",
+      "contentSha256": "df65d45c68dc5e6b9e2c4471291b9d8bab150e90653c2c7bab06941170ceb2f3"
+    },
+    {
+      "chapter": 248,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570539",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255266&action=history",
+      "snapshotSha256": "f0cf2b660fea90ba7d9c9771cbc499fd58e096df3efe081173a9e4c0efef1ee1",
+      "contentSha256": "e9a9d9da4144ac0568c0a013d9aeed02b92f0484795bb82eb1baef31950f183b"
+    },
+    {
+      "chapter": 249,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570540",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255277&action=history",
+      "snapshotSha256": "b253254c8e2cc8926b8a3c1c1f1cf12387c617316f740973186ebc16f607c9db",
+      "contentSha256": "dcf5027b0db5c8f103b7d788692da192f73b68ddd04c38e230ca730ea03d7c5b"
+    },
+    {
+      "chapter": 250,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570541",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255325&action=history",
+      "snapshotSha256": "c9ae90eaf88744d60215f4441f36a5e6b54c9864a143b38ae3e07d11fab9b1fb",
+      "contentSha256": "602bda7a5020880aacb2909a40332ed828d1dfd3cf947b4e19c6628bb566564f"
+    },
+    {
+      "chapter": 251,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570542",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255347&action=history",
+      "snapshotSha256": "e2581219bcd194241baaff2c7d953a0f7e14033dc408c726fa1c87d5de03024a",
+      "contentSha256": "c37a0e80d274f4259cf135caeeb5ac536def277c187efa49c34616cbe1e32423"
+    },
+    {
+      "chapter": 252,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1446569",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255367&action=history",
+      "snapshotSha256": "c66ad0fec12b7e13302b1a46d6334c4f22bebe429f4dcc1d9fe813a8d8f50aec",
+      "contentSha256": "201d370ad79ee67e8e60040c5ddb3d4772585557111183d94de0738a07b6c42a"
+    },
+    {
+      "chapter": 253,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרשה ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570544",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255374&action=history",
+      "snapshotSha256": "226d56e8401c415cba0204048cd201582e9818eea0ec41f57d81f8706cb37b86",
+      "contentSha256": "27eddd5636e1a7fa828f662cfab126e9ebc8ac893d3719c1bb78b6dd1d625300"
+    },
+    {
+      "chapter": 254,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570545",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255407&action=history",
+      "snapshotSha256": "87a22820c5a563fc1c090507a356364a2a5c753675c28013c88e926384ac4eac",
+      "contentSha256": "bcc0b854a0b1822821da83afa660eca2579c2f37c8f05e17a03fb3c0a30c1a2e"
+    },
+    {
+      "chapter": 255,
+      "title": "ספרא (מלבי\"ם)/פרשת בהר/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570546",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255438&action=history",
+      "snapshotSha256": "c6c8c01ecbdaa1c4947bf09264f1acea0014e25f00371dee56a225d1767aab84",
+      "contentSha256": "ca43432dc3c62db7f4675994ab7340f57098e945dff27df7b70811b72e5af50b"
+    },
+    {
+      "chapter": 256,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרשה א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1448126",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255448&action=history",
+      "snapshotSha256": "0d169a83ca0ecae22645343927ea73607773cadf5dcbf9aa8bcbab609ff4f3b8",
+      "contentSha256": "0ed07e88af07908cd6daccdbda695e281c5b40d751df92610d4fc2c472059e86"
+    },
+    {
+      "chapter": 257,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570548",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255456&action=history",
+      "snapshotSha256": "083cd6938a1845859a82dda788d10224de4342019a55bbf38425cf93dff2289b",
+      "contentSha256": "c9beef4ff841792f24fd92d1db5cbb9abb747628617f1a99651141553981c43f"
+    },
+    {
+      "chapter": 258,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570549",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255462&action=history",
+      "snapshotSha256": "00fb9df46b82d241f82bbf45c7de9f127508bb7734bc684c95ba8ce795d55635",
+      "contentSha256": "16331d838019b360a08659b3d1f0f3318fb19b9a7c5a1a39d7909bb741d858aa"
+    },
+    {
+      "chapter": 259,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570550",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255467&action=history",
+      "snapshotSha256": "4757637788ce7b6da5c0ece05063d65635746f3cb34da8330a45493105148909",
+      "contentSha256": "dc0334ac2c27a129f29458ae487b5bb1b2e5dffacd3d08ef33df1001c323e926"
+    },
+    {
+      "chapter": 260,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרשה ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570551",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255679&action=history",
+      "snapshotSha256": "dacb3688fa55ecd2e0e97661613ad8d42c4538f6dc60939c9e3c817228ac6adf",
+      "contentSha256": "b9a7622c89a12b5bfe3bb8eef1884262e6967b5cf9288e114b85378c863d59cd"
+    },
+    {
+      "chapter": 261,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=937190",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255686&action=history",
+      "snapshotSha256": "ec17d4dc932cd58722886be814e62b7def402a5e06a03f0ba647e88a619b29ad",
+      "contentSha256": "073a310da0e45a4a082c9a001ad51c94934271ae7ee868541c17da1eb7a0b338"
+    },
+    {
+      "chapter": 262,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=937189",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255690&action=history",
+      "snapshotSha256": "91ff4f66d2aae98897e2e260f201351c9e1506c48b6a56a760f77c898aa49ed9",
+      "contentSha256": "a30c05648366e99cf3b4748c5666829c7383ac1dcb0927aaf819c6eb8c82efd2"
+    },
+    {
+      "chapter": 263,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570554",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255716&action=history",
+      "snapshotSha256": "3866cd7e78b176aa13f574d46a10f1efa092c1634809941bc15ca32c9375445f",
+      "contentSha256": "4119b77f67b7a81fd2cabaa4cade29295fd94bf63ce334dbd37354658983462b"
+    },
+    {
+      "chapter": 264,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570555",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=255735&action=history",
+      "snapshotSha256": "b98853faba76102d6314191a4b431c6928d08f3ecd9539363cb641bd506a9ac9",
+      "contentSha256": "677a4a0f317e64114c6a525cea681b8131681ec0596ed3cf05abca76d47efa8d"
+    },
+    {
+      "chapter": 265,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1450560",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256220&action=history",
+      "snapshotSha256": "a0666539dde1ef524f0876b935110a41af9e58d54274c8fa17ce8322dec84cc3",
+      "contentSha256": "eb00058bda36a090907ffe962309da6be1e9d0d450724417af7863f49c89195e"
+    },
+    {
+      "chapter": 266,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרשה ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570557",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256232&action=history",
+      "snapshotSha256": "e943856b9af85913497600dd03853c9d78b1555f963192d9ed7f72d4fcbcdf44",
+      "contentSha256": "3d1f0215a9cb6a6b40135399c5501040ac0aa12b8175125d94db915e421893cd"
+    },
+    {
+      "chapter": 267,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1453784",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256241&action=history",
+      "snapshotSha256": "2b464aa2ed4905c9d085ce4f3fa4a82d04f1267285f8b69d454f6dd876906eea",
+      "contentSha256": "c7fd6e70428f85b8c18c77c0c699c4f402e8f5a0086c49737d2b54ddb0907178"
+    },
+    {
+      "chapter": 268,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרשה ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570559",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256386&action=history",
+      "snapshotSha256": "f813fa5464ade625e59c06b72d974167823d93de2daa6b8fff17171501bacc91",
+      "contentSha256": "59809e9eb69954377174897d8ba3308321fdb4366403f923817268f5998a59c3"
+    },
+    {
+      "chapter": 269,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570560",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256405&action=history",
+      "snapshotSha256": "df186cc5a3d0129a6b736445c1c9490c9e18bdc68f3569354545764848c2bc1b",
+      "contentSha256": "60310517e13e00d1fd1ff9d2a20683e7324813dfbed8cd01a6bc392235c21d6a"
+    },
+    {
+      "chapter": 270,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק יא",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570561",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256414&action=history",
+      "snapshotSha256": "0c6edaccadbf1b04cf7f373a67306cb298fa844543fd7160f91de0e710ac5621",
+      "contentSha256": "d79db613d5d51994ac3e5825d75cbe08522a2b59cb043d2622d65ce0c96b5895"
+    },
+    {
+      "chapter": 271,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרשה ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570562",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256429&action=history",
+      "snapshotSha256": "0f0506881b1ed8d43dee2b7cefc15a6fc9de69917322f909cdec9b625a50051e",
+      "contentSha256": "bc738238bc0a2f63fedac9d49f991b348467f153b61fe5e7c2a6282d8a71b541"
+    },
+    {
+      "chapter": 272,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק יב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=912546",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256502&action=history",
+      "snapshotSha256": "168e316474b7dcb0e2726894fc9eee937ea60de221078dcb29430d167d88c2c0",
+      "contentSha256": "1ccf728550b4fbd291c092def6ea8fba0dd08508f49daaeaa37e2ea6ba0ffb72"
+    },
+    {
+      "chapter": 273,
+      "title": "ספרא (מלבי\"ם)/פרשת בחקותי/פרק יג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=570564",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=256689&action=history",
+      "snapshotSha256": "706c61c78842d9c6eb1aaf731de1b6bff899fc46ba78b75de220c24d5f56bca2",
+      "contentSha256": "b8ccb69214c95b3e82157ec5a42b4e6b958270335efe51c2299cdbf20554bcfd"
+    },
+    {
+      "chapter": 274,
+      "title": "י\"ג מדות דר' ישמעאל",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2833869",
+      "historyUrl": "https://he.wikisource.org/w/index.php?curid=332406&action=history",
+      "snapshotSha256": "7a2fb2be22c5ee84009cb5d2685791cd4cceec72ff27e5cbe94e76cf934e59b9",
+      "contentSha256": "df24369a558cc7310f4ffc10602cadbb96f8452095c300fe81a190c341063eec",
+      "license": "CC BY-SA 4.0",
+      "note": "Separate Wikisource edition of the opening. It differs from the later Malbim-edition sections. Removed page controls and style markup; combined list halves and split the introductory sentence to match source passage boundaries."
+    }
+  ],
+  "excluded": [],
+  "limitations": "Page-level source credits and revision histories are retained. The source edition has not been independently collated against every historical edition; source-specific rights labels do not certify the entire app."
+}

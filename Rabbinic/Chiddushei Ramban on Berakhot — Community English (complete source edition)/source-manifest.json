@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "work": "Chiddushei Ramban on Berakhot",
+  "parentPath": "Rabbinic/Chiddushei Ramban on Berakhot",
+  "editionName": "Chiddushei Ramban on Berakhot — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Chiddushei%20Ramban/Seder%20Zeraim/Chiddushei%20Ramban%20on%20Berakhot/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/d2b473008874db663f04.json",
+  "sourceRawSha256": "dadbe3004e4cca55862a9550c024d10a30a623df29d95ad7a0dbf88f939bacc8",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Chiddushei Ramban on Berakhot; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Chiddushei Ramban on Berakhot",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Chiddushei%20Ramban/Seder%20Zeraim/Chiddushei%20Ramban%20on%20Berakhot/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/d2b473008874db663f04.json",
+    "sourceRawSha256": "dadbe3004e4cca55862a9550c024d10a30a623df29d95ad7a0dbf88f939bacc8",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Chiddushei%20Ramban%20on%20Berakhot",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Chiddushei%20Ramban%20on%20Berakhot",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/d8e504fb536ca63f42d6-versions.json",
+      "rawSha256": "bc034f450fdb555c8795df002eef09e4252c9403d2eeb0239331d248c4bfb913",
+      "retrievedAt": "2026-10-30T04:25:33.606Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Chiddushei Ramban on Berakhot",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Chiddushei Ramban on Berakhot 11b"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "22",
+      "sourcePosition": [
+        22
+      ],
+      "payloadSha256": "cf0caaa1e257618dfbd1a1c666fff325018f7bb0caafc35fd6edea5d6d833928",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            22,
+            1
+          ],
+          "sourceTextSha256": "18edbe7ef0f70508dfe6ca40f3c997b0f7163c4cf4b3974fa265f7c806481b7f",
+          "retainedTextSha256": "18edbe7ef0f70508dfe6ca40f3c997b0f7163c4cf4b3974fa265f7c806481b7f"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 1,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.508Z"
+}

@@ -1,0 +1,855 @@
+{
+  "schemaVersion": 1,
+  "sourceTree": {
+    "url": "https://gitlab.com/pninim.org/pninim/-/tree/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/תלמוד/בבלי/מפרשים/הגהות_יעבץ",
+    "commit": "dbbae3b61a66f266a60c75fac458d489d3ae7c8c"
+  },
+  "sourceFiles": [
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "15ebc713e424ba502e176530ffc91f5aed07eb74",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/index",
+      "name": "index",
+      "gitBlobSha1": "15ebc713e424ba502e176530ffc91f5aed07eb74",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/index",
+      "sha256": "8f9b9ccc8055d20b40c52151b53de8b6c2c2c00ad4ef562ccfe16136b98a1a24"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "7fe5c02341ae810cf02bcafd2351633525158a70",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/בבא_בתרא",
+      "name": "בבא_בתרא",
+      "gitBlobSha1": "7fe5c02341ae810cf02bcafd2351633525158a70",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%91%D7%90_%D7%91%D7%AA%D7%A8%D7%90",
+      "sha256": "07c9f21e047d76e70cdb5edbb26ee6a881a65a9c519461a98c92e6e129ce6f7f"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "c2820b85b12a8da3a56ef5f1b0438915b92451b3",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/בבא_מציעא",
+      "name": "בבא_מציעא",
+      "gitBlobSha1": "c2820b85b12a8da3a56ef5f1b0438915b92451b3",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%91%D7%90_%D7%9E%D7%A6%D7%99%D7%A2%D7%90",
+      "sha256": "663da96d73b06897ab6d008963c5a437f8408beb9beb2229060f82bb79e45543"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "0f0e30ff1a7850b6eea8d72821ffd813cacce535",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/בבא_קמא",
+      "name": "בבא_קמא",
+      "gitBlobSha1": "0f0e30ff1a7850b6eea8d72821ffd813cacce535",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%91%D7%90_%D7%A7%D7%9E%D7%90",
+      "sha256": "02a050288b2d06348cfe86aa804fe15e25e3ecb3edc03a20f7d623013475f4ab"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "376233b28fc92b31e4e99135e5eebdbc3870664e",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/ביצה",
+      "name": "ביצה",
+      "gitBlobSha1": "376233b28fc92b31e4e99135e5eebdbc3870664e",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%99%D7%A6%D7%94",
+      "sha256": "73cf17b69b7a312aa9c7a0a859759f69eaca3bd41607e26e2cc8b6c9c82f4343"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "d3dca5ca415439192738f0cb7b781ad32e0bc1b3",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/בכורות",
+      "name": "בכורות",
+      "gitBlobSha1": "d3dca5ca415439192738f0cb7b781ad32e0bc1b3",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%9B%D7%95%D7%A8%D7%95%D7%AA",
+      "sha256": "2f356da06a78655d714c514aa648f0a7176b1908b1948b462656f6adbf5a24c5"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "c3348fc784750fc437ab7f82da444d9963ae6f0a",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/בכורים",
+      "name": "בכורים",
+      "gitBlobSha1": "c3348fc784750fc437ab7f82da444d9963ae6f0a",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%9B%D7%95%D7%A8%D7%99%D7%9D",
+      "sha256": "8fd940da4e6b917ad3b5216e5500a34051458da74bcbe5e693f4b4342253e42b"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "831e1e333d20630ceab70b0a1522a5cf9881db49",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/ברכות",
+      "name": "ברכות",
+      "gitBlobSha1": "831e1e333d20630ceab70b0a1522a5cf9881db49",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "sha256": "ea03a842649406f13b06f859c0e907b31fd4b5a08c2beaf4ed03dce05fddd9bf"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "46a6ae76063062d8745a50cedf5bbec66a52e396",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/גיטין",
+      "name": "גיטין",
+      "gitBlobSha1": "46a6ae76063062d8745a50cedf5bbec66a52e396",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%92%D7%99%D7%98%D7%99%D7%9F",
+      "sha256": "f11474608a9b133a3c85b7bead1ba3c34bddf03fbbbbbe892dc24c17e2cc0765"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "1b1ea91ec8ed6cb269beb7df5e2973dc98191555",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/דמאי",
+      "name": "דמאי",
+      "gitBlobSha1": "1b1ea91ec8ed6cb269beb7df5e2973dc98191555",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%93%D7%9E%D7%90%D7%99",
+      "sha256": "24675aa34f601fa9b6c681f066dfe63b54eb770cfc33984dd9372deb67313f7c"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "5f1001be155d8d9bf88e32c935ab2c202bcdb8c7",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/הוריות",
+      "name": "הוריות",
+      "gitBlobSha1": "5f1001be155d8d9bf88e32c935ab2c202bcdb8c7",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%94%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "sha256": "2aea6132c3f1bef1c34049ea88fb6fd708ef97d58a3c66ffe3d442a63139d7ff"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "b1e5c9a73796256aed53847410e845c02a6b84cc",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/זבחים",
+      "name": "זבחים",
+      "gitBlobSha1": "b1e5c9a73796256aed53847410e845c02a6b84cc",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%96%D7%91%D7%97%D7%99%D7%9D",
+      "sha256": "6d56033d2dfa63f67f8c2420021aef52dfe874e3146582d1af0f95cd36a66c65"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "bc67dfa52872cd914bf80c56c8665e770a53d816",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/חגיגה",
+      "name": "חגיגה",
+      "gitBlobSha1": "bc67dfa52872cd914bf80c56c8665e770a53d816",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "sha256": "c70d0f5a4f5ef62eba232dbafc18ff20a280254d80e368896099a735489b31df"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "9f67a2237880a00f5d5bfc8643ccfa861bf01483",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/חולין",
+      "name": "חולין",
+      "gitBlobSha1": "9f67a2237880a00f5d5bfc8643ccfa861bf01483",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%97%D7%95%D7%9C%D7%99%D7%9F",
+      "sha256": "31a99dd35488ed5fd9ce927a366ad0a0314cb536dc9ed2311fd0e5d17c08bc66"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "70de9953b6f92d71752764cc6ef2a5a00f2e3365",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/חלה",
+      "name": "חלה",
+      "gitBlobSha1": "70de9953b6f92d71752764cc6ef2a5a00f2e3365",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%97%D7%9C%D7%94",
+      "sha256": "811927599c45124eae7abd9d9fcb91edaa799912870b5fccfee1e17ce61224da"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "6f3afea44a88ae8671a84b8d0685cd5e65e33862",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/יבמות",
+      "name": "יבמות",
+      "gitBlobSha1": "6f3afea44a88ae8671a84b8d0685cd5e65e33862",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%99%D7%91%D7%9E%D7%95%D7%AA",
+      "sha256": "2cbd05470c33a46075b90f8eb17eed65d014dd3095949e1a530d4143ebb23d1b"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "4533c88fb496e89b2dfb3a9113e41603ab4aedd1",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/יומא",
+      "name": "יומא",
+      "gitBlobSha1": "4533c88fb496e89b2dfb3a9113e41603ab4aedd1",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%99%D7%95%D7%9E%D7%90",
+      "sha256": "65f21af7b83170ede8e75bdc8bac2c6a6dd7dc09f48a8364e084481f932f130c"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "5f86ec5633f95ff72c0f6f256d4df0bbb1918856",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/כלאים",
+      "name": "כלאים",
+      "gitBlobSha1": "5f86ec5633f95ff72c0f6f256d4df0bbb1918856",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9B%D7%9C%D7%90%D7%99%D7%9D",
+      "sha256": "41621eb87ef6fda069aa0d7734b99c177e38881475a4cda424923716c2b36cfd"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "e60abacb9bf2ca601fb490e23349aa6df175d40c",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/כריתות",
+      "name": "כריתות",
+      "gitBlobSha1": "e60abacb9bf2ca601fb490e23349aa6df175d40c",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9B%D7%A8%D7%99%D7%AA%D7%95%D7%AA",
+      "sha256": "30b6580be040cfe9893dd9d2ff42abb05ebf622f872cfd9a5ad25710f0204f11"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "321537205a740227a5f8ec7423a28603c65876d4",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/כתובות",
+      "name": "כתובות",
+      "gitBlobSha1": "321537205a740227a5f8ec7423a28603c65876d4",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "sha256": "455750f44c7cf45bfc26bb37dbcfae6a7b6e7ad8328f4bdd8baa4d2923d87f80"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "7ba7f518e95d81d040da64654c0d4a219608e1cd",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/מגילה",
+      "name": "מגילה",
+      "gitBlobSha1": "7ba7f518e95d81d040da64654c0d4a219608e1cd",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%92%D7%99%D7%9C%D7%94",
+      "sha256": "2dc7eb2813d74bc40342c9331a18d4928fec1f650b42f256703108b2fd511643"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "69b4099845d18463625c982a1758ba00c5413fe8",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/מדות",
+      "name": "מדות",
+      "gitBlobSha1": "69b4099845d18463625c982a1758ba00c5413fe8",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%93%D7%95%D7%AA",
+      "sha256": "80ea589d2cca10a9126f021fb68f1136cd97c116e1deaf82551b89d4f024f573"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "af5c7cecca73f453ce0d668fb8484a3f977dbb3a",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/מועד_קטן",
+      "name": "מועד_קטן",
+      "gitBlobSha1": "af5c7cecca73f453ce0d668fb8484a3f977dbb3a",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%95%D7%A2%D7%93_%D7%A7%D7%98%D7%9F",
+      "sha256": "776a892a4234c274a4f46c51799cd963be2fc45101980619f88cf326faac7b93"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "de57bb20c3dca5d384b2a2139690047bc077589c",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/מכות",
+      "name": "מכות",
+      "gitBlobSha1": "de57bb20c3dca5d384b2a2139690047bc077589c",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%9B%D7%95%D7%AA",
+      "sha256": "2e24033b971e167aa5f865932ccae7dd311f43669ec7ad22f4afdc46498764f9"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "3028b3e5d2ac7fcdab4a092fcd2e583b631325bc",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/מנחות",
+      "name": "מנחות",
+      "gitBlobSha1": "3028b3e5d2ac7fcdab4a092fcd2e583b631325bc",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%A0%D7%97%D7%95%D7%AA",
+      "sha256": "2298a5f17bf33e1020183e22976d5f14d32abd2bd829cc1e1ee790fab68cad35"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "595ad07c5edf236edc7775aa8dd6bd4929bf893a",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/מעילה",
+      "name": "מעילה",
+      "gitBlobSha1": "595ad07c5edf236edc7775aa8dd6bd4929bf893a",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%A2%D7%99%D7%9C%D7%94",
+      "sha256": "0829c619161a60284ccc87dfba8899cb33acf136b5e2ca5e320f071be2d57bb7"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "f6ad4e392370d33b51d0e46f033da23cc669da87",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/מעשר_שני",
+      "name": "מעשר_שני",
+      "gitBlobSha1": "f6ad4e392370d33b51d0e46f033da23cc669da87",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%A2%D7%A9%D7%A8_%D7%A9%D7%A0%D7%99",
+      "sha256": "eca7382f85947eecef32dc9bdfd34ecf2c7754cc10beff9e2e8455fd34f45a42"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "ae6f79c455b27f725612001eda4ac3465397ac98",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/נדרים",
+      "name": "נדרים",
+      "gitBlobSha1": "ae6f79c455b27f725612001eda4ac3465397ac98",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A0%D7%93%D7%A8%D7%99%D7%9D",
+      "sha256": "6ea2d027bc93faafeeb0eb38b2d3d5df1d87ccce1d1e9584013bed233dc87163"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "7a19185d2928907e1d452c20443f7761b590c9d1",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/נזיר",
+      "name": "נזיר",
+      "gitBlobSha1": "7a19185d2928907e1d452c20443f7761b590c9d1",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A0%D7%96%D7%99%D7%A8",
+      "sha256": "4e1baef7c9e4d8d23847ab817b9a5af88ccb1aff0875d8d9b7a3be9eb8d69543"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "1418623fd03963c893c99528836993534ad2541f",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/נידה",
+      "name": "נידה",
+      "gitBlobSha1": "1418623fd03963c893c99528836993534ad2541f",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A0%D7%99%D7%93%D7%94",
+      "sha256": "319a8615dd268f56834756b237929c13a2830011514559588fecd51df342c4fd"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "e9348bda3ef5aef0b5850ed52569dce7dcc303cd",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/סוכה",
+      "name": "סוכה",
+      "gitBlobSha1": "e9348bda3ef5aef0b5850ed52569dce7dcc303cd",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A1%D7%95%D7%9B%D7%94",
+      "sha256": "2cd46f4377d21d12deec5dc2bfb372280506d6a1686b9ed2909d90ae3cbda3c6"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "309505b24256af4fa2f4ffb0023478a16737ac05",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/סנהדרין",
+      "name": "סנהדרין",
+      "gitBlobSha1": "309505b24256af4fa2f4ffb0023478a16737ac05",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F",
+      "sha256": "22d57b92b30c5fee307e388efa2f87a1e31a243d51cec2e046771034cebdd317"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "13cd35dda98f7a85719ecaa845e5465862800dcb",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/עבודה_זרה",
+      "name": "עבודה_זרה",
+      "gitBlobSha1": "13cd35dda98f7a85719ecaa845e5465862800dcb",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A2%D7%91%D7%95%D7%93%D7%94_%D7%96%D7%A8%D7%94",
+      "sha256": "76f4593c8d090179503f81f952b28d367858ee05af485fe64bd41d92c65e835c"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "e4161af23449f6b58a55735b5c3cc826dbf31a34",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/עירובין",
+      "name": "עירובין",
+      "gitBlobSha1": "e4161af23449f6b58a55735b5c3cc826dbf31a34",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A2%D7%99%D7%A8%D7%95%D7%91%D7%99%D7%9F",
+      "sha256": "0e96b44b4d5feea7f5c2450fd1dc81838d22eed28efcf9a64349a61b3e660004"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "b8fe722398ba07a05cedc640f91c9e4a6242b02b",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/ערכין",
+      "name": "ערכין",
+      "gitBlobSha1": "b8fe722398ba07a05cedc640f91c9e4a6242b02b",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A2%D7%A8%D7%9B%D7%99%D7%9F",
+      "sha256": "c90ef6bdff0540dbad3fc61f7715f4f3ac249417d78d07dd95dc7dfa464330af"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "b5fada138f917ed80ff039d4c49921a695adaa6a",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/פאה",
+      "name": "פאה",
+      "gitBlobSha1": "b5fada138f917ed80ff039d4c49921a695adaa6a",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A4%D7%90%D7%94",
+      "sha256": "8a48f4b5aa6e2322c9ace4f2f044ad19f820e67bcfebf0a8d6d3dd77ef01a6d9"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "340fe896d47962e312778a4989bbba7b1a19a3ca",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/פסחים",
+      "name": "פסחים",
+      "gitBlobSha1": "340fe896d47962e312778a4989bbba7b1a19a3ca",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A4%D7%A1%D7%97%D7%99%D7%9D",
+      "sha256": "c264370681e38bfcc11e0e6b8d958b43d476398ca329ce3be90e4a9ea6893588"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "605e3e920c586e55757a139cef57e8ad4fbb0ec3",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/קדושין",
+      "name": "קדושין",
+      "gitBlobSha1": "605e3e920c586e55757a139cef57e8ad4fbb0ec3",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9F",
+      "sha256": "8d78459e33977706b8b8e8fcb0b376b9a6e40755149ccf439e915da74720ea25"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "e402bbe0407b59acef87c1a6818381fdc7f57350",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/קנין",
+      "name": "קנין",
+      "gitBlobSha1": "e402bbe0407b59acef87c1a6818381fdc7f57350",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A7%D7%A0%D7%99%D7%9F",
+      "sha256": "932ce22a660ad47ae005eb1f5623877ade0dd814e6b9c1bf24455985e1a18370"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "1be7b1a40844f39889ef8b05ca147b1028dccf89",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/ראש_השנה",
+      "name": "ראש_השנה",
+      "gitBlobSha1": "1be7b1a40844f39889ef8b05ca147b1028dccf89",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94",
+      "sha256": "4e863f3bd04a1e11aa99817e9465b359651ebce72317857923713a69664ef476"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "8955ee55a4946c21d2aaa49d1173890fb8e5f5b2",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/שבועות",
+      "name": "שבועות",
+      "gitBlobSha1": "8955ee55a4946c21d2aaa49d1173890fb8e5f5b2",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "sha256": "812379f04ce144916839525b71e2ae76dd353ee92aa56fc3445f2e3d19f7bd7d"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "c4e8bf69a20b0b3f1fafad139fe6af8b423a9bd2",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/שביעית",
+      "name": "שביעית",
+      "gitBlobSha1": "c4e8bf69a20b0b3f1fafad139fe6af8b423a9bd2",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A9%D7%91%D7%99%D7%A2%D7%99%D7%AA",
+      "sha256": "ca01958abdd1bf93e2309dd68bb79b09fd6c85d158df580eccff16c715124459"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "424113b593fecb44384498b0611865ef01db5f87",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/שבת",
+      "name": "שבת",
+      "gitBlobSha1": "424113b593fecb44384498b0611865ef01db5f87",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A9%D7%91%D7%AA",
+      "sha256": "4a92b34c98388549dadc14a12134fd4081efda00535dc19552f5ab55ef60a884"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "d936ac17fa816843c7350147fc735610e0ae0c03",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/תמורה",
+      "name": "תמורה",
+      "gitBlobSha1": "d936ac17fa816843c7350147fc735610e0ae0c03",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "sha256": "43fef3269f0683b329c89b9d06b46d1a97eb66498597e7b32c8ed75b255638da"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "5c2899ecd37313c58580efce20be16360691eaf1",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/תמיד",
+      "name": "תמיד",
+      "gitBlobSha1": "5c2899ecd37313c58580efce20be16360691eaf1",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%9E%D7%99%D7%93",
+      "sha256": "ae68679532f3a7b2fd0e899db0a36b973ee94145ad556aa6f441637db705f0d5"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "85510f2903802f5a1a138c5536d27c3d58ce75e0",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/תענית",
+      "name": "תענית",
+      "gitBlobSha1": "85510f2903802f5a1a138c5536d27c3d58ce75e0",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "sha256": "da58d89a450191ba947c20f80c4255b9c4d76b1863842bc412fcfa2e05faaa23"
+    },
+    {
+      "mode": "100644",
+      "type": "blob",
+      "id": "fb1bad2fe9a44e6a38d7fa88ac02879bbe8e2e4f",
+      "path": "תלמוד/בבלי/מפרשים/הגהות_יעבץ/תרומות",
+      "name": "תרומות",
+      "gitBlobSha1": "fb1bad2fe9a44e6a38d7fa88ac02879bbe8e2e4f",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%A8%D7%95%D7%9E%D7%95%D7%AA",
+      "sha256": "70d799d3e84674ecda279854b084ff6c3bcafdbfa80180da977e1e17cea1f6f0"
+    }
+  ],
+  "chapterManifest": [
+    {
+      "chapter": 1,
+      "sourceName": "בכורים",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%9B%D7%95%D7%A8%D7%99%D7%9D",
+      "sourceSha256": "8fd940da4e6b917ad3b5216e5500a34051458da74bcbe5e693f4b4342253e42b",
+      "sourceBlobSha1": "c3348fc784750fc437ab7f82da444d9963ae6f0a",
+      "entries": 3
+    },
+    {
+      "chapter": 2,
+      "sourceName": "ברכות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%A8%D7%9B%D7%95%D7%AA",
+      "sourceSha256": "ea03a842649406f13b06f859c0e907b31fd4b5a08c2beaf4ed03dce05fddd9bf",
+      "sourceBlobSha1": "831e1e333d20630ceab70b0a1522a5cf9881db49",
+      "entries": 161
+    },
+    {
+      "chapter": 3,
+      "sourceName": "דמאי",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%93%D7%9E%D7%90%D7%99",
+      "sourceSha256": "24675aa34f601fa9b6c681f066dfe63b54eb770cfc33984dd9372deb67313f7c",
+      "sourceBlobSha1": "1b1ea91ec8ed6cb269beb7df5e2973dc98191555",
+      "entries": 4
+    },
+    {
+      "chapter": 4,
+      "sourceName": "חלה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%97%D7%9C%D7%94",
+      "sourceSha256": "811927599c45124eae7abd9d9fcb91edaa799912870b5fccfee1e17ce61224da",
+      "sourceBlobSha1": "70de9953b6f92d71752764cc6ef2a5a00f2e3365",
+      "entries": 3
+    },
+    {
+      "chapter": 5,
+      "sourceName": "כלאים",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9B%D7%9C%D7%90%D7%99%D7%9D",
+      "sourceSha256": "41621eb87ef6fda069aa0d7734b99c177e38881475a4cda424923716c2b36cfd",
+      "sourceBlobSha1": "5f86ec5633f95ff72c0f6f256d4df0bbb1918856",
+      "entries": 10
+    },
+    {
+      "chapter": 6,
+      "sourceName": "מעשר_שני",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%A2%D7%A9%D7%A8_%D7%A9%D7%A0%D7%99",
+      "sourceSha256": "eca7382f85947eecef32dc9bdfd34ecf2c7754cc10beff9e2e8455fd34f45a42",
+      "sourceBlobSha1": "f6ad4e392370d33b51d0e46f033da23cc669da87",
+      "entries": 7
+    },
+    {
+      "chapter": 7,
+      "sourceName": "נידה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A0%D7%99%D7%93%D7%94",
+      "sourceSha256": "319a8615dd268f56834756b237929c13a2830011514559588fecd51df342c4fd",
+      "sourceBlobSha1": "1418623fd03963c893c99528836993534ad2541f",
+      "entries": 214
+    },
+    {
+      "chapter": 8,
+      "sourceName": "פאה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A4%D7%90%D7%94",
+      "sourceSha256": "8a48f4b5aa6e2322c9ace4f2f044ad19f820e67bcfebf0a8d6d3dd77ef01a6d9",
+      "sourceBlobSha1": "b5fada138f917ed80ff039d4c49921a695adaa6a",
+      "entries": 6
+    },
+    {
+      "chapter": 9,
+      "sourceName": "שביעית",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A9%D7%91%D7%99%D7%A2%D7%99%D7%AA",
+      "sourceSha256": "ca01958abdd1bf93e2309dd68bb79b09fd6c85d158df580eccff16c715124459",
+      "sourceBlobSha1": "c4e8bf69a20b0b3f1fafad139fe6af8b423a9bd2",
+      "entries": 15
+    },
+    {
+      "chapter": 10,
+      "sourceName": "תרומות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%A8%D7%95%D7%9E%D7%95%D7%AA",
+      "sourceSha256": "70d799d3e84674ecda279854b084ff6c3bcafdbfa80180da977e1e17cea1f6f0",
+      "sourceBlobSha1": "fb1bad2fe9a44e6a38d7fa88ac02879bbe8e2e4f",
+      "entries": 20
+    },
+    {
+      "chapter": 11,
+      "sourceName": "חולין",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%97%D7%95%D7%9C%D7%99%D7%9F",
+      "sourceSha256": "31a99dd35488ed5fd9ce927a366ad0a0314cb536dc9ed2311fd0e5d17c08bc66",
+      "sourceBlobSha1": "9f67a2237880a00f5d5bfc8643ccfa861bf01483",
+      "entries": 439
+    },
+    {
+      "chapter": 12,
+      "sourceName": "שבת",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A9%D7%91%D7%AA",
+      "sourceSha256": "4a92b34c98388549dadc14a12134fd4081efda00535dc19552f5ab55ef60a884",
+      "sourceBlobSha1": "424113b593fecb44384498b0611865ef01db5f87",
+      "entries": 244
+    },
+    {
+      "chapter": 13,
+      "sourceName": "ביצה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%99%D7%A6%D7%94",
+      "sourceSha256": "73cf17b69b7a312aa9c7a0a859759f69eaca3bd41607e26e2cc8b6c9c82f4343",
+      "sourceBlobSha1": "376233b28fc92b31e4e99135e5eebdbc3870664e",
+      "entries": 44
+    },
+    {
+      "chapter": 14,
+      "sourceName": "חגיגה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%97%D7%92%D7%99%D7%92%D7%94",
+      "sourceSha256": "c70d0f5a4f5ef62eba232dbafc18ff20a280254d80e368896099a735489b31df",
+      "sourceBlobSha1": "bc67dfa52872cd914bf80c56c8665e770a53d816",
+      "entries": 27
+    },
+    {
+      "chapter": 15,
+      "sourceName": "יבמות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%99%D7%91%D7%9E%D7%95%D7%AA",
+      "sourceSha256": "2cbd05470c33a46075b90f8eb17eed65d014dd3095949e1a530d4143ebb23d1b",
+      "sourceBlobSha1": "6f3afea44a88ae8671a84b8d0685cd5e65e33862",
+      "entries": 144
+    },
+    {
+      "chapter": 16,
+      "sourceName": "יומא",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%99%D7%95%D7%9E%D7%90",
+      "sourceSha256": "65f21af7b83170ede8e75bdc8bac2c6a6dd7dc09f48a8364e084481f932f130c",
+      "sourceBlobSha1": "4533c88fb496e89b2dfb3a9113e41603ab4aedd1",
+      "entries": 112
+    },
+    {
+      "chapter": 17,
+      "sourceName": "כתובות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9B%D7%AA%D7%95%D7%91%D7%95%D7%AA",
+      "sourceSha256": "455750f44c7cf45bfc26bb37dbcfae6a7b6e7ad8328f4bdd8baa4d2923d87f80",
+      "sourceBlobSha1": "321537205a740227a5f8ec7423a28603c65876d4",
+      "entries": 126
+    },
+    {
+      "chapter": 18,
+      "sourceName": "מגילה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%92%D7%99%D7%9C%D7%94",
+      "sourceSha256": "2dc7eb2813d74bc40342c9331a18d4928fec1f650b42f256703108b2fd511643",
+      "sourceBlobSha1": "7ba7f518e95d81d040da64654c0d4a219608e1cd",
+      "entries": 75
+    },
+    {
+      "chapter": 19,
+      "sourceName": "סוכה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A1%D7%95%D7%9B%D7%94",
+      "sourceSha256": "2cd46f4377d21d12deec5dc2bfb372280506d6a1686b9ed2909d90ae3cbda3c6",
+      "sourceBlobSha1": "e9348bda3ef5aef0b5850ed52569dce7dcc303cd",
+      "entries": 82
+    },
+    {
+      "chapter": 20,
+      "sourceName": "פסחים",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A4%D7%A1%D7%97%D7%99%D7%9D",
+      "sourceSha256": "c264370681e38bfcc11e0e6b8d958b43d476398ca329ce3be90e4a9ea6893588",
+      "sourceBlobSha1": "340fe896d47962e312778a4989bbba7b1a19a3ca",
+      "entries": 158
+    },
+    {
+      "chapter": 21,
+      "sourceName": "תענית",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%A2%D7%A0%D7%99%D7%AA",
+      "sourceSha256": "da58d89a450191ba947c20f80c4255b9c4d76b1863842bc412fcfa2e05faaa23",
+      "sourceBlobSha1": "85510f2903802f5a1a138c5536d27c3d58ce75e0",
+      "entries": 67
+    },
+    {
+      "chapter": 22,
+      "sourceName": "ראש_השנה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A8%D7%90%D7%A9_%D7%94%D7%A9%D7%A0%D7%94",
+      "sourceSha256": "4e863f3bd04a1e11aa99817e9465b359651ebce72317857923713a69664ef476",
+      "sourceBlobSha1": "1be7b1a40844f39889ef8b05ca147b1028dccf89",
+      "entries": 56
+    },
+    {
+      "chapter": 23,
+      "sourceName": "קדושין",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9F",
+      "sourceSha256": "8d78459e33977706b8b8e8fcb0b376b9a6e40755149ccf439e915da74720ea25",
+      "sourceBlobSha1": "605e3e920c586e55757a139cef57e8ad4fbb0ec3",
+      "entries": 124
+    },
+    {
+      "chapter": 24,
+      "sourceName": "בבא_קמא",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%91%D7%90_%D7%A7%D7%9E%D7%90",
+      "sourceSha256": "02a050288b2d06348cfe86aa804fe15e25e3ecb3edc03a20f7d623013475f4ab",
+      "sourceBlobSha1": "0f0e30ff1a7850b6eea8d72821ffd813cacce535",
+      "entries": 146
+    },
+    {
+      "chapter": 25,
+      "sourceName": "בבא_מציעא",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%91%D7%90_%D7%9E%D7%A6%D7%99%D7%A2%D7%90",
+      "sourceSha256": "663da96d73b06897ab6d008963c5a437f8408beb9beb2229060f82bb79e45543",
+      "sourceBlobSha1": "c2820b85b12a8da3a56ef5f1b0438915b92451b3",
+      "entries": 150
+    },
+    {
+      "chapter": 26,
+      "sourceName": "בבא_בתרא",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%91%D7%90_%D7%91%D7%AA%D7%A8%D7%90",
+      "sourceSha256": "07c9f21e047d76e70cdb5edbb26ee6a881a65a9c519461a98c92e6e129ce6f7f",
+      "sourceBlobSha1": "7fe5c02341ae810cf02bcafd2351633525158a70",
+      "entries": 214
+    },
+    {
+      "chapter": 27,
+      "sourceName": "גיטין",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%92%D7%99%D7%98%D7%99%D7%9F",
+      "sourceSha256": "f11474608a9b133a3c85b7bead1ba3c34bddf03fbbbbbe892dc24c17e2cc0765",
+      "sourceBlobSha1": "46a6ae76063062d8745a50cedf5bbec66a52e396",
+      "entries": 156
+    },
+    {
+      "chapter": 28,
+      "sourceName": "נזיר",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A0%D7%96%D7%99%D7%A8",
+      "sourceSha256": "4e1baef7c9e4d8d23847ab817b9a5af88ccb1aff0875d8d9b7a3be9eb8d69543",
+      "sourceBlobSha1": "7a19185d2928907e1d452c20443f7761b590c9d1",
+      "entries": 78
+    },
+    {
+      "chapter": 29,
+      "sourceName": "נדרים",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A0%D7%93%D7%A8%D7%99%D7%9D",
+      "sourceSha256": "6ea2d027bc93faafeeb0eb38b2d3d5df1d87ccce1d1e9584013bed233dc87163",
+      "sourceBlobSha1": "ae6f79c455b27f725612001eda4ac3465397ac98",
+      "entries": 171
+    },
+    {
+      "chapter": 30,
+      "sourceName": "עירובין",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A2%D7%99%D7%A8%D7%95%D7%91%D7%99%D7%9F",
+      "sourceSha256": "0e96b44b4d5feea7f5c2450fd1dc81838d22eed28efcf9a64349a61b3e660004",
+      "sourceBlobSha1": "e4161af23449f6b58a55735b5c3cc826dbf31a34",
+      "entries": 187
+    },
+    {
+      "chapter": 31,
+      "sourceName": "סנהדרין",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F",
+      "sourceSha256": "22d57b92b30c5fee307e388efa2f87a1e31a243d51cec2e046771034cebdd317",
+      "sourceBlobSha1": "309505b24256af4fa2f4ffb0023478a16737ac05",
+      "entries": 224
+    },
+    {
+      "chapter": 32,
+      "sourceName": "זבחים",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%96%D7%91%D7%97%D7%99%D7%9D",
+      "sourceSha256": "6d56033d2dfa63f67f8c2420021aef52dfe874e3146582d1af0f95cd36a66c65",
+      "sourceBlobSha1": "b1e5c9a73796256aed53847410e845c02a6b84cc",
+      "entries": 193
+    },
+    {
+      "chapter": 33,
+      "sourceName": "כריתות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9B%D7%A8%D7%99%D7%AA%D7%95%D7%AA",
+      "sourceSha256": "30b6580be040cfe9893dd9d2ff42abb05ebf622f872cfd9a5ad25710f0204f11",
+      "sourceBlobSha1": "e60abacb9bf2ca601fb490e23349aa6df175d40c",
+      "entries": 84
+    },
+    {
+      "chapter": 34,
+      "sourceName": "בכורות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%91%D7%9B%D7%95%D7%A8%D7%95%D7%AA",
+      "sourceSha256": "2f356da06a78655d714c514aa648f0a7176b1908b1948b462656f6adbf5a24c5",
+      "sourceBlobSha1": "d3dca5ca415439192738f0cb7b781ad32e0bc1b3",
+      "entries": 163
+    },
+    {
+      "chapter": 35,
+      "sourceName": "מנחות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%A0%D7%97%D7%95%D7%AA",
+      "sourceSha256": "2298a5f17bf33e1020183e22976d5f14d32abd2bd829cc1e1ee790fab68cad35",
+      "sourceBlobSha1": "3028b3e5d2ac7fcdab4a092fcd2e583b631325bc",
+      "entries": 166
+    },
+    {
+      "chapter": 36,
+      "sourceName": "מכות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%9B%D7%95%D7%AA",
+      "sourceSha256": "2e24033b971e167aa5f865932ccae7dd311f43669ec7ad22f4afdc46498764f9",
+      "sourceBlobSha1": "de57bb20c3dca5d384b2a2139690047bc077589c",
+      "entries": 19
+    },
+    {
+      "chapter": 37,
+      "sourceName": "שבועות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A9%D7%91%D7%95%D7%A2%D7%95%D7%AA",
+      "sourceSha256": "812379f04ce144916839525b71e2ae76dd353ee92aa56fc3445f2e3d19f7bd7d",
+      "sourceBlobSha1": "8955ee55a4946c21d2aaa49d1173890fb8e5f5b2",
+      "entries": 37
+    },
+    {
+      "chapter": 38,
+      "sourceName": "מעילה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%A2%D7%99%D7%9C%D7%94",
+      "sourceSha256": "0829c619161a60284ccc87dfba8899cb33acf136b5e2ca5e320f071be2d57bb7",
+      "sourceBlobSha1": "595ad07c5edf236edc7775aa8dd6bd4929bf893a",
+      "entries": 56
+    },
+    {
+      "chapter": 39,
+      "sourceName": "קנין",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A7%D7%A0%D7%99%D7%9F",
+      "sourceSha256": "932ce22a660ad47ae005eb1f5623877ade0dd814e6b9c1bf24455985e1a18370",
+      "sourceBlobSha1": "e402bbe0407b59acef87c1a6818381fdc7f57350",
+      "entries": 9
+    },
+    {
+      "chapter": 40,
+      "sourceName": "מדות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%93%D7%95%D7%AA",
+      "sourceSha256": "80ea589d2cca10a9126f021fb68f1136cd97c116e1deaf82551b89d4f024f573",
+      "sourceBlobSha1": "69b4099845d18463625c982a1758ba00c5413fe8",
+      "entries": 13
+    },
+    {
+      "chapter": 41,
+      "sourceName": "תמיד",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%9E%D7%99%D7%93",
+      "sourceSha256": "ae68679532f3a7b2fd0e899db0a36b973ee94145ad556aa6f441637db705f0d5",
+      "sourceBlobSha1": "5c2899ecd37313c58580efce20be16360691eaf1",
+      "entries": 32
+    },
+    {
+      "chapter": 42,
+      "sourceName": "ערכין",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A2%D7%A8%D7%9B%D7%99%D7%9F",
+      "sourceSha256": "c90ef6bdff0540dbad3fc61f7715f4f3ac249417d78d07dd95dc7dfa464330af",
+      "sourceBlobSha1": "b8fe722398ba07a05cedc640f91c9e4a6242b02b",
+      "entries": 89
+    },
+    {
+      "chapter": 43,
+      "sourceName": "תמורה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%AA%D7%9E%D7%95%D7%A8%D7%94",
+      "sourceSha256": "43fef3269f0683b329c89b9d06b46d1a97eb66498597e7b32c8ed75b255638da",
+      "sourceBlobSha1": "d936ac17fa816843c7350147fc735610e0ae0c03",
+      "entries": 103
+    },
+    {
+      "chapter": 44,
+      "sourceName": "עבודה_זרה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%A2%D7%91%D7%95%D7%93%D7%94_%D7%96%D7%A8%D7%94",
+      "sourceSha256": "76f4593c8d090179503f81f952b28d367858ee05af485fe64bd41d92c65e835c",
+      "sourceBlobSha1": "13cd35dda98f7a85719ecaa845e5465862800dcb",
+      "entries": 128
+    },
+    {
+      "chapter": 45,
+      "sourceName": "הוריות",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%94%D7%95%D7%A8%D7%99%D7%95%D7%AA",
+      "sourceSha256": "2aea6132c3f1bef1c34049ea88fb6fd708ef97d58a3c66ffe3d442a63139d7ff",
+      "sourceBlobSha1": "5f1001be155d8d9bf88e32c935ab2c202bcdb8c7",
+      "entries": 16
+    },
+    {
+      "chapter": 46,
+      "sourceName": "מועד_קטן",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%9C%D7%9E%D7%95%D7%93/%D7%91%D7%91%D7%9C%D7%99/%D7%9E%D7%A4%D7%A8%D7%A9%D7%99%D7%9D/%D7%94%D7%92%D7%94%D7%95%D7%AA_%D7%99%D7%A2%D7%91%D7%A5/%D7%9E%D7%95%D7%A2%D7%93_%D7%A7%D7%98%D7%9F",
+      "sourceSha256": "776a892a4234c274a4f46c51799cd963be2fc45101980619f88cf326faac7b93",
+      "sourceBlobSha1": "af5c7cecca73f453ce0d668fb8484a3f977dbb3a",
+      "entries": 58
+    }
+  ],
+  "requiredNoticesPath": "Rabbinic/Haggahot Yaavetz (Pninim)/required-notices.json",
+  "requiredNoticesSha256": "a994dc62e1a2084c0510b7b41d90c7723666970810a6722ff4adbdaf153363dc",
+  "fullLicenseSha256": "6adc7b4f7c74882dbe7564f7b8285ff194d760727ab30036dfe9704039fe32d7",
+  "distributableSourceRawCopies": true,
+  "sourceProduction": "Publisher says historical scans were converted to text and carefully proofread; Amudi did not perform OCR.",
+  "scope": "Preserves all 46 existing source files; no claim of complete historical coverage."
+}

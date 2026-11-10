@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "work": "Sefer HaHasaga",
+  "sourceLines": [
+    4421
+  ],
+  "sourceIndex": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94",
+  "indexRevision": {
+    "id": 3097414,
+    "timestamp": "2026-10-26T18:22:54Z"
+  },
+  "indexWikitextSha256": "737bd85a80e585a6d254f1d0f52fa8018136bcadcffe3a0baad239af751ded84",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "R. Jonah ibn Janah, original author; R. Obadiah HaSefaradi, medieval Hebrew translator; Hebrew Wikisource contributors, transcription from two manuscripts and edition work. Exact source-page/revision links are retained in source-manifest.json.",
+  "changeNotice": "Converted existing typed Wikisource edition into reader paragraphs, retaining headings, quotations, source footnotes, both original and corrected variant readings, and displayed citation labels. Removed formatting/navigation and undisplayed link targets. The source itself records revised biblical quotations, pointing, punctuation, layout and paragraphs based on its manuscript transcription. No OCR or new translation performed. Any unmatched source wrapper repairs are logged.",
+  "shareAlikeNotice": "Adapted reader text distributed under CC BY-SA4.0.",
+  "deliveryMode": "Free plaintext; no purchase gate, encryption or DRM.",
+  "coverage": {
+    "status": "complete-source-contents",
+    "details": "All eight content pages linked by the source index, which marks this transcription complete; raw manuscript transcription appendix is retained as source evidence rather than duplicated as a reader chapter. No English translation imported.",
+    "pages": 8
+  },
+  "pages": [
+    {
+      "chapter": 1,
+      "label": "הקדמה",
+      "sourceTitle": "ספר ההשגה/הקדמה",
+      "pageId": 1736223,
+      "revisionId": 2978361,
+      "revisionTimestamp": "2026-01-20T21:17:41Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=2978361",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "31674b8fb3481cc7243923d6629d83b47ce1e34eeadc4c60925001cc05823cff",
+      "retainedTextSha256": "80bab3f58dc12e8e32a31d8886377654be75996cdafa63850b918ff407839bed",
+      "textCharacters": 9401
+    },
+    {
+      "chapter": 2,
+      "label": "פעלי פ\"א",
+      "sourceTitle": "ספר ההשגה/פעלי פ\"א",
+      "pageId": 1736215,
+      "revisionId": 2976946,
+      "revisionTimestamp": "2026-01-18T18:30:50Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A4%D7%A2%D7%9C%D7%99%20%D7%A4%22%D7%90",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A4%D7%A2%D7%9C%D7%99%20%D7%A4%22%D7%90&oldid=2976946",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "767b77113088c970d20dff6b1548bbde2c2e7fb6b9fa995120f8747f4eb46169",
+      "retainedTextSha256": "9ea0a21f5218156cf3c02b27d3164af3de3ba095940cde82215eed9a2e9d5cb4",
+      "textCharacters": 8803
+    },
+    {
+      "chapter": 3,
+      "label": "פעלי פ\"י",
+      "sourceTitle": "ספר ההשגה/פעלי פ\"י",
+      "pageId": 1736216,
+      "revisionId": 2979032,
+      "revisionTimestamp": "2026-01-21T20:57:53Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A4%D7%A2%D7%9C%D7%99%20%D7%A4%22%D7%99",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A4%D7%A2%D7%9C%D7%99%20%D7%A4%22%D7%99&oldid=2979032",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "b7580a1f21ac0fb24632da51ca86ec5b1bec7899ffa15ab41b25e43c9ee3e565",
+      "retainedTextSha256": "d8d24cedb6500517e76401af293067265483ebe97f10bca1afdb22351b37b35b",
+      "textCharacters": 29584
+    },
+    {
+      "chapter": 4,
+      "label": "נחי העי\"ן",
+      "sourceTitle": "ספר ההשגה/נחי העי\"ן",
+      "pageId": 1736217,
+      "revisionId": 2979033,
+      "revisionTimestamp": "2026-01-21T21:17:13Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A0%D7%97%D7%99%20%D7%94%D7%A2%D7%99%22%D7%9F",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A0%D7%97%D7%99%20%D7%94%D7%A2%D7%99%22%D7%9F&oldid=2979033",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "448d52d8c4c8afa639577c183adb3edd84b8efa425bff6e848d4b216644e1b2b",
+      "retainedTextSha256": "d5cb5d4d6c39ca68219c5ebaa62e525a636f47b1806fa92bb37580088a3b4b96",
+      "textCharacters": 51080
+    },
+    {
+      "chapter": 5,
+      "label": "נחי הלמ\"ד",
+      "sourceTitle": "ספר ההשגה/נחי הלמ\"ד",
+      "pageId": 1736219,
+      "revisionId": 2980856,
+      "revisionTimestamp": "2026-01-28T18:06:03Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A0%D7%97%D7%99%20%D7%94%D7%9C%D7%9E%22%D7%93",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A0%D7%97%D7%99%20%D7%94%D7%9C%D7%9E%22%D7%93&oldid=2980856",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "02d025615e81ed6895d5f096ed3f90d67805d0b192fc735c8e87c554b257342c",
+      "retainedTextSha256": "e3860ba46e2fe573917c25c431877186a27518dfff887e196ecba0decce8b432",
+      "textCharacters": 48219
+    },
+    {
+      "chapter": 6,
+      "label": "פעלי הכפל",
+      "sourceTitle": "ספר ההשגה/פעלי הכפל",
+      "pageId": 1736220,
+      "revisionId": 2980859,
+      "revisionTimestamp": "2026-01-28T18:14:23Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A4%D7%A2%D7%9C%D7%99%20%D7%94%D7%9B%D7%A4%D7%9C",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A4%D7%A2%D7%9C%D7%99%20%D7%94%D7%9B%D7%A4%D7%9C&oldid=2980859",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "96ad063b133d25e711ba0d9fbd3bd7fa72f0b627936fc37161e8775daa0bab72",
+      "retainedTextSha256": "3c7c512995eea3774185d1b2188b644293c5daf37379d405dfe6014d777edcf8",
+      "textCharacters": 52954
+    },
+    {
+      "chapter": 7,
+      "label": "הפעלים המסופקים",
+      "sourceTitle": "ספר ההשגה/הפעלים המסופקים",
+      "pageId": 1736221,
+      "revisionId": 2979035,
+      "revisionTimestamp": "2026-01-21T21:21:55Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%94%D7%A4%D7%A2%D7%9C%D7%99%D7%9D%20%D7%94%D7%9E%D7%A1%D7%95%D7%A4%D7%A7%D7%99%D7%9D",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%94%D7%A4%D7%A2%D7%9C%D7%99%D7%9D%20%D7%94%D7%9E%D7%A1%D7%95%D7%A4%D7%A7%D7%99%D7%9D&oldid=2979035",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "32cc794fefa4717676f439073bcb1dc4ebdb9c4f2e4bcc94bc298b31173fc83a",
+      "retainedTextSha256": "94a52354b9895ece5d6a46e47da3afe0125e78fc2156ff242b4e3e58c80c8260",
+      "textCharacters": 1876
+    },
+    {
+      "chapter": 8,
+      "label": "סיום",
+      "sourceTitle": "ספר ההשגה/סיום",
+      "pageId": 1736222,
+      "revisionId": 2976916,
+      "revisionTimestamp": "2026-01-18T16:46:21Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A1%D7%99%D7%95%D7%9D",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%A1%D7%99%D7%95%D7%9D&oldid=2976916",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "cd3021135017884f9477463628ebec0d4b3ecb2004982b890ac90ad111bc768c",
+      "retainedTextSha256": "39324935e7804fc58ef3973aae71c74007c29ae7b3712571047ee0457994bbcc",
+      "textCharacters": 1571
+    }
+  ],
+  "sourceMarkupRepairs": [
+    {
+      "sourceTitle": "ספר ההשגה/נחי העי\"ן",
+      "sourceMarkup": "{{צ|",
+      "context": "יָ (יונה ב י), '''נִפְלְאַתָה''' אַהֲבָתְךָ לִי (ש\"ב א כו), {{צ|כי החבאתה וזולתם הרבה מאד, ותנועת התי\"ו האחרונה ב'''תָּבוֹאתָה''' לפי שנקבצו שני שוכנים. ואפשר שתהיה הה\"א ב'''תָּבוֹ",
+      "action": "Removed unmatched formatting template opening, retaining all following words"
+    }
+  ],
+  "manuscriptTranscriptionEvidence": {
+    "title": "ספר ההשגה/העתקת כתבי היד",
+    "revisionId": 2976932,
+    "revisionTimestamp": "2026-01-18T17:41:56Z",
+    "wikitextSha256": "db85705856f3aa2c35173fb855ba641ac7b45ef67143f90b78d4ed43331b5a2c",
+    "url": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%94%D7%A9%D7%92%D7%94%2F%D7%94%D7%A2%D7%AA%D7%A7%D7%AA%20%D7%9B%D7%AA%D7%91%D7%99%20%D7%94%D7%99%D7%93"
+  },
+  "templateEvidenceCache": "Amudi/data/rights/later-works-followup-source-cache-20261030/hasaga-templates.json",
+  "reviewedAt": "2026-10-30T03:35:47.133Z"
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Chasdei David on Tosefta Nedarim — Wikisource excerpt",
+  "source": "Hebrew Wikisource",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chasdei David by Rabbi David Pardo, as identified by Hebrew Wikisource; contributors Nahum, נדב ס, עמרם, שילוני; full source revision history in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Selected the Chasdei David section, removed wiki links and footnote markers, normalized whitespace, and mapped it to Tosefta Nedarim 1:1. No OCR or new translation was performed by Amudi. Copyrightable adaptations are shared under CC BY-SA 4.0.",
+  "coverageStatus": "One excerpt on Tosefta Nedarim 1:1 only; not the complete commentary.",
+  "page": {
+    "title": "תוספתא נדרים פרק א הלכה א",
+    "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%D7%A0%D7%93%D7%A8%D7%99%D7%9D_%D7%A4%D7%A8%D7%A7_%D7%90_%D7%94%D7%9C%D7%9B%D7%94_%D7%90&oldid=966122",
+    "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%D7%A0%D7%93%D7%A8%D7%99%D7%9D_%D7%A4%D7%A8%D7%A7_%D7%90_%D7%94%D7%9C%D7%9B%D7%94_%D7%90&action=history",
+    "revisionId": 966122,
+    "url": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&titles=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90+%D7%A0%D7%93%D7%A8%D7%99%D7%9D+%D7%A4%D7%A8%D7%A7+%D7%90+%D7%94%D7%9C%D7%9B%D7%94+%D7%90&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=max&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/chasdei-david-nedarim-wikisource-20261103/page-history.json",
+    "sha256": "646c22078a68324e09780030fd8f805af156a45c8dd830362e474b584d5bdbfd"
+  },
+  "siteLicenseEvidence": {
+    "url": "https://he.wikisource.org/w/api.php?action=query&meta=siteinfo&siprop=rightsinfo&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/chasdei-david-nedarim-wikisource-20261103/site-rights.json",
+    "sha256": "dc1e901a698fa8c6188340efd21acafb137226bd857ff1903514808a2471f911",
+    "declared": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    }
+  },
+  "alignment": "Page explicitly labels Tosefta Nedarim 1:1; opening words match the first installed base passage. This comparison does not independently clear the base edition."
+}

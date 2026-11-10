@@ -1,0 +1,83 @@
+{
+  "title": "Or HaGanuz on Tosefta Sanhedrin — Wikisource excerpt",
+  "sectionHeading": "אור הגנוז",
+  "source": "Hebrew Wikisource",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "אור הגנוז, as attributed on Hebrew Wikisource; contributors for each source page and revision histories are listed in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Selected the sections under the source commentary heading, removed navigation, links and tooltip markup, and separated source line breaks. Linked each excerpt to its corroborated Tosefta passage. No OCR or new translation was performed by Amudi. Copyrightable adaptations are shared under CC BY-SA 4.0.",
+  "coverageStatus": "Partial source-labelled excerpts on Tosefta Sanhedrin 11:3, 14:3. Other passages are not included.",
+  "page": {
+    "title": "תוספתא (וילנא)/סנהדרין/יא/ג",
+    "revisionId": 1285023,
+    "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%90/%D7%92&oldid=1285023",
+    "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%90/%D7%92&action=history",
+    "historyEvidence": {
+      "url": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&titles=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90+%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29%2F%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F%2F%D7%99%D7%90%2F%D7%92&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=max&format=json&formatversion=2",
+      "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-3-wikisource-20261030/page-history.json",
+      "sha256": "5884c12318b9fa9d0ec802dff56a39bbaa941ccdd30bee84e5d16bf6311e3b7d"
+    },
+    "renderedEvidence": {
+      "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=1285023&prop=text&format=json&formatversion=2",
+      "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-3-wikisource-20261030/rendered.json",
+      "sha256": "e78fc848cfac664436547d399d68c4b3c20bb2768b864b05964776a8332d0bc1"
+    }
+  },
+  "siteLicenseEvidence": {
+    "url": "https://he.wikisource.org/w/api.php?action=query&meta=siteinfo&siprop=rightsinfo&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-3-wikisource-20261030/siteinfo.json",
+    "sha256": "dc1e901a698fa8c6188340efd21acafb137226bd857ff1903514808a2471f911",
+    "declared": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    }
+  },
+  "baseSourceEvidence": {
+    "url": "https://storage.googleapis.com/sefaria-export/json/Tosefta/Vilna%20Edition/Seder%20Nezikin/Tosefta%20Sanhedrin/Hebrew/Tosefta%20Sanhedrin%20-%20Machon%20Mamre.json",
+    "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-3-wikisource-20261030/base-source.json",
+    "sha256": "cfead5759ab5fef45f62aa2b97cd2ad35a1b180d2e2345e2bed949b77cf149b4"
+  },
+  "baseVersionsEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Tosefta%20Sanhedrin",
+    "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-3-wikisource-20261030/base-versions.json",
+    "sha256": "314d46996c124c24e756565087733740e8be91ebd951e335fce8e0aa8504543b"
+  },
+  "alignment": "The source page identifies Tosefta Sanhedrin 11:3, and the installed base passage has the same starting words and discussion. All excerpts are linked at passage level, not to a more precise clause.",
+  "pages": [
+    {
+      "title": "תוספתא (וילנא)/סנהדרין/יא/ג",
+      "revisionId": 1285023,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%90/%D7%92&oldid=1285023",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%90/%D7%92&action=history",
+      "historyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&titles=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90+%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29%2F%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F%2F%D7%99%D7%90%2F%D7%92&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=max&format=json&formatversion=2",
+        "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-3-wikisource-20261030/page-history.json",
+        "sha256": "5884c12318b9fa9d0ec802dff56a39bbaa941ccdd30bee84e5d16bf6311e3b7d"
+      },
+      "renderedEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=1285023&prop=text&format=json&formatversion=2",
+        "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-3-wikisource-20261030/rendered.json",
+        "sha256": "e78fc848cfac664436547d399d68c4b3c20bb2768b864b05964776a8332d0bc1"
+      }
+    },
+    {
+      "title": "תוספתא (וילנא)/סנהדרין/יד/ג",
+      "revisionId": 1285017,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%93/%D7%92&oldid=1285017",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%93/%D7%92&action=history",
+      "historyEvidence": {
+        "snapshot": "Amudi/data/rights/tosefta-sanhedrin-wikisource-candidates-20261030/161927-history.json",
+        "sha256": "f7e76c14354b381b0b1ea5c451700fa25cd42bc412e8a347dc0ea8af556388a1"
+      },
+      "renderedEvidence": {
+        "snapshot": "Amudi/data/rights/tosefta-sanhedrin-wikisource-candidates-20261030/161927-rendered.json",
+        "sha256": "9015d791101b16ea4e5faaedc61a91449e00e29ac6f69e0f3227033539268a31"
+      },
+      "contributors": [
+        "Nahum",
+        "ננוש",
+        "שילוני"
+      ]
+    }
+  ]
+}

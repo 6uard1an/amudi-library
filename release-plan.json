@@ -1,58 +1,62 @@
 {
   "repository": "6uard1an/amudi-library",
-  "packageVersion": 9,
+  "packageVersion": 10,
   "keyVersion": 2,
+  "rightsHoldFilterVersion": 1,
+  "rightsHoldRegistrySha256": "7fccbe8c4152bc6217d0365e3608a8418a6990443a50804e8b01c57b4fbe3811",
   "assetsPerRelease": 900,
   "sharedPackage": {
     "id": "library-shared",
-    "packageVersion": 9,
+    "packageVersion": 10,
     "keyVersion": 2,
     "formatVersion": 1,
     "encryption": "AES-256-GCM",
-    "rightsExclusionsSha256": "690cfe053a6c10c7cea29423327279f5810021a8a6364a3d7883781ab462fec5",
+    "rightsExclusionsSha256": "09770603810116ad0b6977d2a3ea91966bdfc24656ec93fef1b379c3b2716e44",
     "ccDownloadPolicySha256": "3e5a98646af8d9907010a2fe1fda79989585ad3e4d3bbfccfef73b1f18e1f7c6",
-    "releaseFilterSha256": "0b52bfffa8d2dcdc322567ec7ad3e932652f1083a3f7565c83b75421516dae81",
-    "file": "library-shared-v9.amudi",
-    "fileCount": 10804,
-    "size": 16024164,
-    "sha256": "68a302020a0c744a414f64841cb7fa7f586ad5e5f47ee86f0a9b8d6ca45d7ff9",
-    "release": "library-v9-shared",
-    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v9-shared/library-shared-v9.amudi"
+    "releaseFilterSha256": "85e369497d58aa727b9b7fd8614f1bb2f95315303920ae599ec51a7504f8e2d7",
+    "rightsHoldFilterVersion": 1,
+    "rightsHoldRegistrySha256": "7fccbe8c4152bc6217d0365e3608a8418a6990443a50804e8b01c57b4fbe3811",
+    "file": "library-shared-v10.amudi",
+    "fileCount": 13792,
+    "size": 25227312,
+    "sha256": "083e20b44848cfbfa58a95b38dff961b6b68ef9a63ed0b21e877a381661dddce",
+    "release": "library-v10-shared",
+    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v10-shared/library-shared-v10.amudi"
   },
   "releases": [
     {
-      "tag": "library-v9-001",
-      "directory": "library-v9-001",
-      "assetCount": 43
+      "tag": "library-v10-002",
+      "directory": "library-v10-002",
+      "assetCount": 2
     },
     {
-      "tag": "library-v9-002",
-      "directory": "library-v9-002",
-      "assetCount": 41
+      "tag": "library-v10-003",
+      "directory": "library-v10-003",
+      "assetCount": 3
     },
     {
-      "tag": "library-v9-003",
-      "directory": "library-v9-003",
-      "assetCount": 1
+      "tag": "library-v10-004",
+      "directory": "library-v10-004",
+      "assetCount": 7
     },
     {
-      "tag": "library-v9-004",
-      "directory": "library-v9-004",
-      "assetCount": 142
+      "tag": "library-v10-005",
+      "directory": "library-v10-005",
+      "assetCount": 5
     },
     {
-      "tag": "library-v9-005",
-      "directory": "library-v9-005",
-      "assetCount": 12
+      "tag": "library-v10-006",
+      "directory": "library-v10-006",
+      "assetCount": 51
     },
     {
-      "tag": "library-v9-006",
-      "directory": "library-v9-006",
-      "assetCount": 14
+      "tag": "library-v10-007",
+      "directory": "library-v10-007",
+      "assetCount": 92
     },
     {
-      "tag": "library-v9-shared",
-      "directory": "library-v9-shared",
+      "tag": "library-v10-shared",
+      "directory": "library-v10-shared",
       "assetCount": 1
     }
   ]

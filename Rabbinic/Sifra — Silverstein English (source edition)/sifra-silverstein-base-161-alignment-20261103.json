@@ -1,0 +1,52 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 161,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "f210e0ccc49a1d9d05f9c9f523013acd21c1ad09344fd170cbf57d68eb058251",
+      "translationChapter": 166,
+      "translationPosition": 1,
+      "translationTextSha256": "361f39159f7f77f4c7cb24295b1ec30513f4f0581550a05053cf09458f9bbb2d"
+    },
+    {
+      "basePosition": 3,
+      "baseTextSha256": "0e0fdecd1177850a220fbf1ddfeade0367d7710c347b7fa831de4afdef7a6610",
+      "followingBaseTextSha256s": [],
+      "fragments": [
+        {
+          "translationChapter": 166,
+          "translationPosition": 2,
+          "translationTextSha256": "c7204464c75f0be636aba519a92b98516f6ea71515a7abfd6b8b800e6efa44a4"
+        },
+        {
+          "translationChapter": 166,
+          "translationPosition": 3,
+          "translationTextSha256": "08cdba86a284279783547bdbb37180bc1c38964ba9d86952f1e1915089ebd9c8"
+        }
+      ]
+    },
+    {
+      "basePosition": 4,
+      "baseTextSha256": "75197b99ea4d53a2978c3041fb5dbead2487b11d7b553218f84bd659a1247981",
+      "translationChapter": 166,
+      "translationPosition": 4,
+      "translationTextSha256": "e17633bf6b188079f99e42829d3f038052ab4aa62e563bb7175489123f1f2755"
+    },
+    {
+      "basePosition": 5,
+      "baseTextSha256": "925c03ee6513a53946a8cf5a5301c494c9cec29ecf3c74b38ff08aa3d8ae50db",
+      "translationChapter": 166,
+      "translationPosition": 5,
+      "translationTextSha256": "7d0d65206ceb7c51343fb524a5605e62f7eeed46b23b0adec468bdb97e8fc78e",
+      "followingBaseTextSha256s": [
+        "de877f1063200504e22350f30e40540381c09247aae70fb49585ef2c8065306d"
+      ]
+    }
+  ]
+}

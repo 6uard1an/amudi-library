@@ -1,0 +1,23 @@
+{
+  "baseBookPath": "Rabbinic/Beit Yosef, Orach Chayim — Vilna 1923 source edition",
+  "baseChapter": 698,
+  "translationBookPath": "Rabbinic/Beit Yosef — Community English (complete source edition)",
+  "sourceCoordinate": "Introduction",
+  "method": "Exact matching Hebrew and English provider coordinates; openings and endings reviewed. Translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 10,
+      "baseTextSha256": "01352272bb5fdbb70b076ace1c61a9992379bf6641f6a3924f680fcabdf602ac",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "1c982f9aade15d49cae8ab25c13160cc218b019111e44ad6173fb1baf4dc22bf"
+    },
+    {
+      "basePosition": 11,
+      "baseTextSha256": "0f8d483e91a67a9c6d611f3b5be4b936b241780801fe4314b57be189a6919846",
+      "translationChapter": 1,
+      "translationPosition": 2,
+      "translationTextSha256": "3675173ad91f3474799323339f74e013e92fc6bd2e559517e9b6160916b9ea5f"
+    }
+  ]
+}

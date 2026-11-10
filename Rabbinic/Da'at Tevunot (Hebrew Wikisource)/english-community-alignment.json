@@ -1,0 +1,1409 @@
+{
+  "basePath": "Rabbinic/Da'at Tevunot (Hebrew Wikisource)",
+  "englishSource": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Da'at Tevunot/English/Sefaria Community Translation.json",
+  "englishExportSha256": "32b8a2729e719344ac625687a64d35f6a15b8cf2dc10e0f9c9f82e9ece982c07",
+  "englishProviderLicense": "CC0",
+  "englishLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "hebrewSourceManifest": "..\\Library\\Rabbinic\\Da'at Tevunot (Hebrew Wikisource)\\source-manifest.json",
+  "hebrewLicense": "CC BY-SA 4.0",
+  "comparisonHebrewSource": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Ramchal/Da%27at%20Tevunot/Hebrew/%D7%A1%D7%A4%D7%A8%20%D7%93%D7%A2%D7%AA%20%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA.json",
+  "comparisonHebrewSha256": "99a6c36a95d37ed896e016bd28f2367c7a5e244a889b962dd88e60220938aa2e",
+  "comparisonHebrewLicense": "unknown",
+  "comparisonUse": "Used only to check correspondence, not included in Amudi. After removing markup and non-Hebrew characters, the whole comparison section occurs inside the retained numbered Hebrew block.",
+  "matched": [
+    {
+      "section": 1,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "792872e84979a84a94dc312f9cfd8a151104ae2da0824a75d8f959297deeddd8",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "5f6c9c6b17ac20fe0e63a4215840a3ca11639935e2d0cf042632e55a8dee10c1"
+    },
+    {
+      "section": 2,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "a1925eb229ebc07a2c56b7a50413e0eb1455fb7f59783ccd06d2135996d04dbf",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "a3c7b6964c125176ca924477d3c38700109759b9ecc2589f440eed728aa73601"
+    },
+    {
+      "section": 3,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "57acb2a918dab1f5d19714dcfd56e6a9b9172bded59d1bbd6f7415eb0f182ad4",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "45acca6d93fe92436dd2067ee6a79297ae490cffd284d4eab0ebf1a2b49fafba"
+    },
+    {
+      "section": 4,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "b05c9a7e345908c813cac92b10d395d9d9ab1c61afc06953816c4cca2ee1a929",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "cf5d73ccdfecad432939111aa2f99cb4c2da3d1ff2df8167c803ff12f15468ef"
+    },
+    {
+      "section": 5,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "d4e436290844300f23b170e51f6e39b8860b818c79e3adba68e566f1239cffbc",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "553aed29cc43365b387b1f79992e063316a78938e8b425dcd1af4686685b68a6"
+    },
+    {
+      "section": 6,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "7e38abe8273db5bddb8637310c692cc551a5c3e63d192280a7efc9166e8924c1",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "bdd308d77eab34d5614556bce02c00f53bdab84eb3278884332bb44d717a0295"
+    },
+    {
+      "section": 7,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "fbe8b5fc41d88f1ab6d2cd700fafb36882e1d2d95413930c4a30f76df3e76314",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "bc82adc9c85372abeeda3f5090c2ac0ee0ff36ec1ba5f0d21519219c5de896cd"
+    },
+    {
+      "section": 8,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "41d233682f6405ce270687e408ac71c565bf3aac2c610d4150e0865265705f86",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "7e95c0d51bde4602d9e224681ed762c34af53e747f9b9834d1fedc0a0b883e0b"
+    },
+    {
+      "section": 9,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "946a47bdfd2cfa67080c76b138ffcff32e7255384004da4b4f483040e506e026",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "e556584c02ff2fdf5874fb24336e490401adad8712e5d26d8df748126b082fa6"
+    },
+    {
+      "section": 10,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "ce974e131d16729f308bd4505240c45a6235890567feb809d11e7dbc06e5e571",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "cde9e245b1dd54973b5ce60fedb68eab571ef452d7ebe728df842cdd5bfa0aae"
+    },
+    {
+      "section": 11,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "9edf391a6972b82af2ed9b60d8f6f285e42e3168a08897375a18a0ca1d87f16b",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "cf37ea34ef4010856cc1cf1aa065cce8b8301512908bfe7ffe9820ac2b6ac5cc"
+    },
+    {
+      "section": 12,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "184f95924ac5f8e8ae81be85a184cee349c19017d59286676e243145c919dcfc",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "f7a49e1e65c259b9a4cf02932337e435dac1cb316f735cdb326ba119c5e920f8"
+    },
+    {
+      "section": 13,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "7dbf3482e2b6aedaa9b5d429adb9f7239baf5dd59de0251a2608056ec849d255",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "2fc8cb148e149bb4c3c3675e80abf7f492f1183d53b435c31f484709b4ce4504"
+    },
+    {
+      "section": 14,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "889f1e24098e0af28ab30401dbb5ef8c3ccf9756fe8c33446aef0abc4b5bff5f",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "f097fb2068c64d9c8771c08216f603d26027219bf06ad183b1ae4488c90b732a"
+    },
+    {
+      "section": 15,
+      "localCoordinate": [
+        1,
+        2
+      ],
+      "hebrewComparisonSha256": "b05167b831f3f485e6991f4673b1a880b526fe298d35e33b935fdf0b7e1b4990",
+      "localBlockSha256": "00ba386e3aab845c024d246bff78cfd4d4291694f6ad4035e2662148150fedfd",
+      "englishSha256": "ec8ecaed5e7bff2072ff38e306ebef6891c87d1d4fa5f3877426bc1d3ce43b80"
+    },
+    {
+      "section": 16,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "068a7b0eab09d027eee931131bc378bef294e7e3f27cdc15443a6ce123852050",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "812906d67d5c02387097b5a7cd27d6c4392b20a9082bbf31ff6756fbd75399d1"
+    },
+    {
+      "section": 17,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "021c08c65d673866adfd9dcc36de7f2ef7151a03622d5498d337282fb9c55f64",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "c71306df24b204a9584ea30f8603826994669c23d5290d50ac9a17c29c9f75b0"
+    },
+    {
+      "section": 19,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "11057d47d175dbcad0593cb42232947c699e45451bb29e6efa53f4e499001700",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "1fa2fb6381fc8da895dd8db095dfa9670e0934c3ccc78c125d85434b0da5d172"
+    },
+    {
+      "section": 20,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "1e5c09407a3886fa99fe5441badaa91b2142af6f7c55bad29e2faf5ee31b4ae3",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "001a61d1b85afdb488b4ec41c5914a4b43ac265c28e4740254909693027bd338"
+    },
+    {
+      "section": 21,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "019b896e531052c78eb4b4d36c3afeb4178abfe6b98274cd04ac3d90a2890529",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "510b5deffb5fba3e4fee8bf8bfa5d6b3bf646fc5bae4edcf3d329b183e59bbbb"
+    },
+    {
+      "section": 22,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "e700d6569ca0f5c60cea4598d1d8d41ca9f204d87c9f87415201ba13215a8205",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "cc75f6553cc483a48815d76df7b0c5272b39dab2f0110e81503aa7b4148a3cde"
+    },
+    {
+      "section": 23,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "6825b70ed70ba30ed00e2730b42cd6666f4f11c61a1fa5cbe6f2357928234871",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "80ebafdad480e98060f9a213f5ffa7a85cee9ab523b878bb2553e5dc4b4925b8"
+    },
+    {
+      "section": 28,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "75936a7dc4828bda7b3657e1d222091b72730505d274903ba61038478af1bffe",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "479093fd1d34caf07d0acbbc6eac0742b20b649b39e11e4676702688671bd26f"
+    },
+    {
+      "section": 29,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "5087a5626ff84663fbc1096ff9ea2f73855020bf8c81def139f8db8e8498dfc5",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "abb02f1679821f3328e7fa5fc047ce10e34458023d0545851ebe88428cbb3457"
+    },
+    {
+      "section": 30,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "89b6345cdaf2f263590c58f2d516388d2b216d22348694102ceda0cc98c47ccd",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "a84445cbc2a3ef5fbdec400b2d552cf479e451ebfe848aecc5eda40946a32be5"
+    },
+    {
+      "section": 31,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "bc419d6dd41a11781f267c9fdbb3e67c36bdf2714a44404a9eeeb906f3f1f86c",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "cde3490fc72d13bb88288104c2952ebf2a59f72587c0aeb68932216025f6bf9a"
+    },
+    {
+      "section": 32,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "0b349d0566ebc018c4e5b6d00462edaf19df363f4d559008d12f3b86746fa429",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "f151a2d351d571c48ab79c4564d70153cc145f04d5e6e85bf562735b440f8eff"
+    },
+    {
+      "section": 33,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "90b5bf9d49d58981300a049a2cac119210cd8f10a2b8fd9f99d91be0461ec162",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "4ba23a628f29bc7231f0907c0c44c9cc7036ca27dfbb9fbba439dcd40695edad"
+    },
+    {
+      "section": 35,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "d3bd938a319e7b7f893b648718a5d1805519195e4fde6820128e49739fdef66e",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "c43f2250ade21a774f84fbb1ae1c00a173c86e657bee3902ab77d438ea098bc5"
+    },
+    {
+      "section": 37,
+      "localCoordinate": [
+        2,
+        1
+      ],
+      "hebrewComparisonSha256": "42d2a5b9c4d1df8e2f0c244c87905b148e76df98234acbbbeaa2444b36dcdf01",
+      "localBlockSha256": "c20160805ea7cde8bbab7902826fe45504a52f92e5b572cd3c3042a684289e39",
+      "englishSha256": "3ab20688ccdffaac8e3191d9b0800388dbfde1ae076f105a3dcd3beacdbf5ba9"
+    },
+    {
+      "section": 38,
+      "localCoordinate": [
+        2,
+        3
+      ],
+      "hebrewComparisonSha256": "62ca69d9d6ff28ad51b32905347b1fd3e089c52d5b436b0a5953ddeabb7dd1fc",
+      "localBlockSha256": "ea7da457916670210cad7476f5eee331e8f08157da26bdbd364374e909fb7836",
+      "englishSha256": "cc960f7831d7ac982eed3f577b04a133c6eda9ec412f5f3bf2e40c565ec549dc"
+    },
+    {
+      "section": 39,
+      "localCoordinate": [
+        2,
+        3
+      ],
+      "hebrewComparisonSha256": "7df47c8e8b950db2b74483e49d4cf230f1b380a0995322f84e81d562ce7ebf69",
+      "localBlockSha256": "ea7da457916670210cad7476f5eee331e8f08157da26bdbd364374e909fb7836",
+      "englishSha256": "296d144c6346ca61466d9e6ba88bcd8f7b2860d8a70897ad44dd098e0bbc9859"
+    },
+    {
+      "section": 41,
+      "localCoordinate": [
+        2,
+        7
+      ],
+      "hebrewComparisonSha256": "bf91e53d5039bae6c08c05565b71c86b243b3b2a2f03f7a7e0eab6f69b025f5d",
+      "localBlockSha256": "07773b292fe5a972e2bd19acb56c1c5202e6ac9b72c5b4a5ba1b280ab66f7d81",
+      "englishSha256": "e73a5f4826b42512d304390efd052a8af903bd470e1075c8e60595d78b571b48"
+    },
+    {
+      "section": 42,
+      "localCoordinate": [
+        2,
+        7
+      ],
+      "hebrewComparisonSha256": "1a256ccc25823d045370153e1c028a9dc889ebd17764803987fe021e0abb3599",
+      "localBlockSha256": "07773b292fe5a972e2bd19acb56c1c5202e6ac9b72c5b4a5ba1b280ab66f7d81",
+      "englishSha256": "4c38be37e59f0e6a5b931c5ba1d70351daedff2fbd27db2e8935f79240efc1b1"
+    },
+    {
+      "section": 43,
+      "localCoordinate": [
+        3,
+        1
+      ],
+      "hebrewComparisonSha256": "816fc6d96277e07035f33096d369a2fcc3de787ed91d07322235eec19d61c0cf",
+      "localBlockSha256": "5d308dbbd0ae6fe227b4c77e2414db71ffbcf4a21a936c96cf9351577dfe8bbc",
+      "englishSha256": "b12e1d59190851923a0ff77ec23a93fc3b9788688bd8a7fffd8dbac19e6042dc"
+    },
+    {
+      "section": 47,
+      "localCoordinate": [
+        3,
+        3
+      ],
+      "hebrewComparisonSha256": "15ce0584a97d888388f6df81a446629578c77da7791f009a8e72445293cab86a",
+      "localBlockSha256": "77b44a22bc1c513abd44ad7adeb2cae834b3f8c3863ca795cdd71c7f151246a7",
+      "englishSha256": "c4d697e28177e701213e435084c0c575be0b959e6cc9de9bfd2069679212e5c9"
+    },
+    {
+      "section": 49,
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "hebrewComparisonSha256": "70493822bc99bc78d5ff2436c0675849c739d0d2aa5722857465a18eb9865c2d",
+      "localBlockSha256": "49e580c0e150e724c538405dff47255e924a92230f7b647c32ac267a796c2bda",
+      "englishSha256": "ea15dc4ce91d429a6c45c5f1dc09a753f8c2a0be0628652295805d64c30d28f4"
+    },
+    {
+      "section": 50,
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "hebrewComparisonSha256": "be319867445ced0d502a94a5f9784b57414123dd7e28a7603d6c4b75f9050773",
+      "localBlockSha256": "49e580c0e150e724c538405dff47255e924a92230f7b647c32ac267a796c2bda",
+      "englishSha256": "8c676fffe968308bc4fc5bd9ac5e152492fcfce86a6c9ad500fae17ea1a53750"
+    },
+    {
+      "section": 51,
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "hebrewComparisonSha256": "003bb44a17d60261c127faa8211cf039ca3551e70897b33c1bcf2768379e1ef6",
+      "localBlockSha256": "49e580c0e150e724c538405dff47255e924a92230f7b647c32ac267a796c2bda",
+      "englishSha256": "91fee0a53dfcb648bd47ac3302b3d36687326e630562c29ab6e410399915e6d3"
+    },
+    {
+      "section": 53,
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "hebrewComparisonSha256": "7a1f1b5d0466f869e20b6f4af33fab73d45b31b39d7d1c5b560e30c25f240e62",
+      "localBlockSha256": "49e580c0e150e724c538405dff47255e924a92230f7b647c32ac267a796c2bda",
+      "englishSha256": "5561d4fb62db0f165e97cd42b5e2c0aa5ade996501d0be50fa69f3e9e56b1d79"
+    },
+    {
+      "section": 55,
+      "localCoordinate": [
+        4,
+        1
+      ],
+      "hebrewComparisonSha256": "71d839d28d0885d6d5fbfa6719e7cdd26ab5a6a54a722ce1a5698ea3f35f1963",
+      "localBlockSha256": "ea36b03196cc81b94a327a0a10b347fb6b64c7aae19ef5d93cb82821d074dfd0",
+      "englishSha256": "350e119540fe86bc1f259cf53657bde2c994d00d4949d279c21dcdfce573f1ca"
+    },
+    {
+      "section": 57,
+      "localCoordinate": [
+        4,
+        1
+      ],
+      "hebrewComparisonSha256": "c45bb7d562a131af63f7f616d80ec1f5907a28d1cf160f03e6c31e66e81dddd3",
+      "localBlockSha256": "ea36b03196cc81b94a327a0a10b347fb6b64c7aae19ef5d93cb82821d074dfd0",
+      "englishSha256": "4c485dab5e9c3b2e468443f9995603209f0313bfda5de9dbd53f2372b49a6c25"
+    },
+    {
+      "section": 61,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "329ab16e22ae91197893fe77dde24cfdfd9be2e368bf80a9266093aa75fe9319",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "251b834216a6f542a7c0336b1adbb172e025552a4c7f052e5c0f0a9d08536a2f"
+    },
+    {
+      "section": 62,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "99f34a3d4d4838301b63a294ab1a1a5dfb2f165582476fa80aec1d16ed85c5ff",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "6c5280f41f6943fae218c8b750423a290668f882f4a37314d1b97d20e6876a6e"
+    },
+    {
+      "section": 63,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "1bdad1f678769e91d8982f9f08bcec7f8c0b0816da82c2594c437d82b136c8db",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "86f56e2dfb80cf0a93d051817c385214c0c80486c081fd89f8fb2a16a6d534ad"
+    },
+    {
+      "section": 64,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "159fabeb3cc21344304139fee15af9aacdf703b31623fd692632ef7eeb39ac8f",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "fb4e5b1103749f55b9c3b158351afa0191c8e08db83214a13bdc548c04504c58"
+    },
+    {
+      "section": 65,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "83d208e0510b97d2f583a06e100e881ed7c7b88696c1ea055e2b7020bd11ff06",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "ec67a012ea14ee5c374a97a77c748f783bc9456453d032239fc8906cb252c32b"
+    },
+    {
+      "section": 66,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "dbaa2f9c12cae24d310d405f4ffeb345452a6cd5de5c3ad20a9edf8b45168cc8",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "5378232f419d504c237cfa865795b6c7c94e34271a9e946f019472ffb2edab2f"
+    },
+    {
+      "section": 67,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "c87a30e2ac5b548f64b0bf79787e63ba40c32f005cf1aa784e6b6f723f6e810a",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "ac8227fc8e4cb34ae33f828f6c72401d775a145c76f3ed1fd98ef1d587cac35c"
+    },
+    {
+      "section": 71,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "6dabc1a16994122d7219700370d6a6ce70ecb33b780a0ef8b909ade28e16c1d6",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "39499b24608c8d749b75435d0409902806fb7a5cbde40525e1a861aebf66639c"
+    },
+    {
+      "section": 73,
+      "localCoordinate": [
+        4,
+        8
+      ],
+      "hebrewComparisonSha256": "31a195c8c56da8696955fc17cf414bed8017aeddfa923d6a2c2b2845762a4471",
+      "localBlockSha256": "f460cdf7f2ee4572eb46497b636235679a255ec0cd3c8f5e705be4ebdf47da46",
+      "englishSha256": "626745c8fb4c0fa209de0639a23bf340d4ba730d5be8962d8127852b4ed49ca6"
+    },
+    {
+      "section": 74,
+      "localCoordinate": [
+        4,
+        8
+      ],
+      "hebrewComparisonSha256": "d014f74fc8dfdb46f100f00ca482bf5473b33f1bb1b9e85ad76cece2b9abcf6b",
+      "localBlockSha256": "f460cdf7f2ee4572eb46497b636235679a255ec0cd3c8f5e705be4ebdf47da46",
+      "englishSha256": "a9422fbe3001c107a21c7ef6c370110f2904b1bc775112139622e695b4afdd04"
+    },
+    {
+      "section": 75,
+      "localCoordinate": [
+        5,
+        1
+      ],
+      "hebrewComparisonSha256": "821f2f0f29e9cd4eb1a33d69a58f984568fcbdf5d2010563b30dff0b41c8c23e",
+      "localBlockSha256": "ca09647565f6a0d6b52faa1997a233a91cb990c99a0257b0afd547d87ccdc0f3",
+      "englishSha256": "2d56a72903b4068e249e8fe8dee8c6a8921dadbf1794233fd342b3c04fead710"
+    },
+    {
+      "section": 77,
+      "localCoordinate": [
+        5,
+        1
+      ],
+      "hebrewComparisonSha256": "66a3cd21edecc8d3741113068bd086f7844b58d5df46d953f876136f24e6afc8",
+      "localBlockSha256": "ca09647565f6a0d6b52faa1997a233a91cb990c99a0257b0afd547d87ccdc0f3",
+      "englishSha256": "46230754d4622338ee03c2a295ca7c58ea78ea556870a406b6634d05c4fe39be"
+    },
+    {
+      "section": 81,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "e6d0dd3978ba5313b439f06cb20dddff6534761bb2b64e3d767f27a57ec3c9e0",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "96f7b35181b318a150ba05f6c5bcab4b636396ed7458e714acbce6e8806bed48"
+    },
+    {
+      "section": 82,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "70cdfbfd0330a974072295b7d1f16359daae6687ee679dba522c880d627323b9",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "6e594c88d37fe1a38ccf630dfa0a47b3c5fdafdffba17c0120c34fa0e4766e7b"
+    },
+    {
+      "section": 83,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "1d9c0ee4d99620755c0660a3d0fbc604207902b92150170651333a19c22664a2",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "66f9b434ef11ffc69e601981f82c493ecec74371815996352ccdb7874f103e80"
+    },
+    {
+      "section": 84,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "10306f3afae18b9a666ff5a1345d38c6d826c6665be5d360f965eec8d63cce78",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "2adeab9980ab312fc3faabac6cda486d122cfee511f27210f3e0fe4c2132e907"
+    },
+    {
+      "section": 85,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "e0060bd03c324269e65837c6fa8e62589ba765e1105fcc57c7fc8f3b850077c3",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "191c3ba9092884a46c8c2a653b3034d6780c01b123a69f05c911f78b4af85c83"
+    },
+    {
+      "section": 86,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "750afb9380e123aeff1b096f33c047fb8aabe1bb5655fe9378f05db0e3fd68a0",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "678af48d80c68486fc840e7838fe86a1bc403597d812d14625c5c7f521b2c5b1"
+    },
+    {
+      "section": 87,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "d720d66795a0b7ba7ca74e75eb7b68cd0b8570be580ac85d838bf6ff03db8e29",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "4ffa0e85a207daefe97a26d1292dc6dfb501ef02b532b4226ad46672eb3b43b8"
+    },
+    {
+      "section": 89,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "02de8408a1609155b50140756cac2d02e92ab15467fa572011d3828add06a4f4",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "83455e18a6e54104061f8d8f4c860a5f73736c3e53c827783a6f4cf686776c0b"
+    },
+    {
+      "section": 90,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "b9071c301018f261979a813688c7ddc54f9f2821904225cb231273aa5f0f3f12",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "fdd2f7ef8f850288c5ad49d43128ff44526459988091e7ecb518ec4fa20c521c"
+    },
+    {
+      "section": 91,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "1dedf60338ddf70b38f74f768f065ba0515909e196555231047a63dac780474e",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "24f43623f25d88b72b8b9400300a026112585e6b7df546514ceb91204cd0a452"
+    },
+    {
+      "section": 93,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "4bdc8497f864f0fa58d8a59f6f74a34e30100b1742873912f0b98f5c0ecb38e3",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "f2d7c3a278c6633e4829a3900d5690096242d1bd4223d262b27d73418c38a894"
+    },
+    {
+      "section": 94,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "a1185ea146001e452a94d3e8584b0d89181246fd2ba2d597d94c46c6a67c3c65",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "462ed18ccb666062b5db8ba09662490b640076901c992532d1787f666b5dabe0"
+    },
+    {
+      "section": 95,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "6a46ca71dcefb880102ddd91f02540eba63232d93719adce5710c617041f96ff",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "166633377b5cf4e8e86a2f93f707f0793425cf0a5d2741177ce0a9e0cbb78314"
+    },
+    {
+      "section": 97,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "07c87081d02c514a70703c14a68fe101c536a9189a2bbf48debe031209e24d90",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "b61f7a6caac0e70f01e246243e59890724fd6d728b494eb4ec0c8f477c03b7cd"
+    },
+    {
+      "section": 98,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "2adf53af9359722d86e8aab83003d668f167fa711a55afc94702ebddc0ba6af3",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "d06fe83440f66323b48b35e8367719b4f7db1497207244e80612090d23a0df1a"
+    },
+    {
+      "section": 100,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "811cad8ebc0940adf31da290c7c74f03377c0ddac2b5a5f3be7baa37973f5824",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "1ea46e5b3fcfcace5b093da9a58bae2c8e1737bbae09f31b717e2be5e1400c05"
+    },
+    {
+      "section": 101,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "c620c9c39a6c613eac99c00905735fceac66ebbdd3c0c7dd15b9db4ce6bf1bcd",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "c91a44fbaee929408183463c91adb362360950c62c10c4d7c70f4c65a0337be9"
+    },
+    {
+      "section": 102,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "5e1a86d55f2f5498ffcd6e3034f2e699f2e6780678d0198b07299c4a81523248",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "544cc15fa2c607deb8ae814c92285255f216ce5abba4132112bf1469cc773f64"
+    },
+    {
+      "section": 103,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "2a8de9c6b41e95bb8daac103cd9ccd05e7cefd76ad25f6a2b755618faa473d37",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "88be9bdd7ea2fd1f42841e97c3be4d622790bf615e9bf1376e1fd67e67de74d3"
+    },
+    {
+      "section": 104,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "0b04c0f91c9fec30862409d9cedf63a5d57ff83ab6d2d153e9c7aa81a268cc60",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "f9560a03b98822c00143f44b1d20cdb143211d032bb580b3c2e0f191d98d483c"
+    },
+    {
+      "section": 105,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "8285c0f6475cf3936c9ee9f1a7c39371767cf7af5769a5aecd48de6ccecfd909",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "edc0ec36e1a7f875c61f3e942898ef285ae15ec84ade50db0299949430ebca20"
+    },
+    {
+      "section": 106,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "77c186bf23ee020c88b711ea2b10b7c2818a415977281e192db94afaa7ef438b",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "75bc72049d6577bf27cbcd53655a7efbdb8a9494df9ae45998640e6d81e4ee36"
+    },
+    {
+      "section": 107,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "438ecbc54d97d0781d0f56c9061e25382f3519eebbb90230cfef5b89155614d6",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "2c1aa5f047a0f5a08974915b6ddd202a0fadf99885749ac5403740a87eb1b07e"
+    },
+    {
+      "section": 108,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "0ec5f9462bcfda191ef1ae65533931938d94eb1ad0079cc666eaf11564c3969b",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "c5af2b022f3695d17c87563f032eaccae1cf01805f3b0757ec1fe21dcdcbf461"
+    },
+    {
+      "section": 109,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "dd0613bbb8bc79ca5d1b8e7236dd2fbe9359a70bf94672407bc67248c80f35a5",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "53285d2d793f50edda73e50ecb354e7f6aaaeede402f66fcfd7f56bf9e538c90"
+    },
+    {
+      "section": 110,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "075e2e795a128a317af96523d0ee42f8cbd3d6e265b8cc1343be6b63aab7dd69",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "910df326f5b1e6c52f2d2065520cd7641b3bc522dc66045643f28e1cb16be615"
+    },
+    {
+      "section": 111,
+      "localCoordinate": [
+        8,
+        1
+      ],
+      "hebrewComparisonSha256": "fbaa29622e6b232ddec9029cf4e58a9fbd22a82154cf19aeadba4b228045bad7",
+      "localBlockSha256": "5c0fc49262354bd77d571fe32d6b52c9d074daa627ab4a52af473779342a52e2",
+      "englishSha256": "c57c1ed7f7646c66b76df5b019628953a51873b94738d3383cfc8d97f8aa32b4"
+    },
+    {
+      "section": 112,
+      "localCoordinate": [
+        8,
+        1
+      ],
+      "hebrewComparisonSha256": "6ebdceb0b441ea8eb91be027970ec0f621743771d1b3cffb2063e5cc5828a455",
+      "localBlockSha256": "5c0fc49262354bd77d571fe32d6b52c9d074daa627ab4a52af473779342a52e2",
+      "englishSha256": "69a1964512572c50c2540dcd5cb6301fe47f5924bb68c74967820019de868d6b"
+    },
+    {
+      "section": 113,
+      "localCoordinate": [
+        8,
+        1
+      ],
+      "hebrewComparisonSha256": "9b600dcd05ab0cb75bed2056353e005d5bd09270a02ac513bef1a6c4e9abf6c5",
+      "localBlockSha256": "5c0fc49262354bd77d571fe32d6b52c9d074daa627ab4a52af473779342a52e2",
+      "englishSha256": "b20e8ebbbf072c0c9206a63fbe5b561c2d4aafcd86e865c0d89cc23b10179ff4"
+    },
+    {
+      "section": 115,
+      "localCoordinate": [
+        8,
+        1
+      ],
+      "hebrewComparisonSha256": "20983ca48e7887213b34ac9d49b1349f2c947d58f54bfaa34670a49392ec076f",
+      "localBlockSha256": "5c0fc49262354bd77d571fe32d6b52c9d074daa627ab4a52af473779342a52e2",
+      "englishSha256": "a790257c843303618617652c3b5c2bfb83e458d95f2d578c3cc8b7656c1884f6"
+    },
+    {
+      "section": 116,
+      "localCoordinate": [
+        8,
+        1
+      ],
+      "hebrewComparisonSha256": "6ea71de8b53baa48aed601ef5b095aa8a1145df1bdfe3cee842f165d538efba8",
+      "localBlockSha256": "5c0fc49262354bd77d571fe32d6b52c9d074daa627ab4a52af473779342a52e2",
+      "englishSha256": "83125e21c233eb9440e992c7edb7202ed0a0ca63e2ad275521f9ea9499160110"
+    },
+    {
+      "section": 117,
+      "localCoordinate": [
+        8,
+        1
+      ],
+      "hebrewComparisonSha256": "bf0f0c9799605f8ecf68163df458cad799bbffe137d9c7265c13ed4cb50878a3",
+      "localBlockSha256": "5c0fc49262354bd77d571fe32d6b52c9d074daa627ab4a52af473779342a52e2",
+      "englishSha256": "f2e55de839f5543c36e8bb5af0411c091d69158cb9115ccc48761f0c8e0ffcb2"
+    },
+    {
+      "section": 118,
+      "localCoordinate": [
+        8,
+        4
+      ],
+      "hebrewComparisonSha256": "d126a3404e3fde1dc133ddb7822f897add000c9cdaa94a5c1d48b0bc1b5e48a0",
+      "localBlockSha256": "98edea4b4f31abad1d2eabf8d33c1a0b56139be7d90df689a7a5984b34e01e56",
+      "englishSha256": "4e6cebe8f9daa2b80dd4221ef6b0c5d67c0e990340589bb7f8ff9a1e95d6952a"
+    },
+    {
+      "section": 119,
+      "localCoordinate": [
+        8,
+        4
+      ],
+      "hebrewComparisonSha256": "ca90228cd528bb6686d4b8de10618c54be4776b2480af513d1033c9708276656",
+      "localBlockSha256": "98edea4b4f31abad1d2eabf8d33c1a0b56139be7d90df689a7a5984b34e01e56",
+      "englishSha256": "2c3ecdfb2d667fbabbc3e447f9334335d9a9f05a1113413c7330f9cf0dd5f07c"
+    },
+    {
+      "section": 120,
+      "localCoordinate": [
+        8,
+        4
+      ],
+      "hebrewComparisonSha256": "85de73f51835901a7fcef6ef075962e5042c23460bd08dbdd507b3d018d1236f",
+      "localBlockSha256": "98edea4b4f31abad1d2eabf8d33c1a0b56139be7d90df689a7a5984b34e01e56",
+      "englishSha256": "1b85724caccaf9214bd810442fe6c67a419fefc7a2f2e88c27e0b22e3a28dce7"
+    },
+    {
+      "section": 121,
+      "localCoordinate": [
+        8,
+        4
+      ],
+      "hebrewComparisonSha256": "c71c05db7ebf6869a00925a6ffd0e99e684bc5e55c63c1252b0a0ca1a0d7afca",
+      "localBlockSha256": "98edea4b4f31abad1d2eabf8d33c1a0b56139be7d90df689a7a5984b34e01e56",
+      "englishSha256": "8175f426c1f69d563732a5dc30adf14ef9d9989984161a3771e4587b8c570f0d"
+    },
+    {
+      "section": 122,
+      "localCoordinate": [
+        8,
+        4
+      ],
+      "hebrewComparisonSha256": "663dae8a7ad19b5f772273b6ccb611c341327ec8d5531071bd050bdbd56ba884",
+      "localBlockSha256": "98edea4b4f31abad1d2eabf8d33c1a0b56139be7d90df689a7a5984b34e01e56",
+      "englishSha256": "de9eb031a854fc31a29ae6d37bf4fc83d12d2d38cc395c8a78a3cfea35b2c19f"
+    }
+  ],
+  "unmatched": [],
+  "limitations": "Source-provided license labels are evidence, not independent certification. This checks Hebrew placement, not English translation quality. Blocks may contain other untranslated sections; section 32 source translation begins mid-section. Variant matches are not character-for-character identical; differences and translation quality are not independently adjudicated. Source paragraph correspondence and Hebrew similarity do not independently certify translation quality. Section 156 contains only one English paragraph.",
+  "variantMatches": [
+    {
+      "section": 18,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "ab16ce8a24899496f88f15422879ab0cce9e92afc5fe420dac1f14a5108678af",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "939b574e091dd3fce2cae71380a25462317a8d63dd95634698e20c7bd5d64d56",
+      "normalizedSimilarity": 0.98984,
+      "localSectionSha256": "b56b63aafcfd404386b0e05e1ed1e2279775edb73c4348ee305fcc582afb7782",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 24,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "79eb9c7e3911498b10839da1b17df4b5dbe109ac52a85e713d6ffcf79b59c538",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "d6177728a2ecbb077dfc45220b5a1076f5fe0c3b66e774972ded4b90c811e398",
+      "normalizedSimilarity": 0.996292,
+      "localSectionSha256": "4910b6a64705fce9c2174041bcc07423f1a4da638b28e46322256f59f247a3b9",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 25,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "0897d45fbcd20a0c954aa1a4c3d5b287418971b65f0fa23f90448986d66d070d",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "527b6cdd085616e6b4902f2eccd3e47be39b05eea25392d4bbb34b80afe22f1a",
+      "normalizedSimilarity": 1.0,
+      "localSectionSha256": "667209a4a591d066f7e4bc1c1022de3c09ff1599174c7e3e2be8ff63bf18dd37",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 26,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "d5107bd72efdf1652b55db10f2ea9854131f6f1cd8a2f21eca142d2d7d81f5be",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "30f63ae9854c778a9a34ddb1206e74f7b53ad1d7d36fb84ca76a269245f5f0af",
+      "normalizedSimilarity": 0.987171,
+      "localSectionSha256": "a37e750861c7098f86872f99e82f885aa364bff57e5b8a15e149a4888805b8cf",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 27,
+      "localCoordinate": [
+        1,
+        4
+      ],
+      "hebrewComparisonSha256": "44d4b42624638187e26b19c83dc0fb55164f37bce8521935c3fa9a30efe89b75",
+      "localBlockSha256": "6177f26b5ed6116fcfe20afeeb24ccc4bfc0f174d91380c392d70fcd1d9e2dbe",
+      "englishSha256": "56dbbfc2d1a22f39b7d0498f762f83784f8eb41aa125aaa159ba2c5f1cb7da89",
+      "normalizedSimilarity": 0.994318,
+      "localSectionSha256": "9db34e53b357651686973c5aceb573d69826b1345c69c53f4df07fe8b1a28d80",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 34,
+      "localCoordinate": [
+        1,
+        6
+      ],
+      "hebrewComparisonSha256": "27256bdc0ea03000dc0bdec258b9437648a1ace8ae9e76d55e0622ca83ada517",
+      "localBlockSha256": "24229ae551a9e1789efb8fc4ad78b89696415050b990ebe3376694c684b6f64d",
+      "englishSha256": "84828609d116896b765cc24894840727b53cee445b3ffbdd2a27fe3a5ae29ceb",
+      "normalizedSimilarity": 0.996711,
+      "localSectionSha256": "5d17e790987b2ff410039a449baf158083b854ad477479c9bf525882ea1e4b31",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 44,
+      "localCoordinate": [
+        3,
+        1
+      ],
+      "hebrewComparisonSha256": "efb7824ed844d05220c041486efb74c3bc0bd25d33ba18e164903e91ce2aa502",
+      "localBlockSha256": "5d308dbbd0ae6fe227b4c77e2414db71ffbcf4a21a936c96cf9351577dfe8bbc",
+      "englishSha256": "bfda365c87bb8ebe201007fa1be58ffd31fa0aa62b3d0868194d47fb47e0a702",
+      "normalizedSimilarity": 0.999635,
+      "localSectionSha256": "d134d405db2e13f3d70a0c1df9c3f8203a62067dbfdefbc47024baeb46a0ee32",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 45,
+      "localCoordinate": [
+        3,
+        1
+      ],
+      "hebrewComparisonSha256": "0897d45fbcd20a0c954aa1a4c3d5b287418971b65f0fa23f90448986d66d070d",
+      "localBlockSha256": "5d308dbbd0ae6fe227b4c77e2414db71ffbcf4a21a936c96cf9351577dfe8bbc",
+      "englishSha256": "569385f0d064b6024b2d889f16fb3e7e461f6c33b588c77996379db0757c7bce",
+      "normalizedSimilarity": 1.0,
+      "localSectionSha256": "76e31f9147160a8aacfeb62ee5cc058aae6f65c3d6b8d6bf12254bc460e2e8a8",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 46,
+      "localCoordinate": [
+        3,
+        3
+      ],
+      "hebrewComparisonSha256": "1e09b2941bf917b6e4400c5e5bcc1e98b2d879728524176dd5447919ca102f8f",
+      "localBlockSha256": "77b44a22bc1c513abd44ad7adeb2cae834b3f8c3863ca795cdd71c7f151246a7",
+      "englishSha256": "8dfbf277cd00c19414f1c1226f8b6e56fd6b11371916fd86497f6a766c6817b4",
+      "normalizedSimilarity": 0.999301,
+      "localSectionSha256": "2e3a89dd483d924de53c0ff2fbb8e93f4baea4d4d68c4b8f452c0ab0fc59cf67",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 48,
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "hebrewComparisonSha256": "41258e863112dd0f97287a2bc9aacf7a7c5cea847d038727123e2c90e8dc0a6a",
+      "localBlockSha256": "49e580c0e150e724c538405dff47255e924a92230f7b647c32ac267a796c2bda",
+      "englishSha256": "f22cfe977810d7b6f9ba36df0520e3b6916b3136f97ce2933a7b1e9f33a42dc4",
+      "normalizedSimilarity": 0.999236,
+      "localSectionSha256": "0f7350b640bc36a720ee3b4bf4e27c9a0d145cfa91c8e6b5ae43687968b02fc6",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 52,
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "hebrewComparisonSha256": "8aec9fb793a09aa6f6a6592976d2daf9aa8550c0b1ace3b5b4333c278276baab",
+      "localBlockSha256": "49e580c0e150e724c538405dff47255e924a92230f7b647c32ac267a796c2bda",
+      "englishSha256": "fd84fd876185c28521aa87bbf067eb6f8c5c6d896b29bcfa594c0e1c602b4689",
+      "normalizedSimilarity": 0.997909,
+      "localSectionSha256": "6cdf897cbb350bcf1413f1055b079ed32e1b2ee490e4927dd7d64abc32d479e5",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 54,
+      "localCoordinate": [
+        4,
+        1
+      ],
+      "hebrewComparisonSha256": "79211bcb606c6e000725823b2c67a2398bb7a9a2bf09e2a066939fceea824fb7",
+      "localBlockSha256": "ea36b03196cc81b94a327a0a10b347fb6b64c7aae19ef5d93cb82821d074dfd0",
+      "englishSha256": "0aaf0ae68953c209b11191692448678988e41a046a5136b3aaa278dabad3ed32",
+      "normalizedSimilarity": 0.998768,
+      "localSectionSha256": "3199af4e76ff9814430fe8c3f9773eed7f70866c90db774216286c2dabab54c3",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 56,
+      "localCoordinate": [
+        4,
+        1
+      ],
+      "hebrewComparisonSha256": "089343727404984155c4bcb41c11adaa926d3d6afbb355c5add5457519ea8de6",
+      "localBlockSha256": "ea36b03196cc81b94a327a0a10b347fb6b64c7aae19ef5d93cb82821d074dfd0",
+      "englishSha256": "81310769dd6279de83b1b160108d0b2f7e59c0f0b9d8d960493ba4c50aa5c009",
+      "normalizedSimilarity": 0.977585,
+      "localSectionSha256": "1ebaf624b0fb37560afaf04caee687d176611c35f33313737d8ed04e54c52dd9",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 58,
+      "localCoordinate": [
+        4,
+        3
+      ],
+      "hebrewComparisonSha256": "21221c71ff4ec22aacd799ea74644210405e9daeff4218899fe0b2d003f03e0a",
+      "localBlockSha256": "10c751dc716d6bfa66e07127ef110299d3f2b3fac80eade3be5801c3ab28d6a1",
+      "englishSha256": "450a38c1636327b3de84574f3115f017805933de11567cb0700d0b45181f3cc1",
+      "normalizedSimilarity": 0.99723,
+      "localSectionSha256": "76e3be2b7b81205d772d13bc2a3a8a1e199b0b05ce935d2dc518dff529e48ea5",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 59,
+      "localCoordinate": [
+        4,
+        3
+      ],
+      "hebrewComparisonSha256": "69c6efdbdc5feb312b16b1bf315558726d25ba358ae2aa1c9dd09f97814b3cac",
+      "localBlockSha256": "10c751dc716d6bfa66e07127ef110299d3f2b3fac80eade3be5801c3ab28d6a1",
+      "englishSha256": "7df8bb8bd0eb39997f4a811fe4e293bfddb054b1538b49135654b823194cb0aa",
+      "normalizedSimilarity": 0.992701,
+      "localSectionSha256": "ba5b38be10d66a5fb634a200460adcc89c6714be5e33872bf0951daa10983d11",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 60,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "7d74d08e7f1a1620aa8b68b9323faf7f4b9f33377bf2972d24d8834d55d0f22c",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "5b95ca0e43f71dede8ed7d98fb9007afb9cb05ca7ea2fc98e4f05be9a578626c",
+      "normalizedSimilarity": 0.991935,
+      "localSectionSha256": "7deb0c177391c46cedcdf8504c3bcd4cd369da28f5097d34f58d64aeae00b275",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 68,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "86237cc87aee3b4f4a7ca4474feaf1f9d994ff46d2a0626d71bd386ad7352fc7",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "0d64d9739c736ac8d192939602cc44c62dcaede49f5dfb6078b8c2442f99dcdd",
+      "normalizedSimilarity": 0.993324,
+      "localSectionSha256": "eb818a860be592da043fbe1ace9e660f92f5c234b167ece8e07348647fdd8c83",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 69,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "0e79a8c9394da319de66a3a35f07c2357abfc4bf94352cc9ab71809f03e9f1f4",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "f45598d4f8f79bba728f905a9d43e470f4d4ff9072ddd4cdbe8926ae19def099",
+      "normalizedSimilarity": 0.995392,
+      "localSectionSha256": "237afe5a1db087d24f26cc1b86c50852e233a0b0de089f61f19a8a4e7c071127",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 70,
+      "localCoordinate": [
+        4,
+        5
+      ],
+      "hebrewComparisonSha256": "c2dd627abaafeedcc3b61a023efcacdc7ded66202e9cea918a05d49a166229c2",
+      "localBlockSha256": "6137e81723eb821d9b09cfb2b0e38acae8fc9a0b6cb4bc33187a5c7c82fa469c",
+      "englishSha256": "0169212e5b9c51b6e33a0daa8c659cfbf0ae1f21f02530cecfb60e6385014d1a",
+      "normalizedSimilarity": 0.994233,
+      "localSectionSha256": "81ce927c13b81aca65c998c8c297ee2c18221773f48f21b439d7d1e8d17b1167",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 72,
+      "localCoordinate": [
+        4,
+        8
+      ],
+      "hebrewComparisonSha256": "35393f60d46db6b2b0ba00caaedf26fc77a54c5b6bd001cc3a6c9b00a5191dcb",
+      "localBlockSha256": "f460cdf7f2ee4572eb46497b636235679a255ec0cd3c8f5e705be4ebdf47da46",
+      "englishSha256": "fc07cdfc9ae71a788380a294146f787ca5c7d140da7043310e4c2adf5bc0a48a",
+      "normalizedSimilarity": 0.994337,
+      "localSectionSha256": "4cc9195f61cdd6150cce0d97467964face8c3a15c37a5f42a49a616ef20269ca",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 76,
+      "localCoordinate": [
+        5,
+        1
+      ],
+      "hebrewComparisonSha256": "d646e833341234a49589e757855ca95d13e0dc7e3525416ac0b85124011dd493",
+      "localBlockSha256": "ca09647565f6a0d6b52faa1997a233a91cb990c99a0257b0afd547d87ccdc0f3",
+      "englishSha256": "e52a8a0c354a407d19e5d93cb4244c6514c7b4e538359d42a9d400b6c9ccd771",
+      "normalizedSimilarity": 0.996633,
+      "localSectionSha256": "2bab9fbca270e1d0b8002d6312d184e6dc725cd930d54fa8abd327cb64ab6b5d",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 78,
+      "localCoordinate": [
+        5,
+        1
+      ],
+      "hebrewComparisonSha256": "d11dc278b496de9863eaac7d5fa308440c149942c4c85b44a5cee11bf9ca8d37",
+      "localBlockSha256": "ca09647565f6a0d6b52faa1997a233a91cb990c99a0257b0afd547d87ccdc0f3",
+      "englishSha256": "557f10dd1ce01d2381acc627418d1526d442f90ca01fd742bca555b87f070e52",
+      "normalizedSimilarity": 0.997442,
+      "localSectionSha256": "e0d7618feadbf38256b90e2200aeeb1acd766152b8938f9e542bf3d3837e3502",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 79,
+      "localCoordinate": [
+        5,
+        1
+      ],
+      "hebrewComparisonSha256": "12c38aaa3be7902bfbd6731311daea07f6d546ffc81289e07c8b4444d13ca2b3",
+      "localBlockSha256": "ca09647565f6a0d6b52faa1997a233a91cb990c99a0257b0afd547d87ccdc0f3",
+      "englishSha256": "3d9642d89cf03b968e6d9c83820985073603b4caefdb99234fe8342c8b35b333",
+      "normalizedSimilarity": 0.987124,
+      "localSectionSha256": "f9c8108e16e3e38999c8004e2829673f720d8e068ffeb9bfeb6b88c3fc4814a9",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 80,
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "hebrewComparisonSha256": "7605a1fb06dc0c7341975905aa03c483b8677c15a7b6553eb7074b98372897f9",
+      "localBlockSha256": "68dc58da56485526a8f787b71c5c44ed3b162967f9abab136a86e5795fdcb36f",
+      "englishSha256": "34760eb0eb5a4334aa214ce0a58af86b5a952b9b379d455fb9d18bec386ee53a",
+      "normalizedSimilarity": 0.99641,
+      "localSectionSha256": "10fea7368a818f7b91587f823a5488265beddbadafda3feccc811a83aaf1013f",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 88,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "d01c544ad3d73600ba0e7f10b2b58780debfa0ab086be79ab961a273404182e2",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "301e4841589b40f696f9c28c287f5aa95ee708e4af53d4b1d73d8278c34c7f56",
+      "normalizedSimilarity": 0.999468,
+      "localSectionSha256": "f3567565b0035c48a616ed1a3a9f43b4fd9386c4944b4f859eb348fb98743174",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 92,
+      "localCoordinate": [
+        7,
+        1
+      ],
+      "hebrewComparisonSha256": "5d5979bbd99408762e7ff37a65e4c08c4d67ecb57d5b628d20fc8cbec0fda029",
+      "localBlockSha256": "f0f8c84984634792c5d1418772e4a8d94e9f75b24c5827acaea18f25dae8877e",
+      "englishSha256": "9ff3a8ced6443fcd2ffe0da7df7a0a38239131619c7ddb9424ebb97045ccd82f",
+      "normalizedSimilarity": 0.986444,
+      "localSectionSha256": "7151102fe755b8efe9c67b215d944b7a98c233e5b8593e682efd90e88964f611",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 96,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "06b05f473442adad19c21fa2259e5079dd851ec07cadc23e6e2dd4645e687ada",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "4c4030f530452bfd5326b12ab84b76091e1a764315ab2266dbd3126b42e27095",
+      "normalizedSimilarity": 0.999245,
+      "localSectionSha256": "fa41903e8cd58f364fc36e3acf67f8d1b4ddd1b98a56cec586a55e01ac3a16a9",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 99,
+      "localCoordinate": [
+        7,
+        3
+      ],
+      "hebrewComparisonSha256": "7a8bde927fb188e3048d187d79d11cf7a4d9481bd9c6f6dbc9cf0b06a903f128",
+      "localBlockSha256": "57dc0bcc1249f6e184cc1ff2caa0ae27fa117ab463ee58c8640a38f355f8316c",
+      "englishSha256": "cf6fab46f3cf202ee37aee6b01f540722ae57b18d6415ec4fd08c73ec4506d02",
+      "normalizedSimilarity": 1.0,
+      "localSectionSha256": "2ea9c1540419556aace7dc2125fe0d410afdd52f77747c423b982591f9c5728a",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 114,
+      "localCoordinate": [
+        8,
+        1
+      ],
+      "hebrewComparisonSha256": "254373cd7fa0d49fd5fd5c42477457f403a964f411a92c07cad00bec82bb4a23",
+      "localBlockSha256": "5c0fc49262354bd77d571fe32d6b52c9d074daa627ab4a52af473779342a52e2",
+      "englishSha256": "36ddd1f15822b869acb37f3d2f515d46f7730fd6d8147de7263c2590daba481a",
+      "normalizedSimilarity": 0.999022,
+      "localSectionSha256": "d8c1a4f7e2f71887ca08ed5385bd45f8eb9c12ac3f5a578b324c925ee147d7b4",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 123,
+      "localCoordinate": [
+        8,
+        4
+      ],
+      "hebrewComparisonSha256": "7a8bde927fb188e3048d187d79d11cf7a4d9481bd9c6f6dbc9cf0b06a903f128",
+      "localBlockSha256": "98edea4b4f31abad1d2eabf8d33c1a0b56139be7d90df689a7a5984b34e01e56",
+      "englishSha256": "cf6fab46f3cf202ee37aee6b01f540722ae57b18d6415ec4fd08c73ec4506d02",
+      "normalizedSimilarity": 1.0,
+      "localSectionSha256": "c8ec5299cdaff61d3809c885f551b46ef809425470d581dc8fc004e6d732bceb",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    },
+    {
+      "section": 124,
+      "localCoordinate": [
+        9,
+        1
+      ],
+      "hebrewComparisonSha256": "a1db988b6c342b8f7c4bb2f739ec63b3f04f549aaa275a3cbad87e263151b4d9",
+      "localBlockSha256": "2cc096a977f729057a88cdc445152e087645d5f9a58f359b139cb3018928e33e",
+      "englishSha256": "0e6a868fbe1498e73c109ec75a312e0c415a28c0968363533b115b3b87d8da6b",
+      "normalizedSimilarity": 0.999545,
+      "localSectionSha256": "8249a1c1cebb681b11e5c1919ee7ede8e8c5f2ef32a36a7c25c389679e7bde0e",
+      "basis": "Matching explicit section number and dialogue speaker; Hebrew wording has small spelling or editorial differences."
+    }
+  ],
+  "variantMethod": "Compared each explicit numbered Hebrew dialogue section with the same numbered provider Hebrew section, ignoring markup and non-Hebrew characters. Similarities >= 0.975 are recorded as variants; two cross-block sections were excluded.",
+  "splitSectionMatches": [
+    {
+      "section": 36,
+      "sourceParagraphs": [
+        1,
+        7
+      ],
+      "localCoordinate": [
+        1,
+        8
+      ],
+      "normalizedSimilarity": 0.996835,
+      "localBlockSha256": "14938e86530db5ec36ae72dda38d4dfc3874bc5acb611a37167e90d7382d3064",
+      "sourceHebrewSha256": "37e1ee732490000e3a5dd15a846a8aff7ff616def06d58a8ee271e8b300f14fc",
+      "sourceEnglishSha256": "54e036fe2e8cce7a5f5df72b72466c000d8597dc07e81af9b881cd9f0b7cd5cf"
+    },
+    {
+      "section": 36,
+      "sourceParagraphs": [
+        8,
+        11
+      ],
+      "localCoordinate": [
+        2,
+        1
+      ],
+      "normalizedSimilarity": 0.996991,
+      "localBlockSha256": "c20160805ea7cde8bbab7902826fe45504a52f92e5b572cd3c3042a684289e39",
+      "sourceHebrewSha256": "5fb38a9eb282e3e842be9db9dc42682c5ee1bf699cdc0beb0ef018c4c4c8d3ab",
+      "sourceEnglishSha256": "a5efa32ee8a681c3a3c5c27027f8cf1868cf64c70e3025af8da830f8e7ad36ae"
+    },
+    {
+      "section": 40,
+      "sourceParagraphs": [
+        1,
+        8
+      ],
+      "localCoordinate": [
+        2,
+        5
+      ],
+      "normalizedSimilarity": 0.99774,
+      "localBlockSha256": "ccdfb0e3a69018659a4aba29e3b1f3bc6c5ad0090f61b1a13cbfe2b1cbac334c",
+      "sourceHebrewSha256": "19b2e335a4d6c4b6c56a60536966666b84675b85bd72dd5b7a6d97fa0c0308be",
+      "sourceEnglishSha256": "6bc886e4c524479d9099a6749932c54366847b2257cd8572d2c7df1bf868e706"
+    },
+    {
+      "section": 40,
+      "sourceParagraphs": [
+        9,
+        15
+      ],
+      "localCoordinate": [
+        2,
+        7
+      ],
+      "normalizedSimilarity": 0.998564,
+      "localBlockSha256": "07773b292fe5a972e2bd19acb56c1c5202e6ac9b72c5b4a5ba1b280ab66f7d81",
+      "sourceHebrewSha256": "d846de28155530886311f03275d462ea2089411dac61b80905d2908f6bd6b05f",
+      "sourceEnglishSha256": "ac23fcfe8e536368536bfb1ed7cbc5cafe11be5e0dbe03268a89060779d91e50"
+    }
+  ],
+  "splitSectionMethod": "Source Hebrew and English paragraph counts match. Numbered sections 36 and 40 are divided at the same source paragraph boundaries as the local Hebrew blocks; each Hebrew portion has at least 0.995 normalized similarity.",
+  "additionalPartialMatch": {
+    "section": 156,
+    "sourceParagraph": 2,
+    "localCoordinate": [
+      11,
+      1
+    ],
+    "hebrewSectionSimilarity": 0.999106,
+    "sourceHebrewParagraphSha256": "117d1539951254ee8546d3cdf33a5a16f1bd917203382b16dc2e5822727ff01e",
+    "localBlockSha256": "06a86403f61134df1b82646bf1c2ff18fe395f1eb54aabfd9ef7ce2895cc4e9a",
+    "englishSha256": "b772dd2448a267fb9a6f9f0d5221c07fad7905dfc538cd58e9986aee73ef1c4a",
+    "limitation": "The English source provides only paragraph 2 of this section; the Hebrew reading block contains many other untranslated sections."
+  }
+}

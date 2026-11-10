@@ -1,0 +1,43 @@
+{
+  "source": "https://he.wikisource.org/wiki/מורה_נבוכים_(מקור)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Maimonides, Guide for the Perplexed, Judeo-Arabic original; Hebrew Wikisource contributors. See each page’s linked revision and history for attribution. Source edition described by Wikisource as Munk and Joel, Jerusalem 1931. Page histories: https://he.wikisource.org/w/index.php?title=%D7%9E%D7%95%D7%A8%D7%94_%D7%A0%D7%91%D7%95%D7%9B%D7%99%D7%9D_%28%D7%9E%D7%A7%D7%95%D7%A8%29/%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history ; https://he.wikisource.org/w/index.php?title=%D7%9E%D7%95%D7%A8%D7%94_%D7%A0%D7%91%D7%95%D7%9B%D7%99%D7%9D_%D7%97%D7%9C%D7%A7_%D7%92_%28%D7%9E%D7%A7%D7%95%D7%A8%29/%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history. License: https://creativecommons.org/licenses/by-sa/4.0/",
+  "changes": "Selected two incomplete/unproofread Wikisource page transcriptions; removed page notices and navigation, kept displayed text and diacritics, and split into two reading sections. No OCR or new translation.",
+  "pages": [
+    {
+      "chapter": 1,
+      "title": "מורה נבוכים (מקור)/הקדמה",
+      "revision": 1425760,
+      "revisionTimestamp": "2022-09-24T04:19:51Z",
+      "lastEditor": "Ayeleto",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%95%D7%A8%D7%94_%D7%A0%D7%91%D7%95%D7%9B%D7%99%D7%9D_%28%D7%9E%D7%A7%D7%95%D7%A8%29/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=1425760",
+      "contributorsHistory": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%95%D7%A8%D7%94_%D7%A0%D7%91%D7%95%D7%9B%D7%99%D7%9D_%28%D7%9E%D7%A7%D7%95%D7%A8%29/%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history",
+      "sourceWikitext": "Source/wikisource-1425760.wikitext",
+      "sourceWikitextSha256": "d18ae8d0344d7139fdafe9665b756880cac205cdc9c990f376a8bbca33294d62",
+      "retainedParagraphSha256": [
+        "7a83d8dde79dd19a1423d7f38f36513f10d4d82026e2fd28b521c111b0f856ff",
+        "d0922b2ef8042f5323ae3e2139cf1e291d77290abe8e1bce6060ea1ec8d00f2f",
+        "b3bb3dc787952b38faac5cd666e8cd7979327df61ad3b5b35779b58ec0a5a570"
+      ],
+      "status": "Wikisource labels page unproofread; first is explicitly incomplete. Extracted displayed paragraphs and preserved punctuation/diacritics."
+    },
+    {
+      "chapter": 2,
+      "title": "מורה נבוכים חלק ג (מקור)/הקדמה",
+      "revision": 995761,
+      "revisionTimestamp": "2020-10-31T01:24:20Z",
+      "lastEditor": "זורח א",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%95%D7%A8%D7%94_%D7%A0%D7%91%D7%95%D7%9B%D7%99%D7%9D_%D7%97%D7%9C%D7%A7_%D7%92_%28%D7%9E%D7%A7%D7%95%D7%A8%29/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=995761",
+      "contributorsHistory": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%95%D7%A8%D7%94_%D7%A0%D7%91%D7%95%D7%9B%D7%99%D7%9D_%D7%97%D7%9C%D7%A7_%D7%92_%28%D7%9E%D7%A7%D7%95%D7%A8%29/%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history",
+      "sourceWikitext": "Source/wikisource-995761.wikitext",
+      "sourceWikitextSha256": "85d14b686cc5421164a36f39d73f814d67c79a479fda542aad291974c580c4d0",
+      "retainedParagraphSha256": [
+        "ce38770cd5b5ef54da5fed26c0ed0a07ca68d1fc8ad1f633d0b58293997c772a",
+        "ccc969409a5a846956561912b9339a66193b946075ffe721c7ff203997ccbf1a"
+      ],
+      "status": "Wikisource labels page unproofread; first is explicitly incomplete. Extracted displayed paragraphs and preserved punctuation/diacritics."
+    }
+  ],
+  "scope": "Two partial, unproofread Wikisource pages; no assertion of complete work, independent textual proofreading, or jurisdiction-wide copyright certification."
+}

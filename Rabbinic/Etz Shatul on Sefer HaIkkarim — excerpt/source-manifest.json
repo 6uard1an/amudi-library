@@ -1,0 +1,18 @@
+{
+  "title": "Etz Shatul on Sefer HaIkkarim",
+  "source": "https://he.wikisource.org/wiki/%D7%91%D7%99%D7%90%D7%95%D7%A8%3A%D7%90%D7%9E%D7%95%D7%A0%D7%94%20%D7%98%D7%94%D7%95%D7%A8%D7%94/%D7%94%D7%A9%D7%A2%D7%A8%20%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%3A%20%D7%A2%D7%99%D7%A7%D7%A8%D7%99%20%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94",
+  "sourceRevision": "https://he.wikisource.org/w/index.php?oldid=2886395",
+  "history": "https://he.wikisource.org/w/index.php?title=%D7%91%D7%99%D7%90%D7%95%D7%A8%3A%D7%90%D7%9E%D7%95%D7%A0%D7%94%20%D7%98%D7%94%D7%95%D7%A8%D7%94/%D7%94%D7%A9%D7%A2%D7%A8%20%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%3A%20%D7%A2%D7%99%D7%A7%D7%A8%D7%99%20%D7%94%D7%90%D7%9E%D7%95%D7%A0%D7%94&action=history",
+  "sourceRevisionId": 2886395,
+  "snapshot": "Amudi/data/rights/etz-shatul-excerpt-review-20261103/wikisource-api-snapshot.json",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Gedaliah Lipschitz, Etz Shatul; excerpt quoted by Hebrew Wikisource contributors, including אביגדור אמיתי; see source page history for all contributors.",
+  "changes": "Extracted the attributed quotation, retaining its bracketed editorial addition, and linked it to the matching Sefer HaIkkarim passage. No OCR or translation performed.",
+  "scope": "One Hebrew quotation from Maamar 1 chapter 3 only; the rest of the commentary and an English translation remain unavailable in this excerpt.",
+  "provenanceLimit": "An indirect quotation attributed to Etz Shatul; no independent comparison with the 1618 printed edition was performed. The page was moved; earlier contribution history may exist under its former title.",
+  "baseAlignment": "Maamar 1 chapter 3 paragraph 5; local section 184 position 20, exact match to saved Sefaria source.",
+  "responseSha256": "d441bcb4e3a7c8bcd0c99fd92ed7808ca7e4361cd23abab8449e692e5b7b0bfd",
+  "savedSnapshotSha256": "8e26cb1c6dc511416128fac9afe00ee52eaace08bdfd69afd3456bbb02a71271",
+  "runtimeOfflineTest": "Amudi/scripts/test-etz-shatul-offline-20261103.cjs"
+}

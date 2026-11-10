@@ -1,0 +1,98 @@
+{
+  "source": "https://cris.unibo.it/retrieve/e1dcb336-8937-7715-e053-1705fe0a6cc9/Abate_Sef_76_2016.pdf",
+  "doi": "https://doi.org/10.3989/sefarad.016.010",
+  "pdfSha256": "879b895175ffdc93f70fc7a2c7f8ea33b5f6abd9db91497cb5420c7660d8ef43",
+  "sourcePdfPage": 10,
+  "printedPage": 298,
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseEvidence": "https://sefarad.revistas.csic.es/index.php/sefarad/article/view/737",
+  "crossrefResponseSha256": "8e9bdc1f8486ba62f30febcafa203b44da976a4f0531e916627dcf8e9cbadeb4",
+  "attribution": "Elijah Levita, original texts; selected original-language quotations and English renderings as presented by Emma Abate, “Elias Levita the Lexicographer and the Legacy of Sefer ha-Shorashim,” Sefarad 76:2 (2016), pp. 289–311, https://doi.org/10.3989/sefarad.016.010. Copyright © 2016 CSIC. CC BY 4.0: https://creativecommons.org/licenses/by/4.0/ Original PDF notice: CC BY 3.0 Spain: https://creativecommons.org/licenses/by/3.0/es/ Source: https://sefarad.revistas.csic.es/index.php/sefarad/article/view/737. First English selection closely follows Christian D. Ginsburg, The Massoreth ha-Massoreth of Elias Levita (London, 1867), pp. 96–97, with the article’s abridgment and wording changes; this comparison does not assign the other English selections to Ginsburg.",
+  "changes": "Selected excerpts from the article’s embedded PDF text, normalized line breaks and PDF soft hyphens, and corrected reversed Hebrew punctuation; original omissions retained. No OCR and no new translation. Added the article’s Hebrew footnotes 61 and 62 and corresponding partial English quotations from printed page 308. No OCR or new translation. A 2026-11-05 publisher-copy comparison repaired documented extraction order, omitted words and punctuation; no OCR or new translation.",
+  "scope": "Three separate Hebrew selections from the 1538 introduction, with partial English quotations as presented in Abate’s article. Intervening text is omitted; this is not a complete edition. The first English selection closely follows Ginsburg 1867, pp. 96–97, with article wording changes. The other two are credited as renderings presented by Abate, not assigned to Ginsburg.",
+  "verification": "Compared embedded text with the rendered article pages; English excerpts are partial. No OCR.",
+  "sourcePdfPages": [
+    10,
+    20
+  ],
+  "printedPages": [
+    298,
+    308
+  ],
+  "additionalLicenseNotice": {
+    "license": "CC BY 3.0 Spain",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/es/",
+    "noticeEvidence": "https://sefarad.revistas.csic.es/index.php/sefarad/article/download/737/841/1346",
+    "description": "Printed copyright/license notice on page 1 of the publisher PDF; visually inspected."
+  },
+  "licenseVersionReview": "Publisher article page explicitly grants CC BY 4.0 for this article. The publisher PDF also retains its earlier CC BY 3.0 Spain notice; both notices are preserved. Existing excerpts were checked against this published copy, rather than relying only on Crossref metadata.",
+  "copyrightNotice": "Copyright © 2016 CSIC",
+  "publisherCopyEvidence": {
+    "file": "publisher-source-evidence.json",
+    "publisherPdfSha256": "677cbdb8b3f11be96d6cd5c4c2a5d0a84d7ba806c56c5ee1431dc0560943b321"
+  },
+  "currentPublishedSourceUrl": "https://sefarad.revistas.csic.es/index.php/sefarad/article/download/737/841/1346",
+  "currentReadingFiles": [
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "English/1.json",
+      "sha256": "b41829caaf891e9da763b04f9d0afe7a425616a6d0ea8b5bcce85d7667e95b92",
+      "publisherPdfPages": [
+        10
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "English/2.json",
+      "sha256": "d96ab54d01cd2d37aaeef7526c03a10a3135c62dfa24bf6c4085a1a644d5299e",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "English/3.json",
+      "sha256": "293aa78d9f1f710490e8b6d7c7b1154252ebec10588ef46b431eaaeb9af7aaef",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "Original/1.json",
+      "sha256": "f6f1dd3cdd3a24cda88130b0962095ac224c64b1e7119c68c0b8fe378e7bb164",
+      "publisherPdfPages": [
+        10
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "Original/2.json",
+      "sha256": "2a2f8754f9da5b71832a795249f6ada2fb1bafcb8379659e10ecf08ddee0ac75",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "Original/3.json",
+      "sha256": "c538968bb9166fd847036e332abf8a1a8f264eb17bfa0467e5b12b1ab123a642",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    }
+  ]
+}

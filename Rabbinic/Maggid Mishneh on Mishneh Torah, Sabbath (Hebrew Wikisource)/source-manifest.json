@@ -1,0 +1,1292 @@
+{
+  "title": "Maggid Mishneh on Mishneh Torah, Sabbath — Hebrew Wikisource edition",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Maggid Mishneh by Vidal of Tolosa; Hebrew Wikisource contributors. Revision permalinks and contributor histories for each chapter are in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Removed navigation and edit controls, converted the source paragraphs to plain text, and grouped them by the source halakhah headings. Source ranges remain labeled; no OCR or new translation. Adaptations are offered under CC BY-SA 4.0.",
+  "scope": "Revision-pinned typed chapters 1–10 only; this edition is partial. Source-heading ranges are labeled, and source order is preserved.",
+  "sourcePages": [
+    {
+      "chapter": 1,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק א",
+      "revision": 957014,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=957014",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%90&action=history",
+      "sourceSha256": "46ed2b5ccf2e1ffd4d6f5399bdd04c070fb0a62a8fb23c4a7454e04e5bc5665e",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יט",
+          "start": 19,
+          "end": 19,
+          "paragraphs": 1
+        }
+      ],
+      "sourceParagraphs": 31,
+      "retainedCommentaryGroups": 18,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-1-parse.json",
+      "sourceSnapshotSha256": "46ed2b5ccf2e1ffd4d6f5399bdd04c070fb0a62a8fb23c4a7454e04e5bc5665e"
+    },
+    {
+      "chapter": 2,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ב",
+      "revision": 957017,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=957017",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%91&action=history",
+      "sourceSha256": "32c10478033cf1ad25c64d151256d56a96d03f6d39b558bb2248dc17bd345e82",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "paragraphs": 5
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "paragraphs": 5
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יט",
+          "start": 19,
+          "end": 19,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה כ",
+          "start": 20,
+          "end": 20,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כב",
+          "start": 22,
+          "end": 22,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה כג",
+          "start": 23,
+          "end": 23,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה כד",
+          "start": 24,
+          "end": 24,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה כה",
+          "start": 25,
+          "end": 25,
+          "paragraphs": 1
+        }
+      ],
+      "sourceParagraphs": 57,
+      "retainedCommentaryGroups": 24,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-2-parse.json",
+      "sourceSnapshotSha256": "32c10478033cf1ad25c64d151256d56a96d03f6d39b558bb2248dc17bd345e82"
+    },
+    {
+      "chapter": 3,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ג",
+      "revision": 957322,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=957322",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%92&action=history",
+      "sourceSha256": "ae83ec551db5eab2abe89e805f42af94f132d08b1fcf25605d97ce61b908aa2c",
+      "sourceHeadings": [
+        {
+          "title": "הלכות א-ב",
+          "start": 1,
+          "end": 2,
+          "paragraphs": 8
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יט",
+          "start": 19,
+          "end": 19,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה כ",
+          "start": 20,
+          "end": 20,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כא",
+          "start": 21,
+          "end": 21,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כב",
+          "start": 22,
+          "end": 22,
+          "paragraphs": 1
+        }
+      ],
+      "sourceParagraphs": 40,
+      "retainedCommentaryGroups": 21,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-3-parse.json",
+      "sourceSnapshotSha256": "ae83ec551db5eab2abe89e805f42af94f132d08b1fcf25605d97ce61b908aa2c"
+    },
+    {
+      "chapter": 4,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ד",
+      "revision": 957323,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=957323",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%93&action=history",
+      "sourceSha256": "2f9dfdbb1ca42f4bc652c2724ece6235bdcbb63a4952102122ca4e0b94b3be6b",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 3
+        }
+      ],
+      "sourceParagraphs": 12,
+      "retainedCommentaryGroups": 6,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-4-parse.json",
+      "sourceSnapshotSha256": "2f9dfdbb1ca42f4bc652c2724ece6235bdcbb63a4952102122ca4e0b94b3be6b"
+    },
+    {
+      "chapter": 5,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ה",
+      "revision": 957358,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=957358",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%94&action=history",
+      "sourceSha256": "d3813fb3bd559d4e26b4dd7d7438c6c0ff6b9d52ae64eb9e76a266f0a30dd8b4",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יט",
+          "start": 19,
+          "end": 19,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כ",
+          "start": 20,
+          "end": 20,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כא",
+          "start": 21,
+          "end": 21,
+          "paragraphs": 2
+        }
+      ],
+      "sourceParagraphs": 43,
+      "retainedCommentaryGroups": 21,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-5-parse.json",
+      "sourceSnapshotSha256": "d3813fb3bd559d4e26b4dd7d7438c6c0ff6b9d52ae64eb9e76a266f0a30dd8b4"
+    },
+    {
+      "chapter": 6,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ו",
+      "revision": 957363,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=957363",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%95&action=history",
+      "sourceSha256": "8a4eb01052b8f00911cd5a2b6233a7a2a67d0d9f135230083f957fc5da6acae1",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יט",
+          "start": 19,
+          "end": 19,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה כ",
+          "start": 20,
+          "end": 20,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כא",
+          "start": 21,
+          "end": 21,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה כב",
+          "start": 22,
+          "end": 22,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה כג",
+          "start": 23,
+          "end": 23,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כד",
+          "start": 24,
+          "end": 24,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כה",
+          "start": 25,
+          "end": 25,
+          "paragraphs": 1
+        }
+      ],
+      "sourceParagraphs": 30,
+      "retainedCommentaryGroups": 23,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-6-parse.json",
+      "sourceSnapshotSha256": "8a4eb01052b8f00911cd5a2b6233a7a2a67d0d9f135230083f957fc5da6acae1"
+    },
+    {
+      "chapter": 7,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ז",
+      "revision": 1036922,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=1036922",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%96&action=history",
+      "sourceSha256": "9760a3bfdb45abd88c27a5d2af57a01cc800eb8bb402f7cdba64c8b00f2d944d",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 1
+        }
+      ],
+      "sourceParagraphs": 11,
+      "retainedCommentaryGroups": 8,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-7-parse.json",
+      "sourceSnapshotSha256": "9760a3bfdb45abd88c27a5d2af57a01cc800eb8bb402f7cdba64c8b00f2d944d"
+    },
+    {
+      "chapter": 8,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ח",
+      "revision": 2930735,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=2930735",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%97&action=history",
+      "sourceSha256": "c66500c3f8ef58377136e89cea833f23fb0329ea9b36c1964c6503539815fc8a",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 5
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 5
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 5
+        }
+      ],
+      "sourceParagraphs": 51,
+      "retainedCommentaryGroups": 16,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-8-parse.json",
+      "sourceSnapshotSha256": "c66500c3f8ef58377136e89cea833f23fb0329ea9b36c1964c6503539815fc8a"
+    },
+    {
+      "chapter": 9,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ט",
+      "revision": 1053868,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=1053868",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%98&action=history",
+      "sourceSha256": "775422bd0b8c947a0f2c9f33e274a16e941a22a7768153d55b5d401e85002cbc",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה  יט-כ",
+          "start": 19,
+          "end": 20,
+          "paragraphs": 2
+        }
+      ],
+      "sourceParagraphs": 39,
+      "retainedCommentaryGroups": 19,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-9-parse.json",
+      "sourceSnapshotSha256": "775422bd0b8c947a0f2c9f33e274a16e941a22a7768153d55b5d401e85002cbc"
+    },
+    {
+      "chapter": 10,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק י",
+      "revision": 1053872,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=1053872",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%99&action=history",
+      "sourceSha256": "3df8ce2530d45f74023bc8cc1fba26d1578bb61ff2f9cfa56012894995fec66b",
+      "sourceHeadings": [
+        {
+          "title": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "paragraphs": 5
+        },
+        {
+          "title": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה ח-ט",
+          "start": 8,
+          "end": 9,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "paragraphs": 5
+        },
+        {
+          "title": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "paragraphs": 3
+        },
+        {
+          "title": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה יט",
+          "start": 19,
+          "end": 19,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כ",
+          "start": 20,
+          "end": 20,
+          "paragraphs": 1
+        },
+        {
+          "title": "הלכה כא-כב",
+          "start": 21,
+          "end": 22,
+          "paragraphs": 2
+        },
+        {
+          "title": "הלכה כג",
+          "start": 23,
+          "end": 23,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה כד",
+          "start": 24,
+          "end": 24,
+          "paragraphs": 4
+        },
+        {
+          "title": "הלכה כה",
+          "start": 25,
+          "end": 25,
+          "paragraphs": 1
+        }
+      ],
+      "sourceParagraphs": 52,
+      "retainedCommentaryGroups": 22,
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-sabbath-wikisource-20261107/chapter-10-parse.json",
+      "sourceSnapshotSha256": "3df8ce2530d45f74023bc8cc1fba26d1578bb61ff2f9cfa56012894995fec66b"
+    }
+  ],
+  "licenseMetadataSha256": "ea660c83dcec70ccfe30e61bd0a1a2ef6fd2f6594ccc80ddcdef979fe3e09573",
+  "partialWork": true,
+  "pages": [
+    {
+      "chapter": 1,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=957014",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%90&action=history"
+    },
+    {
+      "chapter": 2,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ב",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=957017",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%91&action=history"
+    },
+    {
+      "chapter": 3,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=957322",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%92&action=history"
+    },
+    {
+      "chapter": 4,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=957323",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%93&action=history"
+    },
+    {
+      "chapter": 5,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=957358",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%94&action=history"
+    },
+    {
+      "chapter": 6,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=957363",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%95&action=history"
+    },
+    {
+      "chapter": 7,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1036922",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%96&action=history"
+    },
+    {
+      "chapter": 8,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2930735",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%97&action=history"
+    },
+    {
+      "chapter": 9,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק ט",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1053868",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%98&action=history"
+    },
+    {
+      "chapter": 10,
+      "sourceTitle": "מגיד משנה/הלכות שבת/פרק י",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=1053872",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7%20%D7%99&action=history"
+    }
+  ]
+}

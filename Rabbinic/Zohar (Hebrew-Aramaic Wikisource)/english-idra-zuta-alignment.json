@@ -1,0 +1,2382 @@
+{
+  "basePath": "Rabbinic/Zohar (Hebrew-Aramaic Wikisource)",
+  "sourceBookPath": "Rabbinic/Idra Zuta",
+  "englishSource": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Idra Zuta/English/Idra Zuta, The Small Gathering, trans. Michal Ricardo.json",
+  "englishExportSha256": "181b1fe37d9becb639a6572a57eaf11602b508e6de5d031710ade9d28cfca998",
+  "englishVersionTitle": "Idra Zuta, The Small Gathering, trans. Michal Ricardo",
+  "englishLicenseAsRecorded": "CC-BY",
+  "englishLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "licenseVersionEvidence": {
+    "review": "Amudi/data/rights/beit-midrash-attribution-license-url-resolution-20261030.json",
+    "sourceSnapshotPath": "Amudi/data/rights/library-attribution-license-resolution-cache-20261030/export-ac0dd7638a78b11bc3db0218.txt",
+    "currentVersionsApi": "https://www.sefaria.org/api/texts/versions/Idra%20Zuta",
+    "currentVersionsApiSha256": "54440f7698e2ba73bf909e3d964669c33a20d84abd7730cc16348e5fc510ea57",
+    "providerMapCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+    "providerSourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+    "resolvedLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "basis": "Exact exported work/version/language/raw-license declaration independently matches current versions API; the provider's actual About-version UI links this raw license code to the specified 3.0 terms."
+  },
+  "attribution": "Idra Zuta, The Small Gathering, translated by Michal Ricardo; vitaltransformation.org; via Sefaria Export.",
+  "comparisonAramaicSource": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Idra%20Zuta/Hebrew/Zohar%20Sulam%20Aramaic%20Text.json",
+  "comparisonAramaicSha256": "f7899e476da5d8a394dbc1f64d20ab94d86d1b5739d7d314ffdf779b2e79fddc",
+  "comparisonAramaicLicense": "unknown",
+  "comparisonUse": "Used for matching only; this comparison edition is not included.",
+  "originalEditionLicense": "CC BY-SA 4.0",
+  "originalSourceManifest": "source-manifest.json",
+  "method": "Normalized Aramaic correspondence of at least 97% and a unique 10-point margin, in source order. Passage 1 uses adjacent blocks; passage 10 was resolved by local wording and neighboring source order. Remaining passages were checked against their ordered neighboring blocks, including spans across adjacent blocks.",
+  "matches": [
+    {
+      "sourcePassage": 1,
+      "localCoordinate": [
+        316,
+        13
+      ],
+      "throughBlock": 14,
+      "englishSha256": "7b066c9eed9ec77e2b591333a7e18e1236320d7f9f5ef93b66739b07e4e65a7c",
+      "comparisonAramaicSha256": "ea17a9346244db20832450acd5ecd0a7b462f2f675ad2c6ab1537b2f71b79949",
+      "localBlockSha256": "9bb6ba1125c6f620735c943731bb661b272b10a385a6d4e4ef1c86d2ef04d5b5",
+      "coverage": 0.983221,
+      "basis": "Source passage spans local blocks 13–14."
+    },
+    {
+      "sourcePassage": 2,
+      "localCoordinate": [
+        316,
+        14
+      ],
+      "throughBlock": null,
+      "englishSha256": "13f362e25229000e3a0baa05305d3c674871da28d3a68d12f35d3b85e926312f",
+      "comparisonAramaicSha256": "51c00ab65a05f543a69b9fd80a35503f247b26a197bb196d778ca74f2cd06fe2",
+      "localBlockSha256": "b50754dd248f9883a31973b3f4f91a71a26b566fdb99f65876e9f24ea7f59324",
+      "coverage": 0.989011,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 3,
+      "localCoordinate": [
+        316,
+        15
+      ],
+      "throughBlock": null,
+      "englishSha256": "1b8523417d306d971ab8a3ca6c32c8aa9da71107b22dbed2914d4f0f5e180d66",
+      "comparisonAramaicSha256": "ea4b9fab6757176a2ae838b976a814b69df2223fea3b1ce304ef7c01935828b3",
+      "localBlockSha256": "f02eb6cd50df80f016bf6fbb5fd3c8d682f056eeecf2eed41b9faa03bf3d9f90",
+      "coverage": 0.974638,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 4,
+      "localCoordinate": [
+        316,
+        16
+      ],
+      "throughBlock": null,
+      "englishSha256": "2fab72cc969c0e70860677d2f3877aff17157cee51e9d1bdc4bee87cd4a6002f",
+      "comparisonAramaicSha256": "1c1ea391426f86b5f41d140afac087bcc1a7abd7922b50e3f906ebe16fa39ff9",
+      "localBlockSha256": "62ed026bc8def6898391458f2ed6edf907b3d90034dd918efdbfe4eb66344053",
+      "coverage": 0.976331,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 5,
+      "localCoordinate": [
+        316,
+        16
+      ],
+      "throughBlock": null,
+      "englishSha256": "ff5b0fac47a2068f236cff3f8b59a80850319cb865aa5befde05d556ec4c8de4",
+      "comparisonAramaicSha256": "11d6f1c275f29d19f2657feebbb132efba1b184c883fe082bc9ec8a8f405afb0",
+      "localBlockSha256": "62ed026bc8def6898391458f2ed6edf907b3d90034dd918efdbfe4eb66344053",
+      "coverage": 0.992806,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 6,
+      "localCoordinate": [
+        316,
+        17
+      ],
+      "throughBlock": null,
+      "englishSha256": "4f38d28f879ae659a3c96f6697ee0ae909b3067a6f08d3acb755f346609b1ad9",
+      "comparisonAramaicSha256": "31d9a968e1edca72905b0a3eb6d5b63a37077365b8e92fa9f138e2249a3a0ed7",
+      "localBlockSha256": "feb9ddcecc701c5648e914e30cfac17c8645a92c8fa0a8a1af0752a4e8b64ee1",
+      "coverage": 0.991736,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 7,
+      "localCoordinate": [
+        316,
+        18
+      ],
+      "throughBlock": null,
+      "englishSha256": "a441effe04b593d8daff001a66fcd300da75567d98b29c329aed96c538014abb",
+      "comparisonAramaicSha256": "b3e8a504a12b799a62f7d5e682328c69dedc3a4c572f8aeb29d79655e7b4fd4e",
+      "localBlockSha256": "f0ea10b316d5f1e9ddbc2dee3e0362c3baef42c1d6ccf2941b6a93bb88ea2b61",
+      "coverage": 0.993631,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 8,
+      "localCoordinate": [
+        316,
+        19
+      ],
+      "throughBlock": null,
+      "englishSha256": "b7f62994526144a5799ed316a91b741eb86e3b63cfeecea82c90977c77fc6e12",
+      "comparisonAramaicSha256": "336c7edfd5723742f5fa86066f82808ade583548f59a9ffe9bb49537cfd0770e",
+      "localBlockSha256": "8695f3c903a2d83a77090ab7d0b0cd0e3f8ae5fdb9ac39f999b9a5d97e012aaa",
+      "coverage": 0.997085,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 9,
+      "localCoordinate": [
+        316,
+        20
+      ],
+      "throughBlock": null,
+      "englishSha256": "2e092ad09f6c89dcfbc532d6e22ecdc4916de7fecadcac6ff5d85154195c5084",
+      "comparisonAramaicSha256": "36e1733b1157c7e0f395232e5d84fe7f42b1fda3a2a90227d3247353c241d26c",
+      "localBlockSha256": "d2d074ed7f731a55b3ef9403c08a41bf1a7d846a89bca4c9ecad9735590d465e",
+      "coverage": 0.99095,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 10,
+      "localCoordinate": [
+        316,
+        21
+      ],
+      "throughBlock": null,
+      "englishSha256": "e038564d724f0df6eca31aa343359f78f4272c118203319840ab19ed7c31aca1",
+      "comparisonAramaicSha256": "6e800474c3c7d26bf4138e666b129c06fa5c59ed845073857b40e0fba7f017be",
+      "localBlockSha256": "18d7cdfdd0cb21470afe60f0c2dbecf3f9e6c83d36a08594610b0c2b88ec04e4",
+      "coverage": 0.975,
+      "basis": "Local wording and source order identify this position between passages 9 and 11."
+    },
+    {
+      "sourcePassage": 11,
+      "localCoordinate": [
+        316,
+        22
+      ],
+      "throughBlock": null,
+      "englishSha256": "7aa6f2cc94efad7bb2ffe4b615d77247da72ed287d3f13843970076f6a61fa09",
+      "comparisonAramaicSha256": "40cbc46e7174cad9f28c934f740de01da03887bdc89e7e7827fbbe305b1307a7",
+      "localBlockSha256": "cfbaa4934f2bcef822e090321f7d9c52713cbc8ec242dbd61a83b56e4377d581",
+      "coverage": 0.993103,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 12,
+      "localCoordinate": [
+        316,
+        23
+      ],
+      "throughBlock": null,
+      "englishSha256": "76f426c7ebdef3923be847e8f65105e948628a38148898b5b6d26f288d407508",
+      "comparisonAramaicSha256": "1692df7842471b5c0163e6b7273fdc4ecdde75d47b91d65d5fd7ef71136d39dc",
+      "localBlockSha256": "a9493929ffe979da28b0c2f9ac9a9119d236d180085c8511e64b74424ef41bf4",
+      "coverage": 0.99177,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 13,
+      "localCoordinate": [
+        316,
+        24
+      ],
+      "throughBlock": null,
+      "englishSha256": "33408b1c7e8a783ca8596c4084acd14a3d551c0bc87fb7b54a3df72193f3909c",
+      "comparisonAramaicSha256": "20fed186f9092d4b613191cb3515efc19819e584beff6aefb39ab332f24e0354",
+      "localBlockSha256": "c6923d1b219521e907190318107d24e9c55f0f4ca9872d8a67de96c0625fa5fb",
+      "coverage": 0.993289,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 14,
+      "localCoordinate": [
+        316,
+        24
+      ],
+      "throughBlock": null,
+      "englishSha256": "a1c69740712a35cc834408a8f7585ebe7ad3b2bef4858872d78f9c7c70a869f9",
+      "comparisonAramaicSha256": "8175670f932947e831f54c980caf3ddea5aee42871fbcecc6f775470eb23eb52",
+      "localBlockSha256": "c6923d1b219521e907190318107d24e9c55f0f4ca9872d8a67de96c0625fa5fb",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 15,
+      "localCoordinate": [
+        316,
+        24
+      ],
+      "throughBlock": null,
+      "englishSha256": "cb41c549dd7cebcf17e8522fc0690ba048902725961ed6c089594f6328809cba",
+      "comparisonAramaicSha256": "1ca304b170a55651e38a456a4b679283c9cdca57d5a059f43a36636aeab3d8b7",
+      "localBlockSha256": "c6923d1b219521e907190318107d24e9c55f0f4ca9872d8a67de96c0625fa5fb",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 16,
+      "localCoordinate": [
+        316,
+        25
+      ],
+      "throughBlock": null,
+      "englishSha256": "1e28fe40b910b269ea5096e9ac4ea700a39249e6b47301aef91305222c67dbb7",
+      "comparisonAramaicSha256": "e9ee9e5076d5acb1f18948d489f569b7174fc0614e4af9d4265afa1bd0424a65",
+      "localBlockSha256": "d78d5887e14fc6cf0137604b717027a2df90910e53cb2cf4ccc3d052183dc1ee",
+      "coverage": 0.981481,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 17,
+      "localCoordinate": [
+        316,
+        25
+      ],
+      "throughBlock": null,
+      "englishSha256": "58c3eb55a029bcfbc67ff2bbaa920b3f280a2f941ccde0a36c27c8a82e005b08",
+      "comparisonAramaicSha256": "b69e34526d2010270b27fe4af93963938adeb3a395a6c4401179f200bc936c80",
+      "localBlockSha256": "d78d5887e14fc6cf0137604b717027a2df90910e53cb2cf4ccc3d052183dc1ee",
+      "coverage": 0.993421,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 18,
+      "localCoordinate": [
+        316,
+        26
+      ],
+      "throughBlock": null,
+      "englishSha256": "8c8634afbe8c6166ede7a4f3860cb6d010b32841f39ae94830817d02f75eda2c",
+      "comparisonAramaicSha256": "68eafc3fd58a735902c6568780b218ed1493e95d7b5fdded49598105800f2cfb",
+      "localBlockSha256": "761e352a487fca84159ffa2b7c0b2b00ecfdf8de324bfc91ee7dbf791c0b3da6",
+      "coverage": 0.993464,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 19,
+      "localCoordinate": [
+        316,
+        27
+      ],
+      "throughBlock": null,
+      "englishSha256": "bfcf154a6cbd85a3cada1ad67870d6c1b32a5f8fe655858a5cd7c08b44865407",
+      "comparisonAramaicSha256": "d04f5914babe3513db79c5ea049510383c2987d21c8311d4197d5cd2bd63ca08",
+      "localBlockSha256": "e25b2ccd3a0342122c006550515cdf38da08229ed4de688e20505cef2f705c58",
+      "coverage": 0.983607,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 20,
+      "localCoordinate": [
+        316,
+        27
+      ],
+      "throughBlock": null,
+      "englishSha256": "09d587fbd6c699ce9f9d558ffef0dd9d589c0bc2a1a619ca912064e357be39bf",
+      "comparisonAramaicSha256": "b962aaaec089af44fc66c35e875c4cd6f1afb892814f933f713c9dcfa72128dc",
+      "localBlockSha256": "e25b2ccd3a0342122c006550515cdf38da08229ed4de688e20505cef2f705c58",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 21,
+      "localCoordinate": [
+        317,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "f4e009db2f984fad97cfb5fd3d3c5d007d787a771c81a3e371631aaae59acec9",
+      "comparisonAramaicSha256": "91b02c7f1d08ccaf8e0a7b5a1e71db93e4fbcfb7e2496843ae8fb3a522eaaa29",
+      "localBlockSha256": "bc124c394819c4b6858c2ebbcf54f874505d7fcaeec76b51a13b95a5982b4ab5",
+      "coverage": 0.987013,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 22,
+      "localCoordinate": [
+        317,
+        2
+      ],
+      "throughBlock": null,
+      "englishSha256": "8e5d48e955c95bfa2054f3009d7767d05f5ff6ecd773cf9481cf7cf87d62cc63",
+      "comparisonAramaicSha256": "269cb3ec1cd4d0bef81f0e180f1668a7ee912f4cbbb5cce2b602f72fa53f7e62",
+      "localBlockSha256": "1d8c589e3af089566a90480b040826062407f74355d53532668cef2638ff76d1",
+      "coverage": 0.98374,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 23,
+      "localCoordinate": [
+        317,
+        3
+      ],
+      "throughBlock": null,
+      "englishSha256": "6fd6d3c08bd012b499956035365d046f493ca4fbf3db96d1fe05ba76f4618f0b",
+      "comparisonAramaicSha256": "95f866bd71cc54dbed4c3798408dbbcaf86761dc4d1daa860e98b3b3b320ac70",
+      "localBlockSha256": "81240d87ca4ee9ad693880fa745f3dbeac4dd9453a53fd9134013388cc177f2e",
+      "coverage": 0.989583,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 24,
+      "localCoordinate": [
+        317,
+        4
+      ],
+      "throughBlock": null,
+      "englishSha256": "54f5aa45bc1c3f911831a11b75aa880a95f7881a44ee74f3a2d9c29c862eaccd",
+      "comparisonAramaicSha256": "cf07109323bc9de255d228edd974df7a94ac4c03814c5c5b09bdd5fffe55a1f7",
+      "localBlockSha256": "c4c8eadc75f607618d294f87ddd06be62602dc105d8f414379aae04f886dd45b",
+      "coverage": 0.983051,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 25,
+      "localCoordinate": [
+        317,
+        5
+      ],
+      "throughBlock": null,
+      "englishSha256": "370873a66bb9dd234ae003cad764e49b915437c084bbf17f21f08d5372513bee",
+      "comparisonAramaicSha256": "fa69ca399f478c65b8c109b47f412bbf88d2df249bb61973a25076224d70d570",
+      "localBlockSha256": "bb456e5855dc194e3e117e6ef1f2d022e976165951fcef14dcf162cdb61782da",
+      "coverage": 0.993056,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 26,
+      "localCoordinate": [
+        317,
+        6
+      ],
+      "throughBlock": null,
+      "englishSha256": "e775140f0eb21e622353d31ceb023338af3cf686ca86715bb85d5b9d3180f97e",
+      "comparisonAramaicSha256": "9b1450d6799556a3ad37d4604ce566ea6acb0c95c072d56ca7b2ca383eacef8e",
+      "localBlockSha256": "e28b3b8f77721da44c9085116a00e326674ca13016beb290520248152a85d223",
+      "coverage": 0.9875,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 27,
+      "localCoordinate": [
+        317,
+        6
+      ],
+      "throughBlock": null,
+      "englishSha256": "2cad91e01c8bc42d530d7b684f662db90c7036442500ee19b4690727a74c67c4",
+      "comparisonAramaicSha256": "014bd1f7f9f2e0a321be20426bb078f85e3c469f315ae9dda52bbb8d4840ee3c",
+      "localBlockSha256": "e28b3b8f77721da44c9085116a00e326674ca13016beb290520248152a85d223",
+      "coverage": 0.992674,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 28,
+      "localCoordinate": [
+        317,
+        7
+      ],
+      "throughBlock": null,
+      "englishSha256": "0812f1be3390ad1b6c33a9debd661dca86e56264947eb924f83db12bf8e5c676",
+      "comparisonAramaicSha256": "6442574c077c09e9364b1deb271da2ff57e4e7b91196669554ca59b747a0914a",
+      "localBlockSha256": "934df5a1edd561cbc777bf7013bef99d896edd9ec8d7ece17ab9f8b40fe9809a",
+      "coverage": 0.991935,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 29,
+      "localCoordinate": [
+        317,
+        8
+      ],
+      "throughBlock": null,
+      "englishSha256": "191b78cf9f2dd53b2b0591b655cb91bf8f4ada4bf7c1f9c409a2261b34364e41",
+      "comparisonAramaicSha256": "46867f6698ddd9426ede2c0abffd23418df6162aa6aee77c648eb4680ec81c68",
+      "localBlockSha256": "4135ecfb5c3951c150bac8f07223a0c79196d5dd32ba15a2dbde67969eea78bb",
+      "throughBlockSha256": null,
+      "coverage": 0.984496,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 30,
+      "localCoordinate": [
+        317,
+        8
+      ],
+      "throughBlock": null,
+      "englishSha256": "15db6fb15fb53ee9e81ebb554125a793a0f1c0fa8e8aa27c77ef953c77a78ebe",
+      "comparisonAramaicSha256": "1dd1cb92b9370def7d8a6c3cfc09fd7950fd3c7d38d600598d9ba955ee8e36fc",
+      "localBlockSha256": "4135ecfb5c3951c150bac8f07223a0c79196d5dd32ba15a2dbde67969eea78bb",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 31,
+      "localCoordinate": [
+        317,
+        9
+      ],
+      "throughBlock": null,
+      "englishSha256": "fd3af85d06c17d9fdf7b43c09109f9eb8b6a75ab8fbe85b6e00bb4b0230f6e67",
+      "comparisonAramaicSha256": "f4062a165efad532827240af6d6969f606367c8b9de47ae7cae2236ba7e524c0",
+      "localBlockSha256": "9d7b836f91a56a598cde84a682dea432d9e0ae1ef0e7e786ceaa59f04f641948",
+      "coverage": 0.991304,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 32,
+      "localCoordinate": [
+        317,
+        10
+      ],
+      "throughBlock": null,
+      "englishSha256": "36b095278941abfc0ce5abf0795eb9eaa374c50e0f60d46efa9b17d871c53323",
+      "comparisonAramaicSha256": "5b2f3a3150b8024814db3c01337c12da3fce7235e1dacfb477cce41a67717a65",
+      "localBlockSha256": "165643c047440448e508c53d5b8175cd1436ed99d574267a0d40e3b2ef075703",
+      "coverage": 0.986111,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 33,
+      "localCoordinate": [
+        317,
+        10
+      ],
+      "throughBlock": null,
+      "englishSha256": "e4cbcc83790044d3fe493c010d46c2c54850f27b52cbb645be4d2d968a86b81c",
+      "comparisonAramaicSha256": "257cbfd833822e7a3df6a2a1f0f80ba48879e9801bb9e74d4806febc553ba49f",
+      "localBlockSha256": "165643c047440448e508c53d5b8175cd1436ed99d574267a0d40e3b2ef075703",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 34,
+      "localCoordinate": [
+        317,
+        11
+      ],
+      "throughBlock": null,
+      "englishSha256": "b4f1039d267e04348bd5f640ae3d6eaa7c160dfbf315092dbee00011a2f94f8f",
+      "comparisonAramaicSha256": "56d44ae2b00d7effb35076e952c553e711cd807ffbbca43f8171cfacddcfc821",
+      "localBlockSha256": "026cba01d8a761157e519c1561b237314ab3c63184dc130ec24fe23dc936961d",
+      "coverage": 0.9875,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 35,
+      "localCoordinate": [
+        317,
+        12
+      ],
+      "throughBlock": null,
+      "englishSha256": "217eb439ae4da985f5ec3c495d8f918f6061080fac30b6461603f2fb67fce834",
+      "comparisonAramaicSha256": "623aa671103664c77f4c6c35366b6342e46914940ac6f39d7a55ced7a4ad3503",
+      "localBlockSha256": "5c595092eb86960398ffa2ca68853c4ea2314c7448e0e1b608e1384f02e80c38",
+      "coverage": 0.986207,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 36,
+      "localCoordinate": [
+        317,
+        12
+      ],
+      "throughBlock": null,
+      "englishSha256": "d21025525117e8bccea284db63927da27beabb07b44db6aa8dbe104e09fde4d5",
+      "comparisonAramaicSha256": "74a69793a56a577c603b03d74f1759e858c42d24c39c335eba19152551d83891",
+      "localBlockSha256": "5c595092eb86960398ffa2ca68853c4ea2314c7448e0e1b608e1384f02e80c38",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 37,
+      "localCoordinate": [
+        317,
+        12
+      ],
+      "throughBlock": 13,
+      "englishSha256": "7f6cb466ee76c5743eeea91add113cb5609dbd593113fa214291e136a6d703c0",
+      "comparisonAramaicSha256": "9189c3e5de963adb7acad46094fe5547ace9e050dab26f16a691173b695224e7",
+      "localBlockSha256": "5c595092eb86960398ffa2ca68853c4ea2314c7448e0e1b608e1384f02e80c38",
+      "throughBlockSha256": "f340e75f6f93cf7c261c8b921cf5437403f52f7a8215d497cf383f2a99c74638",
+      "coverage": 1.0,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 38,
+      "localCoordinate": [
+        317,
+        13
+      ],
+      "throughBlock": null,
+      "englishSha256": "d04eaf1adadb96e1ab3a52fd08612fc98a7cb01c9fab4d8810bdee0d31e18237",
+      "comparisonAramaicSha256": "ed460a79867a023607a4e284902000b2aeea10867722b3817b00e284e992cc64",
+      "localBlockSha256": "f340e75f6f93cf7c261c8b921cf5437403f52f7a8215d497cf383f2a99c74638",
+      "coverage": 0.993631,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 39,
+      "localCoordinate": [
+        317,
+        14
+      ],
+      "throughBlock": null,
+      "englishSha256": "05e85f38acc21a1c3b523c60bb9d0e3715d3d82fbe025ae337b60feda9c83c7f",
+      "comparisonAramaicSha256": "632fb6eaf13e819add547dfc5716134cfb27566925ab851ab386da73cb35462a",
+      "localBlockSha256": "faea8b971797960f36d9ad15d3ba08222fb4097cd5be1db73f91d9397f755fe8",
+      "coverage": 0.99422,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 40,
+      "localCoordinate": [
+        317,
+        15
+      ],
+      "throughBlock": null,
+      "englishSha256": "c5f9f97dcc75e7ea728e6d14192cf74af2027f86b3108c230371c43b9d05519a",
+      "comparisonAramaicSha256": "8b7428ecaa52932de9c20b1ffccd4a137333e54070dd71d1abbbf1d3eec5e205",
+      "localBlockSha256": "8446e5f51b59be64656842393870f71207349cba8c3c99ed1931eb0720700f89",
+      "throughBlockSha256": null,
+      "coverage": 0.98,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 41,
+      "localCoordinate": [
+        317,
+        16
+      ],
+      "throughBlock": null,
+      "englishSha256": "61bd2f93108516da3a9ada7438934e0163931a10973a7948c2db52e538314a7d",
+      "comparisonAramaicSha256": "32f6f332e6c4707509c5e91a6c95059bc37d8c7ce49dbe9a7c0d17c119431e34",
+      "localBlockSha256": "7a40be17350a61d91f171d0046e5e319c29b4310a7c7e8c8b661abc586f367da",
+      "coverage": 0.993421,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 42,
+      "localCoordinate": [
+        317,
+        17
+      ],
+      "throughBlock": null,
+      "englishSha256": "929a9e905b336c41587a7620702d86a4f5a549bc261b3544a2a0e71def3e1a89",
+      "comparisonAramaicSha256": "0d7c74e5de6a5d904ee0df854041cb962e6a373c0a87b849d363c450c7043e9f",
+      "localBlockSha256": "5257d79a330e67ef5b6d87324f2debb564f73586df93892938bb872116bf8c9f",
+      "coverage": 0.9875,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 43,
+      "localCoordinate": [
+        317,
+        18
+      ],
+      "throughBlock": null,
+      "englishSha256": "621fd787af21f58bdf2858c9cfa91ee624aa90648e7dc367f932f3858c942a4a",
+      "comparisonAramaicSha256": "c4b2b703f3f59bd5f5ff95c15e6376b9929793c6106fbd08c291b15b9a06f0aa",
+      "localBlockSha256": "a76d75ca2b5ce86017441c0bf209da47072b95890abae03706a06f8d5b6cb6c2",
+      "coverage": 0.989247,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 44,
+      "localCoordinate": [
+        317,
+        19
+      ],
+      "throughBlock": null,
+      "englishSha256": "1fff8579ee23d264fcdf1f790451037fdf2ccecc7360015e330d41a5591601ff",
+      "comparisonAramaicSha256": "0f571c2014661e20cbe589b16912c32cf237b6b95baa6e01b26c15ee221a8245",
+      "localBlockSha256": "1f7d3d8ed879ccae195c3dbb6e494b3cc23fa2c0f68b8116c6c81168970d7f8a",
+      "coverage": 0.990991,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 45,
+      "localCoordinate": [
+        317,
+        20
+      ],
+      "throughBlock": null,
+      "englishSha256": "189c6b9c7f1df6a30c808e8dfa5a73d4ecd18da403dcc6eb618eb657e19ace6c",
+      "comparisonAramaicSha256": "84ef888404a5bd3a3a5d53d40b45b007cd1ed5e420fc856fe6634e4feae36837",
+      "localBlockSha256": "136350f8b85068c1ffc673dab62d79f5ea747f371724f55491521c6f99491476",
+      "coverage": 0.986667,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 46,
+      "localCoordinate": [
+        317,
+        21
+      ],
+      "throughBlock": null,
+      "englishSha256": "193445cb91ffa7bea4f547543044e3e2a0c98e39170550efc633d18ad9b3ce32",
+      "comparisonAramaicSha256": "c0a7dcf77d793526463c089f40469917c54d15f617d26db9ce8c5956f22331dc",
+      "localBlockSha256": "896cd96283835e6101ab14529bb2dda9b5abd1d3ba984447e625c87a16de861b",
+      "coverage": 0.992032,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 47,
+      "localCoordinate": [
+        317,
+        21
+      ],
+      "throughBlock": null,
+      "englishSha256": "df16061f642d8db4b5c86afa2e452fcafaeb3bd9f4a69fa497fdd4f058639ec5",
+      "comparisonAramaicSha256": "cb622fe705a8cfdc739dcc00feeb7d6d640638d06e687474da9a4f36f427247a",
+      "localBlockSha256": "896cd96283835e6101ab14529bb2dda9b5abd1d3ba984447e625c87a16de861b",
+      "coverage": 0.971888,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 48,
+      "localCoordinate": [
+        317,
+        22
+      ],
+      "throughBlock": null,
+      "englishSha256": "22d2bbd1e67b814212e04c056d22b85e8344a39a1fd375e313383a9b36c2d9a0",
+      "comparisonAramaicSha256": "3f35fd546c34ab4af789f05e1d70bf5a6ecfc41a12fa8632bcf13d17ca44c4e3",
+      "localBlockSha256": "7725dff8fa8acbebba179a6a06abd07eddc01cb0a29bc3e135f5b4f88c47b20b",
+      "coverage": 0.995261,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 49,
+      "localCoordinate": [
+        317,
+        23
+      ],
+      "throughBlock": null,
+      "englishSha256": "1f498135ae913fd8810fff768ea455157db6cc97a53b386bc1187048837269d7",
+      "comparisonAramaicSha256": "1a451024e4da6caffdc90762d1011d0149bf6f3d6e7c8ba9df508d6156b06ba9",
+      "localBlockSha256": "8c92f096469b15e6ad5302cb71c25772bec8fe0129ce5de9b846dec3cfc9bc9d",
+      "coverage": 0.99,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 50,
+      "localCoordinate": [
+        317,
+        24
+      ],
+      "throughBlock": null,
+      "englishSha256": "ac4d89b6215bb16ab6ce5b65d1e2c3b677713685feef03d04db83da6c3207ab9",
+      "comparisonAramaicSha256": "8e4ea5b2fa122e26f7b49abd9763adac58f84b06d3ac73285d6cdf4e70ace726",
+      "localBlockSha256": "c00810628dd237d5768fcf5cee971f738779f7287eb313f49067df7da11c73a6",
+      "coverage": 0.978022,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 51,
+      "localCoordinate": [
+        317,
+        25
+      ],
+      "throughBlock": null,
+      "englishSha256": "5a75b374ac3074f906ef865064e184a527feef3a22c43ecb24a4be3b17312d4f",
+      "comparisonAramaicSha256": "8b9d106f7933e43c824e13f1f09cc888ad3578df11372f3498b9608f506ab6b3",
+      "localBlockSha256": "526d12e1c9a7ae6360a007bb7b5c2a02b35e72883cdab0f8eea5922e2d54761a",
+      "coverage": 0.990244,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 52,
+      "localCoordinate": [
+        317,
+        26
+      ],
+      "throughBlock": null,
+      "englishSha256": "67ddbeb05aa075e5d2a4a4404bbb3a180ace39395b42904e464fed12bf93493a",
+      "comparisonAramaicSha256": "cf92e8f20ffcf11cba4499c15ada387cbca38db34e28bf38f63b53345cad7144",
+      "localBlockSha256": "4190815c54b3713b690e9e3455d5ed72eb30f5b35ba4f4ae0d45979664866175",
+      "coverage": 0.994521,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 53,
+      "localCoordinate": [
+        317,
+        27
+      ],
+      "throughBlock": null,
+      "englishSha256": "8880b74a3f92d7e2a00d84f3efe74c9dc21930dadf3b995d5120871c0d4b5259",
+      "comparisonAramaicSha256": "31118b6e4924514f7f245102ebcecdf2175dc000af57ae6d3551492b7c65749e",
+      "localBlockSha256": "b9b4da72e7a4f5a92d8acd5ee8dcdd580a4769a82a413f67ac8427f19fb298b9",
+      "coverage": 0.992126,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 54,
+      "localCoordinate": [
+        317,
+        28
+      ],
+      "throughBlock": null,
+      "englishSha256": "08bec946768bfeaad54ef46b424cae8a0b47d25e3bf1eb1d9da6716bf3c00ebd",
+      "comparisonAramaicSha256": "296f6cf41434e06fc656385d60928173fff5c8885f5d17f4f5429177ed2d4b9f",
+      "localBlockSha256": "90bc68c5049282a8946147daaaafaee9ae33c500cfc5a01939eefc26edc1ccf5",
+      "coverage": 0.995807,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 55,
+      "localCoordinate": [
+        317,
+        28
+      ],
+      "throughBlock": null,
+      "englishSha256": "b7fc0abbdcfdad7a254505c21cee1f93b6c54563321111d0fb8ff944f7d4f5d2",
+      "comparisonAramaicSha256": "faa126c69cce53262b27a8bd7177df87698d72dcac8436f9881755f092418e22",
+      "localBlockSha256": "90bc68c5049282a8946147daaaafaee9ae33c500cfc5a01939eefc26edc1ccf5",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 56,
+      "localCoordinate": [
+        317,
+        28
+      ],
+      "throughBlock": null,
+      "englishSha256": "d6debc60ed4d614cbb8a7a86f874acc1a2de0ad70d4d8098bdded0ab9cb073ed",
+      "comparisonAramaicSha256": "115ee9ca093b7376fae0815475beae2e9028c183901c93ea9a299ecb0837b94b",
+      "localBlockSha256": "90bc68c5049282a8946147daaaafaee9ae33c500cfc5a01939eefc26edc1ccf5",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 57,
+      "localCoordinate": [
+        317,
+        29
+      ],
+      "throughBlock": null,
+      "englishSha256": "06915da8c98e49002b5c68230b30ce7214cb607d836b64d4d052a4247ab4e400",
+      "comparisonAramaicSha256": "97bffb0a9e7ded2ea89eab9a53dbd3730573c36799fdff9da19e4a762b4dbac0",
+      "localBlockSha256": "a8265b7c43b931fa5b3fcfcd7e5f1cde3e13b2a420e58bac2851cb56416278fb",
+      "coverage": 0.98995,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 58,
+      "localCoordinate": [
+        317,
+        29
+      ],
+      "throughBlock": null,
+      "englishSha256": "9e105f78b7e6b9920d2f0d0ed889cbe093d1b25679031cb70cab14fcfa80c16d",
+      "comparisonAramaicSha256": "a57cc8ec44ba16f994e06b85535bffc56c283d900c5d14023fee889dfe38e5a4",
+      "localBlockSha256": "a8265b7c43b931fa5b3fcfcd7e5f1cde3e13b2a420e58bac2851cb56416278fb",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 59,
+      "localCoordinate": [
+        317,
+        30
+      ],
+      "throughBlock": null,
+      "englishSha256": "fb61d44f631f1a42c73b7a1d3e6d984a3ee5af775f108f3929bd3a6876e5fe32",
+      "comparisonAramaicSha256": "073c7e35e4f10b27520995ace437b765b7f7421243e14da755f42b3733e10272",
+      "localBlockSha256": "0f11356aaa810f63b3a07bd2d311c0f9631224ac8c7058d826f5963a76d91084",
+      "coverage": 0.989011,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 60,
+      "localCoordinate": [
+        317,
+        31
+      ],
+      "throughBlock": null,
+      "englishSha256": "451864ae54ea706c3a4378ab918132fb4a5732a4e2b0c605eced1ce66807d165",
+      "comparisonAramaicSha256": "aac1232a1c3f33e095a5efd289fd553cc2650868f3b55f0d52a3bb4199e8161a",
+      "localBlockSha256": "188768117ff77f39dd5db1c2372539c97bb418bfa02a6d5552bfbce045d50a20",
+      "coverage": 0.990148,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 61,
+      "localCoordinate": [
+        317,
+        32
+      ],
+      "throughBlock": null,
+      "englishSha256": "6455f9b5ee5f35872bf3b7d63855f56efc30446c5b85d0a53e9386f86a082077",
+      "comparisonAramaicSha256": "777ab98d3203518b5bc460342ae59d21a0824d31a8038ad7741527b9863c0744",
+      "localBlockSha256": "8764cb1ec9749d1a025655d92fc7d71b20eeef5079db9100ca4e6a88cc8c0bf3",
+      "coverage": 0.98773,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 62,
+      "localCoordinate": [
+        317,
+        33
+      ],
+      "throughBlock": null,
+      "englishSha256": "b50cbb14d15827367ec02304457be81f26dc86483a8269d55af3d3900b80d108",
+      "comparisonAramaicSha256": "dff72a20c5ff88368a88b1b5c7e116d757b87c8d0f87be1d42ccc35665c079d0",
+      "localBlockSha256": "dda0bd39a18b715b46dd6d439b559c1324260a6746e1984b677838fb80f6b300",
+      "coverage": 0.993921,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 63,
+      "localCoordinate": [
+        317,
+        33
+      ],
+      "throughBlock": null,
+      "englishSha256": "0549ee3cc83eb10cd1221de6db1d813e8333ffa4c1d0442d17497e59e4689542",
+      "comparisonAramaicSha256": "5d603565351559fed903f90105f547208d5e86dbff139157cd67688175673a3e",
+      "localBlockSha256": "dda0bd39a18b715b46dd6d439b559c1324260a6746e1984b677838fb80f6b300",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 64,
+      "localCoordinate": [
+        317,
+        34
+      ],
+      "throughBlock": null,
+      "englishSha256": "27b032bc94b216e5516e8c1186306a8e9fede937202f7a8e32463948ba0df7e0",
+      "comparisonAramaicSha256": "d4045ed621d89206dddf55cc54b09cc33c692999879b0dcd293edfb6149b01af",
+      "localBlockSha256": "8d7aae8b2ac3ddec409d6e0ebf17e93dffb3d8d78891e95d6f248f66e35dc072",
+      "coverage": 0.994751,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 65,
+      "localCoordinate": [
+        317,
+        34
+      ],
+      "throughBlock": null,
+      "englishSha256": "eeab719349c4f6dd08ddc0e98319b0dc349939a7ce52cc1c7709b97988522043",
+      "comparisonAramaicSha256": "e0508ed29850202f6dd10fb458ca50182c47c1c47bad0bd1814cde5d8e23351c",
+      "localBlockSha256": "8d7aae8b2ac3ddec409d6e0ebf17e93dffb3d8d78891e95d6f248f66e35dc072",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 66,
+      "localCoordinate": [
+        317,
+        35
+      ],
+      "throughBlock": null,
+      "englishSha256": "241a2321ef5d303114498ba499970812079f3d8226fadc6faa905d62f7ee7702",
+      "comparisonAramaicSha256": "ec51a6341b405ddcd9d7fc85c494845dfa89b117ecf4200f7c83d2f5e154d5d0",
+      "localBlockSha256": "42ba1098b855638eadcefdf1da9c4ef7e3935046871bde45009cb8b9040bfd15",
+      "coverage": 0.991935,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 67,
+      "localCoordinate": [
+        317,
+        35
+      ],
+      "throughBlock": 36,
+      "englishSha256": "36937025479ae8f74d952788e5318ebe436445944eada1d219273a9eed2a11d0",
+      "comparisonAramaicSha256": "197c03bff4c8fe55790cdaf0eb73f723e18d1030fe281ad7f64053b3bfda0a3d",
+      "localBlockSha256": "42ba1098b855638eadcefdf1da9c4ef7e3935046871bde45009cb8b9040bfd15",
+      "throughBlockSha256": "7abff5b89264da3b6ff937839c579d50a8af3b5923e882b9c536bb797008092d",
+      "coverage": 0.997067,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 68,
+      "localCoordinate": [
+        317,
+        37
+      ],
+      "throughBlock": null,
+      "englishSha256": "2ca037813ddca0161cfd8f3a4139e54426bce3bc09da83fb3f4014afc81b850a",
+      "comparisonAramaicSha256": "769aeb37d7e97abaaae8d0a4f0e9b749a20a971a6b3c0d17d9f6dc84a8726c39",
+      "localBlockSha256": "6eb4207e6c5bbccad3a332fdb84aa3cc853da17394a98651fe041d38ffd41575",
+      "coverage": 0.994872,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 69,
+      "localCoordinate": [
+        317,
+        38
+      ],
+      "throughBlock": null,
+      "englishSha256": "b2770e4955403b231328efb04e4ca0682ba5e36955e25be9daad223bf8675b9f",
+      "comparisonAramaicSha256": "fc7684f6f63fb4649a3e0b83543400b25c9980859179b95f397ce472d712e861",
+      "localBlockSha256": "5aec83e61543a7dd8ddec4e0b186cc0eedc20169d357868b8dedf7b5555532d7",
+      "coverage": 0.984293,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 70,
+      "localCoordinate": [
+        317,
+        39
+      ],
+      "throughBlock": null,
+      "englishSha256": "57700d4e97d52fcc21a6f1c2d727d500a39bad09342c58e8cddac730fc2858f8",
+      "comparisonAramaicSha256": "41401020b73ec46793cca44cbc49573a2b482c14965d7ca53090b6d74e3f23e2",
+      "localBlockSha256": "3235c5248729389b2e16c09f1c1fba14a06e1f48116de6159f12a238d63c6bab",
+      "coverage": 0.985612,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 71,
+      "localCoordinate": [
+        317,
+        40
+      ],
+      "throughBlock": null,
+      "englishSha256": "f835f081dbf789626e40c7f770708aaf5375b232ee23f184a196164da47bdfb8",
+      "comparisonAramaicSha256": "d45f9eab0b0eecf3f52d834f0c655c3b4f658c61762cd8460e4072f6ad145efd",
+      "localBlockSha256": "55af807e105f213c054d4ccaa385d56af6e8ab355c45eb4c4d0ea288e5319f14",
+      "coverage": 0.988372,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 72,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "26e71374801a0bfeb2217f6f15bc7b9eaff238df95537185ac92b3e6cf9a9a1d",
+      "comparisonAramaicSha256": "d643b8a11172e3611e0784278d0cec0bfb1f69a0df5351a838f2b58bf9f01841",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 0.984127,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 73,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "8425ad00e3ad52000eb7a1b11d7d63ef3f1b745ca0820bf5028bf209afc883e0",
+      "comparisonAramaicSha256": "1394e46f78a34bc049d3cb274a51497d0fb71f9b7990662520d051fbba9bb990",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 0.997275,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 74,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "cb630a6ba52604e9f64484f86a6cedc9df6097fe464fc26941b8514ad394574d",
+      "comparisonAramaicSha256": "7f33568a7524a685001a5a37d0fa2cca59655f80e992d05d1d45495ba647553a",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 0.99639,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 75,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "8952c82d020ccc94199c0880c524fefc5958eb0785932c35364dd56df08ca91b",
+      "comparisonAramaicSha256": "db35788747fd77823a7e955941cdaa1f84a6fa027e8a7fc72bfac304120296bf",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 76,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "3ef9514577cec15b2ff5c5a5e0bbb27466a950b3e08f74004825c078a77447be",
+      "comparisonAramaicSha256": "5db56574486fa5c8495dfbe5104974b731e03f87229b51e6ad85a4ae93be1193",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 77,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "5e6d6d09b58b7da3a7075e72b6e4181d987a097caf141b061675e77f692ab86a",
+      "comparisonAramaicSha256": "f5a132c17ae8693dfa808369dc3957856536fa351955bdbf58e178985cb0b58e",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 78,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "ede0ca4f44c8b7ad66c24d22323a97c3d7514a95fd006b631383026f0e12167e",
+      "comparisonAramaicSha256": "ab4160f8d0e5bc754ff3e7217a87b5fd09f3da96bcce963d57c8dfad730c6521",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 79,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "45a3005c88ba886e3670a49c3dfd6fe1716aadf4588de955ad945bf253228fb1",
+      "comparisonAramaicSha256": "0adfefad464cbe111fd321bf8ca3c206a574dd7f3e4263e2f9a826f71ef816ac",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 80,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "0091d6aff4c7375045e3b6e6585bcaf37c979a77504cec119029d22e6e5fb737",
+      "comparisonAramaicSha256": "623688f7b1ae1a2829c0e5438f96c56b528cd3d5a18a8a047b202cf9132a9965",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 81,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "dfb86a091d9f74924fe809b739541b86bb9be21e9df07f22b7a00d36a775443b",
+      "comparisonAramaicSha256": "9211feaa9fd9df6878538e54c66920aa87affc9bee19b2d068b35795a5d7bb01",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 82,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "1fdade0bdfd49df66f2cab80cc53720894ae4978dd3e35ba7558ae95bc61cca1",
+      "comparisonAramaicSha256": "192e2199b92ded22bacf2245a6fac0187b078efb4e0e872efacba0670f592e74",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 83,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "985d4bac8b6439c6fd4aa0b6163b6f26922f6359f90b3bc14f76b7187409d431",
+      "comparisonAramaicSha256": "ac5ae26ddc61ab5ed55aa8b51d1a9545c3f739a43e9b847a8b1baf1acf5a4944",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 84,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "46acbcc464b0dfd684504a45b0e6c7d9a45f5c27f9ce33f80a126a04d24b3000",
+      "comparisonAramaicSha256": "b7c4103379955d32721bd01757a098f95d3e3594ec9dc735689d06a232c43767",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 85,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "9ad1a2bbef160d80eacdbfee8378bd1e3f87b5ab08eb46c72a0508de5c9bc833",
+      "comparisonAramaicSha256": "464b1cbbf147762292fe92f9c2d9ebfe81c82a8cbfe8140a13f8beb2af26fb36",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 86,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "c24080f9fb79cb6e45a7396ac44daa2242c134e42af84f644a0a35c30f35601c",
+      "comparisonAramaicSha256": "3c118493a74c836baf7c6fab2ee14dbed4f82037ed334682a7e7eddb769a6d10",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 87,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "93a6d24ca9d8059716842f085cc3308cfe59161eebcb057eb63c60a799206157",
+      "comparisonAramaicSha256": "b1269a5b2a7c574403a0c47cd5f18efa28312ef8b18b8a5c4ac77f224796e3c1",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 88,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "ab32dff8a67aca73180704dba9279f9d0caecbb0fd1f7a7dfeb53553c85413e7",
+      "comparisonAramaicSha256": "8369cabef06787f1bd7c20e700a69e2bc7eccf02d971a0d2fdc0a1e05540fe82",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 89,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "b91395d2d9a79c8860a0d6ba440783d5e76f51ccebd69870e2aeb8b64cd9ed93",
+      "comparisonAramaicSha256": "837f9b1645d30feef5e88f455bc78e374d85990ca4cc6fdf7c6994fe5e88762c",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 90,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "336405642f17105a7b02166b6cfd50d476471df96fb1697a1b992d86dd98fbc4",
+      "comparisonAramaicSha256": "b38ff36bedd7aae0681c21e8af88d68dc9cac82cf96a26cf251334976bb35c3f",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 91,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "a1e98b08d2fb7adb5badff383baffa3bc8b6197b7a56a077579f009e14cc2b8e",
+      "comparisonAramaicSha256": "eb779bd4524d5a6be1643e8dca8f21c507a667698695358503a1de6eaa4484d7",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 92,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "cf59b06aca03f3df55da02d0665df801064be8ccf1395d51606220b0cb7202cb",
+      "comparisonAramaicSha256": "12ad4b53b6b61208f46655d1caa387ca65395bebff7a015d8981d0d1a0f1fd5c",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 93,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "88bfe25adb2c485edccb315f860d71a393a171cb6cd9c8f8ef720dc56ac95a35",
+      "comparisonAramaicSha256": "11682e17e222e2822d48c9c34b0dd5aaaa8453cc45f8d18d83f2d0c4af0c49b9",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 94,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "c9525b5f8f53796f6aa769676eb17262beada4a37c0cedd8f44515e1f7babf5d",
+      "comparisonAramaicSha256": "562d0f6b6a2855f104802578726ebcdd244aa69a2139c620e4b8eee2b5080921",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 95,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "05abca4f0e49c99c927c907be07bde1cef061ef14a80961ffcf2e3dbc3679be4",
+      "comparisonAramaicSha256": "76487e969ddcfd4e603b9864d87d66b08ba4ca77719064a9e96baa2ae18574b6",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 96,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "5d6caedff354d7d3901ff11e46db085bd6f84cd6b362d9cf73d1ba05c98eb116",
+      "comparisonAramaicSha256": "d40e39ea4a07ce45f24d6f428138091de5fb5c4507cdb62f3c2fee42ba08e021",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 97,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "ba2b8699f1aa19edbe3dbe579ce830e98b31815bb3c7215887773b933704b9b5",
+      "comparisonAramaicSha256": "1fbfd071e099116ca47fae51aee58b4d23553b872d3bc616ae54c84e14b68288",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 98,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "ab6ca00ed0b0cd300f0db793079d6708f9a497024c9025e5798673afee8b97ab",
+      "comparisonAramaicSha256": "3ee7d707b4af4fe90c25ae4e5d7d2a17f8ab83603b018070ad0f68e527d1c76e",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 99,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "e16d25f8c8ac6c92048d38e042e992339ba7f580262ac2929c13c60f1963f3a8",
+      "comparisonAramaicSha256": "231b4bbfa53e9c976ecf906532be8d7f932a82a7890a1dc2ba07d838a9eb3872",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 100,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "9f74dd84d92b610402346fd42df7e9eb1dbfa41186d390d8b2ef309f1d6e088c",
+      "comparisonAramaicSha256": "f1bae11cc6809e52c7b88392cc677fe87d5d94f5f30561ea14159ae525fdcf55",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 101,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "baa1379f11d3479eaadf40dd88cfeda5170e446f186651d7948a7b6cd9429908",
+      "comparisonAramaicSha256": "2dd5898b2e698966302a3ef791457bcde616f6e7aebfb15939e2bf6996b80b35",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 102,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "7f98ebad3da89b5fe5b14c167afcefc78ea23f92358cc6ffbff04b48438b126a",
+      "comparisonAramaicSha256": "cc0021bbac923b35a15040beb5ff78d2620f5cb27e12585e7208f7ffa256ff02",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 103,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "7303d7aade2282b321da027c1a3a887ff8a7c2b4ab36f20610344e38ab8841ba",
+      "comparisonAramaicSha256": "f210bed0706bdec1d29855151b86b85541cbe851916bc9640694cba3fe3bd137",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 104,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "23bb26925155362224292df10ed5ba76195901b14c3e49abce215c70464fcf05",
+      "comparisonAramaicSha256": "0a8d0c17298b9a1aab43ecfa38b3967b742ecef135715055fe816f928656092c",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 105,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "d19bae50c58e1850bc7e099893332005a9222d1db0233245702a0382b49d5936",
+      "comparisonAramaicSha256": "6dd588b6f825b7b40eb7c4f920b26383ceb15dd1e953ed44b21ac9dab4971725",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 106,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "30773cf9cbd6019609078be26ec9bc92092839d112bb74325dbdabf074afa441",
+      "comparisonAramaicSha256": "30c6e77428312819110afb5a21c5e2ce5bd55c1009094062c9a414e21cec32da",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 107,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "7542f2f8b51bac875257e5a328c955dd53dce79b6bc0537a7ccb65da7f90e2a8",
+      "comparisonAramaicSha256": "52cfac1edfed6cbf6b5801d0806604a4504a15a8074c6869f55275246b457ca6",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 108,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "917f2f884ddc2b903f034e24526eab949ddc7dc2c8044031dae9c82d8838d262",
+      "comparisonAramaicSha256": "034b76fef92f2c3054f1f8883788353e60ef3cfecfa2402d7bde31fcee081095",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 109,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "aa3e3ad9f6e20e45ad6fad35eeaf0ac1e018593f4d1018c69180496d5ebb467d",
+      "comparisonAramaicSha256": "431527e53c77fe4bc8756285cffd4379162381f7c220a4b9b7a80ecbc72a847d",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 110,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "2d058aebef85eab37540cfe9348e5a3178ebba9ad7fbba230caece46d2b3629b",
+      "comparisonAramaicSha256": "7bd21d507a3fdd33fd0411e7e28af31930c9c86e0542f96fe42b08d961065116",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 111,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "cdf2da34760407ad558db5ac0a2f00757bd495dba9037a154edf2856c8d7024e",
+      "comparisonAramaicSha256": "77570ea534ff535463b50f9e60384311525d7692c043c2c59813320a35d9a01e",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 112,
+      "localCoordinate": [
+        318,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "6801956888d0a4729aa8438740aedf9144c11ba95de83030261a582954aaa6a7",
+      "comparisonAramaicSha256": "4918329dc3199b80195927a9c683e02911f9272102dfa2e4dda70f002a247dca",
+      "localBlockSha256": "18c4cfae31664666aa2157dabc9041a7357d857c46cc6e0104226089d9dcc174",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 113,
+      "localCoordinate": [
+        318,
+        2
+      ],
+      "throughBlock": null,
+      "englishSha256": "c50e764fec9c9ed47b1d3de76dfe3a9e118d71030fd2aedc15e4f79851f58955",
+      "comparisonAramaicSha256": "3ffc761928f3f29e5b48dc0406e84f6446cccdd6c9350f49f3e54fb503303672",
+      "localBlockSha256": "d9a5022f5075f46a9f03da94f5777647ffef1b44c1fb0798563eecda6a51fd15",
+      "coverage": 0.981595,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 114,
+      "localCoordinate": [
+        318,
+        3
+      ],
+      "throughBlock": null,
+      "englishSha256": "39e790465d705d29cf9c7ada04da991065f5ab70f85305eefdbdd9dbab687332",
+      "comparisonAramaicSha256": "60f900394fb85e27aa30143a1a831ee43112ecc60eaddf983ea344105ed0c202",
+      "localBlockSha256": "7dcd4b2d238a83ec7f4ce9676411c04ea852953b542c576167889842cc35bbde",
+      "coverage": 0.97479,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 115,
+      "localCoordinate": [
+        318,
+        4
+      ],
+      "throughBlock": null,
+      "englishSha256": "39cf28f783a44c70c3f509d8a1c6a9443537209fc12c82c260671013733592db",
+      "comparisonAramaicSha256": "301466947a60c7195f502dd536a274aa92acb42df94a27a91fd9c89abf177b2d",
+      "localBlockSha256": "2162cb9732c7214959d5334259a3282db58fbcf0bc46ef8526f600e3fa16f19a",
+      "coverage": 0.991501,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 116,
+      "localCoordinate": [
+        318,
+        5
+      ],
+      "throughBlock": null,
+      "englishSha256": "01f6a64fd1fca62fed3e2230cab596eb8eaef87d45a72b9c4fb8e4eb2ae5c82c",
+      "comparisonAramaicSha256": "d54e2d83cb2fe20d9f2c22424e34310cf5688237eafa638ebc7d071562777fd9",
+      "localBlockSha256": "9ebd290b35f4c11ae0960d6fb8ea798f8ba1ca79fb745b54003615ad3b4bf559",
+      "coverage": 0.982857,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 117,
+      "localCoordinate": [
+        318,
+        6
+      ],
+      "throughBlock": null,
+      "englishSha256": "c201e280565e30c4c1694528f7a1795299595b862eb2718eca97e9fc5d453f3d",
+      "comparisonAramaicSha256": "9539a26bf8d3db9a16a1267f877ae2a6dd8e8342d61d2eedb788d5745c3c34ec",
+      "localBlockSha256": "629e08601194a1ff11d6bb9058e39ab7f3d8df0438bf70abc51f38e9183c0139",
+      "coverage": 0.991018,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 118,
+      "localCoordinate": [
+        318,
+        7
+      ],
+      "throughBlock": null,
+      "englishSha256": "1a58459cbbc0c2569decbbe920bee99aae795421f9d4dae7b9376178efd4046c",
+      "comparisonAramaicSha256": "c25c314c1b2e5e7055b5ba39c6bb5eb73aa0dbdfa111e3ba6722db1590506822",
+      "localBlockSha256": "8d46bc980ae3d2c8ce01ad4b58b8d2d6e58177c849e0dd24c470a5ec2256f4f5",
+      "coverage": 0.990148,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 119,
+      "localCoordinate": [
+        318,
+        8
+      ],
+      "throughBlock": null,
+      "englishSha256": "713584517f73d57f81e1afd10305e04136d6e9bf474dcf6a5caac34c24d10eb1",
+      "comparisonAramaicSha256": "ee6e480eaca8d573c1904470fd5476a1c540cf3c9a681304428e10c1f6c9cc7b",
+      "localBlockSha256": "2fdd99389911f9f6ee72c452878a1d6e021ec770b5b45d1317178582c3ad7985",
+      "coverage": 0.987288,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 120,
+      "localCoordinate": [
+        318,
+        9
+      ],
+      "throughBlock": null,
+      "englishSha256": "cbbc23fbfcdaace89628d9118096726d1fd4c752899a2af18ed911f1ae570953",
+      "comparisonAramaicSha256": "d9f615d691c56f8539695ea3474f3e65a3e5d6a50e0e9d681bfc986cc63b4216",
+      "localBlockSha256": "5f60137dca89974d870a6e0b6f9e8476793143ea4d792281b60931be4205c03e",
+      "coverage": 0.978571,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 121,
+      "localCoordinate": [
+        319,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "2bcc73116090a68539c0a2de180fb0988aac714bd59566303b2b6daef744ef02",
+      "comparisonAramaicSha256": "ceade3d3845efb7a36ce2f6c65d79cdfd144ea212f4b968f07e4ecc43ff34604",
+      "localBlockSha256": "ae32d4728f2097d95a16669fa555d4fdf1ee7bad8edf85a05c434cd288ab3559",
+      "coverage": 0.980392,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 122,
+      "localCoordinate": [
+        319,
+        1
+      ],
+      "throughBlock": null,
+      "englishSha256": "cf48a24b1adfdd98471fd94fc51ef5d31403d4ecac8dab8a053edce85f4bf36a",
+      "comparisonAramaicSha256": "9bfc0332e9294ff763c22c4c1962e41efceb0a8662b204850211d4bd6405a9a1",
+      "localBlockSha256": "ae32d4728f2097d95a16669fa555d4fdf1ee7bad8edf85a05c434cd288ab3559",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 123,
+      "localCoordinate": [
+        319,
+        2
+      ],
+      "throughBlock": null,
+      "englishSha256": "09bafc4e309838e650d8b6c104f7c300ce1f519c4f6034c0349d6ccf4333324a",
+      "comparisonAramaicSha256": "cb1e9a108119535c2cd833f1b79250c8fc96958bab718ae254ad69c1e24daffc",
+      "localBlockSha256": "1850f802639cc6a7d9fde002c4b15ac3a0341212336e43bedf159c4be7184b15",
+      "coverage": 0.982036,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 124,
+      "localCoordinate": [
+        319,
+        3
+      ],
+      "throughBlock": null,
+      "englishSha256": "efe7cb8c03e51d406fa3945117f51794e7d2553ecea10515d4df597103fc85b7",
+      "comparisonAramaicSha256": "83b8ad01f44ef11ae4cb9e3ebde4245fd620b7b8db5e188e365598c9051700fc",
+      "localBlockSha256": "f147ff33ef7e017cf82479126fe698602e40bfb233bfaf8456620e2b166b52f1",
+      "coverage": 0.986726,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 125,
+      "localCoordinate": [
+        319,
+        4
+      ],
+      "throughBlock": null,
+      "englishSha256": "c1d5d2b72b1190b1c8a0732465a7c0bb0c0b803efa3a3c1166f0743bc9de769c",
+      "comparisonAramaicSha256": "5ad9d8220923a9d5265f51d9cdf53c6711015104faca4c3174128ebe85b1867e",
+      "localBlockSha256": "684a03d27f1bbdca744ae498039e055fd55db549bda2707b65685377487bd18b",
+      "coverage": 0.982659,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 126,
+      "localCoordinate": [
+        319,
+        5
+      ],
+      "throughBlock": null,
+      "englishSha256": "93584ae1cde0b95e033a13a79bdb7cf83128b8dc1f2007df0a1f0c252a32375b",
+      "comparisonAramaicSha256": "618268516d074d1c939d3840fdfcd4ce3898d3b6cc2ea3e6fa1e86fce66ffd8a",
+      "localBlockSha256": "4abe360171d92844a51b8212daf3f3ca49bb8721efce7db0d2416ef3788b2a5b",
+      "coverage": 0.976048,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 127,
+      "localCoordinate": [
+        319,
+        5
+      ],
+      "throughBlock": null,
+      "englishSha256": "1cbc77e299fbe4186de74b42420c4e06025089dae2033c45fa737b6482951476",
+      "comparisonAramaicSha256": "c6ff955cdd52b7ccd1eef46714b56301e3ad569a603f309c38495bfd81438eb7",
+      "localBlockSha256": "4abe360171d92844a51b8212daf3f3ca49bb8721efce7db0d2416ef3788b2a5b",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 128,
+      "localCoordinate": [
+        319,
+        6
+      ],
+      "throughBlock": null,
+      "englishSha256": "489ce1892b33107d296f3d77b8a553d2eacfbb00d3c2cdf7a153b030cdc1e4fa",
+      "comparisonAramaicSha256": "4ecdce9f3e4c3ce3847e5e20948f7579ee7a57a37453ae471da406f852ef58e4",
+      "localBlockSha256": "7dce6086ac4283363d658058d4854393a51c2389ed2fe8a4a6cc73bf61707498",
+      "coverage": 0.978261,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 129,
+      "localCoordinate": [
+        319,
+        7
+      ],
+      "throughBlock": null,
+      "englishSha256": "9de042df0569eda4a1240c9f9f987cd6722347841d52c6c769ac0a7204bbceb2",
+      "comparisonAramaicSha256": "84e855fa99a310a15582ee819abc2f7ce3ff8d5b334c773f75c8948772334aad",
+      "localBlockSha256": "181a65c72a184e00be69fcb2b0e9d6b61bb9537d5659a2d63192500dc71fcf23",
+      "coverage": 0.986928,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 130,
+      "localCoordinate": [
+        319,
+        8
+      ],
+      "throughBlock": null,
+      "englishSha256": "411f31a49f77522e64ab01560b0c65d1a9ef04e2367ea979ea828c261745ebc3",
+      "comparisonAramaicSha256": "efd1432d498ba0566126ab5d0639660c2062d13cc450b3bd859b45bb087b3415",
+      "localBlockSha256": "d1ae0d5fa5d52868e364c5c89d54aad1668b60ffb14d508f4af51c1c76a78d2c",
+      "coverage": 0.983696,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 131,
+      "localCoordinate": [
+        319,
+        9
+      ],
+      "throughBlock": null,
+      "englishSha256": "07be19675ca603afefc6be6e7ec3df13b8530da91a7ae60dbd3a5e0c8387fc47",
+      "comparisonAramaicSha256": "8edca4e0080e88484edb38f9f8a35fa013fa82c9512e3495cbd3c979d29c37fb",
+      "localBlockSha256": "304660bb98a074554eef713b01049182e12d7dc0bbaec524980cd8828175e7a1",
+      "coverage": 0.982353,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 132,
+      "localCoordinate": [
+        319,
+        10
+      ],
+      "throughBlock": null,
+      "englishSha256": "9ca1527f5674d7ae44b4db2e5a9dedcd3e8d6c06dddeb7c9e5f49452e64f0706",
+      "comparisonAramaicSha256": "4adedcafc6b392a1fa3ab78ff72c88040a2b991d0a9758aec1d25fd72a240313",
+      "localBlockSha256": "84dba71a1b8c9d24d31523f334c5d39c35acaa3ce0bd91978be4237669f4e3f6",
+      "coverage": 0.987603,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 133,
+      "localCoordinate": [
+        319,
+        10
+      ],
+      "throughBlock": null,
+      "englishSha256": "28e4b1ce443819eee331bcdd5b4bc7ca34657e8ddbdd69449f6f9e2dbff8cde7",
+      "comparisonAramaicSha256": "1f5dd27195d2b7d8f40a928a6a48bd6d4c30f9489ad19288bc303983554cb8ac",
+      "localBlockSha256": "84dba71a1b8c9d24d31523f334c5d39c35acaa3ce0bd91978be4237669f4e3f6",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 134,
+      "localCoordinate": [
+        319,
+        11
+      ],
+      "throughBlock": null,
+      "englishSha256": "af1aa0abeeae74d895fce2876d2f28771a834f27611fbb2f0dd6225dc91d8be2",
+      "comparisonAramaicSha256": "4b0a073a479ad116cc0dd11c52db8d83f8987870bd2511c6dfa5b2d279ca8bd4",
+      "localBlockSha256": "36418bbafd0ca91a165ec53e5dc1debcae01137202767990b671e74809da5266",
+      "coverage": 0.983957,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 135,
+      "localCoordinate": [
+        319,
+        12
+      ],
+      "throughBlock": null,
+      "englishSha256": "47870a8ef6bfd54a16c9f0ffdadbe4a3dd29c5f02cff4f0e58349342bdf326b7",
+      "comparisonAramaicSha256": "b46fb57e7c1a6d691b6532bb06ca097bea34d81e24f22779f76e18afc7a8710a",
+      "localBlockSha256": "3a7d2b9a0428641f77be429103a083cbd3dabd1445d4d9810b642907792b7332",
+      "coverage": 0.991098,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 136,
+      "localCoordinate": [
+        319,
+        13
+      ],
+      "throughBlock": null,
+      "englishSha256": "aa6f3af10e11126ca4bfe498971cbe98ef6ec5e7f02509704493f8c91d5422a9",
+      "comparisonAramaicSha256": "86aabf9a6e80727cff711232d24dfce93df50f54e69a3094f72a01236938cb6e",
+      "localBlockSha256": "ac8bb8d18e06ae9dfa4f06e01043f16e1ba35178c7c29e410e12b9d7a8e35bcc",
+      "coverage": 0.992105,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 137,
+      "localCoordinate": [
+        319,
+        14
+      ],
+      "throughBlock": null,
+      "englishSha256": "c9323a47af8d22ad4f498c8b50f2b868b2244fc264ef50526d696d3e05a9e9f2",
+      "comparisonAramaicSha256": "a7cabd0181d4d715e44a5ca6d6128556095cb2be8587e0e8f3db65294f17333f",
+      "localBlockSha256": "67232d186ea064527127cc0d532d38b4fbcf46e83fbe74147854541659d6788e",
+      "coverage": 0.988281,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 138,
+      "localCoordinate": [
+        319,
+        15
+      ],
+      "throughBlock": null,
+      "englishSha256": "bf80026367b42156757caaa41a4d4bdcfae103136a30a967b4a1af170805ab68",
+      "comparisonAramaicSha256": "c7e31ea97c36fa1bf5582deaec5056a1a5c3eeba6c94d8c03decf9d6777eab1c",
+      "localBlockSha256": "7d64df57a836600b62f19792f435726664329d2165ff1c0395d156b492cfc22d",
+      "coverage": 0.9819,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 139,
+      "localCoordinate": [
+        319,
+        16
+      ],
+      "throughBlock": null,
+      "englishSha256": "11e446a349df8e154a5d5d4e70adc257a62adcbef99a041eb03de7a85ab2aa5c",
+      "comparisonAramaicSha256": "9710841e8694cd69d77d248c05df740cf1d364c0750df8fbb0daf4d35a5204f6",
+      "localBlockSha256": "0ae3559c8fdb1ffab87337858b7ff3ae3a0f9d8c81656a65faea772b5d3dcf85",
+      "coverage": 0.992248,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 140,
+      "localCoordinate": [
+        319,
+        16
+      ],
+      "throughBlock": null,
+      "englishSha256": "c8f25c5ff5a881870718c7c3acab32275216235155374964532d2a81422f50d5",
+      "comparisonAramaicSha256": "908eac7766ea8b0d0af59bb4014b30a6988a7cc58a0eac7b07be50539b410fce",
+      "localBlockSha256": "0ae3559c8fdb1ffab87337858b7ff3ae3a0f9d8c81656a65faea772b5d3dcf85",
+      "coverage": 0.997238,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 141,
+      "localCoordinate": [
+        319,
+        16
+      ],
+      "throughBlock": null,
+      "englishSha256": "dff66b06903b194b414588a3957c4090d934bde3e786ed74f45701456d5af8d1",
+      "comparisonAramaicSha256": "c073f602bc9c3d75a36a13ebbb869588c1c941821235a883f870ce96bd12f404",
+      "localBlockSha256": "0ae3559c8fdb1ffab87337858b7ff3ae3a0f9d8c81656a65faea772b5d3dcf85",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 142,
+      "localCoordinate": [
+        319,
+        17
+      ],
+      "throughBlock": null,
+      "englishSha256": "1109e9591d4bd0c238b1151e1ddfca136b930af69ae8407d62465822defc96a0",
+      "comparisonAramaicSha256": "93643c01d5f329579148d010a2824f4ef7101c3cf713171b714d52e3cc3c5640",
+      "localBlockSha256": "bbbc2ebdcf7dcb4a10bf40c68caa54cadd185aa907a3660ae4ceb8b83f9993a9",
+      "coverage": 0.987234,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 143,
+      "localCoordinate": [
+        319,
+        18
+      ],
+      "throughBlock": null,
+      "englishSha256": "886b9b48efc33deb783dbae26e2d8f3f3aaa706563b9dfa4eb32a02a8d1d8d04",
+      "comparisonAramaicSha256": "2b704b5eacbb1faa43dc075da1c848f669954bd9d45b6233f48099e61720f49a",
+      "localBlockSha256": "d7dc09448b6753eb23409dc13074034263a8e391b05603278f7f2299d6497d4a",
+      "coverage": 0.979167,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 144,
+      "localCoordinate": [
+        319,
+        19
+      ],
+      "throughBlock": null,
+      "englishSha256": "3bf568477bb18e5bd89052c189e642db623490afaa09bd66de39af01d8090e9c",
+      "comparisonAramaicSha256": "198d5a659d3ee5d736230a36c93cd21a615b35e7c82fe9e9d53dbec6623596ee",
+      "localBlockSha256": "71d9fe788bb2da99ae09649c559af1527834f356685f4c8d88d6336873103e78",
+      "coverage": 0.982249,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 145,
+      "localCoordinate": [
+        319,
+        20
+      ],
+      "throughBlock": null,
+      "englishSha256": "1f2f8ee7e9b8164decd13dcd4d2a59c43ada1860718591edeeccdea5833a6c97",
+      "comparisonAramaicSha256": "dec75beb8ec83edd825c4e099df02367b7ab8c3dc3639045da715faeef1ffec7",
+      "localBlockSha256": "09daf563290007f834340ba208c582edf1938f4f9f4be97dc8a76dadf65235ff",
+      "coverage": 0.988281,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 146,
+      "localCoordinate": [
+        319,
+        21
+      ],
+      "throughBlock": null,
+      "englishSha256": "c58efa8afb0e91e1fa1a7f440dd25c9154f1738e623852ba0115e57166715287",
+      "comparisonAramaicSha256": "55ddd2211a78238ef84ad97584cd4eff68819c227c154141502dddea5fc55f4f",
+      "localBlockSha256": "aa4175ed41f44f2544a3a3bf1a8cd8466373e9420e806ad1f73c070ae2c4c4b7",
+      "coverage": 0.989619,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 147,
+      "localCoordinate": [
+        319,
+        22
+      ],
+      "throughBlock": null,
+      "englishSha256": "4629a5398d8bba81278ad23d29b89a45573bbbd11fa6e1829a894c5196d7670c",
+      "comparisonAramaicSha256": "9ec81c51565e01e7f5b8666a4f136c46fa938f5b2f7d08131c56e495cf3e9ecd",
+      "localBlockSha256": "a76127ebb9fc587611a631443209b17070b266572bc637e0727a94b47d441ad0",
+      "coverage": 0.972477,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 148,
+      "localCoordinate": [
+        319,
+        23
+      ],
+      "throughBlock": null,
+      "englishSha256": "01eb5823d58e03001ac175a82c7c043f947c405ec380852a61029e514ace33d0",
+      "comparisonAramaicSha256": "99866109734645f48f3cd00c17a4d365b44b505e3999dfbd6dc7b5132ac13b1e",
+      "localBlockSha256": "eed85e2572e7971205195e91e43ec0f4ce516a7394c21a73547f1befb9a5df20",
+      "coverage": 0.988636,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 149,
+      "localCoordinate": [
+        319,
+        23
+      ],
+      "throughBlock": null,
+      "englishSha256": "eeaeba8b1221153d2f1d1dd117869104c86f87dfc4ed07a8766fa8b14c5b709f",
+      "comparisonAramaicSha256": "ecfa44e584f514ba70ec80055f029e661938ad2b48cfdfce55198879ad1b3d25",
+      "localBlockSha256": "eed85e2572e7971205195e91e43ec0f4ce516a7394c21a73547f1befb9a5df20",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 150,
+      "localCoordinate": [
+        319,
+        24
+      ],
+      "throughBlock": null,
+      "englishSha256": "0df6bd954b89ab214daf5a614661f640bf81c4022e12cd9ea6d3ef10821e90dc",
+      "comparisonAramaicSha256": "a31a0ad1ac530e821e4bbb459bad8e0e3b4feb6e4534646c1090a5267be44c78",
+      "localBlockSha256": "f3b06b3f79792eadefeee2ffa482a13f2a0030233ab147447ea4bd2457e43ed2",
+      "coverage": 0.983871,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 151,
+      "localCoordinate": [
+        319,
+        24
+      ],
+      "throughBlock": null,
+      "englishSha256": "1159ef4535e06ce1cdb386f7022c8ae3aa45c46d2cbeb7d167ade14df6740b14",
+      "comparisonAramaicSha256": "1126e4f7074adb6a8cfae806bd1f72d50ef4d9c19888559a2dc26edcf469b010",
+      "localBlockSha256": "f3b06b3f79792eadefeee2ffa482a13f2a0030233ab147447ea4bd2457e43ed2",
+      "coverage": 1.0,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 152,
+      "localCoordinate": [
+        319,
+        25
+      ],
+      "throughBlock": null,
+      "englishSha256": "9a147e4ff318b481dc660ebb642757329945f2b0c03871f27b998a37bc670bb6",
+      "comparisonAramaicSha256": "06e90c797c8e8b2c0c8df2956cfb686f411b00c1fc2deecf3be7cae5abf1a0de",
+      "localBlockSha256": "dc8d0661f486549a92bf6b4afaf08827c899a1e672b7ba5c6b385b702c8ffffc",
+      "coverage": 0.982036,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 153,
+      "localCoordinate": [
+        319,
+        26
+      ],
+      "throughBlock": null,
+      "englishSha256": "a869a45aee20c3e16a6c49473cd96d54c1ff7b74cec353a74980c543076a455c",
+      "comparisonAramaicSha256": "49b5a28a85a7c799fd3a7c3277b7066abda7d10941db9980e2dd1681b5272f34",
+      "localBlockSha256": "9313ef58725f0bd880feb417c15a51662725bebad6e54b5a7fa082ba7a3c2f83",
+      "coverage": 0.990991,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 154,
+      "localCoordinate": [
+        319,
+        27
+      ],
+      "throughBlock": null,
+      "englishSha256": "62df67178d50cd152406ee6b9fb13b254e31cba9be3eeab42c0469cec5b07dea",
+      "comparisonAramaicSha256": "8625176054d504a6138610a909e5f1c5f8b13374f0ff71eba8b184730dd99f28",
+      "localBlockSha256": "e154046d9e381a975b0951593cfaf81355c0153bf6d617f8bf5aed4e795e62bb",
+      "coverage": 0.976,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 155,
+      "localCoordinate": [
+        319,
+        28
+      ],
+      "throughBlock": null,
+      "englishSha256": "5222fbf7b25f288146f5acc628cd8768b734162d6d85ba491e9b3b26ec41e1a8",
+      "comparisonAramaicSha256": "88d77fec9969b2245a4335eb2a4045c9507bff65cc28dac6e23e1c2348de2fb0",
+      "localBlockSha256": "9c1b8907822fa54a12cd41674ad8925efd750fe3a704648a2975486211977d80",
+      "coverage": 0.987342,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 156,
+      "localCoordinate": [
+        319,
+        29
+      ],
+      "throughBlock": null,
+      "englishSha256": "3f4d744f65b139dd77d9a7b2b417fd87b801a3cbd068c883100a66f14ec22b0b",
+      "comparisonAramaicSha256": "f4efc47608cecf6946775a137a1d8a93151c2962fc3fb102ff7d6a129cfe65d5",
+      "localBlockSha256": "72962cf65b88e82851ba157eda423428ee6b36beed02b81f9102d1d1746690ad",
+      "coverage": 0.978261,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 157,
+      "localCoordinate": [
+        319,
+        30
+      ],
+      "throughBlock": null,
+      "englishSha256": "d35d8a510cef485eb4908f375adb19cc12bdc8991f76553d71538d96b5f6a836",
+      "comparisonAramaicSha256": "7aae8fd6f18cf781b75dc85544bd6368fd3401f7db64e1de98de8d077a348997",
+      "localBlockSha256": "59822372c2f2e2f8040e5cfd38ee1148d7566767b9d3293f94a4622b6a0cba47",
+      "coverage": 0.986111,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 158,
+      "localCoordinate": [
+        319,
+        31
+      ],
+      "throughBlock": null,
+      "englishSha256": "95342323b5c1996a00f5b379ae55766dd1fdf8061dae111bd7a4b6259723608b",
+      "comparisonAramaicSha256": "3cafa9ffba5f027bb01af81eee9fda4a117e6faea12ebd32c43154020c8c659f",
+      "localBlockSha256": "6ca3110f3926475d5e6416ed1819e14bc382a72bec4306564b32739320f851da",
+      "coverage": 0.981132,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 159,
+      "localCoordinate": [
+        319,
+        32
+      ],
+      "throughBlock": null,
+      "englishSha256": "d22f7b47656e87c7146a76c0d510a72503fcf80c640f7c53b85984833b12e667",
+      "comparisonAramaicSha256": "e713d84f24614b1d63d104ce64b3727b1c61975b2858dc47573bae8662c8b7fa",
+      "localBlockSha256": "ade639498bc9512bd1fee518fe8522b1e15ddac2ccc0c5500ccfd364b7bdc6c0",
+      "coverage": 0.992337,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 160,
+      "localCoordinate": [
+        319,
+        33
+      ],
+      "throughBlock": null,
+      "englishSha256": "959e5d660bb02c3e95eb05c0d604215a6f231d7eec3dd9c89860623b61208da6",
+      "comparisonAramaicSha256": "da1e1d18be7f49cad03506919253fb72e59286bd21741f509f29e240612211e8",
+      "localBlockSha256": "ef1294e008cca36b659c0a8929a11fc6bd1fd2418e344ab5a609052e4fe3bd5e",
+      "coverage": 0.979167,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 161,
+      "localCoordinate": [
+        319,
+        34
+      ],
+      "throughBlock": null,
+      "englishSha256": "a061260c42182b3d7829368a13d2d8411ce8752668d8cc989e852a5a249fbb99",
+      "comparisonAramaicSha256": "c9bdb953d26b2d8c23d7ef237471243da049c8af08a6280de11f568736a77619",
+      "localBlockSha256": "c1e697c534f1f2b31b38a39c8c94fed18ad2c580e2a559604a3ee18521ee65dd",
+      "coverage": 0.989286,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 162,
+      "localCoordinate": [
+        319,
+        34
+      ],
+      "throughBlock": null,
+      "englishSha256": "5d8a6fec41b380687bac1064a4bf3ddd9fec17fa03370a1cb33965ff684c0dd0",
+      "comparisonAramaicSha256": "66fc83bb31b65f189d6cfa19172accff3357d1439b6c5b1221536fbe7070b3d9",
+      "localBlockSha256": "c1e697c534f1f2b31b38a39c8c94fed18ad2c580e2a559604a3ee18521ee65dd",
+      "coverage": 0.995833,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 163,
+      "localCoordinate": [
+        319,
+        35
+      ],
+      "throughBlock": null,
+      "englishSha256": "f4a282c9986972a6043fb8317bcbdeb16722ffc0b9c8bbb754f4084dd54902d4",
+      "comparisonAramaicSha256": "8c52dfee863f0221e6f1fa90039a5bf45d732bb7706946583e293fac39edf927",
+      "localBlockSha256": "adfab2c9f9d833ad97f01b90b445ed9efef6b34c92d1aa552a378100c5fff8e1",
+      "coverage": 0.971154,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 164,
+      "localCoordinate": [
+        319,
+        36
+      ],
+      "throughBlock": null,
+      "englishSha256": "0fdff6f52670995a6b4b847ab621c197130a912f1c55bd5f825a39cd1a4063b8",
+      "comparisonAramaicSha256": "c8e8ba64bf68e40f4c0b07690bf5fa71b53bdb8afffcf5cb8fb37e095c2f41e4",
+      "localBlockSha256": "a12b4d361d395ead406a549cd0dc08902793c7ba51aa9199ae08b5b7ab4b464c",
+      "coverage": 0.986726,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 165,
+      "localCoordinate": [
+        319,
+        37
+      ],
+      "throughBlock": null,
+      "englishSha256": "d4fc16458bf9a463c325a92fe844fef72d5923fab39de9fa7702f037444665f4",
+      "comparisonAramaicSha256": "6bba30456ab3885f966d5d488cb7d508afa92b899d3ea354ebc828790054a730",
+      "localBlockSha256": "0b5da14059fb0e1acd79f7af52e95f1bfa46f948b98934c369795d5078f7cb4b",
+      "coverage": 0.988048,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 166,
+      "localCoordinate": [
+        319,
+        38
+      ],
+      "throughBlock": null,
+      "englishSha256": "c9a1c668ddfa1222a0d81db32ed6dd14402298461a12dcbc846e515da68c18d6",
+      "comparisonAramaicSha256": "989afe20f0cafd0f6930db17c58b440280d6d12df81cf8abcbb7f455ae802cb0",
+      "localBlockSha256": "a154def56e4c1d501d8262be232f73fe2b97d6c4583bdf2029fa52a60425ba23",
+      "coverage": 0.982558,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 167,
+      "localCoordinate": [
+        319,
+        39
+      ],
+      "throughBlock": 40,
+      "englishSha256": "7ab3bb75a386a741966ecbded58fc74e0026b71f1767d5eb4792fa558a173839",
+      "comparisonAramaicSha256": "93012b20de3fc55448841c850c2a2ba5e1d08d3f85240712ad25014b46493a53",
+      "localBlockSha256": "d874ea783281e649e0b1f492e024d4f8e443bb325afa4c24187582cfac5f4ab8",
+      "throughBlockSha256": "a2e27ba183d1927398bac46af8efabb1c8140761e9528b3d25e76dd69078df89",
+      "coverage": 0.988889,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 168,
+      "localCoordinate": [
+        319,
+        41
+      ],
+      "throughBlock": null,
+      "englishSha256": "439e33fc0e92c15e30d41c8c0fb948c07115f0c90849173493003d7963809066",
+      "comparisonAramaicSha256": "6cf491e2aa029de37043ae7ab9d34cf02c22235d046c686d97247e2f8fc90dea",
+      "localBlockSha256": "9b3cbe56ed3cce02ef524617357d48decd825bfbf835afd532f03a4d5682bc38",
+      "coverage": 0.988806,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 169,
+      "localCoordinate": [
+        319,
+        42
+      ],
+      "throughBlock": null,
+      "englishSha256": "95815fda771f7cfa966feed259827d4cdac9fbaea164b040975fb6e63148d9c9",
+      "comparisonAramaicSha256": "5eb8903b9cb4c3e6f34636e81fb4070294ba8c0a931271c6a47b7c37b747f581",
+      "localBlockSha256": "e042f390a3d1f3592a59188d1ba350c91b4e9f6b6c2dbaec7d6131975c903719",
+      "coverage": 0.989744,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 170,
+      "localCoordinate": [
+        319,
+        43
+      ],
+      "throughBlock": null,
+      "englishSha256": "5fd23addf0b0927f0435f951ffa28220c9776d04808acd0d077bf612807c1a68",
+      "comparisonAramaicSha256": "4a754e2775cdfa21a01ed105a4d9708bdda79183bf4160b61ea69df4c7cae6bf",
+      "localBlockSha256": "fafc28ef3ece6310451c2b2e4d922d0eb213563262bdbda8098c50cc71afce46",
+      "coverage": 0.981481,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 171,
+      "localCoordinate": [
+        319,
+        44
+      ],
+      "throughBlock": null,
+      "englishSha256": "aae24d27a373b8828494db092780f1130f12ce7c83df90fa8fc3b2b320dfbb25",
+      "comparisonAramaicSha256": "c6220e5f1e3dbb727d691aabf36276f47c8aa161d29db67bd4d286a792c2659a",
+      "localBlockSha256": "c6db2b063e85921ef01a54f8bc5aa2844f74dc7420878091269d9f98990af558",
+      "coverage": 0.987069,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 172,
+      "localCoordinate": [
+        320,
+        1
+      ],
+      "throughBlock": 2,
+      "englishSha256": "cbb417ac6a0221c799694a97b8df612e326f0b0a874dc8134bbd069d2896bc03",
+      "comparisonAramaicSha256": "033d44eaefbae42b3136b06d0991cb322bd5b6815a5877adf86ec2b3d68acbb5",
+      "localBlockSha256": "a62a5a04fa1911428be04e2c6a6b88df1fe7d5d25a487933990b830b20cf507f",
+      "throughBlockSha256": "0ddf2639d9d80c1407e362192bb547cbaf18c11b1be3f685cd12abee4355f6a2",
+      "coverage": 0.988189,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 173,
+      "localCoordinate": [
+        320,
+        2
+      ],
+      "throughBlock": null,
+      "englishSha256": "1998793d53108f38a0111909c8c8214fad48aa7db398597550fceacedab076e3",
+      "comparisonAramaicSha256": "76af7ebbfa0e46bffba14ff6b0673f81fdda62bf8bfc1a113590f07752390a5b",
+      "localBlockSha256": "0ddf2639d9d80c1407e362192bb547cbaf18c11b1be3f685cd12abee4355f6a2",
+      "coverage": 0.991736,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 174,
+      "localCoordinate": [
+        320,
+        3
+      ],
+      "throughBlock": null,
+      "englishSha256": "0a8f86ce9215881488d7c5f12f71af8a41271fcca741a98cb583068d56b173e9",
+      "comparisonAramaicSha256": "eb4db321713d53f676f0a578838619ad6f1d9970b8ebb8504ebf928d49d5e15c",
+      "localBlockSha256": "021560305b623616e66f29b66c087601eb300a6549c240e38a9cdeb350355462",
+      "coverage": 0.992925,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 175,
+      "localCoordinate": [
+        320,
+        4
+      ],
+      "throughBlock": null,
+      "englishSha256": "4ef75a36030a139b4f5e21ca44487de909fffae69f786880cd1edb4f1929441b",
+      "comparisonAramaicSha256": "1d1faeedee1291e472ba3f97db4cb17e1ab6eb604bcbc5dffe7c622e62301cea",
+      "localBlockSha256": "00bcfcb34d42f35ee5026089089b28729827226d22e5c0239af9d4b567345a78",
+      "coverage": 0.984615,
+      "basis": "Unique normalized Aramaic correspondence in the retained Wikisource edition."
+    },
+    {
+      "sourcePassage": 176,
+      "localCoordinate": [
+        320,
+        5
+      ],
+      "throughBlock": 6,
+      "englishSha256": "53e179aefedda75478f12c0d1cd4c27c67efbf34736047222c7d1a6f475f02d2",
+      "comparisonAramaicSha256": "8bd7d0860a3d35453f5ad1b48e1c6edaba8534ea50c3137b55422dda2977e6a1",
+      "localBlockSha256": "fa2ba36c90ab17e7ee06cd626ac0f5b5fd9f2d23a2f068588af1ec7ab9e36399",
+      "throughBlockSha256": "68a6478ee63ae3d025273efaf14bd6735f711a1898d6fa58166e90b79f116d79",
+      "coverage": 0.983516,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 177,
+      "localCoordinate": [
+        320,
+        7
+      ],
+      "throughBlock": 8,
+      "englishSha256": "8d3d7f248d83fa37fd020ff8ec7ab6177fa1f64dbd164e231fe8bfc7d3dbc415",
+      "comparisonAramaicSha256": "1c8c9fb864edf4844e4440e78444bcf9c06c4c3a76d3346dea80ffa5b433a9de",
+      "localBlockSha256": "a51bb3ced3d99237573854c8a7890ded061f8d45da1ee6f0b2d0dbee8402f5e8",
+      "throughBlockSha256": "709838b457d921a95ef7a27bf5d61a50037a7f4378dc58b860b0ea297344f8da",
+      "coverage": 0.987234,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 178,
+      "localCoordinate": [
+        320,
+        9
+      ],
+      "throughBlock": 10,
+      "englishSha256": "6baee18bf8acbe756d82f56c0bac66cf4349c011c9b790c5552d28ccb4ff4626",
+      "comparisonAramaicSha256": "2b75bd43abe4aa87af272966f9004d6440728cc39dcfe0f0cca9329bfa75bc5f",
+      "localBlockSha256": "27cf65eb82dc9a350ef88bf771d3dc7ffb7619e638f233acf02c069097f4c6b7",
+      "throughBlockSha256": "881f2807d793b7a41c8bf457eee272769ab095ac1397fa0ae60d7745f2c56738",
+      "coverage": 0.984211,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 179,
+      "localCoordinate": [
+        320,
+        10
+      ],
+      "throughBlock": 11,
+      "englishSha256": "c66b4443178674207499dab9003f2674f24cdf5fb6d6bab0f76b0359b0d07c45",
+      "comparisonAramaicSha256": "27f461b0a3422e2e128cbbbec453e701f1f4d3710fb3eeb0ab1b697ec213e63f",
+      "localBlockSha256": "881f2807d793b7a41c8bf457eee272769ab095ac1397fa0ae60d7745f2c56738",
+      "throughBlockSha256": "45ac1b941fa125c6f56d465b9b0505b83ba87f5fb250f1fff7ba71ba56076687",
+      "coverage": 1.0,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    },
+    {
+      "sourcePassage": 180,
+      "localCoordinate": [
+        320,
+        12
+      ],
+      "throughBlock": 13,
+      "englishSha256": "583d2355ea526b612f3de6eca52521842d3ef5b898703c03be89d9616f668df5",
+      "comparisonAramaicSha256": "4541ce59f0a277b13a6499d1e7fae681eb3b0bc83bbaf88ce54fc77a3f9a6e74",
+      "localBlockSha256": "453112b6216abf4e53aed0f92237a4839b6251da5e11b643375bff7619512874",
+      "throughBlockSha256": "dc436706187e99310f47e0d0a3417a192e0143a80197fcf344c48fcba3e278f6",
+      "coverage": 0.989899,
+      "basis": "Ordered Aramaic correspondence, including adjacent reading blocks when needed; minor edition differences remain."
+    }
+  ],
+  "unmatched": [],
+  "limitations": "180 nonempty source passages aligned by Aramaic correspondence; small edition differences remain. Correspondence checks placement, not translation quality or independent legal certification. The other community-English Zohar edition remains on hold."
+}

@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "work": "Minchat Chinukh",
+  "parentPath": "Rabbinic/Minchat Chinukh",
+  "editionName": "Minchat Chinukh — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Sifrei%20Mitzvot/Minchat%20Chinukh/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/5b4617b7e1ad932450a4.json",
+  "sourceRawSha256": "c66019c93e2edeb5d2b6f78338db9f013c17b137a84fa196aba40d1be2fd4bda",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Minchat Chinukh; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Minchat Chinukh",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Sifrei%20Mitzvot/Minchat%20Chinukh/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/5b4617b7e1ad932450a4.json",
+    "sourceRawSha256": "c66019c93e2edeb5d2b6f78338db9f013c17b137a84fa196aba40d1be2fd4bda",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Minchat%20Chinukh",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Minchat%20Chinukh",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/3d51dc2d689b2273c1f1-versions.json",
+      "rawSha256": "14e31b7b76928d53b249639338307179e4e4a9d9b77aa41948982454e1ab9774",
+      "retrievedAt": "2026-10-30T04:25:33.984Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Minchat Chinukh",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Minchat Chinukh 1:1"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "1 · 1",
+      "sourcePosition": [
+        "",
+        1,
+        1
+      ],
+      "payloadSha256": "1aeea27a3c53b4bbeb251bf341dbaede5e74e5deb129bb2424a5bfb362032949",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            1,
+            1,
+            1
+          ],
+          "sourceTextSha256": "bff2905d6aaef1fd041c314d7bfedcb2e657b640b7c031860097a36f640aee3a",
+          "retainedTextSha256": "bff2905d6aaef1fd041c314d7bfedcb2e657b640b7c031860097a36f640aee3a"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "1 · 2",
+      "sourcePosition": [
+        "",
+        1,
+        2
+      ],
+      "payloadSha256": "02e3f49d6df6651637810d402c3a3d2a6abb9720dd45d355afab1c995293f4c0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            1,
+            2,
+            1
+          ],
+          "sourceTextSha256": "da1a48f0a9505ddabfe7c53b6b414c09b8a8c5bc17ae563a03a7874b633995a2",
+          "retainedTextSha256": "da1a48f0a9505ddabfe7c53b6b414c09b8a8c5bc17ae563a03a7874b633995a2"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "3 · 1",
+      "sourcePosition": [
+        "",
+        3,
+        1
+      ],
+      "payloadSha256": "6b196f60475edebd478f88e2cd06713745f1abf26b3b84c693390acec25dba21",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            3,
+            1,
+            1
+          ],
+          "sourceTextSha256": "e2e90c26aa8790406436a8b9753e825ce90caa10d67198ebbe1b879c37bef2b4",
+          "retainedTextSha256": "e2e90c26aa8790406436a8b9753e825ce90caa10d67198ebbe1b879c37bef2b4"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "306 · 1",
+      "sourcePosition": [
+        "",
+        306,
+        1
+      ],
+      "payloadSha256": "4382804ec5ae177d0c98ab1142c06b4c0371ea35ee526880b82630626dfb4ae8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            306,
+            1,
+            1
+          ],
+          "sourceTextSha256": "7c2393654105c56abcd1a6e3ceff4dc7c3ed6e7ef1da11fa0b0e2a7720dbc335",
+          "retainedTextSha256": "7c2393654105c56abcd1a6e3ceff4dc7c3ed6e7ef1da11fa0b0e2a7720dbc335"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "label": "613 · 1",
+      "sourcePosition": [
+        "",
+        613,
+        1
+      ],
+      "payloadSha256": "50901c011f71718a8aca3aec561fb1bcf111989732507d83fa92d88b04597664",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            613,
+            1,
+            1
+          ],
+          "sourceTextSha256": "b3b12002c92b2ebdd25f19ac956d5aa2477661fe993e1f267470191f6afcf706",
+          "retainedTextSha256": "b3b12002c92b2ebdd25f19ac956d5aa2477661fe993e1f267470191f6afcf706"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "label": "Kometz Mincha · 237",
+      "sourcePosition": [
+        "Kometz Mincha",
+        237
+      ],
+      "payloadSha256": "e8a67007d709ed449e6c170ac6d1c4adda3633177a4940bcc2e6695283ee4c55",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Kometz Mincha",
+            237,
+            1
+          ],
+          "sourceTextSha256": "1bdc6e833f703c163de869709cf4f12454513f086925bd2b8d7f3cc351d20415",
+          "retainedTextSha256": "1bdc6e833f703c163de869709cf4f12454513f086925bd2b8d7f3cc351d20415"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 6,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.543Z"
+}

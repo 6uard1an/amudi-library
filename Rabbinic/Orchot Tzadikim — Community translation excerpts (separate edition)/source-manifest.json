@@ -1,0 +1,656 @@
+{
+  "schemaVersion": 1,
+  "work": "Orchot Tzadikim",
+  "parentPath": "Rabbinic/Orchot Tzadikim",
+  "editionName": "Orchot Tzadikim — Community translation excerpts (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Musar/Rishonim/Orchot%20Tzadikim/English/Sefaria%20Community%20Translation.json",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Orchot Tzadikim, original work; Sefaria Community Translation; Sefaria Export. Translator/contributor credit as supplied by the exact source edition.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/2107c68219a12cd2fdd7.json",
+  "sourceRawSha256": "017a5510c977a887b6d380cd918238cd766edcc1f5e4b19c76c78f1174dc6f17",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Orchot%20Tzadikim",
+    "rawSha256": "354bba440239bde4fd506398fa2511934a09c8e7a2ce1269729bc9dead27d7f9",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-ec508ba934ac1f8f855b.json",
+    "versionTitle": "Sefaria Community Translation",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC0"
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "1",
+      "sourcePosition": [
+        "",
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            1,
+            1
+          ],
+          "sourceTextSha256": "348348036267fa046df6956d6bff62c93c2f7b89c711056c6a8cdcab6dd4a8e7",
+          "retainedTextSha256": "348348036267fa046df6956d6bff62c93c2f7b89c711056c6a8cdcab6dd4a8e7"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "",
+            1,
+            2
+          ],
+          "sourceTextSha256": "a85b5f9b30f68bebef37f5d19c809032896fa8766f38c3b9ebe166a9416995c4",
+          "retainedTextSha256": "a85b5f9b30f68bebef37f5d19c809032896fa8766f38c3b9ebe166a9416995c4"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "",
+            1,
+            3
+          ],
+          "sourceTextSha256": "3658e2f084fa6815f6904525e29bc8d36e1674c98bf1722a540532579a8a9178",
+          "retainedTextSha256": "3658e2f084fa6815f6904525e29bc8d36e1674c98bf1722a540532579a8a9178"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "",
+            1,
+            4
+          ],
+          "sourceTextSha256": "553798e05e9fc573dc13c2734fabbc78b0425235d787cf4b1c1d9a783e457de7",
+          "retainedTextSha256": "553798e05e9fc573dc13c2734fabbc78b0425235d787cf4b1c1d9a783e457de7"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "",
+            1,
+            5
+          ],
+          "sourceTextSha256": "314d7a00520c4cfa0e3280ba3cf22edfeb8441a3c7657bf071f1b6cbe76a6a88",
+          "retainedTextSha256": "314d7a00520c4cfa0e3280ba3cf22edfeb8441a3c7657bf071f1b6cbe76a6a88"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "",
+            1,
+            6
+          ],
+          "sourceTextSha256": "ec9d06a05ad4d7097f82ed5b33ebcb980915ebeec18c58c19990af8f2bee1052",
+          "retainedTextSha256": "ec9d06a05ad4d7097f82ed5b33ebcb980915ebeec18c58c19990af8f2bee1052"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "",
+            1,
+            7
+          ],
+          "sourceTextSha256": "355ce86abe11b8524d7c839e50e1d9a371234d5ab2c6f8248537784ac44a6aee",
+          "retainedTextSha256": "355ce86abe11b8524d7c839e50e1d9a371234d5ab2c6f8248537784ac44a6aee"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "",
+            1,
+            8
+          ],
+          "sourceTextSha256": "37e610c52757702e02a33fc974d4611550be8d7221515a77d45d78272ca0b9ae",
+          "retainedTextSha256": "37e610c52757702e02a33fc974d4611550be8d7221515a77d45d78272ca0b9ae"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "",
+            1,
+            9
+          ],
+          "sourceTextSha256": "b56a5c838145a7fece3e04c51d215e1532ab90b285cbbb7a85a5b32dae2abcb3",
+          "retainedTextSha256": "b56a5c838145a7fece3e04c51d215e1532ab90b285cbbb7a85a5b32dae2abcb3"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "",
+            1,
+            10
+          ],
+          "sourceTextSha256": "1e7a489d1ba755b29798caf7d807f3df36a1af012046287c9522859e20533940",
+          "retainedTextSha256": "1e7a489d1ba755b29798caf7d807f3df36a1af012046287c9522859e20533940"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "",
+            1,
+            11
+          ],
+          "sourceTextSha256": "ed9ebf3b8b020c9bb4fa0bf1a6adee913a1a18704baedd1f1a226b488a88c2f9",
+          "retainedTextSha256": "ed9ebf3b8b020c9bb4fa0bf1a6adee913a1a18704baedd1f1a226b488a88c2f9"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "",
+            1,
+            12
+          ],
+          "sourceTextSha256": "c06d355776521762750d77c435d7a5cfae25162d785a80a66c54574cbbbf6d3c",
+          "retainedTextSha256": "c06d355776521762750d77c435d7a5cfae25162d785a80a66c54574cbbbf6d3c"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "",
+            1,
+            13
+          ],
+          "sourceTextSha256": "f93e3c289781c2ba9ee41a5a184989fd3bf82a2632fb1172511c0837a84b63d5",
+          "retainedTextSha256": "f93e3c289781c2ba9ee41a5a184989fd3bf82a2632fb1172511c0837a84b63d5"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "",
+            1,
+            14
+          ],
+          "sourceTextSha256": "cbdf61ee8d5ad71d11005b5e0c76a09321861c38b56506aace390f729aa652dc",
+          "retainedTextSha256": "cbdf61ee8d5ad71d11005b5e0c76a09321861c38b56506aace390f729aa652dc"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "",
+            1,
+            15
+          ],
+          "sourceTextSha256": "f0a0bc1695fd6893eaf60cc366a214a4d9dfdb200f2591649ef800750fa4c8ea",
+          "retainedTextSha256": "f0a0bc1695fd6893eaf60cc366a214a4d9dfdb200f2591649ef800750fa4c8ea"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "",
+            1,
+            16
+          ],
+          "sourceTextSha256": "506a0eb7e33861a20ebb186aee1f9d2af1d14ff8450e3e9053365912b78ccb47",
+          "retainedTextSha256": "506a0eb7e33861a20ebb186aee1f9d2af1d14ff8450e3e9053365912b78ccb47"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "",
+            1,
+            17
+          ],
+          "sourceTextSha256": "54cd02fb5ae7335735bf768dc87850cd0acb14f0eee206e53a4b5eb174ae0273",
+          "retainedTextSha256": "54cd02fb5ae7335735bf768dc87850cd0acb14f0eee206e53a4b5eb174ae0273"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "",
+            1,
+            18
+          ],
+          "sourceTextSha256": "3a7e171b965353770c8043c2d3cea4547765ea41ed53565e8910f41d905afddf",
+          "retainedTextSha256": "3a7e171b965353770c8043c2d3cea4547765ea41ed53565e8910f41d905afddf"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "",
+            1,
+            19
+          ],
+          "sourceTextSha256": "73a9b5d14dac69c3e583bac1dc516cd41929703908e8cd349aeaaa29a15c60e1",
+          "retainedTextSha256": "73a9b5d14dac69c3e583bac1dc516cd41929703908e8cd349aeaaa29a15c60e1"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "",
+            1,
+            20
+          ],
+          "sourceTextSha256": "9c9bd2d802d6164a9b9ae30dbf33ad5e5bf7cc49e842bee72f209d0182ae2f83",
+          "retainedTextSha256": "9c9bd2d802d6164a9b9ae30dbf33ad5e5bf7cc49e842bee72f209d0182ae2f83"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "",
+            1,
+            21
+          ],
+          "sourceTextSha256": "051b24cc711ae42ec8e3dda7ad80f36280d3d980872dc6af4656a855b085497a",
+          "retainedTextSha256": "051b24cc711ae42ec8e3dda7ad80f36280d3d980872dc6af4656a855b085497a"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "",
+            1,
+            22
+          ],
+          "sourceTextSha256": "7a4d004ffcfa5dcd4bc05522c45fcde7dff9ab6065e751ab0f082ed4cd6db396",
+          "retainedTextSha256": "7a4d004ffcfa5dcd4bc05522c45fcde7dff9ab6065e751ab0f082ed4cd6db396"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "",
+            1,
+            23
+          ],
+          "sourceTextSha256": "ed4b04ca3575a09dabd58e024da882f6846a296cd6e2fb2e570e831f29091408",
+          "retainedTextSha256": "ed4b04ca3575a09dabd58e024da882f6846a296cd6e2fb2e570e831f29091408"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "",
+            1,
+            24
+          ],
+          "sourceTextSha256": "6abf1932404277c6a12d34a860cd061f93c4a19d48393ea7ce1f48a2baa919b6",
+          "retainedTextSha256": "6abf1932404277c6a12d34a860cd061f93c4a19d48393ea7ce1f48a2baa919b6"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "",
+            1,
+            25
+          ],
+          "sourceTextSha256": "45340c21cd2bf507908e21a959aac3cfaf0b09cb38b3acf61fac8ec7d2a35f89",
+          "retainedTextSha256": "45340c21cd2bf507908e21a959aac3cfaf0b09cb38b3acf61fac8ec7d2a35f89"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "",
+            1,
+            26
+          ],
+          "sourceTextSha256": "6d458cfc7333227c61a6e03954983ad4bce0961142f9ec6b9e3c2392267578df",
+          "retainedTextSha256": "6d458cfc7333227c61a6e03954983ad4bce0961142f9ec6b9e3c2392267578df"
+        }
+      ],
+      "payloadSha256": "dd8a7c4b0002f16a422ac28b59eee9e5d0183abfcb142178703e8cf895641367"
+    },
+    {
+      "chapter": 2,
+      "label": "2",
+      "sourcePosition": [
+        "",
+        2
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            2,
+            2
+          ],
+          "sourceTextSha256": "8e08a4e87e0e319a2556ad8d720d5f87ef57b3d3b1ff7ae978d88d850eb5ebc9",
+          "retainedTextSha256": "8e08a4e87e0e319a2556ad8d720d5f87ef57b3d3b1ff7ae978d88d850eb5ebc9"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "",
+            2,
+            3
+          ],
+          "sourceTextSha256": "984a28d30340de9ee5ebec861a8cc5721c25bd81c875d2ec47a7fecf80492680",
+          "retainedTextSha256": "984a28d30340de9ee5ebec861a8cc5721c25bd81c875d2ec47a7fecf80492680"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "",
+            2,
+            4
+          ],
+          "sourceTextSha256": "f23c60850ea60966450c198f7414d553804116c4ef8c0e93b9871cf9b15fb136",
+          "retainedTextSha256": "f23c60850ea60966450c198f7414d553804116c4ef8c0e93b9871cf9b15fb136"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "",
+            2,
+            5
+          ],
+          "sourceTextSha256": "8c71a5fdd005857b58d7be16089816521f7914f6c2b8e97bc66c1db3b69d0a4b",
+          "retainedTextSha256": "8c71a5fdd005857b58d7be16089816521f7914f6c2b8e97bc66c1db3b69d0a4b"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "",
+            2,
+            6
+          ],
+          "sourceTextSha256": "bc2ad50bea14980be36ad137036b672d59f0c72f36ce834aa4246ffe12b0a1f8",
+          "retainedTextSha256": "bc2ad50bea14980be36ad137036b672d59f0c72f36ce834aa4246ffe12b0a1f8"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "",
+            2,
+            7
+          ],
+          "sourceTextSha256": "742d926111d09737e4edc23f6076ab02e2680ee8f55946a2eb6d15b0238005bd",
+          "retainedTextSha256": "742d926111d09737e4edc23f6076ab02e2680ee8f55946a2eb6d15b0238005bd"
+        }
+      ],
+      "payloadSha256": "069dde446746bb3c106c34e40361f48f7a4870e7793407395f3a018641c15994"
+    },
+    {
+      "chapter": 3,
+      "label": "17",
+      "sourcePosition": [
+        "",
+        17
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            17,
+            1
+          ],
+          "sourceTextSha256": "1581abdbf120a1243ddc25246fe1f899ccd3b1e515d7c151fe6c5a5c266b24a1",
+          "retainedTextSha256": "1581abdbf120a1243ddc25246fe1f899ccd3b1e515d7c151fe6c5a5c266b24a1"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "",
+            17,
+            2
+          ],
+          "sourceTextSha256": "2350fd9c2295fc948cd45939be6c723eef5dc244081bd2efb39445497bc50059",
+          "retainedTextSha256": "2350fd9c2295fc948cd45939be6c723eef5dc244081bd2efb39445497bc50059"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "",
+            17,
+            3
+          ],
+          "sourceTextSha256": "ac704e597043bcbc758624a2e938b3bf4529296d7de078effc8bdc9e0d885145",
+          "retainedTextSha256": "ac704e597043bcbc758624a2e938b3bf4529296d7de078effc8bdc9e0d885145"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "",
+            17,
+            4
+          ],
+          "sourceTextSha256": "55b839e04deec47067cd3392ff7d512cdeaa4bdfa81999ac6295e25139889960",
+          "retainedTextSha256": "55b839e04deec47067cd3392ff7d512cdeaa4bdfa81999ac6295e25139889960"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "",
+            17,
+            5
+          ],
+          "sourceTextSha256": "b90ff568bb6730660773fc2ebe3ffc65540b1f86ab5235d7d88752fbf099672a",
+          "retainedTextSha256": "b90ff568bb6730660773fc2ebe3ffc65540b1f86ab5235d7d88752fbf099672a"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "",
+            17,
+            6
+          ],
+          "sourceTextSha256": "6033432b972f97ffedbb9e9b2040df82c889fac51b8e049956633e34739d6314",
+          "retainedTextSha256": "6033432b972f97ffedbb9e9b2040df82c889fac51b8e049956633e34739d6314"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "",
+            17,
+            7
+          ],
+          "sourceTextSha256": "9caf2ee5a5a6ee87f57a4c942cde19569c30c8cc842ff6f915aa2682670f3581",
+          "retainedTextSha256": "9caf2ee5a5a6ee87f57a4c942cde19569c30c8cc842ff6f915aa2682670f3581"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "",
+            17,
+            12
+          ],
+          "sourceTextSha256": "ca49bbb70a6d003428f0c3dbf5d6c7f931caf9a394f60eda4640ebb4b61dd071",
+          "retainedTextSha256": "ca49bbb70a6d003428f0c3dbf5d6c7f931caf9a394f60eda4640ebb4b61dd071"
+        }
+      ],
+      "payloadSha256": "6b4b85e2ff5a91f2d2fcc5e72e577c9f5f58f21cfccbd31ac7accc086be9eb11"
+    },
+    {
+      "chapter": 4,
+      "label": "19",
+      "sourcePosition": [
+        "",
+        19
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            19,
+            5
+          ],
+          "sourceTextSha256": "88ef07239d6a455da3d1d2cbc4b42acb0709e4dcdd8122aa7a9e6a5b4867c4e3",
+          "retainedTextSha256": "88ef07239d6a455da3d1d2cbc4b42acb0709e4dcdd8122aa7a9e6a5b4867c4e3"
+        }
+      ],
+      "payloadSha256": "a1c6e503cd409165f27c7f9f3ffd5bc675e536de5f22f2d99433bb37aa9c830d"
+    },
+    {
+      "chapter": 5,
+      "label": "Simanei Sefer HaMiddot",
+      "sourcePosition": [
+        "Simanei Sefer HaMiddot"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            1
+          ],
+          "sourceTextSha256": "f17d736dad1ddc9c86b435fa77d59022b6f4957b256719bcc48f690a908bade3",
+          "retainedTextSha256": "f17d736dad1ddc9c86b435fa77d59022b6f4957b256719bcc48f690a908bade3"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            2
+          ],
+          "sourceTextSha256": "5ea7aeef5fcbb6a69609e945e95086e3a9d7b8bc430794766d4ed59e07685394",
+          "retainedTextSha256": "5ea7aeef5fcbb6a69609e945e95086e3a9d7b8bc430794766d4ed59e07685394"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            3
+          ],
+          "sourceTextSha256": "c0c02c2e45fe9efaaa1236d9a5bf7daa5c16163fbf92ec0b02c636a31aac2aec",
+          "retainedTextSha256": "c0c02c2e45fe9efaaa1236d9a5bf7daa5c16163fbf92ec0b02c636a31aac2aec"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            4
+          ],
+          "sourceTextSha256": "51dc63f5d6dd5393d00ee6b112be64ec7b0671b9f73d888930a5f18b9220dc86",
+          "retainedTextSha256": "51dc63f5d6dd5393d00ee6b112be64ec7b0671b9f73d888930a5f18b9220dc86"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            5
+          ],
+          "sourceTextSha256": "d2c196c45fa9bff73a7682cbc0e2309440b19cfad3d3b9eac21f40b48128efa0",
+          "retainedTextSha256": "d2c196c45fa9bff73a7682cbc0e2309440b19cfad3d3b9eac21f40b48128efa0"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            6
+          ],
+          "sourceTextSha256": "24e520f7ca194b6b84f2ccbf0c7fd10c66de3b986822058c73216582b0854080",
+          "retainedTextSha256": "24e520f7ca194b6b84f2ccbf0c7fd10c66de3b986822058c73216582b0854080"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            7
+          ],
+          "sourceTextSha256": "6f8f72ff2c37eeab42a8713a9d86231d646977b5b9d405eec4fa331b89437a74",
+          "retainedTextSha256": "6f8f72ff2c37eeab42a8713a9d86231d646977b5b9d405eec4fa331b89437a74"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            8
+          ],
+          "sourceTextSha256": "5c515c1725816e6e6b8b84d416dc9bdda7d8f890356effd2e68b22700120fe83",
+          "retainedTextSha256": "5c515c1725816e6e6b8b84d416dc9bdda7d8f890356effd2e68b22700120fe83"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            9
+          ],
+          "sourceTextSha256": "e2d056b082f8a38a8b4a8199070bd16565e996f4274f46f85573fe53dc7146e9",
+          "retainedTextSha256": "e2d056b082f8a38a8b4a8199070bd16565e996f4274f46f85573fe53dc7146e9"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            10
+          ],
+          "sourceTextSha256": "e4119105be2d98a12ffc04eb6cfba5d01d3efe6bbce966e98b775702a926d48c",
+          "retainedTextSha256": "e4119105be2d98a12ffc04eb6cfba5d01d3efe6bbce966e98b775702a926d48c"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            11
+          ],
+          "sourceTextSha256": "76203287b5ef06b407b3962fb35ccfe8555835e8a084a5fa627c5a04b7448262",
+          "retainedTextSha256": "76203287b5ef06b407b3962fb35ccfe8555835e8a084a5fa627c5a04b7448262"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            12
+          ],
+          "sourceTextSha256": "b1dbf19c527822f290c48381a1dbf9c7550211da9edf6aacaa169d700ac53306",
+          "retainedTextSha256": "b1dbf19c527822f290c48381a1dbf9c7550211da9edf6aacaa169d700ac53306"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            13
+          ],
+          "sourceTextSha256": "7d07d28ad98eb0162a1ac68d8ce57811646c91acb9480c283bd55e8690b66b8c",
+          "retainedTextSha256": "7d07d28ad98eb0162a1ac68d8ce57811646c91acb9480c283bd55e8690b66b8c"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            14
+          ],
+          "sourceTextSha256": "ac07b98d828e9eed8ebd0be2eca678a84b26f10e2ea61f9232414b62b3ec5872",
+          "retainedTextSha256": "ac07b98d828e9eed8ebd0be2eca678a84b26f10e2ea61f9232414b62b3ec5872"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            15
+          ],
+          "sourceTextSha256": "d7012f1cb72984c66e748317b7c72688c3500592a502518029864eb2683a54a9",
+          "retainedTextSha256": "d7012f1cb72984c66e748317b7c72688c3500592a502518029864eb2683a54a9"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            16
+          ],
+          "sourceTextSha256": "d11dcd00d130946dcb2f0e5a871316e5edaf5776c72682aed7a3ae3083d60939",
+          "retainedTextSha256": "d11dcd00d130946dcb2f0e5a871316e5edaf5776c72682aed7a3ae3083d60939"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            17
+          ],
+          "sourceTextSha256": "7b77d08fd2a0800fd14e584dfea890d11062f2c8665350e03796568e52971e7f",
+          "retainedTextSha256": "7b77d08fd2a0800fd14e584dfea890d11062f2c8665350e03796568e52971e7f"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Simanei Sefer HaMiddot",
+            18
+          ],
+          "sourceTextSha256": "86bff3d9c12e931d292df55cc0407b194805a40967b9c2c2b86b887269031073",
+          "retainedTextSha256": "86bff3d9c12e931d292df55cc0407b194805a40967b9c2c2b86b887269031073"
+        }
+      ],
+      "payloadSha256": "32021a236a8cc557278c5cc5601d0e2a187ca7cc89d96ba5e90fba1489ef946b"
+    }
+  ],
+  "sourceEntries": 59,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T03:51:15.341Z"
+}

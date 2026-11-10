@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "work": "Turei Zahav on Shulchan Arukh, Yoreh De'ah",
+  "parentPath": "Rabbinic/Turei Zahav on Shulchan Arukh, Yoreh De'ah",
+  "editionName": "Turei Zahav on Shulchan Arukh, Yoreh De'ah — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Turei%20Zahav/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Yoreh%20De%27ah/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/62a1fd3bf103fec1bd4f.json",
+  "sourceRawSha256": "700b169a90a15769154d804a8f62e7002b5a4ed2b161481b7929133bf99370c8",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Turei Zahav on Shulchan Arukh, Yoreh De'ah; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Turei Zahav on Shulchan Arukh, Yoreh De'ah",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Turei%20Zahav/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Yoreh%20De%27ah/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/62a1fd3bf103fec1bd4f.json",
+    "sourceRawSha256": "700b169a90a15769154d804a8f62e7002b5a4ed2b161481b7929133bf99370c8",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Yoreh%20De'ah",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Yoreh%20De'ah",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/11b6e078c8f9cd922608-versions.json",
+      "rawSha256": "394dd7d20d9ec60276eb7592756643f54bc9146841abc26b6de5506f5044616d",
+      "retrievedAt": "2026-10-30T04:25:35.429Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Turei Zahav on Shulchan Arukh, Yoreh De'ah",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Turei Zahav on Shulchan Arukh, Yoreh De'ah 16"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "16",
+      "sourcePosition": [
+        16
+      ],
+      "payloadSha256": "d986ef45e97a08fd5a2c8de4e6f27cbebaa7511adf10381be424a7f3d4c4f4c3",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            16,
+            15
+          ],
+          "sourceTextSha256": "73776ecbc4e3d353d86206e6da77dbc05cc7fab37a912cd66142bf6704da2d92",
+          "retainedTextSha256": "b9f29e8e4f3cd5d7d2f8a82731a835d2c9312a5ecfecbaada7ca0d3970098725"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "87",
+      "sourcePosition": [
+        87
+      ],
+      "payloadSha256": "5aa77235752c6353e440dcfc86498aab8b866bfae76623a8ba9b796ed2b8ccea",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            87,
+            1
+          ],
+          "sourceTextSha256": "738e39eb9cd143624207edfec9dceceace3d715dd738e8a70be102f39ccd94d7",
+          "retainedTextSha256": "738e39eb9cd143624207edfec9dceceace3d715dd738e8a70be102f39ccd94d7"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            87,
+            2
+          ],
+          "sourceTextSha256": "98e647f49e3c618867d22504cccafb7fa98e61291b9f545470d7c5cf21e72201",
+          "retainedTextSha256": "98e647f49e3c618867d22504cccafb7fa98e61291b9f545470d7c5cf21e72201"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            87,
+            4
+          ],
+          "sourceTextSha256": "02e4e082213f6630569657cda515b5eab32c29e3ae30bdaad784ea7a60fe06c4",
+          "retainedTextSha256": "02e4e082213f6630569657cda515b5eab32c29e3ae30bdaad784ea7a60fe06c4"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            87,
+            5
+          ],
+          "sourceTextSha256": "fac0d52400bf40bb7930a9a3a86d80d8b2f4cc71c184e8d3ad603240359ebff7",
+          "retainedTextSha256": "fac0d52400bf40bb7930a9a3a86d80d8b2f4cc71c184e8d3ad603240359ebff7"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "98",
+      "sourcePosition": [
+        98
+      ],
+      "payloadSha256": "14ab24f475edfcd02d31e6b60f6025b34131179692d29afdf6f48d00cac202aa",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            98,
+            1
+          ],
+          "sourceTextSha256": "08fa34c24d5729e2183820bbe8bcafbc3a0b186283f6a2a47575ef907aa30b73",
+          "retainedTextSha256": "08fa34c24d5729e2183820bbe8bcafbc3a0b186283f6a2a47575ef907aa30b73"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            98,
+            2
+          ],
+          "sourceTextSha256": "1209f9b728a7c244bd7ffde5d23dd5a4070d677016d9d413df11adfb3b754a86",
+          "retainedTextSha256": "1209f9b728a7c244bd7ffde5d23dd5a4070d677016d9d413df11adfb3b754a86"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            98,
+            3
+          ],
+          "sourceTextSha256": "7e79410d7beb7ddb9afc1df336419157387a9c76d0a221982d45d5192b8cabf6",
+          "retainedTextSha256": "0db9adef7e67bfa2e89a36f4354fa155eb8dd3b385c8afe2d68176aba9c99b93"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            98,
+            8
+          ],
+          "sourceTextSha256": "ad75100bed7c761e99f9096e307ac1c4a82519bb84995dda10bf059d249423c2",
+          "retainedTextSha256": "ad75100bed7c761e99f9096e307ac1c4a82519bb84995dda10bf059d249423c2"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "99",
+      "sourcePosition": [
+        99
+      ],
+      "payloadSha256": "7c9b4fb0b30965180e82fe5185fcd9fe62d453b56a2c8a1a9aa58f42266fa3fb",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            99,
+            1
+          ],
+          "sourceTextSha256": "05bbb12f89d9f5519ab5e9b9ba78ab5348c23b9ac92461b4f61d19fd6f9cd749",
+          "retainedTextSha256": "1edc8cb4d149ac83d9f107f3b7adf3ca3e57d73ca8b2386b5902a72729852a18"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            99,
+            15
+          ],
+          "sourceTextSha256": "b0fddef58c76e0c8bc13050011d8687504f4cd6bae4104ff2b4cdd6b733773a6",
+          "retainedTextSha256": "a2fc4e5215b71d9c341db402e9b0b1a9b0a2b9dcef01ee12f4d7701885b9c764"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "label": "141",
+      "sourcePosition": [
+        141
+      ],
+      "payloadSha256": "d0c468a27d327f9480801ea921ea7aa9b49f150723c49c553e18b79365db7cc6",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            141,
+            1
+          ],
+          "sourceTextSha256": "9c291402c9a3593c09b3730051cc1ed2dd3f097ba22efb28f761465d1b21df02",
+          "retainedTextSha256": "9c291402c9a3593c09b3730051cc1ed2dd3f097ba22efb28f761465d1b21df02"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            141,
+            2
+          ],
+          "sourceTextSha256": "873e81b736ac5fc3bc7a34d8b0afe677538cab5ef5d4242dceaf71089cd5a4e4",
+          "retainedTextSha256": "873e81b736ac5fc3bc7a34d8b0afe677538cab5ef5d4242dceaf71089cd5a4e4"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            141,
+            7
+          ],
+          "sourceTextSha256": "479e7f876869a18200c8846a66973ac3ea7f3b2c97000f8675f028fa33d888cd",
+          "retainedTextSha256": "479e7f876869a18200c8846a66973ac3ea7f3b2c97000f8675f028fa33d888cd"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            141,
+            12
+          ],
+          "sourceTextSha256": "8d48782002b550eb2d014691ada74f84bde285ce41fdfa0ca8249e1b17df984a",
+          "retainedTextSha256": "8d48782002b550eb2d014691ada74f84bde285ce41fdfa0ca8249e1b17df984a"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "label": "158",
+      "sourcePosition": [
+        158
+      ],
+      "payloadSha256": "9d9b9e89811f5bdb14bbf796fa9a9b45cdd2688846999d1ee18485ac7e6605f9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            158,
+            1
+          ],
+          "sourceTextSha256": "a739c45d4c7b063486758473a2dffc18c03d00ec1b8cab0ffee460467311e8dd",
+          "retainedTextSha256": "a739c45d4c7b063486758473a2dffc18c03d00ec1b8cab0ffee460467311e8dd"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "label": "395",
+      "sourcePosition": [
+        395
+      ],
+      "payloadSha256": "fb2efd99f601c35b6f2bfe6401ea1ffdea9ad02ba669b0ea4a4ccb71fff0344f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            395,
+            2
+          ],
+          "sourceTextSha256": "335c82a0459c7f02d399df35cf5f93341988f0dc4b38667944fb67bc5ce8702a",
+          "retainedTextSha256": "335c82a0459c7f02d399df35cf5f93341988f0dc4b38667944fb67bc5ce8702a"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 17,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:37.355Z"
+}

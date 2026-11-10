@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "work": "Duties of the Heart",
+  "parentPath": "Rabbinic/Duties of the Heart",
+  "editionName": "Duties of the Heart — Community translation excerpts (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Duties%20of%20the%20Heart/Duties%20of%20the%20Heart/English/Sefaria%20Community%20Translation.json",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Duties of the Heart, original work; Sefaria Community Translation; Sefaria Export. Translator/contributor credit as supplied by the exact source edition.",
+  "changeNotice": "Stored a typed English excerpt as a separate source-ordered edition. An unrelated personal note and a separate passage with unresolved attribution were excluded. Inline formatting and link wrappers were removed; no OCR or new translation was performed.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/00d9cb86560fe2a3ac72.json",
+  "sourceRawSha256": "44fa58389d532eaf6af57ea3aaeae8b79029c11699a33cdfe4a5edbabc9c400b",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Duties%20of%20the%20Heart",
+    "rawSha256": "da6dae2a89dd8c441b1d2e87cb23247aeaa6eaccf96ec7daceff4785a1b5574e",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-dcec3e442d922a3647c9.json",
+    "versionTitle": "Sefaria Community Translation",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC0"
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Introduction of the Author",
+      "sourcePosition": [
+        "Introduction of the Author"
+      ],
+      "entries": [],
+      "payloadSha256": "8f8fb7bf28536280dd954b6ab05b56719f198e1f1cd22bb6c75be217e7e56e2d"
+    },
+    {
+      "chapter": 2,
+      "label": "First Treatise on Unity · 10",
+      "sourcePosition": [
+        "First Treatise on Unity",
+        "",
+        10
+      ],
+      "entries": [],
+      "payloadSha256": "f07e896e9a462464562a2addb368b20395b91a86c2380c0085ec2f343ebecff1"
+    },
+    {
+      "chapter": 3,
+      "label": "Fourth Treatise on Trust · 1",
+      "sourcePosition": [
+        "Fourth Treatise on Trust",
+        "",
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Fourth Treatise on Trust",
+            "",
+            1,
+            1
+          ],
+          "sourceTextSha256": "0a0c6c20b1ec48ab4bee222668d0aaf04c2679edfaca8856bf918ea002e66181",
+          "retainedTextSha256": "0a0c6c20b1ec48ab4bee222668d0aaf04c2679edfaca8856bf918ea002e66181"
+        }
+      ],
+      "payloadSha256": "efe98812b0f7bcc8d7b95020f84893ec3419622d99df0965995e1efee6610699"
+    }
+  ],
+  "sourceEntries": 1,
+  "allOriginalSourcePositionsRetained": false,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T03:51:11.826Z",
+  "excludedSourceEntries": [
+    {
+      "sourcePosition": [
+        "Introduction of the Author",
+        2
+      ],
+      "reason": "Personal note, not translation",
+      "sourceTextSha256": "baaa8238d33144deeed60748ecadbc8be0cc6eaae5b182cff50976488e76d8b7"
+    },
+    {
+      "sourcePosition": [
+        "First Treatise on Unity",
+        "",
+        10,
+        50
+      ],
+      "sourceTextSha256": "363a86bdfadb0f5e682dc790ca8673f1202df964ec6194e4e56d07ba834d6815",
+      "reason": "Community-labeled excerpt closely matches separately attributed Sebag CC BY text; withheld pending attribution and rights review.",
+      "evidence": "Amudi/data/rights/duties-heart-community-source-review-20261104.json"
+    }
+  ]
+}

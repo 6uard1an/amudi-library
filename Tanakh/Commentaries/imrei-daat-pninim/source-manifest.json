@@ -1,0 +1,664 @@
+{
+  "id": "imrei-daat-pninim",
+  "title": "Imrei Daat on Proverbs",
+  "hebrewTitle": "אמרי דעת על משלי",
+  "book": "Proverbs",
+  "hebrewBook": "משלי",
+  "chapters": 31,
+  "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת",
+  "sourceTree": {
+    "url": "https://gitlab.com/pninim.org/pninim/-/tree/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/תנך/כתובים/משלי/פרושים/אמרי_דעת",
+    "sha256": "1459d446ad90081061a0e4ee052281efbcac8c24e3e775ebae2e3a6465534546",
+    "commit": "dbbae3b61a66f266a60c75fac458d489d3ae7c8c"
+  },
+  "sourceFiles": [
+    {
+      "name": "index",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/index",
+      "gitBlobSha1": "5dd8fb8b91fcd43a01e925d36f1b17e480da4dfa",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/index",
+      "sha256": "30ed69fbe16ecd7265280dbe39f2eded0d1ef8fb0e69e5f9ae039c0909e1570b"
+    },
+    {
+      "name": "א",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/א",
+      "gitBlobSha1": "4686adcc90bd1cb88fd1da9438c6454887134969",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%90",
+      "sha256": "529b64f403c0b364d6ff0cf75dfce5c0caec0626e89cf67bded797322ff7f258"
+    },
+    {
+      "name": "ב",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ב",
+      "gitBlobSha1": "12c3113a2fbea2684dd2336da0c3b60af345e702",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%91",
+      "sha256": "e930d60eb2dcef6128a29acda00c40a72d4b07f5085a05ceaab48edf05be55d0"
+    },
+    {
+      "name": "ג",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ג",
+      "gitBlobSha1": "70e3a9f578a0d22c0b3ccf52f51dcd2b536e4363",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%92",
+      "sha256": "84dcc5942e0f3b4fdbf1e7293c3f98192a541d381e524ddde15acdddfa732859"
+    },
+    {
+      "name": "ד",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ד",
+      "gitBlobSha1": "8b44a589a527166c9b5864c93ff34c3ab533f2b4",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%93",
+      "sha256": "6e88fb5d39f3f3dfccb66137c0a0ab9b7378eb7e3492af543395834f7d2be377"
+    },
+    {
+      "name": "ה",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ה",
+      "gitBlobSha1": "f9e4ae88089438b26380013da3bb0cad9fed8b73",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%94",
+      "sha256": "f9c1558ee81bb67517b96acd832908075cd313413d4519f6b64df9e5e3f3af4f"
+    },
+    {
+      "name": "הקדמת_המוציא_לאור",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/הקדמת_המוציא_לאור",
+      "gitBlobSha1": "11401d913f5cc3c61072e02f1aba4289513fe275",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%AA_%D7%94%D7%9E%D7%95%D7%A6%D7%99%D7%90_%D7%9C%D7%90%D7%95%D7%A8",
+      "sha256": "3370e76d004aa3d6794069014436e1a91d1fb951a5bb9f193063f90af94c4e91"
+    },
+    {
+      "name": "ו",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ו",
+      "gitBlobSha1": "af0fe7d5b8ce786c3a909287a2ac6ee077c8749e",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%95",
+      "sha256": "913a13aa116bb3635e6256472fd202cab4eb57fe2c359680b5a5caa41ef46f93"
+    },
+    {
+      "name": "ז",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ז",
+      "gitBlobSha1": "f53e518e74c58f14060ee4075d5717184dbf993a",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%96",
+      "sha256": "a5d4941fd94f1f652ad20a61a104440cc11d6d4716954a46d94adbd673e88c29"
+    },
+    {
+      "name": "ח",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ח",
+      "gitBlobSha1": "6673f6e38ddaeed79c4dcaf976c75ec7ee0e7313",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%97",
+      "sha256": "de9a52d465c7741ca02e076baae73edc671e80cfd02f61db1e9e759f14c3e5c9"
+    },
+    {
+      "name": "ט",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ט",
+      "gitBlobSha1": "528968a956294fa5bb933710e5f0ac8e00bc85da",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%98",
+      "sha256": "92b347a1cd01479ff3bdecc8db910413a0d9685e3286a38f838b2c4b86fd9df7"
+    },
+    {
+      "name": "טו",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/טו",
+      "gitBlobSha1": "7c48909617a4a9282798814835b745c525ab43a9",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%98%D7%95",
+      "sha256": "65089c141a8e47789d9a93ae421ff7ba09bee0616ec9f6c970552e0f7c3f9ba0"
+    },
+    {
+      "name": "טז",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/טז",
+      "gitBlobSha1": "0addccd99c251b88887b6b01a92f596bdd61209a",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%98%D7%96",
+      "sha256": "93b6d3aa196318f1e4f09eb77fc1a42cef35fed40e1c2f8c589df5d8984b3531"
+    },
+    {
+      "name": "י",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/י",
+      "gitBlobSha1": "f2b81b3bc67b862313c21a753fd99ae9a595ea73",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99",
+      "sha256": "2e5060c2631ad4bbfa83c75dfd3659c1dbf9723e6d4075a4418b8e46ae04e6ae"
+    },
+    {
+      "name": "יא",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/יא",
+      "gitBlobSha1": "6f80a62a9e58f727b9b67981b22842cb0e42c9a1",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%90",
+      "sha256": "808bbd85f2bf4b271c2ecedcd69c085911b91a4a953e985f2cf1cb912770aac3"
+    },
+    {
+      "name": "יב",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/יב",
+      "gitBlobSha1": "84b3159c180865b1fd82ac87f6b1c3301ae3d1e9",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%91",
+      "sha256": "33abb75b98066fc6d9ff5bb9ca7569275e67134c3fc0c753eb934dc20e3216dd"
+    },
+    {
+      "name": "יג",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/יג",
+      "gitBlobSha1": "7027b9e37c7138be1571b25ac97ec77e72ec1787",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%92",
+      "sha256": "8ee52b94f6cd5527433b2c25066eabfcd82788ed839230018bbb82f754a68b43"
+    },
+    {
+      "name": "יד",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/יד",
+      "gitBlobSha1": "43439f5f3f1ba17f620570a082c64367ba14699c",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%93",
+      "sha256": "b00c6f9ef0f52ffe0e37ff573bb791ec07c40a8cd266c54e27bb6dd2d561677b"
+    },
+    {
+      "name": "יז",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/יז",
+      "gitBlobSha1": "c32f129f016188d17dfaadf94e3b21e133032ab9",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%96",
+      "sha256": "30875ee9d1fe54c9b0d3605511a45fe5832c5d9c0eacea244dcdfaddd5f08393"
+    },
+    {
+      "name": "יח",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/יח",
+      "gitBlobSha1": "fc283aad0f5cd4228eaf59e5206a9a41f16ed3c0",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%97",
+      "sha256": "3f150486caa2b02a5031fb86cc2192e0e7501466c7323c9d8770f413b35fca08"
+    },
+    {
+      "name": "יט",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/יט",
+      "gitBlobSha1": "d384391d7f52ce7b27b7774f2231908dbc843216",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%98",
+      "sha256": "6255e1dd1f2e5928524f7cd6d3b1074aa294fac86ea0a6493d2a1c5449145f40"
+    },
+    {
+      "name": "כ",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כ",
+      "gitBlobSha1": "fa788e6e168b1d7ddf3363863447a3443d85cb39",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B",
+      "sha256": "2ab7a078956214d689e7fc970a52e19b3cec51a71181cebe759591174ab7dad9"
+    },
+    {
+      "name": "כא",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כא",
+      "gitBlobSha1": "66afdd3423f179812ce0a4afd59682898018f9f4",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%90",
+      "sha256": "8c153c80555695e0db54b8f8b7c6573c8b51593b21a51520bfdbf3ebb515e4dc"
+    },
+    {
+      "name": "כב",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כב",
+      "gitBlobSha1": "859a7e356c4a67954b1dde1b01ae57c92d8f794f",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%91",
+      "sha256": "82e4443129c7033f10d513b416e1140f9a9ab2519326e9cd2ec3668a1f20c7c3"
+    },
+    {
+      "name": "כג",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כג",
+      "gitBlobSha1": "bcae05aaacd5a51e0373b79c86248761b70512f7",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%92",
+      "sha256": "f77a84111779f6315e4fdf670424c6b6147251355f61f3d95538a516bf298dc6"
+    },
+    {
+      "name": "כד",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כד",
+      "gitBlobSha1": "642cfc74fdfd4f1f216350e328fafb285f0b4ee0",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%93",
+      "sha256": "367a1aba98e35ce3248b106ed5922fd7f4a481a44027eddc874e55ff21204772"
+    },
+    {
+      "name": "כה",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כה",
+      "gitBlobSha1": "e5c7204b7025e51d38461330eba954ed59353388",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%94",
+      "sha256": "6d0b4c7850fcee4b870567576fa77b7f0277185eb53e647eab0f690a9248eaa4"
+    },
+    {
+      "name": "כו",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כו",
+      "gitBlobSha1": "be9a3758a92d759ffde89fd3d29a5a9ad79a5582",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%95",
+      "sha256": "cb0ef2def6ab5fa80990a1bb90e9f74204900424b2a1b53f8cccd2ca70e535df"
+    },
+    {
+      "name": "כז",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כז",
+      "gitBlobSha1": "39c41f5d6fae3d996599c8e5f2c49f0dbc74c544",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%96",
+      "sha256": "c5669716c00667e2efac187d4a0e23a1f5069234ad88ffd383d30ecb34b2020d"
+    },
+    {
+      "name": "כח",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כח",
+      "gitBlobSha1": "4a533d8ad2bb09611052449874685808a479314b",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%97",
+      "sha256": "738a6ad66f57e2152643e457d93007a1c173f80d51c881e8189735c95db1d1c8"
+    },
+    {
+      "name": "כט",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/כט",
+      "gitBlobSha1": "193abb4dab96b27ad7548c60f0d7a637fc629d3a",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%98",
+      "sha256": "9d922ceaa5a9146e3a1bc5b94ff05bfcebe64faf119daa4e25bff5f3f146557c"
+    },
+    {
+      "name": "ל",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/ל",
+      "gitBlobSha1": "d682c41e5811bdfa00e551f79816d82b9217b84e",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9C",
+      "sha256": "21b7518435d7b4da36c698e3e97d926effb96bf3065d2cfde385b885808c860e"
+    },
+    {
+      "name": "לא",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/לא",
+      "gitBlobSha1": "294e0e7add469d1ed82ea064ef87dd87fdd185e3",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9C%D7%90",
+      "sha256": "a5b2cfc5dfba4cfaa01fdb0fdd0f32a33c0b46b872946a7a57a53146eeb74742"
+    },
+    {
+      "name": "מגדל_עז",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/מגדל_עז",
+      "gitBlobSha1": "83aec571331bcdeb492500733c994ed10ee50d38",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9E%D7%92%D7%93%D7%9C_%D7%A2%D7%96",
+      "sha256": "92a27468e1e05508211c897518032b596b5f90b1b62104d799b020ccffba9cb2"
+    },
+    {
+      "name": "מנחה_מזכרת_אהבה",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/מנחה_מזכרת_אהבה",
+      "gitBlobSha1": "e34c3b62b299c741f976627840bdcf38ebf7a872",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9E%D7%A0%D7%97%D7%94_%D7%9E%D7%96%D7%9B%D7%A8%D7%AA_%D7%90%D7%94%D7%91%D7%94",
+      "sha256": "d0762ff48bf77b41f2cbe1d19df96b4586bbc5120c34c10097da700a9f21464c"
+    },
+    {
+      "name": "שער",
+      "path": "תנך/כתובים/משלי/פרושים/אמרי_דעת/שער",
+      "gitBlobSha1": "39f191c955d3e558380c882c5affbcb065de7363",
+      "url": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%A9%D7%A2%D7%A8",
+      "sha256": "97d546a2369f10bec26d94cef98d038bf27d91da5204931ab520f589e4c53021"
+    }
+  ],
+  "format": "ordinary book preserving chapter-level source granularity",
+  "chapterManifest": [
+    {
+      "chapter": 1,
+      "sourceName": "א",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%90",
+      "sourceSha256": "529b64f403c0b364d6ff0cf75dfce5c0caec0626e89cf67bded797322ff7f258",
+      "sourceBlobSha1": "4686adcc90bd1cb88fd1da9438c6454887134969",
+      "file": "Original/1.json",
+      "outputSha256": "095d6e580b17b4276fd9273ffe2f94cb25806c9b5f7fcfedc7cc9bde76ca8f13",
+      "paragraphs": 14,
+      "words": 5004
+    },
+    {
+      "chapter": 2,
+      "sourceName": "ב",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%91",
+      "sourceSha256": "e930d60eb2dcef6128a29acda00c40a72d4b07f5085a05ceaab48edf05be55d0",
+      "sourceBlobSha1": "12c3113a2fbea2684dd2336da0c3b60af345e702",
+      "file": "Original/2.json",
+      "outputSha256": "671b96b154da5611f9e0ce1fd63cd29b0eb9ab3d8a0aa5f8dda049f149745166",
+      "paragraphs": 1,
+      "words": 1707
+    },
+    {
+      "chapter": 3,
+      "sourceName": "ג",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%92",
+      "sourceSha256": "84dcc5942e0f3b4fdbf1e7293c3f98192a541d381e524ddde15acdddfa732859",
+      "sourceBlobSha1": "70e3a9f578a0d22c0b3ccf52f51dcd2b536e4363",
+      "file": "Original/3.json",
+      "outputSha256": "856441d568e8f557f41325edcd3ae68fd4656b0a5e34fa412968fe54af1498e7",
+      "paragraphs": 2,
+      "words": 3720
+    },
+    {
+      "chapter": 4,
+      "sourceName": "ד",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%93",
+      "sourceSha256": "6e88fb5d39f3f3dfccb66137c0a0ab9b7378eb7e3492af543395834f7d2be377",
+      "sourceBlobSha1": "8b44a589a527166c9b5864c93ff34c3ab533f2b4",
+      "file": "Original/4.json",
+      "outputSha256": "1a952b6df92dbdb1870e67502564ca8f8125495023881723d72ec126f4f19212",
+      "paragraphs": 2,
+      "words": 3214
+    },
+    {
+      "chapter": 5,
+      "sourceName": "ה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%94",
+      "sourceSha256": "f9c1558ee81bb67517b96acd832908075cd313413d4519f6b64df9e5e3f3af4f",
+      "sourceBlobSha1": "f9e4ae88089438b26380013da3bb0cad9fed8b73",
+      "file": "Original/5.json",
+      "outputSha256": "b39754363ac4808b594c3cfc48ca149d11006f6a4517c453fa25ee0fb325ad3a",
+      "paragraphs": 1,
+      "words": 3146
+    },
+    {
+      "chapter": 6,
+      "sourceName": "ו",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%95",
+      "sourceSha256": "913a13aa116bb3635e6256472fd202cab4eb57fe2c359680b5a5caa41ef46f93",
+      "sourceBlobSha1": "af0fe7d5b8ce786c3a909287a2ac6ee077c8749e",
+      "file": "Original/6.json",
+      "outputSha256": "071c611f15a3fc990dd13739be4b291e5371030af2edb84e245e941158cd39f9",
+      "paragraphs": 1,
+      "words": 4900
+    },
+    {
+      "chapter": 7,
+      "sourceName": "ז",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%96",
+      "sourceSha256": "a5d4941fd94f1f652ad20a61a104440cc11d6d4716954a46d94adbd673e88c29",
+      "sourceBlobSha1": "f53e518e74c58f14060ee4075d5717184dbf993a",
+      "file": "Original/7.json",
+      "outputSha256": "b92b451d99345a6c368dd3d7fc1a0bfde3f65724117f6f9d96d2a9c79d7c2895",
+      "paragraphs": 1,
+      "words": 2012
+    },
+    {
+      "chapter": 8,
+      "sourceName": "ח",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%97",
+      "sourceSha256": "de9a52d465c7741ca02e076baae73edc671e80cfd02f61db1e9e759f14c3e5c9",
+      "sourceBlobSha1": "6673f6e38ddaeed79c4dcaf976c75ec7ee0e7313",
+      "file": "Original/8.json",
+      "outputSha256": "8b63e789a32720ed92bedb40d811aba5ae2242b0dede5be2bbf23f4e3f85a429",
+      "paragraphs": 1,
+      "words": 4311
+    },
+    {
+      "chapter": 9,
+      "sourceName": "ט",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%98",
+      "sourceSha256": "92b347a1cd01479ff3bdecc8db910413a0d9685e3286a38f838b2c4b86fd9df7",
+      "sourceBlobSha1": "528968a956294fa5bb933710e5f0ac8e00bc85da",
+      "file": "Original/9.json",
+      "outputSha256": "64504d2e8376e75846ae30db1227381c95eb6d2e6879929779b8a2281f1cb15d",
+      "paragraphs": 1,
+      "words": 1123
+    },
+    {
+      "chapter": 10,
+      "sourceName": "י",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99",
+      "sourceSha256": "2e5060c2631ad4bbfa83c75dfd3659c1dbf9723e6d4075a4418b8e46ae04e6ae",
+      "sourceBlobSha1": "f2b81b3bc67b862313c21a753fd99ae9a595ea73",
+      "file": "Original/10.json",
+      "outputSha256": "54ec1522132bd5f7633cd407a46818c2b1759ac3b47330ed6c408420aec4f186",
+      "paragraphs": 1,
+      "words": 2709
+    },
+    {
+      "chapter": 11,
+      "sourceName": "יא",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%90",
+      "sourceSha256": "808bbd85f2bf4b271c2ecedcd69c085911b91a4a953e985f2cf1cb912770aac3",
+      "sourceBlobSha1": "6f80a62a9e58f727b9b67981b22842cb0e42c9a1",
+      "file": "Original/11.json",
+      "outputSha256": "361c10fbf78914f55841e3159f87513fe480a983fa9f9f9b2eae00f15f97c0ac",
+      "paragraphs": 1,
+      "words": 1452
+    },
+    {
+      "chapter": 12,
+      "sourceName": "יב",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%91",
+      "sourceSha256": "33abb75b98066fc6d9ff5bb9ca7569275e67134c3fc0c753eb934dc20e3216dd",
+      "sourceBlobSha1": "84b3159c180865b1fd82ac87f6b1c3301ae3d1e9",
+      "file": "Original/12.json",
+      "outputSha256": "2c925cb14184aec9941559e9e31b5948dea5b3d0a8f0b1e1909e414378b15de1",
+      "paragraphs": 1,
+      "words": 799
+    },
+    {
+      "chapter": 13,
+      "sourceName": "יג",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%92",
+      "sourceSha256": "8ee52b94f6cd5527433b2c25066eabfcd82788ed839230018bbb82f754a68b43",
+      "sourceBlobSha1": "7027b9e37c7138be1571b25ac97ec77e72ec1787",
+      "file": "Original/13.json",
+      "outputSha256": "cdb8e147fa82e93d275ee2c5995c4766c2802b928c953578dea51e6600b366ec",
+      "paragraphs": 1,
+      "words": 922
+    },
+    {
+      "chapter": 14,
+      "sourceName": "יד",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%93",
+      "sourceSha256": "b00c6f9ef0f52ffe0e37ff573bb791ec07c40a8cd266c54e27bb6dd2d561677b",
+      "sourceBlobSha1": "43439f5f3f1ba17f620570a082c64367ba14699c",
+      "file": "Original/14.json",
+      "outputSha256": "a77de3b9cf03e104e73a9c0085512c8c476b08cf9495d74f37b1953d01c830b2",
+      "paragraphs": 1,
+      "words": 1770
+    },
+    {
+      "chapter": 15,
+      "sourceName": "טו",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%98%D7%95",
+      "sourceSha256": "65089c141a8e47789d9a93ae421ff7ba09bee0616ec9f6c970552e0f7c3f9ba0",
+      "sourceBlobSha1": "7c48909617a4a9282798814835b745c525ab43a9",
+      "file": "Original/15.json",
+      "outputSha256": "8c72443a680b92b69cafd0d9a2581d165eca6050400e0a05ad23a829715abd3e",
+      "paragraphs": 1,
+      "words": 876
+    },
+    {
+      "chapter": 16,
+      "sourceName": "טז",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%98%D7%96",
+      "sourceSha256": "93b6d3aa196318f1e4f09eb77fc1a42cef35fed40e1c2f8c589df5d8984b3531",
+      "sourceBlobSha1": "0addccd99c251b88887b6b01a92f596bdd61209a",
+      "file": "Original/16.json",
+      "outputSha256": "13dc62f77de60ead7f3f189e49de7d5cff3aa3ede03b54bbab987ffbcefc48e0",
+      "paragraphs": 1,
+      "words": 1201
+    },
+    {
+      "chapter": 17,
+      "sourceName": "יז",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%96",
+      "sourceSha256": "30875ee9d1fe54c9b0d3605511a45fe5832c5d9c0eacea244dcdfaddd5f08393",
+      "sourceBlobSha1": "c32f129f016188d17dfaadf94e3b21e133032ab9",
+      "file": "Original/17.json",
+      "outputSha256": "033558ab7fede847df342d947a3eedb4781b364b9cd85eb1e276002d56d697ca",
+      "paragraphs": 1,
+      "words": 982
+    },
+    {
+      "chapter": 18,
+      "sourceName": "יח",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%97",
+      "sourceSha256": "3f150486caa2b02a5031fb86cc2192e0e7501466c7323c9d8770f413b35fca08",
+      "sourceBlobSha1": "fc283aad0f5cd4228eaf59e5206a9a41f16ed3c0",
+      "file": "Original/18.json",
+      "outputSha256": "4d09ecb497673a84245df16db46e05c5b8902ab1d3959f59755caa41a89c6e5b",
+      "paragraphs": 1,
+      "words": 871
+    },
+    {
+      "chapter": 19,
+      "sourceName": "יט",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%99%D7%98",
+      "sourceSha256": "6255e1dd1f2e5928524f7cd6d3b1074aa294fac86ea0a6493d2a1c5449145f40",
+      "sourceBlobSha1": "d384391d7f52ce7b27b7774f2231908dbc843216",
+      "file": "Original/19.json",
+      "outputSha256": "0feeb04e1a365b45c7720b0b2ae2c90e5f5b4c6521b63f4c5a8c2061d2a2bbe3",
+      "paragraphs": 1,
+      "words": 457
+    },
+    {
+      "chapter": 20,
+      "sourceName": "כ",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B",
+      "sourceSha256": "2ab7a078956214d689e7fc970a52e19b3cec51a71181cebe759591174ab7dad9",
+      "sourceBlobSha1": "fa788e6e168b1d7ddf3363863447a3443d85cb39",
+      "file": "Original/20.json",
+      "outputSha256": "0bd0e3b3c4331940f88cdc1c2601adf7f8d8a51d70351ee570cae50826e02947",
+      "paragraphs": 1,
+      "words": 551
+    },
+    {
+      "chapter": 21,
+      "sourceName": "כא",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%90",
+      "sourceSha256": "8c153c80555695e0db54b8f8b7c6573c8b51593b21a51520bfdbf3ebb515e4dc",
+      "sourceBlobSha1": "66afdd3423f179812ce0a4afd59682898018f9f4",
+      "file": "Original/21.json",
+      "outputSha256": "0d0dd8ba86ff3cf489828c926f1bb915887bdc0a59faa01d13ac7a2a85e883a4",
+      "paragraphs": 1,
+      "words": 398
+    },
+    {
+      "chapter": 22,
+      "sourceName": "כב",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%91",
+      "sourceSha256": "82e4443129c7033f10d513b416e1140f9a9ab2519326e9cd2ec3668a1f20c7c3",
+      "sourceBlobSha1": "859a7e356c4a67954b1dde1b01ae57c92d8f794f",
+      "file": "Original/22.json",
+      "outputSha256": "1a7a6d713ce6d7eea5b79db86c10bc170fb54bbcaa0a5732fde513aea6e88cf8",
+      "paragraphs": 1,
+      "words": 361
+    },
+    {
+      "chapter": 23,
+      "sourceName": "כג",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%92",
+      "sourceSha256": "f77a84111779f6315e4fdf670424c6b6147251355f61f3d95538a516bf298dc6",
+      "sourceBlobSha1": "bcae05aaacd5a51e0373b79c86248761b70512f7",
+      "file": "Original/23.json",
+      "outputSha256": "746fea74113a1f064aaa3efc40a4f9e9a482b81f8cc0f8df4898d52e7ce993e5",
+      "paragraphs": 1,
+      "words": 368
+    },
+    {
+      "chapter": 24,
+      "sourceName": "כד",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%93",
+      "sourceSha256": "367a1aba98e35ce3248b106ed5922fd7f4a481a44027eddc874e55ff21204772",
+      "sourceBlobSha1": "642cfc74fdfd4f1f216350e328fafb285f0b4ee0",
+      "file": "Original/24.json",
+      "outputSha256": "2e0b3ddf5af4368cd670500de4edd774fe69a4a8cec6faeb6d8f7bda5e7fba69",
+      "paragraphs": 1,
+      "words": 532
+    },
+    {
+      "chapter": 25,
+      "sourceName": "כה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%94",
+      "sourceSha256": "6d0b4c7850fcee4b870567576fa77b7f0277185eb53e647eab0f690a9248eaa4",
+      "sourceBlobSha1": "e5c7204b7025e51d38461330eba954ed59353388",
+      "file": "Original/25.json",
+      "outputSha256": "8cc78922b8a5a06cb4cb415fa1901b60c0174ea03b036c121e7655e1f8c2b8c2",
+      "paragraphs": 1,
+      "words": 790
+    },
+    {
+      "chapter": 26,
+      "sourceName": "כו",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%95",
+      "sourceSha256": "cb0ef2def6ab5fa80990a1bb90e9f74204900424b2a1b53f8cccd2ca70e535df",
+      "sourceBlobSha1": "be9a3758a92d759ffde89fd3d29a5a9ad79a5582",
+      "file": "Original/26.json",
+      "outputSha256": "b1fdc631c0d7daf079753bc3a39b2a90e3c5326c3fdd08516f58d2066bde4d78",
+      "paragraphs": 1,
+      "words": 435
+    },
+    {
+      "chapter": 27,
+      "sourceName": "כז",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%96",
+      "sourceSha256": "c5669716c00667e2efac187d4a0e23a1f5069234ad88ffd383d30ecb34b2020d",
+      "sourceBlobSha1": "39c41f5d6fae3d996599c8e5f2c49f0dbc74c544",
+      "file": "Original/27.json",
+      "outputSha256": "879af95366c37f8644f3715e28da8e9e80e767378fdef24617873793924d2e3b",
+      "paragraphs": 1,
+      "words": 909
+    },
+    {
+      "chapter": 28,
+      "sourceName": "כח",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%97",
+      "sourceSha256": "738a6ad66f57e2152643e457d93007a1c173f80d51c881e8189735c95db1d1c8",
+      "sourceBlobSha1": "4a533d8ad2bb09611052449874685808a479314b",
+      "file": "Original/28.json",
+      "outputSha256": "a6a7afec4b7dd1c1865295486b496c7d1974386efbb18809d33392aa96339de5",
+      "paragraphs": 1,
+      "words": 430
+    },
+    {
+      "chapter": 29,
+      "sourceName": "כט",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9B%D7%98",
+      "sourceSha256": "9d922ceaa5a9146e3a1bc5b94ff05bfcebe64faf119daa4e25bff5f3f146557c",
+      "sourceBlobSha1": "193abb4dab96b27ad7548c60f0d7a637fc629d3a",
+      "file": "Original/29.json",
+      "outputSha256": "b329f0b6703dacffd548cfeebeaf08af449990ee3e2d96c350ddea7023e8ee08",
+      "paragraphs": 1,
+      "words": 533
+    },
+    {
+      "chapter": 30,
+      "sourceName": "ל",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9C",
+      "sourceSha256": "21b7518435d7b4da36c698e3e97d926effb96bf3065d2cfde385b885808c860e",
+      "sourceBlobSha1": "d682c41e5811bdfa00e551f79816d82b9217b84e",
+      "file": "Original/30.json",
+      "outputSha256": "f926c6b95731719db573362e34df66207f31343058b7b9c32fadca2d0ecaeb46",
+      "paragraphs": 1,
+      "words": 2178
+    },
+    {
+      "chapter": 31,
+      "sourceName": "לא",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9C%D7%90",
+      "sourceSha256": "a5b2cfc5dfba4cfaa01fdb0fdd0f32a33c0b46b872946a7a57a53146eeb74742",
+      "sourceBlobSha1": "294e0e7add469d1ed82ea064ef87dd87fdd185e3",
+      "file": "Original/31.json",
+      "outputSha256": "a5bbfc6d419cbb57a93aab3f6a98a6acd4aea30d4d252c4ba5f700a9029ef693",
+      "paragraphs": 3,
+      "words": 602
+    },
+    {
+      "chapter": 32,
+      "sourceName": "שער",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%A9%D7%A2%D7%A8",
+      "sourceSha256": "97d546a2369f10bec26d94cef98d038bf27d91da5204931ab520f589e4c53021",
+      "sourceBlobSha1": "39f191c955d3e558380c882c5affbcb065de7363",
+      "file": "Original/32.json",
+      "outputSha256": "3d416e9b7821631700ea5312596781383e836a8e131ebc0d78bf3104d943068c",
+      "paragraphs": 6,
+      "words": 30
+    },
+    {
+      "chapter": 33,
+      "sourceName": "הקדמת_המוציא_לאור",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%AA_%D7%94%D7%9E%D7%95%D7%A6%D7%99%D7%90_%D7%9C%D7%90%D7%95%D7%A8",
+      "sourceSha256": "3370e76d004aa3d6794069014436e1a91d1fb951a5bb9f193063f90af94c4e91",
+      "sourceBlobSha1": "11401d913f5cc3c61072e02f1aba4289513fe275",
+      "file": "Original/33.json",
+      "outputSha256": "fe6d15bd48db29434529d316e49254ea700a83389a4518539096ae043999b5b4",
+      "paragraphs": 11,
+      "words": 743
+    },
+    {
+      "chapter": 34,
+      "sourceName": "מנחה_מזכרת_אהבה",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9E%D7%A0%D7%97%D7%94_%D7%9E%D7%96%D7%9B%D7%A8%D7%AA_%D7%90%D7%94%D7%91%D7%94",
+      "sourceSha256": "d0762ff48bf77b41f2cbe1d19df96b4586bbc5120c34c10097da700a9f21464c",
+      "sourceBlobSha1": "e34c3b62b299c741f976627840bdcf38ebf7a872",
+      "file": "Original/34.json",
+      "outputSha256": "e37f842012e7d01bd5095e2cff92219a9add828d6dbef4893616dbc8f202ba71",
+      "paragraphs": 7,
+      "words": 43
+    },
+    {
+      "chapter": 35,
+      "sourceName": "מגדל_עז",
+      "sourceUrl": "https://gitlab.com/pninim.org/pninim/-/raw/dbbae3b61a66f266a60c75fac458d489d3ae7c8c/%D7%AA%D7%A0%D7%9A/%D7%9B%D7%AA%D7%95%D7%91%D7%99%D7%9D/%D7%9E%D7%A9%D7%9C%D7%99/%D7%A4%D7%A8%D7%95%D7%A9%D7%99%D7%9D/%D7%90%D7%9E%D7%A8%D7%99_%D7%93%D7%A2%D7%AA/%D7%9E%D7%92%D7%93%D7%9C_%D7%A2%D7%96",
+      "sourceSha256": "92a27468e1e05508211c897518032b596b5f90b1b62104d799b020ccffba9cb2",
+      "sourceBlobSha1": "83aec571331bcdeb492500733c994ed10ee50d38",
+      "file": "Original/35.json",
+      "outputSha256": "addd626f534fd2ddb0a19d699557aec8f41ebb49fc439644389610b49d28e4dd",
+      "paragraphs": 2,
+      "words": 1910
+    }
+  ],
+  "mainEntries": 48,
+  "supplementaryEntries": 26,
+  "unmappedSections": 0,
+  "requiredNoticesPath": "Tanakh/Commentaries/imrei-daat-pninim/required-notices.json",
+  "requiredNoticesSha256": "dde849dc29133f46a465658adc96ceae3bb4b0d627884bd79d809989d1c1c9bf",
+  "fullLicenseSha256": "6adc7b4f7c74882dbe7564f7b8285ff194d760727ab30036dfe9704039fe32d7",
+  "distributableSourceRawCopies": true,
+  "publicationStatus": "Requires root verification of visible exact mandatory notices"
+}

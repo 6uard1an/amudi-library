@@ -1,0 +1,500 @@
+{
+  "schemaVersion": 1,
+  "work": "Bereshit Rabbah",
+  "parentPath": "Rabbinic/Bereshit Rabbah",
+  "editionName": "Bereshit Rabbah — Feuer Jerusalem Anthology (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Bereshit Rabbah; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/ed99fb5443374a6a6321.json",
+  "sourceRawSha256": "52fa3a687b5516889860f86836bccc39429a120c3694c278fe64c6fd07180001",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Bereshit%20Rabbah",
+    "rawSha256": "79c32dba851baeb529589477bd75e556ddab0f31636ee81a7a3ac2c8ee0a43ce",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-6588d6495b793baa1281.json",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Bereshit Rabbah",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Bereshit Rabbah"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/ed99fb5443374a6a6321.json",
+    "sourceRawSha256": "52fa3a687b5516889860f86836bccc39429a120c3694c278fe64c6fd07180001",
+    "sourceTextSha256": "4e94843e840a1bb5ac4bfa83ff4145b6ddd345500022e2a6eeaba815a2960cd0",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 21,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Bereshit%20Rabbah",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Bereshit%20Rabbah",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:55:36.800Z",
+      "rawSha256": "79c32dba851baeb529589477bd75e556ddab0f31636ee81a7a3ac2c8ee0a43ce",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-6588d6495b793baa128190.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": "",
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "רבי מייק פוייר, לקט ירושלים",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "Rabbi Mike Feuer",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Bereshit Rabbah",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Bereshit Rabbah 2"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "2",
+      "sourcePosition": [
+        2
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            2,
+            5
+          ],
+          "sourceTextSha256": "fdd6b05a2b9005246f467347f9082d3bd7f40407aaec0959cbd16cd3e8841edd",
+          "retainedTextSha256": "fdd6b05a2b9005246f467347f9082d3bd7f40407aaec0959cbd16cd3e8841edd"
+        }
+      ],
+      "payloadSha256": "e727828aa55ceaebea3be100dd220267d3072c6b0fea7470f188fb8a0265b9b7"
+    },
+    {
+      "chapter": 2,
+      "label": "5",
+      "sourcePosition": [
+        5
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            7
+          ],
+          "sourceTextSha256": "4927ee62bc010ec768e3a1556b470a1cf675dfc00e58feba4bb2e73c4ca81a27",
+          "retainedTextSha256": "4927ee62bc010ec768e3a1556b470a1cf675dfc00e58feba4bb2e73c4ca81a27"
+        }
+      ],
+      "payloadSha256": "f4f550303c19997f670b362bbf790ecb377d5a1d89657de29fdba40922f02dd6"
+    },
+    {
+      "chapter": 3,
+      "label": "14",
+      "sourcePosition": [
+        14
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            14,
+            8
+          ],
+          "sourceTextSha256": "e024cc17ff1468bdc6de7132ef8a36c6edb957d4c8643431e59253b47003e43e",
+          "retainedTextSha256": "e024cc17ff1468bdc6de7132ef8a36c6edb957d4c8643431e59253b47003e43e"
+        }
+      ],
+      "payloadSha256": "7bfed3fe97606fcd80d2d88a5622d91f29edad5778cc3462d4f7c3be8a55d096"
+    },
+    {
+      "chapter": 4,
+      "label": "15",
+      "sourcePosition": [
+        15
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            15,
+            1
+          ],
+          "sourceTextSha256": "cf70c04c388ef3280de9723a23ab699215784450f8b8e02f9efceb305a1d27e5",
+          "retainedTextSha256": "cf70c04c388ef3280de9723a23ab699215784450f8b8e02f9efceb305a1d27e5"
+        }
+      ],
+      "payloadSha256": "e72e200151188cab7ae67eb335966b353f83f7ace83fccbb088dcfee9b82972e"
+    },
+    {
+      "chapter": 5,
+      "label": "16",
+      "sourcePosition": [
+        16
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            16,
+            2
+          ],
+          "sourceTextSha256": "3fd6011f9a63d148e31aab4d692c78c74346296cb59287c3344fd9019f9b56b5",
+          "retainedTextSha256": "3fd6011f9a63d148e31aab4d692c78c74346296cb59287c3344fd9019f9b56b5"
+        }
+      ],
+      "payloadSha256": "c4eedbd996ff1e7d08b7f7821895ca1a2469b235fe94d8ecc07f40d1e843de87"
+    },
+    {
+      "chapter": 6,
+      "label": "22",
+      "sourcePosition": [
+        22
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            22,
+            7
+          ],
+          "sourceTextSha256": "03b7228dcf4302b5db01806b514acec0fdcc1df9c82d2052d8a85ffd4d2fe1b8",
+          "retainedTextSha256": "03b7228dcf4302b5db01806b514acec0fdcc1df9c82d2052d8a85ffd4d2fe1b8"
+        }
+      ],
+      "payloadSha256": "d95e362c58fab5b18564df72a728d4faa17b8c71af4ac1b0d8b7c4a8f674c7f1"
+    },
+    {
+      "chapter": 7,
+      "label": "41",
+      "sourcePosition": [
+        41
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            3
+          ],
+          "sourceTextSha256": "379abd5e685cc15f01b92b6fcc556c350741915535da1649b3d40fd535eb0b22",
+          "retainedTextSha256": "379abd5e685cc15f01b92b6fcc556c350741915535da1649b3d40fd535eb0b22"
+        }
+      ],
+      "payloadSha256": "bcdbc69e0378acc5452800726be5e7257f72f7794239030f76893241c01831a7"
+    },
+    {
+      "chapter": 8,
+      "label": "43",
+      "sourcePosition": [
+        43
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            43,
+            6
+          ],
+          "sourceTextSha256": "f3fc3c226ab5e0a8ab6f688da322d575d5e4fa455a5f19e6153151cefa2b322a",
+          "retainedTextSha256": "f3fc3c226ab5e0a8ab6f688da322d575d5e4fa455a5f19e6153151cefa2b322a"
+        }
+      ],
+      "payloadSha256": "a7df26f01986e9887be45acd12ff360e774a22b77a88b2ba0029702d0674a6d7"
+    },
+    {
+      "chapter": 9,
+      "label": "48",
+      "sourcePosition": [
+        48
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            48,
+            10
+          ],
+          "sourceTextSha256": "4421640b69f2639e263926c372c32f215d5e5147d1edcb415d18a2e7c4d94a1b",
+          "retainedTextSha256": "4421640b69f2639e263926c372c32f215d5e5147d1edcb415d18a2e7c4d94a1b"
+        }
+      ],
+      "payloadSha256": "f19ff6273fcb96ccb034e6d7cedef3a413ee64548e121acbce3915cb1d0c1976"
+    },
+    {
+      "chapter": 10,
+      "label": "55",
+      "sourcePosition": [
+        55
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            55,
+            7
+          ],
+          "sourceTextSha256": "d3346bb1c1dca449222daf071f2b6b6f85415a24321d5d773e3ebf374d5393aa",
+          "retainedTextSha256": "d3346bb1c1dca449222daf071f2b6b6f85415a24321d5d773e3ebf374d5393aa"
+        }
+      ],
+      "payloadSha256": "a2d4e714999c979b3ee8f049e26b27d3d0f5c539f34e9a74705baa82357e0379"
+    },
+    {
+      "chapter": 11,
+      "label": "56",
+      "sourcePosition": [
+        56
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            56,
+            1
+          ],
+          "sourceTextSha256": "1f3ec52517ed8f1530340d73258392238b02195cc571f8ba1d7ade1129201ab8",
+          "retainedTextSha256": "1f3ec52517ed8f1530340d73258392238b02195cc571f8ba1d7ade1129201ab8"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            56,
+            10
+          ],
+          "sourceTextSha256": "414aac09be0bc09f3a2e4c8652e1c64595aa2c68c5b4ff9de8efe6abb6797979",
+          "retainedTextSha256": "414aac09be0bc09f3a2e4c8652e1c64595aa2c68c5b4ff9de8efe6abb6797979"
+        }
+      ],
+      "payloadSha256": "5929ca7c4648277e829d0f152271c311a1216bd1b0563079720d61439b6fdc1c"
+    },
+    {
+      "chapter": 12,
+      "label": "59",
+      "sourcePosition": [
+        59
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            59,
+            5
+          ],
+          "sourceTextSha256": "027612d5f865359cc79e5c3d4fc16cdfc74ff7000b4c98049c1ab7fcdcd30b36",
+          "retainedTextSha256": "027612d5f865359cc79e5c3d4fc16cdfc74ff7000b4c98049c1ab7fcdcd30b36"
+        }
+      ],
+      "payloadSha256": "71084f84d317feb680a1db5258b9f3562b320bb707c11db2c4f01cf83ce5ced4"
+    },
+    {
+      "chapter": 13,
+      "label": "63",
+      "sourcePosition": [
+        63
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            63,
+            8
+          ],
+          "sourceTextSha256": "3792330db5ac6ac0222adad702f94d10a3a1abf68b665ca80d96a491a763649b",
+          "retainedTextSha256": "3792330db5ac6ac0222adad702f94d10a3a1abf68b665ca80d96a491a763649b"
+        }
+      ],
+      "payloadSha256": "f4fe0d1d898f9b6c8692fe0f05760cb51a3872d1daf5c5dea7ca386d7b06cbae"
+    },
+    {
+      "chapter": 14,
+      "label": "64",
+      "sourcePosition": [
+        64
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            64,
+            4
+          ],
+          "sourceTextSha256": "fb65dbb18e90dc87fe8a19cfc469a1a8c439383c7f1d419284c3d64ca87f7cd3",
+          "retainedTextSha256": "fb65dbb18e90dc87fe8a19cfc469a1a8c439383c7f1d419284c3d64ca87f7cd3"
+        }
+      ],
+      "payloadSha256": "1e71b6192ac23f48c6987b887f9fc9b0dfbe91f468c9e6e036679d4272367315"
+    },
+    {
+      "chapter": 15,
+      "label": "66",
+      "sourcePosition": [
+        66
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            66,
+            3
+          ],
+          "sourceTextSha256": "b1ab4c8594339967c2112fed2c4df0b202aa28bcdb01126b1b7f66fed4970e2d",
+          "retainedTextSha256": "b1ab4c8594339967c2112fed2c4df0b202aa28bcdb01126b1b7f66fed4970e2d"
+        }
+      ],
+      "payloadSha256": "9127bbea47003ec9052e44a0c030db53be11b2ec773d661aff8503d5be9fe661"
+    },
+    {
+      "chapter": 16,
+      "label": "70",
+      "sourcePosition": [
+        70
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            70,
+            8
+          ],
+          "sourceTextSha256": "88f5bcd293677143728bf0df1fc2750be026fbc9ff08dad173e08103cfa8184c",
+          "retainedTextSha256": "88f5bcd293677143728bf0df1fc2750be026fbc9ff08dad173e08103cfa8184c"
+        }
+      ],
+      "payloadSha256": "05ac00b9621b7016efaeb447eba27ba2470d684a17b6871b3e5108081e06142e"
+    },
+    {
+      "chapter": 17,
+      "label": "79",
+      "sourcePosition": [
+        79
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            79,
+            7
+          ],
+          "sourceTextSha256": "801f987fbc710161160785c13fa2099713e90d1f11edf852b90a9f4beb59c447",
+          "retainedTextSha256": "801f987fbc710161160785c13fa2099713e90d1f11edf852b90a9f4beb59c447"
+        }
+      ],
+      "payloadSha256": "f7569e9cde2907643c00b0a38d052a144ee3ab4674ccaa998b6567c20e03bc5a"
+    },
+    {
+      "chapter": 18,
+      "label": "98",
+      "sourcePosition": [
+        98
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            98,
+            8
+          ],
+          "sourceTextSha256": "742b88c491361d6ab784a75c282422df7220966b917fbe629a6a667d50e689be",
+          "retainedTextSha256": "742b88c491361d6ab784a75c282422df7220966b917fbe629a6a667d50e689be"
+        }
+      ],
+      "payloadSha256": "8c97a9181cb769c35fdc6c0db7d6916b33f90f30477fb5aa29c701a95e86ccee"
+    },
+    {
+      "chapter": 19,
+      "label": "99",
+      "sourcePosition": [
+        99
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            99,
+            1
+          ],
+          "sourceTextSha256": "c8a32981df8fb62aaf30a0c3cabcb15732b60e0747ad395fad0ff713034d7d52",
+          "retainedTextSha256": "c8a32981df8fb62aaf30a0c3cabcb15732b60e0747ad395fad0ff713034d7d52"
+        }
+      ],
+      "payloadSha256": "222cf162b1754d374f72cdb0423258238deb04158d3fb4ec5075819433505e1a"
+    },
+    {
+      "chapter": 20,
+      "label": "100",
+      "sourcePosition": [
+        100
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            100,
+            13
+          ],
+          "sourceTextSha256": "8a3ae379ab1ecb1e3ca850e5c75663cfc307bb007ca428721789fee3c05dcb48",
+          "retainedTextSha256": "8a3ae379ab1ecb1e3ca850e5c75663cfc307bb007ca428721789fee3c05dcb48"
+        }
+      ],
+      "payloadSha256": "4418841912fb5e639d88aba9bd762b0bb8b0599a3faac28e23ef1a22c7f52e3f"
+    }
+  ],
+  "sourceEntries": 21,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:27.544Z"
+}

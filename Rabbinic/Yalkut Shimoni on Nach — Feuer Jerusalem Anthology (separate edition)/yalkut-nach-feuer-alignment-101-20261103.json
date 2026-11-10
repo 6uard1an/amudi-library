@@ -1,0 +1,34 @@
+{
+  "baseBookPath": "Rabbinic/Yalkut Shimoni on Nach (Hebrew Wikisource)",
+  "baseChapter": 101,
+  "translationBookPath": "Rabbinic/Yalkut Shimoni on Nach — Feuer Jerusalem Anthology (separate edition)",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Yalkut%20Shimoni%20on%20Nach/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Yalkut Shimoni on Nach; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "method": "Manually checked source remez, shared opening and multiple distinctive details; source versions may differ.",
+  "pairs": [
+    {
+      "basePosition": 34,
+      "baseTextSha256": "d51ee1807329f3faf76503e7373f9605ac127b656b1f8ac9c6926d58937bedec",
+      "fragments": [
+        {
+          "translationChapter": 8,
+          "translationPosition": 1,
+          "translationTextSha256": "a164a75ec051c61244f656deab5715a5a29021b8ef1a088b84f00910635dc35f"
+        },
+        {
+          "translationChapter": 8,
+          "translationPosition": 2,
+          "translationTextSha256": "98a903cb4c41871e53e4a6d3e7d2f636f9746b4163572d6ddcf3c02060435deb"
+        },
+        {
+          "translationChapter": 8,
+          "translationPosition": 3,
+          "translationTextSha256": "725611a16867fdd850a14812c8bc4e19816aa9df4834bffe72155eb9be38de7b"
+        }
+      ],
+      "partialTranslation": true
+    }
+  ]
+}

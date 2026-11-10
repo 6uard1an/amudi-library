@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-30T04:03:33.913962+00:00",
+  "workTitle": "Seder Tannaim ve-Amoraim",
+  "sourceLine": 1921,
+  "sourceTitle": "סדר תנאים ואמוראים",
+  "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%93%D7%A8_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D",
+  "permalink": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%93%D7%A8_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D&oldid=2936985",
+  "apiUrl": "https://he.wikisource.org/w/rest.php/v1/page/%D7%A1%D7%93%D7%A8%20%D7%AA%D7%A0%D7%90%D7%99%D7%9D%20%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D/with_html",
+  "sourceRevisionId": 2936985,
+  "sourceRevisionTimestamp": "2025-06-09T12:33:05Z",
+  "licenseVerbatim": {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+    "title": "Creative Commons Attribution-Share Alike 4.0"
+  },
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "sourceSnapshotSha256": "8cbb9013fca0bd1fa4c25deb62182e7bee46637986f833b69143f79c2cb1b090",
+  "sourceHtmlSha256": "36546c7112efacd889e73a642a9ef0c6e834ca2b3b6d3c22d457a527847e455c",
+  "attribution": "Seder Tannaim ve-Amoraim, Hida recension as included in Shem HaGedolim (Krengel), with Hida, Likkutei Menachem, She’erit Tzion and Hebrew Wikisource editorial notes. Typed edition by Hebrew Wikisource contributors; revision2936985 (2025-06-09). Contributor history: https://he.wikisource.org/wiki/%D7%A1%D7%93%D7%A8_%D7%AA%D7%A0%D7%90%D7%99%D7%9D_%D7%95%D7%90%D7%9E%D7%95%D7%A8%D7%90%D7%99%D7%9D?action=history.",
+  "changes": "Amudi converted the source’s five textual sections to five chapters and split HTML blocks into reading segments. Wiki site/source header metadata was moved to book/source records; navigation/style/Parsoid attributes were removed, and references made absolute. All five source reading sections and their annotations are retained text-for-text after whitespace normalization. Adapted transcription distributed under CC BY-SA4.0. No OCR or new translation performed.",
+  "coverageScope": "Selected Hida/Krengel recension and its84numbered rules, with all source annotations; not a claim to include the separate chronology recension or Kalman Kahana’s1935critical edition. No verified English translation supplied by this source.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "סדר תנאים ואמוראים",
+      "segmentCount": 99,
+      "sourceSectionHeading": "סדר תנאים ואמוראים",
+      "sourceTextSha256": "90a69da7d0820f5738fd1f84b88375771f772cda053018b452d3fc25f41e429c",
+      "outputFile": "Original/1.json",
+      "outputSha256": "893d266d497fe09c29acfc652c147f1ef19d067d86b9aa41930ef930d061282f"
+    },
+    {
+      "chapter": 2,
+      "title": "הערות חיד\"א",
+      "segmentCount": 29,
+      "sourceSectionHeading": "הערות חיד\"א",
+      "sourceTextSha256": "8ecc07c22e379cf62d16bc55bb64627f839fb1e9a8ff8313054ac861190ed2dd",
+      "outputFile": "Original/2.json",
+      "outputSha256": "844025c76291e3397ecaade32827e8511a8f09a694bc45d22a43747e1f50dd09"
+    },
+    {
+      "chapter": 3,
+      "title": "לקוטי מנחם",
+      "segmentCount": 52,
+      "sourceSectionHeading": "לקוטי מנחם",
+      "sourceTextSha256": "a7ef4bdd24c871b2cc11b55b1575956c6b84b193490b17cf37c63bb848c153aa",
+      "outputFile": "Original/3.json",
+      "outputSha256": "5f8a7b051c0e4b82ffb49f71aa810f8f5952024ed26303552dec123714b47a03"
+    },
+    {
+      "chapter": 4,
+      "title": "שארית ציון",
+      "segmentCount": 18,
+      "sourceSectionHeading": "שארית ציון",
+      "sourceTextSha256": "da6f59c2582b6752fa7a5b1942b1bb7fad9b100a6d501f956b6c691593abce6a",
+      "outputFile": "Original/4.json",
+      "outputSha256": "462a1e87c3dbaacd063b39d143b1c376e2ca8c7050b2df4580c1ba8fa3e47d4d"
+    },
+    {
+      "chapter": 5,
+      "title": "הגהות ויקיעורכים",
+      "segmentCount": 2,
+      "sourceSectionHeading": "הגהות ויקיעורכים",
+      "sourceTextSha256": "a1c9faa5a9a118e2823b4c720d5796f3ceead659ad0971d2d9a41e94de8029d8",
+      "outputFile": "Original/5.json",
+      "outputSha256": "055742db4923b327ac2791574cfd84fbf58a1961afed521a09d5bde35d85c5a2"
+    }
+  ],
+  "declaredFiles": [
+    "source-manifest.json",
+    "source-originals/wikisource-with-html.json",
+    "source-originals/wikisource-rendered.html"
+  ],
+  "verification": {
+    "actualTypedSource": true,
+    "sourceSpecificLicenseVerified": true,
+    "allFiveReadingSectionsNormalizedTextPreserved": true,
+    "allAnnotationsRetained": true,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "completeKahana1935EditionClaimed": false,
+    "catalogIntegrated": false,
+    "nativeFinalArtifactChecked": false
+  }
+}

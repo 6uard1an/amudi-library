@@ -1,0 +1,42 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 31,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "4dd59f3bdd8aa2b9221ec1740e1bea1674f668a44a625c49078b2e4fccc7d2d9",
+      "translationChapter": 33,
+      "translationPosition": 1,
+      "translationTextSha256": "5905f1118e07b5f5858d373ab4bbbc50a4ffdd632aa1756a96f526329add8d44",
+      "followingBaseTextSha256s": [
+        "886148978c5c9b5d0f31d5059955675a27e38bad4dff34e71c69a547c603ec26"
+      ]
+    },
+    {
+      "basePosition": 5,
+      "baseTextSha256": "399ef69a45f3673260098a8e6d8f70e572e50d5d707ebebf031ee5376e3bbedd",
+      "translationChapter": 33,
+      "translationPosition": 3,
+      "translationTextSha256": "d1df6d43e997e0d02bd312379c648f789467aa3329ce29ab5ac44311f226392f",
+      "followingBaseTextSha256s": [
+        "d39011d6be7b35a72383095e6e092a9d646f9863be79ddd6a6d49c96ba8bf839",
+        "a6537f6b1dee06347f7ca389d00093e3059e763f334bd37e1924a8f9946196fb"
+      ]
+    },
+    {
+      "basePosition": 13,
+      "baseTextSha256": "6f5bb0892d7c208e2f3ae813545f7f5a41aeec72fa5f0585ab0696763eef2839",
+      "translationChapter": 33,
+      "translationPosition": 5,
+      "translationTextSha256": "8fcaf74f0252b367f1b2443a5f0f3730af4f812aa79fe0dc1089d9631033c96a",
+      "followingBaseTextSha256s": [
+        "5f22b363ffe498ac50c9a7206ecc1a37062ce8335bb89c0dea77d63c4d5f44ac"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,634 @@
+{
+  "title": "Maggid Mishneh on Mishneh Torah, Leavened and Unleavened Bread — Hebrew Wikisource edition",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Maggid Mishneh by Vidal of Tolosa; Hebrew Wikisource contributors. Each source revision and contributor history is in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Removed navigation and edit controls, converted the typed reading text to plain text and grouped it by source halakhah headings. Multi-halakhah source ranges are labeled. No OCR or new translation; adaptations remain CC BY-SA 4.0.",
+  "scope": "Partial source-selected edition. Source page 2 contains unrelated holiday-law text; page 5 is a short duplicate variant of part of the source page 6 chapter. No source page for base chapters 2 or 6 is included. Source headings map to base halakhot; no claim of complete scholarly collation.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "chapter": 1,
+      "baseChapter": 1,
+      "sourcePageChapter": 1,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק א",
+      "revision": 887334,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=887334",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%90&action=history",
+      "sourceSha256": "4d08f31844d4f210c50b0fced33a0a27d31aaf0355f2aaa7ad0d411d629c9e6e",
+      "sourceHeadings": [
+        {
+          "heading": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "localPosition": 1,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "localPosition": 2,
+          "paragraphs": 2
+        }
+      ],
+      "openingChapterVotes": {
+        "1": 1
+      },
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-additional-wikisource-20261107/chametz/chapter-1-parse.json",
+      "sourceSnapshotSha256": "4d08f31844d4f210c50b0fced33a0a27d31aaf0355f2aaa7ad0d411d629c9e6e"
+    },
+    {
+      "chapter": 2,
+      "baseChapter": 3,
+      "sourcePageChapter": 3,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ג",
+      "revision": 887338,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=887338",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%92&action=history",
+      "sourceSha256": "76916771bdc37d096841ea95f7b69fee6c0b40b29ef7d4d73359728dce345416",
+      "sourceHeadings": [
+        {
+          "heading": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "localPosition": 1,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "localPosition": 2,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "localPosition": 3,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "localPosition": 4,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "localPosition": 5,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "localPosition": 6,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ז-ח",
+          "start": 7,
+          "end": 8,
+          "localPosition": 7,
+          "paragraphs": 3
+        },
+        {
+          "heading": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "localPosition": 8,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "localPosition": 9,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "localPosition": 10,
+          "paragraphs": 5
+        }
+      ],
+      "openingChapterVotes": {
+        "3": 3
+      },
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-additional-wikisource-20261107/chametz/chapter-3-parse.json",
+      "sourceSnapshotSha256": "76916771bdc37d096841ea95f7b69fee6c0b40b29ef7d4d73359728dce345416"
+    },
+    {
+      "chapter": 3,
+      "baseChapter": 4,
+      "sourcePageChapter": 4,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ד",
+      "revision": 895677,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=895677",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%93&action=history",
+      "sourceSha256": "0263da8db6a91a7d3e94a694ffeb8b64835fae137a15051759e44b7234b24b93",
+      "sourceHeadings": [
+        {
+          "heading": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "localPosition": 1,
+          "paragraphs": 4
+        },
+        {
+          "heading": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "localPosition": 2,
+          "paragraphs": 3
+        },
+        {
+          "heading": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "localPosition": 3,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "localPosition": 4,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "localPosition": 5,
+          "paragraphs": 3
+        },
+        {
+          "heading": "הלכה ו-ז",
+          "start": 6,
+          "end": 7,
+          "localPosition": 6,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה ח-ט",
+          "start": 8,
+          "end": 9,
+          "localPosition": 7,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "localPosition": 8,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "localPosition": 9,
+          "paragraphs": 3
+        },
+        {
+          "heading": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "localPosition": 10,
+          "paragraphs": 3
+        }
+      ],
+      "openingChapterVotes": {
+        "4": 3
+      },
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-additional-wikisource-20261107/chametz/chapter-4-parse.json",
+      "sourceSnapshotSha256": "0263da8db6a91a7d3e94a694ffeb8b64835fae137a15051759e44b7234b24b93"
+    },
+    {
+      "chapter": 4,
+      "baseChapter": 5,
+      "sourcePageChapter": 6,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ו",
+      "revision": 2892445,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=2892445",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%95&action=history",
+      "sourceSha256": "9d6725e516d2b677e588ab13980d8672c8ade6696f46e967f95d3df7fb52537c",
+      "sourceHeadings": [
+        {
+          "heading": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "localPosition": 1,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "localPosition": 2,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "localPosition": 3,
+          "paragraphs": 4
+        },
+        {
+          "heading": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "localPosition": 4,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "localPosition": 5,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "localPosition": 6,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "localPosition": 7,
+          "paragraphs": 3
+        },
+        {
+          "heading": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "localPosition": 8,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "localPosition": 9,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "localPosition": 10,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "localPosition": 11,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "localPosition": 12,
+          "paragraphs": 5
+        },
+        {
+          "heading": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "localPosition": 13,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה טו",
+          "start": 15,
+          "end": 15,
+          "localPosition": 14,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה טז",
+          "start": 16,
+          "end": 16,
+          "localPosition": 15,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יז",
+          "start": 17,
+          "end": 17,
+          "localPosition": 16,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יח",
+          "start": 18,
+          "end": 18,
+          "localPosition": 17,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יט",
+          "start": 19,
+          "end": 19,
+          "localPosition": 18,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה כ",
+          "start": 20,
+          "end": 20,
+          "localPosition": 19,
+          "paragraphs": 3
+        },
+        {
+          "heading": "הלכה כב",
+          "start": 22,
+          "end": 22,
+          "localPosition": 20,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה כג",
+          "start": 23,
+          "end": 23,
+          "localPosition": 21,
+          "paragraphs": 3
+        },
+        {
+          "heading": "הלכה כד",
+          "start": 24,
+          "end": 24,
+          "localPosition": 22,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה כה",
+          "start": 25,
+          "end": 25,
+          "localPosition": 23,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה כו",
+          "start": 26,
+          "end": 26,
+          "localPosition": 24,
+          "paragraphs": 1
+        }
+      ],
+      "openingChapterVotes": {
+        "5": 6
+      },
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-additional-wikisource-20261107/chametz/chapter-6-parse.json",
+      "sourceSnapshotSha256": "9d6725e516d2b677e588ab13980d8672c8ade6696f46e967f95d3df7fb52537c"
+    },
+    {
+      "chapter": 5,
+      "baseChapter": 7,
+      "sourcePageChapter": 7,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ז",
+      "revision": 887540,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=887540",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%96&action=history",
+      "sourceSha256": "1c21baf76875b68315170029cb67ca2286c0424614ab8ea871e2e1ea4ed6bb2b",
+      "sourceHeadings": [
+        {
+          "heading": "הלכה א",
+          "start": 1,
+          "end": 1,
+          "localPosition": 1,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ג",
+          "start": 3,
+          "end": 3,
+          "localPosition": 2,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה ד",
+          "start": 4,
+          "end": 4,
+          "localPosition": 3,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "localPosition": 4,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "localPosition": 5,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ז",
+          "start": 7,
+          "end": 7,
+          "localPosition": 6,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "localPosition": 7,
+          "paragraphs": 5
+        },
+        {
+          "heading": "הלכה ט",
+          "start": 9,
+          "end": 9,
+          "localPosition": 8,
+          "paragraphs": 5
+        },
+        {
+          "heading": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "localPosition": 9,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "localPosition": 10,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "localPosition": 11,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "localPosition": 12,
+          "paragraphs": 1
+        }
+      ],
+      "openingChapterVotes": {
+        "7": 2
+      },
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-additional-wikisource-20261107/chametz/chapter-7-parse.json",
+      "sourceSnapshotSha256": "1c21baf76875b68315170029cb67ca2286c0424614ab8ea871e2e1ea4ed6bb2b"
+    },
+    {
+      "chapter": 6,
+      "baseChapter": 8,
+      "sourcePageChapter": 8,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ח",
+      "revision": 887538,
+      "permalink": "https://he.wikisource.org/w/index.php?oldid=887538",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%97&action=history",
+      "sourceSha256": "ac81c46a2b2fbbef0327163bf7e413818570cc981b51368215a7b5176fbc108a",
+      "sourceHeadings": [
+        {
+          "heading": "\"הלכה א",
+          "start": 1,
+          "end": 1,
+          "localPosition": 1,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה ב",
+          "start": 2,
+          "end": 2,
+          "localPosition": 2,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ה",
+          "start": 5,
+          "end": 5,
+          "localPosition": 3,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה ו",
+          "start": 6,
+          "end": 6,
+          "localPosition": 4,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה ח",
+          "start": 8,
+          "end": 8,
+          "localPosition": 5,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה י",
+          "start": 10,
+          "end": 10,
+          "localPosition": 6,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יא",
+          "start": 11,
+          "end": 11,
+          "localPosition": 7,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יב",
+          "start": 12,
+          "end": 12,
+          "localPosition": 8,
+          "paragraphs": 2
+        },
+        {
+          "heading": "הלכה יג",
+          "start": 13,
+          "end": 13,
+          "localPosition": 9,
+          "paragraphs": 1
+        },
+        {
+          "heading": "הלכה יד",
+          "start": 14,
+          "end": 14,
+          "localPosition": 10,
+          "paragraphs": 2
+        }
+      ],
+      "openingChapterVotes": {
+        "8": 2
+      },
+      "sourceTextConservedIgnoringWhitespace": true,
+      "sourceSnapshotPath": "Amudi/data/rights/maggid-additional-wikisource-20261107/chametz/chapter-8-parse.json",
+      "sourceSnapshotSha256": "ac81c46a2b2fbbef0327163bf7e413818570cc981b51368215a7b5176fbc108a"
+    }
+  ],
+  "pages": [
+    {
+      "chapter": 1,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=887334",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%90&action=history"
+    },
+    {
+      "chapter": 2,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ג",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=887338",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%92&action=history"
+    },
+    {
+      "chapter": 3,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ד",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=895677",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%93&action=history"
+    },
+    {
+      "chapter": 4,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ו",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2892445",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%95&action=history"
+    },
+    {
+      "chapter": 5,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ז",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=887540",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%96&action=history"
+    },
+    {
+      "chapter": 6,
+      "sourceTitle": "מגיד משנה/הלכות חמץ ומצה/פרק ח",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=887538",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93%20%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%97%D7%9E%D7%A5%20%D7%95%D7%9E%D7%A6%D7%94%2F%D7%A4%D7%A8%D7%A7%20%D7%97&action=history"
+    }
+  ],
+  "licenseMetadataSha256": "8255175456eff0a5b9e3e5f3f0ea56b4b724e1d1c792342f7a69729412e6a330"
+}

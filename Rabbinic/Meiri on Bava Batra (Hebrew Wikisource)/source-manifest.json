@@ -1,0 +1,126 @@
+{
+  "createdAt": "2026-10-30T05:16:52.652438+00:00",
+  "title": "Meiri on Bava Batra — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Bava Batra (Hebrew Wikisource)",
+  "bibliographySourceLines": [
+    1749,
+    2276,
+    2496
+  ],
+  "sourceSeriesAuthorEvidence": {
+    "url": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1&oldid=3083958",
+    "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-cfaafcd23d7bef60.json",
+    "sourceSnapshotSha256": "fc395fc563d7fb56aa9cef6f5b719106228673e70bec7b86ddf7434cb553d373",
+    "finding": "The selected series identifies BeitHaBechira as Menachem benShlomo of theMeir family. The Ketubot/BavaBatra/Avot introductions explicitly name the author. No contrary authorship attribution was found in the inspected selected pages; this is not a survey of disputes beyond those source pages."
+  },
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Bava Batra, Menachem Meiri (Menachem benShlomo HaMeiri). Typed digital edition and editorial notes by Hebrew Wikisource contributors, CC BY-SA4.0. Individual source revisions, source-page permalinks and contributor histories are recorded in source-manifest.json.",
+  "changes": "Amudi removed only source navigation and parser edit controls, image/style/script tags and parser attributes, and made source/reference links absolute. Ordinary reader chapters contain flat text/HTML strings and are bounded to16000plain characters /32000markup characters per group. Exceptionally long HTML blocks are converted to escaped plain-text chunks at whitespace boundaries; all selected reading text, notes, variants and explicit source gaps remain conserved in source order. No OCR or new translation. Copyrightable Amudi adaptations remain CC BY-SA4.0.",
+  "coverageScope": "PARTIAL: only the currently typed tractate introduction on the page labeled chapter1 (583reading characters after whitespace normalization). No chapter1 commentary body or full tractate is claimed. Explicit source omission/editorial notices retained:1.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/בבא בתרא/פרק א",
+      "canonicalTitle": "מאירי על הש\"ס/בבא בתרא/פרק א",
+      "requestedAliases": [
+        "מאירי על הש\"ס/בבא בתרא/פרק א"
+      ],
+      "sourcePageId": 337204,
+      "sourceRevision": {
+        "id": 783765,
+        "timestamp": "2017-08-16T20:49:42Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%91%D7%90_%D7%91%D7%AA%D7%A8%D7%90/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=783765",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%91%D7%90_%D7%91%D7%AA%D7%A8%D7%90/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-74c183f879185a60.json",
+      "sourceSnapshotSha256": "d863c67e7f3ac0f20fe31eefceae7d7f193dfb251361e1782d1d079bf63e7f34",
+      "sourceHtmlSha256": "69bae006ac5276dd3d47af8b709c57959bd8f9fe1b143b65be0a64a19a584fff",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-4-e69376260440.request.json",
+        "requestSha256": "eaf455603e6f61b7fcb4296bb3f03c13ad941c62a071c265ab6a2922bcd0a221",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-4-e69376260440.json",
+        "responseSha256": "c2a30ec60d3c7bf467a2c259cf6dedacad60962462f8303ea6f239803449f9e8",
+        "sourceWrapperId": "amudi-meiri-source-0"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 592,
+      "sourceHeadings": [],
+      "convertedChapters": [
+        1
+      ],
+      "sourceNormalizedTextSha256": "3d20256c6a12b928185c96bb4a43579127a7bc8462d9d3987fb0c8b7ad18cdd7",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/בבא בתרא/פרק א",
+      "sourceTitle": "מאירי על הש\"ס/בבא בתרא/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 783765,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%91%D7%90_%D7%91%D7%AA%D7%A8%D7%90/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=783765",
+      "paragraphs": 3,
+      "plainCharacters": 588,
+      "outputFile": "Original/1.json",
+      "outputSha256": "c07208c1641497a8986c828e7aaa007cb6cf2c3dc614b44f7f4ebd761c2db9ef",
+      "normalizedTextSha256": "3d20256c6a12b928185c96bb4a43579127a7bc8462d9d3987fb0c8b7ad18cdd7",
+      "payloadBytes": 1675
+    }
+  ],
+  "sourceWarnings": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/בבא בתרא/פרק א",
+      "notice": "פרק זה לוקה בחסר",
+      "context": "לשה שערים ונקרא הראשון בבא קמא כלומר שער הראשון כי השער יתורגם בלשון ארמי בבא\n\n\nפרק זה לוקה בחסר. אנא תרמו לוויקיטקסט והשלימו אותו. ייתכן שתמצאו פירוט בדף השיחה. \n\n\n",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%91%D7%90_%D7%91%D7%AA%D7%A8%D7%90/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=783765",
+      "scope": "Source omission/editorial notice retained; no independent whole-historical-work collation claim."
+    }
+  ],
+  "longSourceBlocksConvertedToBoundedPlainStrings": 0,
+  "verification": {
+    "currentPrimaryCC4LicenseVerified": true,
+    "beforeAfterSourceRevisionStable": true,
+    "canonicalPageIdsUnique": true,
+    "selectedSourceOrderAndTextConserved": true,
+    "sourceNormalizedTextSha256": "3d20256c6a12b928185c96bb4a43579127a7bc8462d9d3987fb0c8b7ad18cdd7",
+    "retainedNormalizedTextSha256": "3d20256c6a12b928185c96bb4a43579127a7bc8462d9d3987fb0c8b7ad18cdd7",
+    "chapterParagraphsFlatStrings": true,
+    "chapterPayloadsBounded": true,
+    "noOcrPerformed": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false,
+    "existingBooksOrCatalogsChanged": false
+  }
+}

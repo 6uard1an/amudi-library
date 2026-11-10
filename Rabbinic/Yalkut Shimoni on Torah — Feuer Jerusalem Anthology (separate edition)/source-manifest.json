@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "work": "Yalkut Shimoni on Torah",
+  "parentPath": "Rabbinic/Yalkut Shimoni on Torah",
+  "editionName": "Yalkut Shimoni on Torah — Feuer Jerusalem Anthology (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Yalkut%20Shimoni%20on%20Torah/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Yalkut Shimoni on Torah; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/bdedd37441e782be6a10.json",
+  "sourceRawSha256": "f7de77b5c6fa84ffc1e8036b09032dd1f87e729327e39f8f4e226cf1bc65e4a0",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Yalkut%20Shimoni%20on%20Torah",
+    "rawSha256": "e9f91731726efd41c43ca522d8344237103d69022c9a62507af24f37df7f077a",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-f492931b0334f58a7f43.json",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Yalkut Shimoni on Torah",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Yalkut Shimoni on Torah"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Yalkut%20Shimoni%20on%20Torah/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/bdedd37441e782be6a10.json",
+    "sourceRawSha256": "f7de77b5c6fa84ffc1e8036b09032dd1f87e729327e39f8f4e226cf1bc65e4a0",
+    "sourceTextSha256": "3864eec801dbad23330544c9b7a506d87d5ab7d2681b0905fe291ed83d73dec5",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 8,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Yalkut%20Shimoni%20on%20Torah",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Yalkut%20Shimoni%20on%20Torah",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:56:04.083Z",
+      "rawSha256": "e9f91731726efd41c43ca522d8344237103d69022c9a62507af24f37df7f077a",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-f492931b0334f58a7f4330.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": "",
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "רבי מייק פוייר, לקט ירושלים",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "Rabbi Mike Feuer",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Yalkut Shimoni on Torah",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Yalkut Shimoni on Torah 117"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "117",
+      "sourcePosition": [
+        117
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            117,
+            2
+          ],
+          "sourceTextSha256": "6eb3594c3630eca111d4346699f86cf84b820d119123d9cb742fb42ccc436da0",
+          "retainedTextSha256": "6eb3594c3630eca111d4346699f86cf84b820d119123d9cb742fb42ccc436da0"
+        }
+      ],
+      "payloadSha256": "f9109a569f44634684df1e3ffe4f6e0f7063d283eedfecdf14862f1b6a6a4c5d"
+    },
+    {
+      "chapter": 2,
+      "label": "119",
+      "sourcePosition": [
+        119
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            119,
+            2
+          ],
+          "sourceTextSha256": "8f996a5f7a450b33cf53e1bb55e8a96a7d783183b87324a173234487b545d51e",
+          "retainedTextSha256": "8f996a5f7a450b33cf53e1bb55e8a96a7d783183b87324a173234487b545d51e"
+        }
+      ],
+      "payloadSha256": "9d2b30d4cbc0bafabe80c04e0ca178c64e77dfca4e519f7a00f4ce1ec8befdf8"
+    },
+    {
+      "chapter": 3,
+      "label": "145",
+      "sourcePosition": [
+        145
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            145,
+            17
+          ],
+          "sourceTextSha256": "cdabc727d78e0c9bbedceaf8a21d57661c0481dee210e0c99c08160f3ec3f5d0",
+          "retainedTextSha256": "cdabc727d78e0c9bbedceaf8a21d57661c0481dee210e0c99c08160f3ec3f5d0"
+        }
+      ],
+      "payloadSha256": "f201c08bc389c2d42b032e5ae67deeaabe6d78e51920daff84bf52b5fb9a97d1"
+    },
+    {
+      "chapter": 4,
+      "label": "251",
+      "sourcePosition": [
+        251
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            251,
+            7
+          ],
+          "sourceTextSha256": "0492e19f078aac36fca51d650f13f7850f59f8a67cd5a4472e6439cb4a9b490c",
+          "retainedTextSha256": "0492e19f078aac36fca51d650f13f7850f59f8a67cd5a4472e6439cb4a9b490c"
+        }
+      ],
+      "payloadSha256": "f40ebf337e92ff2deeb84b0348e61edc96c30af2b2df02522d82c27622da4dfb"
+    },
+    {
+      "chapter": 5,
+      "label": "763",
+      "sourcePosition": [
+        763
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            763,
+            12
+          ],
+          "sourceTextSha256": "b02876bd69da781776d630e78a0bac7a86a13efd26da9ad928983aeb25cf4993",
+          "retainedTextSha256": "b02876bd69da781776d630e78a0bac7a86a13efd26da9ad928983aeb25cf4993"
+        }
+      ],
+      "payloadSha256": "d31f8261a2591720aecce81f1ad711072a465ab73d60ebc490e341de60ca4dea"
+    },
+    {
+      "chapter": 6,
+      "label": "816",
+      "sourcePosition": [
+        816
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            816,
+            1
+          ],
+          "sourceTextSha256": "8895809c625b7eedd0ee717da326f9227533b004ca164cbecb25d4914f03760f",
+          "retainedTextSha256": "8895809c625b7eedd0ee717da326f9227533b004ca164cbecb25d4914f03760f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            816,
+            2
+          ],
+          "sourceTextSha256": "ee837618242e19b90dd1ad009c9f2377531ff6839594c91d40fd5b506e81880f",
+          "retainedTextSha256": "ee837618242e19b90dd1ad009c9f2377531ff6839594c91d40fd5b506e81880f"
+        }
+      ],
+      "payloadSha256": "4844679bfa319283d7a14e7ac0cc7a85d7aa1acbc14862203fa0feb231245f0d"
+    },
+    {
+      "chapter": 7,
+      "label": "881",
+      "sourcePosition": [
+        881
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            881,
+            5
+          ],
+          "sourceTextSha256": "9bf295f1f91fe231c04db98c04065ab1f681c7e69b3b3683790fc15ce9e90512",
+          "retainedTextSha256": "9bf295f1f91fe231c04db98c04065ab1f681c7e69b3b3683790fc15ce9e90512"
+        }
+      ],
+      "payloadSha256": "4c721c15cdf794850a00a347c885aecfc5b1231dd7aec6816e367286627f1e96"
+    }
+  ],
+  "sourceEntries": 8,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:28.903Z"
+}

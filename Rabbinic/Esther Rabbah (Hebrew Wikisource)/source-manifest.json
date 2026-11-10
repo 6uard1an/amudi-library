@@ -1,0 +1,675 @@
+{
+  "createdAt": "2026-10-30T04:48:52.125869+00:00",
+  "title": "Esther Rabbah — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Esther Rabbah (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Esther Rabbah",
+  "bibliographySourceLines": [
+    882
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Esther Rabbah. Hebrew Wikisource contributors, typed digital edition and editorial notes; the chapter 8 source page credits transcription to R. Pinchas Reuven via Torat Emet under CC BY-SA. Exact source-page revisions and contributor histories are in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "All source’s combined Petichta and parashah reading pages linked from its contents; individual subsection pages are not duplicated.",
+  "partialWork": false,
+  "sourcePages": [
+    {
+      "sourceTitle": "אסתר רבה פתיחתא",
+      "canonicalTitle": "אסתר רבה פתיחתא",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-646c8024de09fbc2.json",
+      "sourceSnapshotSha256": "204b404d5c9591d3fc91a591b15bd2c502c0e15952a623b6c1d30d73f9a678e7",
+      "sourceRevision": {
+        "id": 743555,
+        "timestamp": "2016-12-24T23:00:43Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90&oldid=743555",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90&action=history",
+      "sourcePageId": 181301,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=743555&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-646c8024de09fbc2.json",
+        "sha256": "23f125eae691f5d9c314c24f2f58e8f62528dfe1fdc9194225b9ab0e0d93df9f"
+      },
+      "sourceHeadings": [
+        "פרשה פתיחתא",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 17258,
+      "readingBlocks": 49,
+      "convertedChapters": [
+        1,
+        2
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה א",
+      "canonicalTitle": "אסתר רבה א",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-c0b46010a2f8e524.json",
+      "sourceSnapshotSha256": "6577128e32d92fb6273d866394d1d8b760e820b545970b9ec11c87fbc736c856",
+      "sourceRevision": {
+        "id": 262871,
+        "timestamp": "2009-03-04T00:12:12Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%90&oldid=262871",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%90&action=history",
+      "sourcePageId": 90979,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=262871&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-c0b46010a2f8e524.json",
+        "sha256": "e221434ac30bce41b88fd21036254fb9b441f899504e2292bd27c850c937d80f"
+      },
+      "sourceHeadings": [
+        "פרשה א",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 13918,
+      "readingBlocks": 47,
+      "convertedChapters": [
+        3
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ב",
+      "canonicalTitle": "אסתר רבה ב",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-29fe0d8a5ad90537.json",
+      "sourceSnapshotSha256": "5b98921fbff108ae05eda9b346ea3cad8d9c02301e6c442478b3c607b58e58a2",
+      "sourceRevision": {
+        "id": 263116,
+        "timestamp": "2009-03-06T04:59:23Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%91&oldid=263116",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%91&action=history",
+      "sourcePageId": 90980,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=263116&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-29fe0d8a5ad90537.json",
+        "sha256": "6b74e5cbd584125c11a790d360324132118a3aa45bbaa993279beab1e22d4c29"
+      },
+      "sourceHeadings": [
+        "פרשה ב",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 9934,
+      "readingBlocks": 26,
+      "convertedChapters": [
+        4
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ג",
+      "canonicalTitle": "אסתר רבה ג",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-2ce353aa54941902.json",
+      "sourceSnapshotSha256": "c3abe35957839c5871a019fdbfa06543c3baae44b55621e5c6def87f7a12344b",
+      "sourceRevision": {
+        "id": 263701,
+        "timestamp": "2009-03-08T07:19:40Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%92&oldid=263701",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%92&action=history",
+      "sourcePageId": 90981,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=263701&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-2ce353aa54941902.json",
+        "sha256": "ba9133dac92ba6302ac30b9242208be3d77e9c754eede3067d7bf97ff9d73edf"
+      },
+      "sourceHeadings": [
+        "פרשה ג",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 13265,
+      "readingBlocks": 22,
+      "convertedChapters": [
+        5
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ד",
+      "canonicalTitle": "אסתר רבה ד",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-1f25231482fd0a14.json",
+      "sourceSnapshotSha256": "939e3c262126d544c6fd5e4d08d2d9670ca43e1411abdf951caaec888e87e623",
+      "sourceRevision": {
+        "id": 263814,
+        "timestamp": "2009-03-08T12:04:05Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%93&oldid=263814",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%93&action=history",
+      "sourcePageId": 90982,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=263814&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-1f25231482fd0a14.json",
+        "sha256": "cb16ac6d16163f873fc19a947d4c51d26cedcadd6ffc6601ac623adbf2241124"
+      },
+      "sourceHeadings": [
+        "פרשה ד",
+        "קישורים חיצוניים",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 8732,
+      "readingBlocks": 22,
+      "convertedChapters": [
+        6
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ה",
+      "canonicalTitle": "אסתר רבה ה",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-8e21d029606288c3.json",
+      "sourceSnapshotSha256": "025808fc9e96eccee60fcaeac4dcda37231db4664c3aff15da9f6ab90ee10f0b",
+      "sourceRevision": {
+        "id": 263836,
+        "timestamp": "2009-03-08T13:13:19Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%94&oldid=263836",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%94&action=history",
+      "sourcePageId": 90983,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=263836&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-8e21d029606288c3.json",
+        "sha256": "fed0c287089b900d6aa72b21ba4ce0e57dfa1611e2d631efc56ce378056d2a32"
+      },
+      "sourceHeadings": [
+        "פרשה ה",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 7640,
+      "readingBlocks": 20,
+      "convertedChapters": [
+        7
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ו",
+      "canonicalTitle": "אסתר רבה ו",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-bde97291a83c6496.json",
+      "sourceSnapshotSha256": "802c27cd7c3c1c22d0248b37fc01f4fa898b297cdf7fe17e76f3a4d256b5e5e0",
+      "sourceRevision": {
+        "id": 367520,
+        "timestamp": "2010-02-21T13:48:40Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%95&oldid=367520",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%95&action=history",
+      "sourcePageId": 90984,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=367520&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-bde97291a83c6496.json",
+        "sha256": "38cabd4e1cb4b3de7fc6480869ef3f41a74f1f431ec45bca96ad02096897a0bd"
+      },
+      "sourceHeadings": [
+        "פרשה ו",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 5635,
+      "readingBlocks": 22,
+      "convertedChapters": [
+        8
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ז",
+      "canonicalTitle": "אסתר רבה ז",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-d9e624edb69af9b2.json",
+      "sourceSnapshotSha256": "0cf1df14f1efc2bd4fd5ea1485006f82e6dfaa0882b277dfb243ea985d2a9107",
+      "sourceRevision": {
+        "id": 2758208,
+        "timestamp": "2023-05-17T19:55:42Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%96&oldid=2758208",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%96&action=history",
+      "sourcePageId": 90985,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2758208&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-d9e624edb69af9b2.json",
+        "sha256": "e2cdfe302d040650ebc4db00bc6ba74ed7ed94c1b767ec6fe0ac8364cd091ade"
+      },
+      "sourceHeadings": [
+        "פרשה ז",
+        "קישורים חיצוניים",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 35913,
+      "readingBlocks": 29,
+      "convertedChapters": [
+        9,
+        10,
+        11
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ח",
+      "canonicalTitle": "אסתר רבה ח",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-e8b4142fc43163a4.json",
+      "sourceSnapshotSha256": "c110a8aff7a481ea21b52698f0463a88a57fd034e871cd8f6cdf577e8f6059ab",
+      "sourceRevision": {
+        "id": 367801,
+        "timestamp": "2010-02-26T10:16:44Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%97&oldid=367801",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%97&action=history",
+      "sourcePageId": 90986,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%95%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%98%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%96%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%97%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%98%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9B%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%95%D7%99%D7%A7%D7%94%D7%9C%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%90%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%91%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%92%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%93%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%94%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%95%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%96%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%97&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-16a4cf4300f7324a.json",
+        "sha256": "1a09ab0285636283a3520f1bf733461f04370883fb44e5a8ea5b7caea7b466e5"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=367801&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-e8b4142fc43163a4.json",
+        "sha256": "b86c4d26ed177d9e102374433a229a2e1d69d911908083461cff8e00e7af3fca"
+      },
+      "sourceHeadings": [
+        "פרשה ח",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 5114,
+      "readingBlocks": 26,
+      "convertedChapters": [
+        12
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה ט",
+      "canonicalTitle": "אסתר רבה ט",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-dc0e4f12ade4637b.json",
+      "sourceSnapshotSha256": "98ff1f957e347d369687159ad77647c708247f7b413bc0439be9f9db7ebafa8c",
+      "sourceRevision": {
+        "id": 1420380,
+        "timestamp": "2022-08-30T22:40:02Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%98&oldid=1420380",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%98&action=history",
+      "sourcePageId": 90987,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=1420380&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-dc0e4f12ade4637b.json",
+        "sha256": "5fd09c115e83ca3d1d2720451350486ed9541da8376bfa97e7032e6d148b975b"
+      },
+      "sourceHeadings": [
+        "פרשה ט",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 441,
+      "readingBlocks": 6,
+      "convertedChapters": [
+        13
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "אסתר רבה י",
+      "canonicalTitle": "אסתר רבה י",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-814a0893ffdac11d.json",
+      "sourceSnapshotSha256": "2680b7c36e337101ced3d2b7e3e8e86cebd922cf1418bcbbf6afb269ce3d95be",
+      "sourceRevision": {
+        "id": 483791,
+        "timestamp": "2013-05-11T20:58:12Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%99&oldid=483791",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%99&action=history",
+      "sourcePageId": 90988,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=483791&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-814a0893ffdac11d.json",
+        "sha256": "ccca507d53a50ec270fc30b4d0e03db6172a186a4836aacad2a680a836cf0d68"
+      },
+      "sourceHeadings": [
+        "פרשה י",
+        "קישורים חיצוניים"
+      ],
+      "readingCharacters": 647,
+      "readingBlocks": 13,
+      "convertedChapters": [
+        14
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "אסתר רבה פתיחתא · reading section 1",
+      "sourceTitle": "אסתר רבה פתיחתא",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 743555,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90&oldid=743555",
+      "paragraphs": 40,
+      "plainCharacters": 15899,
+      "outputFile": "Original/1.json",
+      "outputSha256": "e2e30677a41e46332ef44e6f0b895a253266af41b1270ce3ab7829579c53e0ba",
+      "normalizedTextSha256": "696d295ee61e98556d5c53a989dcf7cb15262f2a16e77698682d7b07b9083713"
+    },
+    {
+      "chapter": 2,
+      "title": "אסתר רבה פתיחתא · reading section 2",
+      "sourceTitle": "אסתר רבה פתיחתא",
+      "sourceIndex": 1,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 743555,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%A4%D7%AA%D7%99%D7%97%D7%AA%D7%90&oldid=743555",
+      "paragraphs": 9,
+      "plainCharacters": 1311,
+      "outputFile": "Original/2.json",
+      "outputSha256": "f0cbbecc61dcf66accf7584e64087637b6cdd6a23a3b05f97d08b650f29bf3f5",
+      "normalizedTextSha256": "b39668894ebeabf3e3e1f808f8c2227ff266a34b8d9c7628b7dc27b5f0defce9"
+    },
+    {
+      "chapter": 3,
+      "title": "אסתר רבה א",
+      "sourceTitle": "אסתר רבה א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 262871,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%90&oldid=262871",
+      "paragraphs": 47,
+      "plainCharacters": 13844,
+      "outputFile": "Original/3.json",
+      "outputSha256": "9de79602bb03ea138bfb33a81673cf90280a4fc49cf7eefc6733e5c791fd9f4a",
+      "normalizedTextSha256": "1c36664f80b005fc1cb9ed755b7b80dd7f227d5e5389be6aee7ee0a344424ad5"
+    },
+    {
+      "chapter": 4,
+      "title": "אסתר רבה ב",
+      "sourceTitle": "אסתר רבה ב",
+      "sourceIndex": 3,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 263116,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%91&oldid=263116",
+      "paragraphs": 26,
+      "plainCharacters": 9880,
+      "outputFile": "Original/4.json",
+      "outputSha256": "099bfefa12cd387d1a411a540ed285917fc89f4e4faf03b828e7198e9c401ae5",
+      "normalizedTextSha256": "b1566b3f574626d4c476d1ab3f6c6375f00a706ba74efe9d2dca166e598bf718"
+    },
+    {
+      "chapter": 5,
+      "title": "אסתר רבה ג",
+      "sourceTitle": "אסתר רבה ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 263701,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%92&oldid=263701",
+      "paragraphs": 22,
+      "plainCharacters": 13215,
+      "outputFile": "Original/5.json",
+      "outputSha256": "9e1bef6edd6f4b19df8d9132f2a536eab3b811bede60810b9f0d6c0b0a102e33",
+      "normalizedTextSha256": "ed2260882943c7874a8f0f6cd07cfb3c5f99d25da414e01371af9505b97c741b"
+    },
+    {
+      "chapter": 6,
+      "title": "אסתר רבה ד",
+      "sourceTitle": "אסתר רבה ד",
+      "sourceIndex": 5,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 263814,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%93&oldid=263814",
+      "paragraphs": 22,
+      "plainCharacters": 8675,
+      "outputFile": "Original/6.json",
+      "outputSha256": "b7d1ccb3ff74c6d1132cac02e902aef4d7ec3667833a73b92ad4601a2894fb61",
+      "normalizedTextSha256": "2f292022c9f52b4f27e649ab62798696f9c126c5d3c0c5fbf80d2f444e55bbe0"
+    },
+    {
+      "chapter": 7,
+      "title": "אסתר רבה ה",
+      "sourceTitle": "אסתר רבה ה",
+      "sourceIndex": 6,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 263836,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%94&oldid=263836",
+      "paragraphs": 20,
+      "plainCharacters": 7617,
+      "outputFile": "Original/7.json",
+      "outputSha256": "3eb69b9b8c3357778427fea5086a073c25eec318528b9be615e67d3f99350fdb",
+      "normalizedTextSha256": "c342a761ba21fd0d2ac134e2117fc268b1094518234ec57cc19e7ca555b6fc50"
+    },
+    {
+      "chapter": 8,
+      "title": "אסתר רבה ו",
+      "sourceTitle": "אסתר רבה ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 367520,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%95&oldid=367520",
+      "paragraphs": 22,
+      "plainCharacters": 5603,
+      "outputFile": "Original/8.json",
+      "outputSha256": "f3d7ed3a9f5673b906911545799072eca1c5240fb6dcc78b155c97a1d87e2cc4",
+      "normalizedTextSha256": "d5ad1154ba31fa85fabe1d782559fc48b7be0d8f550c7e22d5ca916ff9fbcfc5"
+    },
+    {
+      "chapter": 9,
+      "title": "אסתר רבה ז · reading section 1",
+      "sourceTitle": "אסתר רבה ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2758208,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%96&oldid=2758208",
+      "paragraphs": 16,
+      "plainCharacters": 14704,
+      "outputFile": "Original/9.json",
+      "outputSha256": "5c13f463d2197acc87896d5c273a33984a7590e3d87fb225d366ca13c668620e",
+      "normalizedTextSha256": "f4150057fe2b55ac8d76a724df9b36fea90235f019c64be3b64332f607275552"
+    },
+    {
+      "chapter": 10,
+      "title": "אסתר רבה ז · reading section 2",
+      "sourceTitle": "אסתר רבה ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2758208,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%96&oldid=2758208",
+      "paragraphs": 2,
+      "plainCharacters": 15644,
+      "outputFile": "Original/10.json",
+      "outputSha256": "e9b7098cdc829bcaaea873b51256338f4eb309299b6b0b1c25a962ddfd679617",
+      "normalizedTextSha256": "7e05f36b991af4e0329fb6649cc04964ced7210cf09c40f54bd3d03ae56f7e42"
+    },
+    {
+      "chapter": 11,
+      "title": "אסתר רבה ז · reading section 3",
+      "sourceTitle": "אסתר רבה ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2758208,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%96&oldid=2758208",
+      "paragraphs": 11,
+      "plainCharacters": 5507,
+      "outputFile": "Original/11.json",
+      "outputSha256": "c3b2feb5f982ebed7c26e6b0ab06317a93e72e9cada6c20a91105c9ade603346",
+      "normalizedTextSha256": "97752a714a95e300e2e453287534b54a51d9a53772bf08ddac9b5080e490a5a7"
+    },
+    {
+      "chapter": 12,
+      "title": "אסתר רבה ח",
+      "sourceTitle": "אסתר רבה ח",
+      "sourceIndex": 9,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 367801,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%97&oldid=367801",
+      "paragraphs": 26,
+      "plainCharacters": 5076,
+      "outputFile": "Original/12.json",
+      "outputSha256": "63a7e6d3a1500e32f3f93f98343e7f55c2c8e5d55c21537e0d3192e5c5f6652d",
+      "normalizedTextSha256": "c450f1fcc3e7727c6ebe085d600b8f0a5064899857d85e4e5eab3a34f1141dc0"
+    },
+    {
+      "chapter": 13,
+      "title": "אסתר רבה ט",
+      "sourceTitle": "אסתר רבה ט",
+      "sourceIndex": 10,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 1420380,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%98&oldid=1420380",
+      "paragraphs": 6,
+      "plainCharacters": 430,
+      "outputFile": "Original/13.json",
+      "outputSha256": "f25b096f42d94b9747fa52272c74cbbe93a6508a9b9b98457d6ca390dca99b15",
+      "normalizedTextSha256": "b20a95250dee0520c623cb1747ba76af1ec681b89abaeba488e32a5ac3b21cb2"
+    },
+    {
+      "chapter": 14,
+      "title": "אסתר רבה י",
+      "sourceTitle": "אסתר רבה י",
+      "sourceIndex": 11,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 483791,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%90%D7%A1%D7%AA%D7%A8_%D7%A8%D7%91%D7%94_%D7%99&oldid=483791",
+      "paragraphs": 13,
+      "plainCharacters": 627,
+      "outputFile": "Original/14.json",
+      "outputSha256": "568f5b5d2c4a488f0f33d5a6e418b63348f7e21b44cbb71b428055b72f30b7ca",
+      "normalizedTextSha256": "fa2ad6c74265ff74c163288e381b04357489c6a0ad34d2b984e2b27fa3ad1e71"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Esther Rabbah/Original/1.json": "278927740f605c60606589cbfbe026aa111f5994e697b0f55a892af8103a9521",
+    "Library/Rabbinic/Esther Rabbah/Original/10.json": "07df6887283abff4221c0ee6ed39533683c822cad603345844a4fb1e9e6e41c8",
+    "Library/Rabbinic/Esther Rabbah/Original/11.json": "4fec272729993ef9bd0bb1ebf414b734cabe56f2f1d3e205973bff93fbf5964b",
+    "Library/Rabbinic/Esther Rabbah/Original/2.json": "e8bd89a96bdb41316735fe90b664151a1e3d2c0e24b50f26b1fa7db097fbc8f2",
+    "Library/Rabbinic/Esther Rabbah/Original/3.json": "f5418e8c4e3fd2181a9b897dd1b56575f0990169356af5d5f717ab1966d34880",
+    "Library/Rabbinic/Esther Rabbah/Original/4.json": "93ad4fe3d8213cb16ec4da9e9797a6a9c1267b271466222e824648579a6609e4",
+    "Library/Rabbinic/Esther Rabbah/Original/5.json": "55b685eee1dc2aa072d332e1b6d4ccc1468f73a40d1a71b444e3908165334ee6",
+    "Library/Rabbinic/Esther Rabbah/Original/6.json": "b2723f3b599b0ae357640d8a9d7694bf6c4b600fd96f7a5183cebbd14b16c54b",
+    "Library/Rabbinic/Esther Rabbah/Original/7.json": "be113892eef36198d5a363bd155a2e72fa340654d419fc727d04cf672c03c397",
+    "Library/Rabbinic/Esther Rabbah/Original/8.json": "8b464c5567e0699b4652a5b66348c7028d8d3123ea49bf26c6f1a05588f25ee0",
+    "Library/Rabbinic/Esther Rabbah/Original/9.json": "883a7ba15edbd9af936723a9f757f3db7f9dc8e140d0f24c1fabc2185e81dbd6",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/1.json": "4edba0f9220afdbfa6306e7f05c8a5ba7ff9456885f592fefcc7ad25106171f1",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/10.json": "264d98a0e8b478ca23666657c3ce8d36e80cabdab160f1f73ad2e8382c9433aa",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/11.json": "eec2302460540858a8c3fd1ca9c47fc78d3f57ed97fc1785492026af5713f233",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/2.json": "e1025811877ce77142f2cd7881157f9c71e8df78917566fbe7def94377a7a351",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/3.json": "8c6bb6d7426a2a70ef7f063ea640568aefe8c25b184cdc8b598407ff49bb46d1",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/4.json": "4528081372c711c04a08d575182800abd058b32050524eb76e84d23f6fa98460",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/5.json": "8a832b540e25b3051e9fde3a1a4337bd82b77548fd34cee100a0ca2f3701a142",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/6.json": "97d25aeac71da7af5aa8dd7823673a438202420526cfab3a8fdb935708e1e026",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/7.json": "d2c6a47748ffc63b98857916a08bfff109ab3efc195140bf0e28f5c99dd0b086",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/8.json": "dfc8142b6773c8cf664782aa165566f63af5fd089e62dc838d4f0b7cff56a90d",
+    "Library/Rabbinic/Esther Rabbah/Sefaria Community Translation (source mapped)/9.json": "72ddf23210c762f45a815c3727a4d007088d41d7b808743cb248b5caeb7948c2"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "6735f2fcddd79ba0055b5c02aa68b44dbf407869b21e68f55009376855b1abae",
+    "retainedNormalizedTextSha256": "6735f2fcddd79ba0055b5c02aa68b44dbf407869b21e68f55009376855b1abae",
+    "existingEnglishBodyFilesUnchanged": 22,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  },
+  "specificTranscriptionCredit": "The source chapter 8 page names R. Pinchas Reuven as transcriber, via Torat Emet, and identifies CC BY-SA; the statement is retained as local original 12:26."
+}

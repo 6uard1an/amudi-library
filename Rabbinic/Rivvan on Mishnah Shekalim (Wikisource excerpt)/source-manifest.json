@@ -1,0 +1,34 @@
+{
+  "title": "Rivvan on Mishnah Shekalim — Wikisource excerpt",
+  "source": "Hebrew Wikisource",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Ribbavan (Judah ben Benjamin Anav), as identified by Wikisource; contributors Nahum, Ori229, אור שפירא, תולדות אדם; complete page history in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Selected the Ribbavan section of the pinned source, removed wiki bold markup and line-break tags, normalized whitespace, and grouped six paragraphs under Mishnah Shekalim 1:1. No OCR or new translation was performed by Amudi. Copyrightable adaptations are shared under CC BY-SA 4.0.",
+  "coverageStatus": "Six source paragraphs associated with Mishnah Shekalim 1:1 only; not the complete commentary.",
+  "page": {
+    "title": "שקלים א א",
+    "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%90&oldid=863058",
+    "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A9%D7%A7%D7%9C%D7%99%D7%9D_%D7%90_%D7%90&action=history",
+    "revisionId": 863058,
+    "url": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&revids=863058&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/rivvan-shekalim-wikisource-20261103/pinned-revision.json",
+    "sha256": "b01a9e6656f7c0447e0021120bf874beb188331acee69989a040f271015a3aa4"
+  },
+  "fullHistory": {
+    "url": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&titles=%D7%A9%D7%A7%D7%9C%D7%99%D7%9D+%D7%90+%D7%90&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment&rvlimit=max&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/rivvan-shekalim-wikisource-20261103/page-history.json",
+    "sha256": "f082beb1ee3f739485feab9a993b3645b714eaf3a335ac55b1f0a81897b12c7a"
+  },
+  "siteLicenseEvidence": {
+    "url": "https://he.wikisource.org/w/api.php?action=query&meta=siteinfo&siprop=rightsinfo&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/rivvan-shekalim-wikisource-20261103/site-rights.json",
+    "sha256": "dc1e901a698fa8c6188340efd21acafb137226bd857ff1903514808a2471f911",
+    "declared": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    }
+  },
+  "authorIdentityEvidence": "https://www.nli.org.il/en/a-topic/987007309253805171",
+  "alignment": "The source labels the commentary on the first Mishnah. The opening words and concluding markers correspond to the installed Mishnah Shekalim 1:1; this does not independently clear the installed base edition."
+}

@@ -1,0 +1,212 @@
+{
+  "work": "Arukh HaShulchan",
+  "versionTitle": "Hupah veKiddushin, trans. by Norman T. Roman. HUC, 1975",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Arukh%20HaShulchan/English/Hupah%20veKiddushin%2C%20trans.%20by%20Norman%20T.%20Roman.%20HUC%2C%201975.json",
+  "sourceSha256": "e9753f195c9db0e089293ea2a996e4c26b7b2ebe8595d514ba18ba8e910ab202",
+  "sourceSnapshot": "Amudi/data/rights/arukh-hashulchan-roman-english-evidence-20261106/source.json",
+  "versionsApi": "https://www.sefaria.org/api/texts/versions/Arukh%20HaShulchan",
+  "versionsSha256": "5f9fbf8971b87a8a3bec4c83e58c3efc2fcade74599db25072db79e3986a3779",
+  "versionsSnapshot": "Amudi/data/rights/arukh-hashulchan-roman-english-evidence-20261106/versions.json",
+  "license": "CC BY 3.0",
+  "licenseEvidence": {
+    "providerMapCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+    "providerSourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+    "providerLicenseField": "CC-BY",
+    "resolvedLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "limitation": "Sefaria maps its CC-BY label to BY 3.0; check any separate rights-holder terms before release."
+  },
+  "attribution": "Arukh HaShulchan, Hupah veKiddushin, English translation by Norman T. Roman, via Sefaria.",
+  "changes": "Selected nonempty source segments and stored them in source order in a separate reading section, preserving exact displayed wording and the source coordinates in the manifest. No OCR or new translation. Hebrew alignment has not been established.",
+  "coverage": "Partial source edition: 31 English segments in the Even HaEzer source node; not a complete translation of Arukh HaShulchan.",
+  "sourcePositionPaths": [
+    [
+      "Even HaEzer",
+      "",
+      55,
+      1
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      2
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      3
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      4
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      5
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      6
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      7
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      8
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      9
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      10
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      11
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      12
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      13
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      14
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      15
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      16
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      17
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      18
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      19
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      20
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      21
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      22
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      23
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      24
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      25
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      26
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      27
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      28
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      29
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      30
+    ],
+    [
+      "Even HaEzer",
+      "",
+      55,
+      31
+    ]
+  ],
+  "sourceMethod": "Existing typed source; no OCR or translation by Amudi.",
+  "sourceDateNote": "Sefaria version title says 1975, while its linked source URL includes 1985. The edition date is not independently resolved.",
+  "checkedAt": "2026-11-06T17:24:37.233401+00:00"
+}

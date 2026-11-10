@@ -1,0 +1,146 @@
+{
+  "checkedUtc": "2026-11-03T16:49:13.684968+00:00",
+  "book": "Rabbinic/Orchot Tzadikim",
+  "chapter": 30,
+  "chapterName": "Signs of the Book of Traits",
+  "hebrewVersion": "Wikitext",
+  "hebrewSourceUrl": "https://storage.googleapis.com/sefaria-export/json/Musar/Rishonim/Orchot%20Tzadikim/Hebrew/Wikitext.json",
+  "hebrewProviderLicense": "CC-BY-SA (version not specified in Sefaria metadata)",
+  "hebrewWikisourceLicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "hebrewAttribution": "Wikisource contributors, Signs of Sefer HaMiddot; based on the Warsaw 1430 manuscript; edits and transcription as documented in page history.",
+  "sourcePage": "https://he.wikisource.org/wiki/אורחות_צדיקים_סימני_ספר_המידות",
+  "historyUrl": "https://he.wikisource.org/w/index.php?title=אורחות_צדיקים_סימני_ספר_המידות&action=history",
+  "editionMethodUrl": "https://he.wikisource.org/wiki/ויקיטקסט:ספר_המידות_(אורחות_צדיקים)",
+  "firstRevision": {
+    "revid": 384664,
+    "parentid": 0,
+    "user": "Dovi",
+    "timestamp": "2010-10-17T08:06:05Z",
+    "comment": "דף חדש: {{סרגל ניווט|אורחות צדיקים||שער יראת שמים|סימני ספר המידות|הקדמה|כותרת עליונה={{ניווט אורחות צדיקים}}|כו..."
+  },
+  "hebrewSourceSha256": "c5bf74764e9d56d0e6930bb40355a10b956b1dd135a7cbd02c2fa348e3aacf63",
+  "englishVersion": "Sefaria Community Translation",
+  "englishSourceUrl": "https://storage.googleapis.com/sefaria-export/json/Musar/Rishonim/Orchot%20Tzadikim/English/Sefaria%20Community%20Translation.json",
+  "englishLicense": "CC0 1.0",
+  "englishLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "englishAttribution": "Sefaria Community Translation contributors; Sefaria Export",
+  "englishSourceSha256": "017a5510c977a887b6d380cd918238cd766edcc1f5e4b19c76c78f1174dc6f17",
+  "method": "Added 44 selected source Hebrew paragraphs in source order; checked the Hebrew and English openings for all 18 existing source English entries and placed them at the same positions; remaining English slots blank. No OCR or new translation.",
+  "records": [
+    {
+      "sourcePosition": 1,
+      "localParagraph": 1,
+      "hebrewSha256": "8bb90162af22a419003283a1221f1665ed5570cd2d531987ee99e738fe923b48",
+      "englishSha256": "f17d736dad1ddc9c86b435fa77d59022b6f4957b256719bcc48f690a908bade3"
+    },
+    {
+      "sourcePosition": 2,
+      "localParagraph": 2,
+      "hebrewSha256": "1aa5a9800d23afd0a86e88f1f90cbcbfed67eb79ce828c1c53289655cfa89e67",
+      "englishSha256": "5ea7aeef5fcbb6a69609e945e95086e3a9d7b8bc430794766d4ed59e07685394"
+    },
+    {
+      "sourcePosition": 3,
+      "localParagraph": 3,
+      "hebrewSha256": "af334222b61e50d477fc30133f09448938e280bfb8df08ab11448e58f7cd1768",
+      "englishSha256": "c0c02c2e45fe9efaaa1236d9a5bf7daa5c16163fbf92ec0b02c636a31aac2aec"
+    },
+    {
+      "sourcePosition": 4,
+      "localParagraph": 4,
+      "hebrewSha256": "62105165e9b41b66797ba35ae0fbc4fd91d6e3f63c28a68a24ec6ee2f6ef9225",
+      "englishSha256": "51dc63f5d6dd5393d00ee6b112be64ec7b0671b9f73d888930a5f18b9220dc86"
+    },
+    {
+      "sourcePosition": 5,
+      "localParagraph": 5,
+      "hebrewSha256": "4f4ee3c6b8334cc5aefb8236a69c59c0dccce2b6cecd8799ff361ec000e8d64f",
+      "englishSha256": "d2c196c45fa9bff73a7682cbc0e2309440b19cfad3d3b9eac21f40b48128efa0"
+    },
+    {
+      "sourcePosition": 6,
+      "localParagraph": 6,
+      "hebrewSha256": "d023fda3fd1497d66ad01e93408e63749f21089166731193fd67dec6c8913ff4",
+      "englishSha256": "24e520f7ca194b6b84f2ccbf0c7fd10c66de3b986822058c73216582b0854080"
+    },
+    {
+      "sourcePosition": 7,
+      "localParagraph": 7,
+      "hebrewSha256": "75f844e4994efee4ab89907c34e777e93740570769b5e57e8920d92327084e74",
+      "englishSha256": "6f8f72ff2c37eeab42a8713a9d86231d646977b5b9d405eec4fa331b89437a74"
+    },
+    {
+      "sourcePosition": 8,
+      "localParagraph": 8,
+      "hebrewSha256": "1ba1a41bec94dbe1c9a1a93dfcd8f3a009a0a76a8cd0fc773692c2bd943aced4",
+      "englishSha256": "5c515c1725816e6e6b8b84d416dc9bdda7d8f890356effd2e68b22700120fe83"
+    },
+    {
+      "sourcePosition": 9,
+      "localParagraph": 9,
+      "hebrewSha256": "700b85b95cd229346b543278a02a5efff61546660f0a6ed0bec7a460e5747f23",
+      "englishSha256": "e2d056b082f8a38a8b4a8199070bd16565e996f4274f46f85573fe53dc7146e9"
+    },
+    {
+      "sourcePosition": 10,
+      "localParagraph": 10,
+      "hebrewSha256": "878d88bdff88882d79fe1c487975df1a652af85eb1e325c8bcc7a02fcfd07e94",
+      "englishSha256": "e4119105be2d98a12ffc04eb6cfba5d01d3efe6bbce966e98b775702a926d48c"
+    },
+    {
+      "sourcePosition": 11,
+      "localParagraph": 11,
+      "hebrewSha256": "293028214f2800537fb886fa1916f2f0108340dd21b7476ae7579cde1ea45f17",
+      "englishSha256": "76203287b5ef06b407b3962fb35ccfe8555835e8a084a5fa627c5a04b7448262"
+    },
+    {
+      "sourcePosition": 12,
+      "localParagraph": 12,
+      "hebrewSha256": "bbc4f6ae9f999813c3aa8ba5798eddeea89133a644a38d0921296724cb1c75ec",
+      "englishSha256": "b1dbf19c527822f290c48381a1dbf9c7550211da9edf6aacaa169d700ac53306"
+    },
+    {
+      "sourcePosition": 13,
+      "localParagraph": 13,
+      "hebrewSha256": "a3521c36a3bca9d5723d5562c95dcb3f60be065604e67414eb1b68fbddfb483c",
+      "englishSha256": "7d07d28ad98eb0162a1ac68d8ce57811646c91acb9480c283bd55e8690b66b8c"
+    },
+    {
+      "sourcePosition": 14,
+      "localParagraph": 14,
+      "hebrewSha256": "db3f6fdbd94e4e68297b16d192f577b17a770bfaf1533db5e2ef52c07de6a39b",
+      "englishSha256": "ac07b98d828e9eed8ebd0be2eca678a84b26f10e2ea61f9232414b62b3ec5872"
+    },
+    {
+      "sourcePosition": 15,
+      "localParagraph": 15,
+      "hebrewSha256": "283f1b945c531066fd7d38bc5a40fb9bf9b1ed982e4d32bc8ebf1bc5fa51dea0",
+      "englishSha256": "d7012f1cb72984c66e748317b7c72688c3500592a502518029864eb2683a54a9"
+    },
+    {
+      "sourcePosition": 16,
+      "localParagraph": 16,
+      "hebrewSha256": "4d462353dd8f9ab1fbe4e6edb4a650119cae971380426a080d4953112ae0575e",
+      "englishSha256": "d11dcd00d130946dcb2f0e5a871316e5edaf5776c72682aed7a3ae3083d60939"
+    },
+    {
+      "sourcePosition": 17,
+      "localParagraph": 17,
+      "hebrewSha256": "a861dc0aa8c9552936dc8c524c3eb214e0a6c87fbc19498661c93c082114696a",
+      "englishSha256": "7b77d08fd2a0800fd14e584dfea890d11062f2c8665350e03796568e52971e7f"
+    },
+    {
+      "sourcePosition": 18,
+      "localParagraph": 18,
+      "hebrewSha256": "ffc870ca8ebe37e84c89f6445a038fe9d535f6ce0d624ae97bde45fdd23692f7",
+      "englishSha256": "86bff3d9c12e931d292df55cc0407b194805a40967b9c2c2b86b887269031073"
+    }
+  ],
+  "hebrewParagraphs": 44,
+  "englishParagraphs": 18,
+  "chapterFingerprints": {
+    "original": "9c0e820705bd9c677d6fa48e380c2f6a27f3ae9d93169fd46fdda355bb1da618",
+    "english": "e8f349f184420a482c9716f67fc1db091a35592d8e9ea8c7127e8145e56a9a3a"
+  },
+  "limitations": "Community English has visibly awkward wording; translation quality is not certified. CC BY-SA duties and technical restrictions must be satisfied for actual distribution. Edition claims do not establish full release compliance."
+}

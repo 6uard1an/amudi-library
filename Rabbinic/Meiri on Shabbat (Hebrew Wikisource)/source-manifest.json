@@ -1,0 +1,89 @@
+{
+  "createdAt": "2026-10-30T04:48:53.917025+00:00",
+  "title": "Meiri on Shabbat — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Shabbat (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Meiri on Shabbat",
+  "bibliographySourceLines": [
+    1749,
+    2276,
+    2496
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Shabbat. Hebrew Wikisource contributors, typed digital edition and editorial notes. Exact source-page revision permalinks and contributor histories are recorded in source-manifest.json. CC BY-SA4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "PARTIAL: only the currently typed source pages listed in this manifest. Other chapters/entries of the underlying work are not supplied by this edition.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/שבת/פרק א",
+      "canonicalTitle": "מאירי על הש\"ס/שבת/פרק א",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-646f3613af7ca26f.json",
+      "sourceSnapshotSha256": "2b0feb5d1456de95dae930ab30b9cf217ac4295c627851d712348df0eab331a7",
+      "sourceRevision": {
+        "id": 3083970,
+        "timestamp": "2026-09-21T19:06:09Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%A9%D7%91%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=3083970",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%A9%D7%91%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourcePageId": 380459,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=3083970&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-646f3613af7ca26f.json",
+        "sha256": "0eb3af189e043b22edf975e2478050732844f614a511bb5307946aea7fd5c051"
+      },
+      "sourceHeadings": [
+        "הקדמה",
+        "פרק א"
+      ],
+      "readingCharacters": 8407,
+      "readingBlocks": 8,
+      "convertedChapters": [
+        1
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/שבת/פרק א",
+      "sourceTitle": "מאירי על הש\"ס/שבת/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 3083970,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%A9%D7%91%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=3083970",
+      "paragraphs": 8,
+      "plainCharacters": 8399,
+      "outputFile": "Original/1.json",
+      "outputSha256": "fc93c5e6ef4293f666d1c7293457eefbb3a5f4c62417368fb3584d7991170210",
+      "normalizedTextSha256": "26465b54ed0ea12c4a81b154e5b988cacfec2001edeeee40b95b12400ace4144"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Meiri on Shabbat/Original/1.json": "40bd79f4bfafdbaf7ca8a7f67e8ab4d16f9c655acd4a757f86e528c7de60ab83",
+    "Library/Rabbinic/Meiri on Shabbat/Original/2.json": "5d9f21b6a7f38076637fd204af4415c41d3e1f32125cdde49fe2dd595f2c9146"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "26465b54ed0ea12c4a81b154e5b988cacfec2001edeeee40b95b12400ace4144",
+    "retainedNormalizedTextSha256": "26465b54ed0ea12c4a81b154e5b988cacfec2001edeeee40b95b12400ace4144",
+    "existingEnglishBodyFilesUnchanged": 2,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  }
+}

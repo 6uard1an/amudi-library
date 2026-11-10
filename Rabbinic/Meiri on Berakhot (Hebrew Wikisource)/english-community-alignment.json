@@ -1,0 +1,48 @@
+{
+  "basePath": "Rabbinic/Meiri on Berakhot (Hebrew Wikisource)",
+  "englishSource": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim on Talmud/Meiri/Seder Zeraim/Meiri on Berakhot/English/Sefaria Community Translation.json",
+  "englishExportSha256": "70602c77108075559eae35c2120627e9856f6b6d9a82431fa2bc915a446836e1",
+  "providerLicense": "CC0",
+  "providerTerms": "https://developers.sefaria.org/docs/general-faq",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "hebrewLicense": "CC BY-SA 4.0",
+  "hebrewSourceManifest": "..\\Library\\Rabbinic\\Meiri on Berakhot (Hebrew Wikisource)\\source-manifest.json",
+  "matches": [
+    {
+      "sourceCoordinate": [
+        33,
+        1
+      ],
+      "baseCoordinate": [
+        12,
+        5
+      ],
+      "sourceSha256": "e15fdea0c149a5d537ee274c58ac6955f9022a41ff95a401a08fcb54ad560d09",
+      "hebrewSha256": "2583399beb2932b065aba766bfccfca0af4b50d60158214077500e473c1567f0",
+      "basis": "Both discuss gentle speech, peace with a stranger and the greeting practice of Rabban Yohanan ben Zakkai."
+    },
+    {
+      "sourceCoordinates": [
+        [
+          75,
+          4
+        ],
+        [
+          75,
+          5
+        ]
+      ],
+      "baseCoordinate": [
+        30,
+        4
+      ],
+      "sourceSha256": [
+        "21d2207f07eca4ee01481070dd9d9b8d1b61f2b4b9e75f9b9b213b86e5565924",
+        "ceeac2809ddc47c3d079945c3eeff31d64f286af128eb91fa4d7f0ff72543539"
+      ],
+      "hebrewSha256": "f32a4d068b8857bbfab787c19d1d29e04504aa1b89f83b8e97e4bc28a036f997",
+      "basis": "Both discuss turning terumah produce into liquids, late grapes, and crushing or cutting fruit. The source block also contains unrelated discussions, so this is visibly marked partial."
+    }
+  ],
+  "limitations": "Source provider license claim, not independent title verification; only two passages are aligned. Other text remains untranslated."
+}

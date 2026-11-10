@@ -1,0 +1,39 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 123,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "123294a7af01a04b9199034cd28add4a16008a93c081a154e8cc2f8f5e00e98e",
+      "translationChapter": 127,
+      "translationPosition": 1,
+      "translationTextSha256": "5120b7cf518d96705b5ac32e65493640d445d05f35caadb67520b57aeb33f05a",
+      "followingBaseTextSha256s": [
+        "b5e350e769adec3527e28f6ad66fdeaa29ceb8b1264d73de6c15658439c8ac3e",
+        "0fa79cb4736c191114f00539396bf1c95a01c4feb2244998c391a5659824ff7e",
+        "42b830d7d66543a90cfdfc40db58b4f3339e07ce1742fea41d3e73a0e5417c52"
+      ]
+    },
+    {
+      "basePosition": 12,
+      "baseTextSha256": "d4c185af6ed42c76ca611dd4c7f5d302a154a687534e3b0ea1e35fe4bb1bb6f1",
+      "translationChapter": 127,
+      "translationPosition": 3,
+      "translationTextSha256": "6406587ba914f35de686f8701da45182122095d7b34cbe3b86a1b5027d59faf3",
+      "followingBaseTextSha256s": [
+        "29d14c6b8bc977b076abdc6a3a4e69856da0283fc2657e3205c8406a5f126288",
+        "378795cd58b4f6727e66fecf5caa4d0497e8707fd0f1a14ffa706bcd785a41b8",
+        "6b12fd114248d0fd8acccc8fba1bca70849361ae7a3bd191f0693b400aa9e4da",
+        "79376ac5344ee38d4313df76f38be7d8afdc2fbff01f6bb09b31a1d4565046d5",
+        "e2c2b25558e468c0bf6742a7ada80f827f7ccb48a81e33339062d2f24fc4ac29",
+        "d8b86d78958c4bc5148efd699cd314e2e43db3db9cd7964fdd977d4c81a7240b",
+        "25fa76a3fabcda5e376f3afea0cfa0393fc386a0a9d95887dbd9e122040b5815"
+      ]
+    }
+  ]
+}

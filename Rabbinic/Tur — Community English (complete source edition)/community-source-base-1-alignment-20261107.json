@@ -1,0 +1,47 @@
+{
+  "baseBookPath": "Rabbinic/Tur",
+  "baseChapter": 1,
+  "translationBookPath": "Rabbinic/Tur — Community English (complete source edition)",
+  "method": "Exact unique local Hebrew match to corresponding source position; English source positions and fingerprints checked. Translation not independently proofread.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Tur/Tur/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 10,
+      "baseTextSha256": "a80c4d914799b8ac963b6893de133569cae2112a29148ee94e11adc9cd5af16c",
+      "translationChapter": 89,
+      "translationPosition": 1,
+      "translationTextSha256": "965aa64bbce414442178a842eef95419ba548e7a1f8b494148bd0ada109eda53"
+    },
+    {
+      "basePosition": 11,
+      "baseTextSha256": "f9c21ec10a810ed685d3b447251517f054f510d81cfd175953c552a04a83c430",
+      "translationChapter": 90,
+      "translationPosition": 1,
+      "translationTextSha256": "96f19bae73fe2c69ecaaec37cc45285416bd665f0bc4d772f7e424ff5f8485aa"
+    },
+    {
+      "basePosition": 13,
+      "baseTextSha256": "0fa50668960c86a570fa811224fd96c00c8601b74e8d2282454e18f700594ee4",
+      "translationChapter": 91,
+      "translationPosition": 1,
+      "translationTextSha256": "1f79baee5269acc1c500e16639892e04bdf0ce70c0e1306a6625a8e6b47eafda"
+    },
+    {
+      "basePosition": 14,
+      "baseTextSha256": "f417539250eb6acecd48f532ce353c20d028855781df76c5db88626cfc9a5302",
+      "translationChapter": 92,
+      "translationPosition": 1,
+      "translationTextSha256": "5eb94eeb0146c2d309f7b73ee24100d1daec2223a19a009c7d918e7b085bd297"
+    },
+    {
+      "basePosition": 38,
+      "baseTextSha256": "9aa7654cc90d5a91283b3ccb48d0c46f397875b2454bec7ef15b998de9759f6c",
+      "translationChapter": 95,
+      "translationPosition": 1,
+      "translationTextSha256": "d4222ffcf8846f55a24461eea6155ba3837d1e187b7baf60015af5804530e92a"
+    }
+  ],
+  "qualityReview": "Amudi/data/rights/tur-mixed-language-source-review-20261104.json"
+}

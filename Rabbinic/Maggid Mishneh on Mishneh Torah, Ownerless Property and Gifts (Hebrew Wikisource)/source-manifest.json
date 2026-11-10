@@ -1,0 +1,107 @@
+{
+  "createdAt": "2026-10-30T04:48:47.969964+00:00",
+  "title": "Maggid Mishneh on Mishneh Torah, Ownerless Property and Gifts — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Maggid Mishneh on Mishneh Torah, Ownerless Property and Gifts (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Maggid Mishneh on Mishneh Torah, Ownerless Property and Gifts",
+  "bibliographySourceLines": [
+    2527
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Maggid Mishneh on Mishneh Torah, Ownerless Property and Gifts. Hebrew Wikisource contributors, typed digital edition and editorial notes. Exact source-page revision permalinks and contributor histories are recorded in source-manifest.json. CC BY-SA4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "PARTIAL: only chapter1, with source halakhot1–15. The guessed single-yod/root link is red, but the exact double-yod chapter exists. Source prefix inventory currently contains no other chapters under this Hilkhot prefix.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מגיד משנה/הלכות זכייה ומתנה/פרק א",
+      "canonicalTitle": "מגיד משנה/הלכות זכייה ומתנה/פרק א",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-da75f0f1d50e4b42.json",
+      "sourceSnapshotSha256": "d4bcead94b0e654a9e8ccbd55f61a229f24729a2384a6855d15815db7827c515",
+      "sourceRevision": {
+        "id": 2892906,
+        "timestamp": "2024-11-20T20:55:32Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%96%D7%9B%D7%99%D7%99%D7%94_%D7%95%D7%9E%D7%AA%D7%A0%D7%94/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2892906",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%96%D7%9B%D7%99%D7%99%D7%94_%D7%95%D7%9E%D7%AA%D7%A0%D7%94/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourcePageId": 1723602,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2892906&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-da75f0f1d50e4b42.json",
+        "sha256": "6756ac8a22d5e1c5f65b693a4e164f1caa14530877f84b7e9a0da9ce2816e9df"
+      },
+      "sourceHeadings": [
+        "הלכה א",
+        "הלכה ב",
+        "הלכה ג",
+        "הלכה ד",
+        "הלכה ה",
+        "הלכה ו",
+        "הלכה ז",
+        "הלכה ח",
+        "הלכה ט",
+        "הלכה י",
+        "הלכה יא",
+        "הלכה יב",
+        "הלכה יג",
+        "הלכה יד",
+        "הלכה טו"
+      ],
+      "readingCharacters": 9765,
+      "readingBlocks": 40,
+      "convertedChapters": [
+        1
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מגיד משנה/הלכות זכייה ומתנה/פרק א",
+      "sourceTitle": "מגיד משנה/הלכות זכייה ומתנה/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2892906,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%96%D7%9B%D7%99%D7%99%D7%94_%D7%95%D7%9E%D7%AA%D7%A0%D7%94/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2892906",
+      "paragraphs": 40,
+      "plainCharacters": 9743,
+      "outputFile": "Original/1.json",
+      "outputSha256": "d151de1edf02a9f6bf94c398a52ea3acf1622c3539eb490c86077115210d3133",
+      "normalizedTextSha256": "0e701b1a3587b7c7f5a17e58f04ce4009334f171303e587800790499def89050"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Maggid Mishneh on Mishneh Torah, Ownerless Property and Gifts/Original/1.json": "7d8276ed1bd59294da129f7e68a52549db2e25daf22ef381159add2add9d5971"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "0e701b1a3587b7c7f5a17e58f04ce4009334f171303e587800790499def89050",
+    "retainedNormalizedTextSha256": "0e701b1a3587b7c7f5a17e58f04ce4009334f171303e587800790499def89050",
+    "existingEnglishBodyFilesUnchanged": 1,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  },
+  "pages": [
+    {
+      "chapter": 1,
+      "sourceTitle": "מגיד משנה/הלכות זכייה ומתנה/פרק א",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%96%D7%9B%D7%99%D7%99%D7%94_%D7%95%D7%9E%D7%AA%D7%A0%D7%94/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2892906",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%92%D7%99%D7%93_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%96%D7%9B%D7%99%D7%99%D7%94_%D7%95%D7%9E%D7%AA%D7%A0%D7%94/%D7%A4%D7%A8%D7%A7_%D7%90&action=history"
+    }
+  ]
+}

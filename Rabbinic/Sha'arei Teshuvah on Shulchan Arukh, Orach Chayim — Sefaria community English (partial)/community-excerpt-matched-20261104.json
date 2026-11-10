@@ -1,0 +1,19 @@
+{
+  "baseBookPath": "Rabbinic/Sha'arei Teshuvah on Shulchan Arukh, Orach Chayim",
+  "baseChapter": 329,
+  "translationBookPath": "Rabbinic/Sha'arei Teshuvah on Shulchan Arukh, Orach Chayim — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    489,
+    20
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 5,
+      "baseTextSha256": "15149fddf4a9e1c4f80b57668fe2e8c1652c7565fc486d2218b0a92e32a66bef",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "2e70ce50ffe0a374bc6f71a07cb976f16ea21ba82bd1e08c72a62dc4d8ee53b7"
+    }
+  ]
+}

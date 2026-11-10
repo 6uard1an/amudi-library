@@ -1,0 +1,16 @@
+{
+  "baseBookPath": "Rabbinic/Rosh on Rosh Hashanah",
+  "baseChapter": 3,
+  "translationBookPath": "Rabbinic/Rosh on Rosh Hashanah — Community English (complete source edition)",
+  "method": "Provider English 4:10:16 corresponds to Rav Hai subsection of Hebrew 4:10:2; linked to local chapter 3 paragraph 16 as a partial translation.",
+  "pairs": [
+    {
+      "basePosition": 16,
+      "baseTextSha256": "cd751b9920b7962b010691fe03f4c9476f95fb8254d10e37e60671fa50fa7255",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "ef62ed07e584e0db84542c32eaa856f6b221b7480eeec52ffe3b0083e93432d1",
+      "partialTranslation": true
+    }
+  ]
+}

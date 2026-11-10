@@ -1,0 +1,21 @@
+{
+  "baseBookPath": "Rabbinic/Pitchei Teshuva on Shulchan Arukh, Even HaEzer",
+  "baseChapter": 135,
+  "translationBookPath": "Rabbinic/Pitchei Teshuva on Shulchan Arukh, Even HaEzer — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    "",
+    157,
+    9
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 9,
+      "baseTextSha256": "cf769fdad1d2f7804d40fdf9434d058ebd8fd60d6dd42c8e89c179e1b81701bb",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "c9e1d01103c06846683a27a6a9386b9489bf5d62bd50adfaad700d9167834310",
+      "partialTranslation": true
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "schemaVersion": 1,
+  "work": "Akeidat Yitzchak",
+  "parentPath": "Rabbinic/Akeidat Yitzchak",
+  "editionName": "Akeidat Yitzchak — Metsudah 2009 excerpts (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Akeidat%20Yitzchak/English/Yalkut%2C%20Sifsei%20Chachomim%20Chumash%2C%20Metsudah%20Publications%2C%202009.json",
+  "versionTitle": "Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Akeidat Yitzchak; Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009; original publisher/source: https://www.nli.org.il/he/books/NNL_ALEPH002691623; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/d64ee3ff1286dab5ad4b.json",
+  "sourceRawSha256": "95029ced69c77b8f92c0e732beae3b1a36f99fdfcee508c34598c6bc67d5cf01",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Akeidat%20Yitzchak",
+    "rawSha256": "696a9de3389f69752a913670ae41c5688ac47642822167161ee34c831a6890f6",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-7ec3b534472b74050033.json",
+    "versionTitle": "Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Akeidat Yitzchak",
+    "versionTitle": "Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009",
+    "scannerVersionTitle": "Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Akeidat Yitzchak"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Akeidat%20Yitzchak/English/Yalkut%2C%20Sifsei%20Chachomim%20Chumash%2C%20Metsudah%20Publications%2C%202009.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/d64ee3ff1286dab5ad4b.json",
+    "sourceRawSha256": "95029ced69c77b8f92c0e732beae3b1a36f99fdfcee508c34598c6bc67d5cf01",
+    "sourceTextSha256": "e2633f4f43aa0bd37deeae3a0c298245fa7c7d12985c76533af404e0731c5b3a",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 15,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Akeidat%20Yitzchak",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Akeidat%20Yitzchak",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:55:34.033Z",
+      "rawSha256": "696a9de3389f69752a913670ae41c5688ac47642822167161ee34c831a6890f6",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-7ec3b534472b740500339b.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": "",
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "Metsudah Publications, 2009",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "https://storage.googleapis.com/sefaria-physical-editions/d3aea009b15f5d90b7bc465304bf26bf.png",
+      "purchaseInformationURL": "https://www.israelbookshoppublications.com/store/pc/Sifsei-Chachamim-Chumash-Vol-1-p482.htm",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Akeidat Yitzchak",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+      "versionTitle": "Yalkut, Sifsei Chachomim Chumash, Metsudah Publications, 2009",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Akeidat Yitzchak 19:1"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "19 · 1",
+      "sourcePosition": [
+        "",
+        19,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            19,
+            1,
+            3
+          ],
+          "sourceTextSha256": "a41148972589392863f045cebc94f176cf6911523449abda32350ee933de1aef",
+          "retainedTextSha256": "c43876bf8e3c5bc457839ea3a9233ba5bfa3520acabfca093282a02b5d598546"
+        }
+      ],
+      "payloadSha256": "5af153522e8f8a79e2070de75ec8b1c7dcb22c14537722d1fea06339862989ff"
+    },
+    {
+      "chapter": 2,
+      "label": "23 · 1",
+      "sourcePosition": [
+        "",
+        23,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            23,
+            1,
+            10
+          ],
+          "sourceTextSha256": "39a2337b14c64dda9600c6648c0fc2ca1cc9639ceb6abf246fe75bae60dcc955",
+          "retainedTextSha256": "1ece48327bfc8a6df8f4a3fee1765236f4c84c082b1e8fee9ac9f614efb65b1a"
+        }
+      ],
+      "payloadSha256": "0684813d3268f618ca381ad6a23f4563d9fa17ad32b0ee87ee2036dcf5884ebc"
+    },
+    {
+      "chapter": 3,
+      "label": "28 · 1",
+      "sourcePosition": [
+        "",
+        28,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            28,
+            1,
+            19
+          ],
+          "sourceTextSha256": "1cebee5f160ccebb64fceb3ad09070603c3a09b37d7f3fa9c302c975757409b0",
+          "retainedTextSha256": "287d2897317e169bff21970d3572626f4f3cf621cf475a8b043150ac98b58bf5"
+        }
+      ],
+      "payloadSha256": "d81610e4bdd60ec995ad204781c4d1a7f5068ed46821594a3df3a40d1b7f3bb3"
+    },
+    {
+      "chapter": 4,
+      "label": "30 · 1",
+      "sourcePosition": [
+        "",
+        30,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            30,
+            1,
+            6
+          ],
+          "sourceTextSha256": "207e04462d3bf8153538023622a2081a19aa49a3ae2280f490a63c7b127e9e6a",
+          "retainedTextSha256": "4291158e89057390e4bc0fcf089bc07f67926634a9c6e2201d143b5163847e0a"
+        }
+      ],
+      "payloadSha256": "8cc3cc9799767f9cf3ec2bc79c1a8c295fa8b4990cb73fd972a6fc181daafc09"
+    },
+    {
+      "chapter": 5,
+      "label": "34 · 1",
+      "sourcePosition": [
+        "",
+        34,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            34,
+            1,
+            11
+          ],
+          "sourceTextSha256": "0375750bb759a2ede05e52ae1d6f31fa9086e4298e1c6f8c3d2bac2a467de1d9",
+          "retainedTextSha256": "f5a2a8c69f2dccc84b5538d5ddade59c7eeaefa4fcadba2eef22e8fbe8b00157"
+        }
+      ],
+      "payloadSha256": "739799291357095e2edf3edaf751de43469c8d70518812e1071bca13bfaf97d6"
+    },
+    {
+      "chapter": 6,
+      "label": "43 · 1",
+      "sourcePosition": [
+        "",
+        43,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            43,
+            1,
+            12
+          ],
+          "sourceTextSha256": "9af3e8668e1b94ca954810daa743b11d93dc82acb517809f354adc79e4a6c6cf",
+          "retainedTextSha256": "e77dfd6ca38bcb6623814215c3073259fa89d38d2d25ce12c3dc7e4131815999"
+        }
+      ],
+      "payloadSha256": "5c11987b1deab3f84059c6e6a55f1d4b0648e27ab8fae09faaf4dc62bceb07f8"
+    },
+    {
+      "chapter": 7,
+      "label": "45 · 1",
+      "sourcePosition": [
+        "",
+        45,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            45,
+            1,
+            9
+          ],
+          "sourceTextSha256": "3e51845df7f9357fb5f4d0a877bbf182179aac612a8c577360f7124e5fbd2fcf",
+          "retainedTextSha256": "ca6c319fec439514e6468dc17b89d53d8a737c28b75a53a9d6abbd66d7dd5dae"
+        }
+      ],
+      "payloadSha256": "3f744dfd503f0e6c78e1328f0cef8af3bd4a9681c1aa9bb9335108e8dab060cb"
+    },
+    {
+      "chapter": 8,
+      "label": "62 · 1",
+      "sourcePosition": [
+        "",
+        62,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            62,
+            1,
+            15
+          ],
+          "sourceTextSha256": "a7e1037cd64f492d1843083d7a2f438c890aa452daacd18ec739d757e981f0a5",
+          "retainedTextSha256": "e21f8192bebba05395aeb9c499d183529a49dcbaaf7ec8e58c7e83b516f30929"
+        }
+      ],
+      "payloadSha256": "23bde229e21771c436a4e8e3eced9df71131fcecfb22eaf8bbe92f189c75306a"
+    },
+    {
+      "chapter": 9,
+      "label": "70 · 1",
+      "sourcePosition": [
+        "",
+        70,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            70,
+            1,
+            4
+          ],
+          "sourceTextSha256": "2ad46ecf30015ccd70012f8ca44db517490781309a13b89d932bb07020cdfae8",
+          "retainedTextSha256": "abf2c3a0f912e22f9c5ab4a989c539e6a145280af775e2cd59d367c7046b6f29"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "",
+            70,
+            1,
+            9
+          ],
+          "sourceTextSha256": "a3163552d68967ff30e55ad71bd4ce59987714517c3cc4fbca150a2490b2f306",
+          "retainedTextSha256": "a3163552d68967ff30e55ad71bd4ce59987714517c3cc4fbca150a2490b2f306"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "",
+            70,
+            1,
+            10
+          ],
+          "sourceTextSha256": "8a24fe79e9a98b8e810a208f028bf05d32e2a182af3feac8cd1089bc74599ba0",
+          "retainedTextSha256": "7d5ec91a05e565da95e115b233272a9d5caaa8bff10e83aa2a2164b48c037d9a"
+        }
+      ],
+      "payloadSha256": "6f23c2535fdae15cd0bf9a3642a3ea479556033597eb7fc017e1d46cfda3bc45"
+    },
+    {
+      "chapter": 10,
+      "label": "77 · 1",
+      "sourcePosition": [
+        "",
+        77,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            77,
+            1,
+            12
+          ],
+          "sourceTextSha256": "f86314975413760db9bb7d11cc464aaf6691fe05dd246a74a7454fb4dc8fc7f4",
+          "retainedTextSha256": "0f929dd077735c1adc3144e22713c9855ad64d5441d71d41765276522fd81a5d"
+        }
+      ],
+      "payloadSha256": "f6bfd09c22e14dd38e7e86840fc8eca4c63fcceaf72aa913db7eb1c25104db94"
+    },
+    {
+      "chapter": 11,
+      "label": "82 · 1",
+      "sourcePosition": [
+        "",
+        82,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            82,
+            1,
+            9
+          ],
+          "sourceTextSha256": "c53be1a9f514e08a5bca443e3e41eac534d567652b6dcfd87e07f4f2ff3081e5",
+          "retainedTextSha256": "a7c18e0d21d0c907658bfe4f522f327afb26208b2b0ab93800585c1f4120db35"
+        }
+      ],
+      "payloadSha256": "17e8fae132c36c7d6cf0b9f6bebc213a24a1713429804bcd634c9879997de9ce"
+    },
+    {
+      "chapter": 12,
+      "label": "85 · 1",
+      "sourcePosition": [
+        "",
+        85,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            85,
+            1,
+            6
+          ],
+          "sourceTextSha256": "dd4208c9edcccb2ad6db9133c08c0b0bdc8d2e1d2aaebda3979ca2b99893f38c",
+          "retainedTextSha256": "6a4207b140b4ceb6a77e5f45f5210ab2c805ead70e53f04b79cf33e66d31d12e"
+        }
+      ],
+      "payloadSha256": "7c4f7d81d6c3009db4d96b24f309681f5881f5ec9ff1bf7f267c68aa32f4ddee"
+    },
+    {
+      "chapter": 13,
+      "label": "94 · 1",
+      "sourcePosition": [
+        "",
+        94,
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "",
+            94,
+            1,
+            10
+          ],
+          "sourceTextSha256": "dedb80558f7c53fafb9ab4abf49e03675561948d8803235a041d2890b1cf206e",
+          "retainedTextSha256": "9e36c32bc66ec6263c7bf7e0bf96648a1129d7bbe8a26a165947200fe3372b13"
+        }
+      ],
+      "payloadSha256": "a6576fb7d71bdd56257c921f9512f916770ce1c82bf3b875640b490d39683927"
+    }
+  ],
+  "sourceEntries": 15,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:27.420Z"
+}

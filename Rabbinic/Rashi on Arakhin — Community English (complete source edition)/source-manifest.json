@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "work": "Rashi on Arakhin",
+  "parentPath": "Rabbinic/Rashi on Arakhin",
+  "editionName": "Rashi on Arakhin — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rashi/Seder%20Kodashim/Rashi%20on%20Arakhin/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/da9e0ebcbf3a8d252ddc.json",
+  "sourceRawSha256": "59eebbe3258ac7ca6e24c4ffe0458624a0e9ff09ccd8f627654c41f52a64e438",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Rashi on Arakhin; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Rashi on Arakhin",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rashi/Seder%20Kodashim/Rashi%20on%20Arakhin/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/da9e0ebcbf3a8d252ddc.json",
+    "sourceRawSha256": "59eebbe3258ac7ca6e24c4ffe0458624a0e9ff09ccd8f627654c41f52a64e438",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Arakhin",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Arakhin",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/327ee1992db4979920d2-versions.json",
+      "rawSha256": "6942e8e98a987b960d0730873628060c1de5b1f957ada7d91770627e345a325c",
+      "retrievedAt": "2026-10-30T04:25:34.132Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Rashi on Arakhin",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Rashi on Arakhin 2a:1"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "3 · 1",
+      "sourcePosition": [
+        3,
+        1
+      ],
+      "payloadSha256": "213f143fc8ff59cc6ca110f41bf5056a0a26f37492841d98d534ac2e17d9aeb8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            1,
+            1
+          ],
+          "sourceTextSha256": "6ba899d4e5ee3ad896c79123eca7a8f67e7fcc5821363c31ee1860b7a5cb6384",
+          "retainedTextSha256": "79220cb3b45edab1e91ed62d2e91759b8a4f1665a81f5199c7dfc0fe1e072d56"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            3,
+            1,
+            2
+          ],
+          "sourceTextSha256": "514a378e8c635b999233d57f1a605471cf3d0ad89f07060ef162c2937502288f",
+          "retainedTextSha256": "e486a0c17d3d00283081ea32cebdfa82834544dfb4b9b047586ecc8a4d3ef80d"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            3,
+            1,
+            3
+          ],
+          "sourceTextSha256": "dc7d34ed63d66caa0ca734a42c848f52e86a3513a86e023a18423437518182a2",
+          "retainedTextSha256": "3817f4c31148f65491234b29236dd2a03dabb5251994d64268b1c9620f606d63"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            3,
+            1,
+            4
+          ],
+          "sourceTextSha256": "aa5962c19de19ac62e776d2ee354e5526260eb8dbaaaa0d634636e4dbf6f0814",
+          "retainedTextSha256": "aa5962c19de19ac62e776d2ee354e5526260eb8dbaaaa0d634636e4dbf6f0814"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            3,
+            1,
+            5
+          ],
+          "sourceTextSha256": "a5f4dbdf1e14b8a56f39a6be3079f27b70d6ceea0b608f7bdfd3e7a6942e9832",
+          "retainedTextSha256": "a5f4dbdf1e14b8a56f39a6be3079f27b70d6ceea0b608f7bdfd3e7a6942e9832"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            3,
+            1,
+            6
+          ],
+          "sourceTextSha256": "844e8e43ba981d3118c93c5dfb2238eac3da4c052ef2478523286e9983fd2c38",
+          "retainedTextSha256": "844e8e43ba981d3118c93c5dfb2238eac3da4c052ef2478523286e9983fd2c38"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "66 · 12",
+      "sourcePosition": [
+        66,
+        12
+      ],
+      "payloadSha256": "766bdd12286c4334e46cbbb1eac99247e78335488313110eee5eaea933ebcac3",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            66,
+            12,
+            1
+          ],
+          "sourceTextSha256": "74fcc4250b6c0cb188966926ef9102af20e9d897e82648400d2152285f361820",
+          "retainedTextSha256": "96580cd3b16e335677f3e075eb2b2ba28178bda306b13d195b957535f3c73cc8"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            66,
+            12,
+            2
+          ],
+          "sourceTextSha256": "89fa15a59bed390f74f6457f5e24fad623c5db8fbc8d61f08dacb5294bea54a4",
+          "retainedTextSha256": "3f00a95b64d96f2163dc53e51c250a1ab209cdb270c16f7000ba664d489bfba1"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            66,
+            12,
+            3
+          ],
+          "sourceTextSha256": "1ab7cc2a9837e16a86ad1ef38ebfd69825285eba8a4914496bf8d58123177503",
+          "retainedTextSha256": "39e50ed24f5e895b985d3e661abcb55391b2fc8b5e6feff3ffd9dd42e9235bbc"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            66,
+            12,
+            4
+          ],
+          "sourceTextSha256": "5e02079c37480541f6f7501012c7b5a78b241f971c05fb05e50f5ea3b93eb8c3",
+          "retainedTextSha256": "54b5fa97a6bed488bd4e915b51f6a6fbddbebd9f01f0f20984c63e194c41b7cd"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 10,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.560Z"
+}

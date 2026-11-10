@@ -1,0 +1,46 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 226,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "95c4296c06650c4ef070331d906003614773d0845278ad65fe97236d1086335d",
+      "translationChapter": 231,
+      "translationPosition": 1,
+      "translationTextSha256": "2e4f670fa7ee34aaa306f473e460832c9ba166b7599cc49f7a01263944be670e"
+    },
+    {
+      "basePosition": 3,
+      "baseTextSha256": "3ed2cceb965b47ba53f972c07cdcd60530b63c08facd7a8052fd4e5a87a30444",
+      "translationChapter": 231,
+      "translationPosition": 2,
+      "translationTextSha256": "d12f2be720d2b744e13530ba3b5a71e9ea7575ba33876d7a6f3b5519cfb6ea20"
+    },
+    {
+      "basePosition": 4,
+      "baseTextSha256": "6ca06f1e4e85744ae7d645d057fdeb2b930bf6373602b6de8b64287c24d0071f",
+      "translationChapter": 231,
+      "translationPosition": 3,
+      "translationTextSha256": "13e09dc7de16615d15801eace209a91116b465289a020e023d8cffb061609488"
+    },
+    {
+      "basePosition": 5,
+      "baseTextSha256": "c10f92ae5eec99013064a2ce54a95e5c3d4fd4623251f88756a04ae7df321cdc",
+      "translationChapter": 231,
+      "translationPosition": 4,
+      "translationTextSha256": "ee652b0d0b127fa3b2371c99de6135a3b0858738b14f2bdaca7237df230c1c49"
+    },
+    {
+      "basePosition": 6,
+      "baseTextSha256": "636d92ae5f88877db5b6c836e003fe2f1c2eaf4b80b9b5e8cb1658609e66a12f",
+      "translationChapter": 231,
+      "translationPosition": 5,
+      "translationTextSha256": "1c33403f5519dabd77185b009e915673ef0273df01fc218369295dd8121c8aba"
+    }
+  ]
+}

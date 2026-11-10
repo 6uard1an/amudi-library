@@ -1,0 +1,18 @@
+{
+  "baseBookPath": "Rabbinic/Mekhilta DeRabbi Yishmael (Hebrew Wikisource)",
+  "baseChapter": 7,
+  "translationBookPath": "Rabbinic/Mekhilta DeRabbi Yishmael — Community translation excerpts (separate edition)",
+  "method": "Manual topic and passage comparison across editions; English excerpt covers part of the Hebrew passage. Text fingerprints checked.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Mekhilta%20DeRabbi%20Yishmael/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 20,
+      "baseTextSha256": "940d07d3df0d504803916d453008b450a66310e7b4ccccb75a1362b0ef9f999f",
+      "translationChapter": 2,
+      "translationPosition": 1,
+      "translationTextSha256": "9d729cbe168ef501a75326316c8eeb0954f96280fcb48061978b144977f2b44a"
+    }
+  ]
+}

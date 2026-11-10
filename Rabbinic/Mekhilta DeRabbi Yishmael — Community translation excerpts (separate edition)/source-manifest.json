@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "work": "Mekhilta DeRabbi Yishmael",
+  "parentPath": "Rabbinic/Mekhilta DeRabbi Yishmael",
+  "editionName": "Mekhilta DeRabbi Yishmael — Community translation excerpts (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Mekhilta%20DeRabbi%20Yishmael/English/Sefaria%20Community%20Translation.json",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Mekhilta DeRabbi Yishmael, original work; Sefaria Community Translation; Sefaria Export. Translator/contributor credit as supplied by the exact source edition.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/77ac10914db9d39ed114.json",
+  "sourceRawSha256": "66097ab39b8f886b4e26928aff0a3dca31df57af00216d85461be3c243bb5a8c",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Mekhilta%20DeRabbi%20Yishmael",
+    "rawSha256": "344d9f8e3ab49a9046052b885d6c9540be625049dd9ac044eb0c1a1cd0a902c5",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-fc796ad3376994cb02f8.json",
+    "versionTitle": "Sefaria Community Translation",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC0"
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Tractate Pischa · 1",
+      "sourcePosition": [
+        "Tractate Pischa",
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Tractate Pischa",
+            1,
+            7
+          ],
+          "sourceTextSha256": "c8ebd7e1df11cf5cb147c7b54f282b9ba12b87c85d11723f171caac4bf629de2",
+          "retainedTextSha256": "c8ebd7e1df11cf5cb147c7b54f282b9ba12b87c85d11723f171caac4bf629de2"
+        }
+      ],
+      "payloadSha256": "b1974c1d957d3f56728c8c078d5627e00688bc0b598d367289d1b91f3596ea9c"
+    },
+    {
+      "chapter": 2,
+      "label": "Tractate Pischa · 18",
+      "sourcePosition": [
+        "Tractate Pischa",
+        18
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Tractate Pischa",
+            18,
+            24
+          ],
+          "sourceTextSha256": "9d729cbe168ef501a75326316c8eeb0954f96280fcb48061978b144977f2b44a",
+          "retainedTextSha256": "9d729cbe168ef501a75326316c8eeb0954f96280fcb48061978b144977f2b44a"
+        }
+      ],
+      "payloadSha256": "6ee2f99f9dac3bf186e5bd63936a3ebae52bcbba4ae7ef5d7c34d101c4508d51"
+    },
+    {
+      "chapter": 3,
+      "label": "Tractate Vayassa · 6",
+      "sourcePosition": [
+        "Tractate Vayassa",
+        6
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Tractate Vayassa",
+            6,
+            19
+          ],
+          "sourceTextSha256": "9445326dc050e4e9fb3f074e40828f233b2bbe4df7c586faae6b20815ee91f9a",
+          "retainedTextSha256": "9445326dc050e4e9fb3f074e40828f233b2bbe4df7c586faae6b20815ee91f9a"
+        }
+      ],
+      "payloadSha256": "6f9a071c9916369570982ee62b53a91e0b0c939ff0a9c5506858f63e7a7281eb"
+    },
+    {
+      "chapter": 4,
+      "label": "Tractate Amalek · 3",
+      "sourcePosition": [
+        "Tractate Amalek",
+        3
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Tractate Amalek",
+            3,
+            35
+          ],
+          "sourceTextSha256": "c97673807e0acd066b44bdd1e722c2c59ebeb67faa070baf6d8bb55c3c1b6703",
+          "retainedTextSha256": "c97673807e0acd066b44bdd1e722c2c59ebeb67faa070baf6d8bb55c3c1b6703"
+        }
+      ],
+      "payloadSha256": "f03c5d9512f45c9d8dfae32c162c1db514e5e31aa6ccd3c1151d5500da612a96"
+    }
+  ],
+  "sourceEntries": 4,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T03:51:14.913Z"
+}

@@ -1,0 +1,15 @@
+{
+  "baseBookPath": "Rabbinic/Orchot Tzadikim",
+  "baseChapter": 29,
+  "translationBookPath": "Rabbinic/Orchot Tzadikim — Cohen English translation (separate edition)",
+  "method": "Exact same provider Introduction:2 Hebrew source; English passage checked against Hebrew.",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "d8b6e65792263320c18499db65d19ea606a5269ac9933317de3817020b436a2b",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "f7da0aa3930cae77bb10a77e8c88fc5b0a0bf3a66583738d79983ebfb30ca849"
+    }
+  ]
+}

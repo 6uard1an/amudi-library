@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "work": "Shir HaShirim Rabbah",
+  "parentPath": "Rabbinic/Shir HaShirim Rabbah",
+  "editionName": "Shir HaShirim Rabbah — Feuer Jerusalem Anthology (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shir%20HaShirim%20Rabbah/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Shir HaShirim Rabbah; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/7c0128f661bc4b4c15cc.json",
+  "sourceRawSha256": "3727de7a7192279a15500358b2afdf5a6f0b5d59099bdb8de188c301b050bc11",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Shir%20HaShirim%20Rabbah",
+    "rawSha256": "edd32bb26aebc67002797977bf747bacb5d5e5d63e3f4649cade2c3f9980ebd7",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-2eff41f8c36055de7c84.json",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Shir HaShirim Rabbah",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Shir HaShirim Rabbah"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shir%20HaShirim%20Rabbah/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/7c0128f661bc4b4c15cc.json",
+    "sourceRawSha256": "3727de7a7192279a15500358b2afdf5a6f0b5d59099bdb8de188c301b050bc11",
+    "sourceTextSha256": "2a29e1899c11eba283f983170a96934b9ce6511ce5b9ed78927a8de055daf640",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 7,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Shir%20HaShirim%20Rabbah",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Shir%20HaShirim%20Rabbah",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:56:03.542Z",
+      "rawSha256": "edd32bb26aebc67002797977bf747bacb5d5e5d63e3f4649cade2c3f9980ebd7",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-2eff41f8c36055de7c8459.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": "",
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "רבי מייק פוייר, לקט ירושלים",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "Rabbi Mike Feuer",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Shir HaShirim Rabbah",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Shir HaShirim Rabbah 1:5"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "1 · 5",
+      "sourcePosition": [
+        1,
+        5
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            1,
+            5,
+            3
+          ],
+          "sourceTextSha256": "ccad9cbe0fead2720a1ee5a69a37410421c6f8183517e62324a283444bdf2b0c",
+          "retainedTextSha256": "ccad9cbe0fead2720a1ee5a69a37410421c6f8183517e62324a283444bdf2b0c"
+        }
+      ],
+      "payloadSha256": "a7a8b8a0028c79f8c5318634b63785affbf6525103dbe3845035db45e4cc9a05"
+    },
+    {
+      "chapter": 2,
+      "label": "1 · 12",
+      "sourcePosition": [
+        1,
+        12
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            1,
+            12,
+            3
+          ],
+          "sourceTextSha256": "b4748eb6508424f2784a2bd07a78f7657092da72dfb891250e55dd1425491139",
+          "retainedTextSha256": "b4748eb6508424f2784a2bd07a78f7657092da72dfb891250e55dd1425491139"
+        }
+      ],
+      "payloadSha256": "35ef7086e48601e145436b406eefddd5d8b3e8e82f6a1b8243f75943a361b7b5"
+    },
+    {
+      "chapter": 3,
+      "label": "2 · 2",
+      "sourcePosition": [
+        2,
+        2
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            2,
+            2,
+            5
+          ],
+          "sourceTextSha256": "b77fa389607d7e3817ec5cb84f80dac5ca273191a96c29778073920943cc4174",
+          "retainedTextSha256": "b77fa389607d7e3817ec5cb84f80dac5ca273191a96c29778073920943cc4174"
+        }
+      ],
+      "payloadSha256": "ba0eda04a0223b37c9ee61a485f1fd25b938c1656460cadd1adca1ebc5a590d8"
+    },
+    {
+      "chapter": 4,
+      "label": "2 · 5",
+      "sourcePosition": [
+        2,
+        5
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            2,
+            5,
+            1
+          ],
+          "sourceTextSha256": "9df48100b6e4a91aea82ac4b1999d35abbf82edcb0c60d9a4ad9a6bdc652ee1b",
+          "retainedTextSha256": "9df48100b6e4a91aea82ac4b1999d35abbf82edcb0c60d9a4ad9a6bdc652ee1b"
+        }
+      ],
+      "payloadSha256": "5d9aca00ab45e66b6388ac9466d35f8674815dc9e22e1478f18ac46dc30d1535"
+    },
+    {
+      "chapter": 5,
+      "label": "2 · 13",
+      "sourcePosition": [
+        2,
+        13
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            2,
+            13,
+            3
+          ],
+          "sourceTextSha256": "7d4e2352f4139872c7cb8a4f4168b564918e783e8b4396a7f9a55bd966beac88",
+          "retainedTextSha256": "7d4e2352f4139872c7cb8a4f4168b564918e783e8b4396a7f9a55bd966beac88"
+        }
+      ],
+      "payloadSha256": "20be5485a2d28374469be2840cf28302711516ac05bd77abbc75dcf8ee4a27a4"
+    },
+    {
+      "chapter": 6,
+      "label": "7 · 5",
+      "sourcePosition": [
+        7,
+        5
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            5,
+            3
+          ],
+          "sourceTextSha256": "7c64ed1cfc62fa5238c357687ab9f5903b05cf9d21b912f37969a811e56ef1e7",
+          "retainedTextSha256": "7c64ed1cfc62fa5238c357687ab9f5903b05cf9d21b912f37969a811e56ef1e7"
+        }
+      ],
+      "payloadSha256": "3312548d57dc880b0b9976870208b59c7e04549182124a4d7904f290b1fa41a3"
+    },
+    {
+      "chapter": 7,
+      "label": "8 · 6",
+      "sourcePosition": [
+        8,
+        6
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            8,
+            6,
+            3
+          ],
+          "sourceTextSha256": "27adf9d5bff74e535107c3b73be1f475c6ac8c503c204ab199fc0c822d319b03",
+          "retainedTextSha256": "27adf9d5bff74e535107c3b73be1f475c6ac8c503c204ab199fc0c822d319b03"
+        }
+      ],
+      "payloadSha256": "2ef6d219bf09d54997971b0d26e3ee7803cd71432a51470a55eaa3edccbe17c9"
+    }
+  ],
+  "sourceEntries": 7,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:28.578Z"
+}

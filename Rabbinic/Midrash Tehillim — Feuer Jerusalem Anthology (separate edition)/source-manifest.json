@@ -1,0 +1,367 @@
+{
+  "schemaVersion": 1,
+  "work": "Midrash Tehillim",
+  "parentPath": "Rabbinic/Midrash Tehillim",
+  "editionName": "Midrash Tehillim — Feuer Jerusalem Anthology (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Tehillim/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Midrash Tehillim; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/61e976e6d7c90357c59f.json",
+  "sourceRawSha256": "682e57aaef7fd6fd5621ae1df010dcebe591bb6262ae9679f939fdb6ea0c403d",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Midrash%20Tehillim",
+    "rawSha256": "92825657c3928caabd35bb93551b73701c6c02e600239fe623c1087061ae74ea",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-7e1b4aa97903ba2fef28.json",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Midrash Tehillim",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Midrash Tehillim"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Tehillim/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/61e976e6d7c90357c59f.json",
+    "sourceRawSha256": "682e57aaef7fd6fd5621ae1df010dcebe591bb6262ae9679f939fdb6ea0c403d",
+    "sourceTextSha256": "66cad98ca75890cdf0c21be4c3b032b4e9891c0d91f914a8fb1a1df072c072c1",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 14,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Midrash%20Tehillim",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Midrash%20Tehillim",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:55:55.494Z",
+      "rawSha256": "92825657c3928caabd35bb93551b73701c6c02e600239fe623c1087061ae74ea",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-7e1b4aa97903ba2fef28a9.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": "",
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "רבי מייק פוייר, לקט ירושלים",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "Rabbi Mike Feuer",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Midrash Tehillim",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Midrash Tehillim 11"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "11",
+      "sourcePosition": [
+        11
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            11,
+            4
+          ],
+          "sourceTextSha256": "ba0a6b84f9128a0172873dc75daabc9fe9ba08f119eff7bca7e6d593c3d9e219",
+          "retainedTextSha256": "ba0a6b84f9128a0172873dc75daabc9fe9ba08f119eff7bca7e6d593c3d9e219"
+        }
+      ],
+      "payloadSha256": "92077370075055c223bd1956b34130cbdcf24439eb45d4c94e6e33279fb5b235"
+    },
+    {
+      "chapter": 2,
+      "label": "18",
+      "sourcePosition": [
+        18
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            18,
+            23
+          ],
+          "sourceTextSha256": "6a1d30de79451edb279dcde12c16dd443bf59ad9e441a9fab02fdf239a64b950",
+          "retainedTextSha256": "6a1d30de79451edb279dcde12c16dd443bf59ad9e441a9fab02fdf239a64b950"
+        }
+      ],
+      "payloadSha256": "28dccfced39bcdb5828f728da0d094b78bfa6b4687338cc99a8b2c8ed4b7812c"
+    },
+    {
+      "chapter": 3,
+      "label": "22",
+      "sourcePosition": [
+        22
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            22,
+            18
+          ],
+          "sourceTextSha256": "8676fd4f9263161c7db72a0302eb951380e8df10a8173f216315096316cfc0e2",
+          "retainedTextSha256": "8676fd4f9263161c7db72a0302eb951380e8df10a8173f216315096316cfc0e2"
+        }
+      ],
+      "payloadSha256": "02e938c5b42215fc98e1e8eb21a7d41c25ca30ed79545ef8a9b0c3c21ddefb0d"
+    },
+    {
+      "chapter": 4,
+      "label": "24",
+      "sourcePosition": [
+        24
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            24,
+            8
+          ],
+          "sourceTextSha256": "4657ecc4c646ecab3451dd56ac8e3ebef5c72178702aee53228e0203765aad2a",
+          "retainedTextSha256": "4657ecc4c646ecab3451dd56ac8e3ebef5c72178702aee53228e0203765aad2a"
+        }
+      ],
+      "payloadSha256": "a9de6b739bfa99f836107ed4bb8a0a2324a47b324d3cd8c37dc7f62976e661f6"
+    },
+    {
+      "chapter": 5,
+      "label": "50",
+      "sourcePosition": [
+        50
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            50,
+            1
+          ],
+          "sourceTextSha256": "6c4cc37be7617992a1c625a9863b145163339a8014d2a59cc735e43934be5978",
+          "retainedTextSha256": "6c4cc37be7617992a1c625a9863b145163339a8014d2a59cc735e43934be5978"
+        }
+      ],
+      "payloadSha256": "d525a2860318bf983ee3ad984649b18ae82669222d152de191ca6b7c86fe68c3"
+    },
+    {
+      "chapter": 6,
+      "label": "61",
+      "sourcePosition": [
+        61
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            61,
+            2
+          ],
+          "sourceTextSha256": "433b85aead8e97539b22dfa8a679d40066b34f09070fdadf0780ea5da4c21e12",
+          "retainedTextSha256": "433b85aead8e97539b22dfa8a679d40066b34f09070fdadf0780ea5da4c21e12"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            61,
+            3
+          ],
+          "sourceTextSha256": "2e9fa305ed7003be9058822371f518e3a5c534cc7ecfa5a7faba58db109bd7a3",
+          "retainedTextSha256": "2e9fa305ed7003be9058822371f518e3a5c534cc7ecfa5a7faba58db109bd7a3"
+        }
+      ],
+      "payloadSha256": "8582130ce5aca9f9e12f7b7a26a7a4e6cedd5353a3295564525b7e02551c2f0b"
+    },
+    {
+      "chapter": 7,
+      "label": "65",
+      "sourcePosition": [
+        65
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            65,
+            1
+          ],
+          "sourceTextSha256": "65c70a65fb5ef0000ff2d851423d28ede6637bf6648a64a4e1a30310719841e1",
+          "retainedTextSha256": "65c70a65fb5ef0000ff2d851423d28ede6637bf6648a64a4e1a30310719841e1"
+        }
+      ],
+      "payloadSha256": "63792881d4a31db64b23b8e7d09f07d4655346f7c95cbd5118731815c689d9c6"
+    },
+    {
+      "chapter": 8,
+      "label": "76",
+      "sourcePosition": [
+        76
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            76,
+            2
+          ],
+          "sourceTextSha256": "ece178b32735121a1982dba23d4d63df283902b259d5c4ec246f69a88adfc460",
+          "retainedTextSha256": "ece178b32735121a1982dba23d4d63df283902b259d5c4ec246f69a88adfc460"
+        }
+      ],
+      "payloadSha256": "f1f643151ab530bef785ce3b3493758286933ecc8790431ffeea69e6cccd64cc"
+    },
+    {
+      "chapter": 9,
+      "label": "81",
+      "sourcePosition": [
+        81
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            81,
+            1
+          ],
+          "sourceTextSha256": "0327a33fdc2a052a3dd5c7b63d553662afb49252aa478c6437db50c95db42a5d",
+          "retainedTextSha256": "0327a33fdc2a052a3dd5c7b63d553662afb49252aa478c6437db50c95db42a5d"
+        }
+      ],
+      "payloadSha256": "a95795c67e5cc80a432226fd614a0bc682f2e6e85ec1a052a8df9cdfea9f8bb9"
+    },
+    {
+      "chapter": 10,
+      "label": "87",
+      "sourcePosition": [
+        87
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            87,
+            4
+          ],
+          "sourceTextSha256": "d88be83b32fda275e276dae0e871f1d565c551e12286e80f260e8211a6c97035",
+          "retainedTextSha256": "d88be83b32fda275e276dae0e871f1d565c551e12286e80f260e8211a6c97035"
+        }
+      ],
+      "payloadSha256": "c28e19839d9405bd6be8d4349cdd59b037da8ac4530ec7402ab56d307f035ab0"
+    },
+    {
+      "chapter": 11,
+      "label": "90",
+      "sourcePosition": [
+        90
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            90,
+            6
+          ],
+          "sourceTextSha256": "172ce43cdf21d056d2d85e2664b6561a31159652328ac18e074a3e17bd5de031",
+          "retainedTextSha256": "172ce43cdf21d056d2d85e2664b6561a31159652328ac18e074a3e17bd5de031"
+        }
+      ],
+      "payloadSha256": "f9d9add5901d572a12112be21f4c0bd434a746fe213e9bd8405b8990f2ea73b2"
+    },
+    {
+      "chapter": 12,
+      "label": "91",
+      "sourcePosition": [
+        91
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            91,
+            5
+          ],
+          "sourceTextSha256": "98ca1b67c3a8f1e4f612e0b987c98c7b39ad49acbad2f8db1569d070745e2683",
+          "retainedTextSha256": "98ca1b67c3a8f1e4f612e0b987c98c7b39ad49acbad2f8db1569d070745e2683"
+        }
+      ],
+      "payloadSha256": "17a70fb25c4bd0935a48a72b228aed6d390e2e7f160e9032f7dfa24929155b8e"
+    },
+    {
+      "chapter": 13,
+      "label": "92",
+      "sourcePosition": [
+        92
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            92,
+            4
+          ],
+          "sourceTextSha256": "ab5c9a5b1f57b4df0b8ee6cf96aa245225eec449cfd2db3332e89f93d441a158",
+          "retainedTextSha256": "ab5c9a5b1f57b4df0b8ee6cf96aa245225eec449cfd2db3332e89f93d441a158"
+        }
+      ],
+      "payloadSha256": "63dd5f203bd6860521702e327534b631bee1e137f799070e60c281af3cfb2e35"
+    }
+  ],
+  "sourceEntries": 14,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:28.207Z"
+}

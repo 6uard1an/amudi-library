@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "work": "Haggahot Maimuniyyot — Hebrew Wikisource (partial)",
+  "sourceLine": 2533,
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Rabbi Meir HaKohen of Rothenburg; Hebrew Wikisource contributors. Each source revision and contribution history is linked in the source manifest.",
+  "changeNotice": "Converted source markup and links to plain reader text; preserved visible commentary labels and textual variants. Sections are arranged by source chapter. No OCR or new translation was performed by Amudi.",
+  "shareAlikeNotice": "Adapted text is distributed under CC BY-SA 4.0, with source histories available via page links.",
+  "deliveryMode": "Free plaintext; no purchase gate, encryption or DRM.",
+  "coverage": "Partial: Hilkhot Deot chapter 5; Hilkhot Chanukah chapters 3 and 4; Hilkhot Ishut chapter 8. The source pages are marked unchecked. No English edition is included. Chanukah chapter 4 has no individual halakhah heading in the source and is not aligned to a particular halakhah.",
+  "sourceCreationMethod": "The checked source pages do not document how their text was initially digitized; no OCR was performed in this import.",
+  "pages": [
+    {
+      "chapter": 1,
+      "title": "הגהות מיימוניות על רמב\"ם דעות ה",
+      "label": "הלכות דעות פרק ה",
+      "base": "Rabbinic/Mishneh Torah, Human Dispositions",
+      "baseChapter": 5,
+      "pageId": 235867,
+      "revisionId": 2757534,
+      "revisionTimestamp": "2023-05-15T19:43:19Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%93%D7%A2%D7%95%D7%AA%20%D7%94",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%93%D7%A2%D7%95%D7%AA%20%D7%94&oldid=2757534",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%93%D7%A2%D7%95%D7%AA%20%D7%94&action=history",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "a30f04d3a9308be1e63377711dee0c2474f2b90243c92bbcf812093bd29317f4",
+      "entryCount": 6,
+      "halakhahMap": {
+        "4": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "6": [
+          5
+        ],
+        "7": [
+          6
+        ]
+      },
+      "outputSha256": "83ab24e36b1752dbbb9fd7b37f8ccb66348c01d1f0c5ca6f38871c1a58ad5ce0"
+    },
+    {
+      "chapter": 2,
+      "title": "הגהות מיימוניות על רמב\"ם חנוכה פרק שלישי",
+      "label": "הלכות חנוכה פרק ג",
+      "base": "Rabbinic/Mishneh Torah, Scroll of Esther and Hanukkah",
+      "baseChapter": 3,
+      "pageId": 65776,
+      "revisionId": 2757537,
+      "revisionTimestamp": "2023-05-15T19:51:02Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%97%D7%A0%D7%95%D7%9B%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%A9%D7%9C%D7%99%D7%A9%D7%99",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%97%D7%A0%D7%95%D7%9B%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%A9%D7%9C%D7%99%D7%A9%D7%99&oldid=2757537",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%97%D7%A0%D7%95%D7%9B%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%A9%D7%9C%D7%99%D7%A9%D7%99&action=history",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "153a3c86eb42aba26239ff325f902dbed47fce282526d94967fddb42d7780b5d",
+      "entryCount": 7,
+      "halakhahMap": {
+        "4": [
+          1,
+          2
+        ],
+        "5": [
+          3
+        ],
+        "7": [
+          4,
+          5
+        ],
+        "9": [
+          6
+        ],
+        "10": [
+          7
+        ]
+      },
+      "outputSha256": "1ce5b07574650336819c22bc98a32a37d59c303973de066b5aac6fecbdd3f343"
+    },
+    {
+      "chapter": 3,
+      "title": "הגהות מיימוניות על רמב\"ם חנוכה פרק רביעי",
+      "label": "הלכות חנוכה פרק ד",
+      "base": "Rabbinic/Mishneh Torah, Scroll of Esther and Hanukkah",
+      "baseChapter": 4,
+      "pageId": 65858,
+      "revisionId": 2757538,
+      "revisionTimestamp": "2023-05-15T19:52:58Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%97%D7%A0%D7%95%D7%9B%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%A8%D7%91%D7%99%D7%A2%D7%99",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%97%D7%A0%D7%95%D7%9B%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%A8%D7%91%D7%99%D7%A2%D7%99&oldid=2757538",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%20%D7%A2%D7%9C%20%D7%A8%D7%9E%D7%91%22%D7%9D%20%D7%97%D7%A0%D7%95%D7%9B%D7%94%20%D7%A4%D7%A8%D7%A7%20%D7%A8%D7%91%D7%99%D7%A2%D7%99&action=history",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "b5a398353b7e16e95ab937bae7cce1127f274e4eac0eeb2aba780b10f026023d",
+      "entryCount": 1,
+      "halakhahMap": {},
+      "outputSha256": "b2d5bc39b96201a38dcb7312c66d74c748ab9dcdcda3ee1f0a41dfcf6c8d222c"
+    },
+    {
+      "chapter": 4,
+      "title": "הגהות מיימוניות/הלכות אישות",
+      "label": "הלכות אישות פרק ח",
+      "base": "Rabbinic/Mishneh Torah, Marriage",
+      "baseChapter": 8,
+      "pageId": 1740028,
+      "revisionId": 3007761,
+      "revisionTimestamp": "2026-04-24T08:18:44Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%90%D7%99%D7%A9%D7%95%D7%AA",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%90%D7%99%D7%A9%D7%95%D7%AA&oldid=3007761",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%94%D7%92%D7%94%D7%95%D7%AA%20%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA%20%D7%90%D7%99%D7%A9%D7%95%D7%AA&action=history",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "932a56d5784f369e2b64ea9fbd8e0594bbcffa11cdcb804705e5ecc3b8ccf60d",
+      "entryCount": 4,
+      "halakhahMap": {
+        "1": [
+          1,
+          2
+        ],
+        "4": [
+          3
+        ],
+        "5": [
+          4
+        ]
+      },
+      "outputSha256": "cb7e060ba1b4a310ce0a5837ee592c553526496900f450499daec3b4c74fa081"
+    }
+  ],
+  "sourceApiUrl": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&rvprop=ids%7Ctimestamp%7Ccontent&rvslots=main&titles=%D7%94%D7%92%D7%94%D7%95%D7%AA+%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA+%D7%A2%D7%9C+%D7%A8%D7%9E%D7%91%22%D7%9D+%D7%93%D7%A2%D7%95%D7%AA+%D7%94%7C%D7%94%D7%92%D7%94%D7%95%D7%AA+%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA+%D7%A2%D7%9C+%D7%A8%D7%9E%D7%91%22%D7%9D+%D7%97%D7%A0%D7%95%D7%9B%D7%94+%D7%A4%D7%A8%D7%A7+%D7%A9%D7%9C%D7%99%D7%A9%D7%99%7C%D7%94%D7%92%D7%94%D7%95%D7%AA+%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA+%D7%A2%D7%9C+%D7%A8%D7%9E%D7%91%22%D7%9D+%D7%97%D7%A0%D7%95%D7%9B%D7%94+%D7%A4%D7%A8%D7%A7+%D7%A8%D7%91%D7%99%D7%A2%D7%99%7C%D7%94%D7%92%D7%94%D7%95%D7%AA+%D7%9E%D7%99%D7%99%D7%9E%D7%95%D7%A0%D7%99%D7%95%D7%AA%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A9%D7%95%D7%AA&format=json&formatversion=2",
+  "sourceApiSha256": "8bb259560fa3cfc6bf138c0baf245caf0d870d47d3022a70e1c5bde7a5b17444",
+  "checkedAt": "2026-10-30T08:00:23.095Z"
+}

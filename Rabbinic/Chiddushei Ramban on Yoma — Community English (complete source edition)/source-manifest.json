@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "work": "Chiddushei Ramban on Yoma",
+  "parentPath": "Rabbinic/Chiddushei Ramban on Yoma",
+  "editionName": "Chiddushei Ramban on Yoma — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Chiddushei%20Ramban/Seder%20Moed/Chiddushei%20Ramban%20on%20Yoma/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/609bb2b4e41adeaf4cc6.json",
+  "sourceRawSha256": "3f4e3c3170e46c682d34bc690e9b6ceb7f9eb0aa17c0ffd48502dbbc7645f594",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Chiddushei Ramban on Yoma; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Chiddushei Ramban on Yoma",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Chiddushei%20Ramban/Seder%20Moed/Chiddushei%20Ramban%20on%20Yoma/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/609bb2b4e41adeaf4cc6.json",
+    "sourceRawSha256": "3f4e3c3170e46c682d34bc690e9b6ceb7f9eb0aa17c0ffd48502dbbc7645f594",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Chiddushei%20Ramban%20on%20Yoma",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Chiddushei%20Ramban%20on%20Yoma",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/76a3fb0ed4beafc80fc7-versions.json",
+      "rawSha256": "c9220558707cd20bf397fbfa23d4911d74d0cb2b519162f1d954bda9180f5201",
+      "retrievedAt": "2026-10-30T04:25:33.639Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Chiddushei Ramban on Yoma",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Chiddushei Ramban on Yoma 87b"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "174",
+      "sourcePosition": [
+        174
+      ],
+      "payloadSha256": "5ff4134f1c80ef4ecfeaa75c9f290383522d249d2fba61be16a447ed82a6bb71",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            174,
+            1
+          ],
+          "sourceTextSha256": "9c06415a1ffd4657dd0ba53732903422343ebec76bffd47245175ca941194bf2",
+          "retainedTextSha256": "9c06415a1ffd4657dd0ba53732903422343ebec76bffd47245175ca941194bf2"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            174,
+            2
+          ],
+          "sourceTextSha256": "fd165dc2d61a160ff5f6ffe5ca716e9de20dbe0ab131bce16d0efa488ce8eeec",
+          "retainedTextSha256": "fd165dc2d61a160ff5f6ffe5ca716e9de20dbe0ab131bce16d0efa488ce8eeec"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 2,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.511Z"
+}

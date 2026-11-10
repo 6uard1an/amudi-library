@@ -1,0 +1,15 @@
+{
+  "baseBookPath": "Rabbinic/Darkhei Moshe — Orach Chayim",
+  "baseChapter": 139,
+  "translationBookPath": "Rabbinic/Darkhei Moshe — Community English (complete source edition)",
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "d8c94000d364900d3e4768a4afc36b8974285b3862d76ddc606d955fcbaa01f9",
+      "translationChapter": 3,
+      "translationPosition": 1,
+      "translationTextSha256": "8f51523cdbc5717ae89e50c3fa583582625572a4eb4495f8fc8e5f326b87b0de"
+    }
+  ],
+  "method": "Same provider source coordinate; sampled Hebrew and English manually. Translation not independently proofread."
+}

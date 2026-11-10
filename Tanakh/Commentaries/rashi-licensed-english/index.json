@@ -1,0 +1,1912 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "rashi-licensed-english",
+  "title": "Rashi — licensed English editions",
+  "hebrewTitle": "רש״י — מהדורות אנגליות מורשות",
+  "authors": [
+    {
+      "name": "Rashi",
+      "hebrewName": "Rashi",
+      "role": "Commentator / work attribution",
+      "roleHebrew": "מפרש / ייחוס החיבור"
+    }
+  ],
+  "volumeCount": 39,
+  "languages": [
+    "English"
+  ],
+  "licenses": [
+    "CC BY 3.0"
+  ],
+  "volumes": [
+    {
+      "book": "Genesis",
+      "hebrewBook": "בראשית",
+      "section": "Torah",
+      "bookPath": "Torah/Genesis",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/genesis.json",
+      "chapterCount": 50,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Genesis",
+          "versionTitle": "Rashi Chumash, Metsudah Publications, 2009",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/English/Rashi%20Chumash%2C%20Metsudah%20Publications%2C%202009.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Genesis · Rashi Chumash, Metsudah Publications, 2009 · https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "14a2b5c30b07a9764d76b7a05b48f2fd8006caca9d8f5fc4c79bbbd69c429106",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Genesis",
+          "licenseEvidenceRawSha256": "d5005b4b1e6669d45f7b1d911758746b48f15034b74d7ef338c54684baf189bd",
+          "textSha256": "1a1b5506f0af52630d616e63eba7b6c7d6232b315dc29428dea574ad492a41e7",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Exodus",
+      "hebrewBook": "שמות",
+      "section": "Torah",
+      "bookPath": "Torah/Exodus",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/exodus.json",
+      "chapterCount": 40,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Exodus",
+          "versionTitle": "Rashi Chumash, Metsudah Publications, 2009",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/English/Rashi%20Chumash%2C%20Metsudah%20Publications%2C%202009.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Exodus · Rashi Chumash, Metsudah Publications, 2009 · https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "f0050c0458bec793de1c25e5a8d7c6cb470f2db8aad9f7a2ed049ec5fa70b8d6",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Exodus",
+          "licenseEvidenceRawSha256": "98e3c0f18df4d892b5b3afb398e62bd8bf4883925f7fd9331ba86551afe05ef7",
+          "textSha256": "b0318286468df86ee3ad8338acd0bfd834e113bb6d55abd8abd1b622defcd7bb",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Leviticus",
+      "hebrewBook": "ויקרא",
+      "section": "Torah",
+      "bookPath": "Torah/Leviticus",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/leviticus.json",
+      "chapterCount": 27,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Leviticus",
+          "versionTitle": "Rashi Chumash, Metsudah Publications, 2009",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/English/Rashi%20Chumash%2C%20Metsudah%20Publications%2C%202009.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Leviticus · Rashi Chumash, Metsudah Publications, 2009 · https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "484644c41044e00e0d4aefd6b1f674b8034a1d9e89a30c01558b3b463f91bac7",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Leviticus",
+          "licenseEvidenceRawSha256": "bcba7fab994b0fd9648396dae9751806f38af19e00b81c61554a879aafa29f29",
+          "textSha256": "510f5750a7b6f0fa670feb9ab16dc0a92384ac97468292fbcd6de494d3c6e2d0",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Numbers",
+      "hebrewBook": "במדבר",
+      "section": "Torah",
+      "bookPath": "Torah/Numbers",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/numbers.json",
+      "chapterCount": 36,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Numbers",
+          "versionTitle": "Rashi Chumash, Metsudah Publications, 2009",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/English/Rashi%20Chumash%2C%20Metsudah%20Publications%2C%202009.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Numbers · Rashi Chumash, Metsudah Publications, 2009 · https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "a5a82d5776d1548f57888949938499162d96beab3b0ab12d667799b7888700f4",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Numbers",
+          "licenseEvidenceRawSha256": "126110a4fc926d473449d9682b597c0c5048c394dbb3626c4883a3ab80f0ed00",
+          "textSha256": "1e30709c8da8be3e44b1833512db8dc7f0e3eb2e4c07da9f4ce13473630d16b6",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Deuteronomy",
+      "hebrewBook": "דברים",
+      "section": "Torah",
+      "bookPath": "Torah/Deuteronomy",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/deuteronomy.json",
+      "chapterCount": 34,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Deuteronomy",
+          "versionTitle": "Rashi Chumash, Metsudah Publications, 2009",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/English/Rashi%20Chumash%2C%20Metsudah%20Publications%2C%202009.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Deuteronomy · Rashi Chumash, Metsudah Publications, 2009 · https://www.nli.org.il/he/books/NNL_ALEPH002691623",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "aed54dbe2dbbfce3b024bb2b150132bcc3d380e060e246dc9816272659f2e50d",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Deuteronomy",
+          "licenseEvidenceRawSha256": "6c79f8e4c17499dc32da181848d841867a2862eac81d868bfb79223bbd14acb1",
+          "textSha256": "789231c773803154d11d6e2b744481f87542546af1d85a53ae1e011a7c71a554",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Joshua",
+      "hebrewBook": "יהושע",
+      "section": "Prophets",
+      "bookPath": "Prophets/Joshua",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/joshua.json",
+      "chapterCount": 24,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Joshua",
+          "versionTitle": "The Book of Joshua, Metsudah Publications, 1997",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/English/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Joshua · The Book of Joshua, Metsudah Publications, 1997 · http://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "86256950efa0abca956964c57be7e6cff3d7ea3ad637c923acd1847e747b3179",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Joshua",
+          "licenseEvidenceRawSha256": "dbfd64932cb51a97e96e286211d91737c7bf6f0cc0c3155786b7248c408e68d8",
+          "textSha256": "2161f9a123a162d2a531992be53880c0f1ae06aca47a23a5e0bfccd100e47ffc",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Judges",
+      "hebrewBook": "שופטים",
+      "section": "Prophets",
+      "bookPath": "Prophets/Judges",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/judges.json",
+      "chapterCount": 21,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Judges",
+          "versionTitle": "The Metsudah Tanach series, Lakewood, N.J",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/English/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Judges · The Metsudah Tanach series, Lakewood, N.J · https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "c8d7723c9b72b1121645da5c65e88317c17014cc2322735ba2a01d768e3fe4ec",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Judges",
+          "licenseEvidenceRawSha256": "0e945526640c07d66c7899ed5e61f19b822fa628486932b5a5f1ff114df138fb",
+          "textSha256": "920febb2d4df07f96f222b2f7f2ba91eeecccc51f25abf42325e16f20771eaca",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "I Samuel",
+      "hebrewBook": "שמואל א׳",
+      "section": "Prophets",
+      "bookPath": "Prophets/I Samuel",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/i-samuel.json",
+      "chapterCount": 31,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on I Samuel",
+          "versionTitle": "The Metsudah Tanach series, Lakewood, N.J",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/English/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on I Samuel · The Metsudah Tanach series, Lakewood, N.J · https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "0f0a447517915ceb116e8b2ea1a62beed5ba894a87bd40b8071332f7da2a5c9a",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20I%20Samuel",
+          "licenseEvidenceRawSha256": "f132ba20a96dba7de2324033837c46770f8254c8c9931672505997a2748df67e",
+          "textSha256": "ee605e7fe9054851453d8807f6c99eb1cc64191772c63c51a697ec419c4481b1",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "II Samuel",
+      "hebrewBook": "שמואל ב׳",
+      "section": "Prophets",
+      "bookPath": "Prophets/II Samuel",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/ii-samuel.json",
+      "chapterCount": 24,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on II Samuel",
+          "versionTitle": "The Metsudah Tanach series, Lakewood, N.J",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/English/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on II Samuel · The Metsudah Tanach series, Lakewood, N.J · https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi. Restored missing conjunction and removed an empty footnote marker at II Samuel 15:24 to match the selected source.",
+          "rawSourceSha256": "c8cf593a69f79a43af3a71f4e2a06b2413af3316f494e21aebd0d7f017d50ae4",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20II%20Samuel",
+          "licenseEvidenceRawSha256": "4ee29eb10a31e959fb5677946ca05054061a3d1f26da25726d45340dfe1df886",
+          "textSha256": "fb15a162b6533ae68fd4335f4ddd61e6ed48d1857092a5c534346ab3ef0e4f2a",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "I Kings",
+      "hebrewBook": "מלכים א׳",
+      "section": "Prophets",
+      "bookPath": "Prophets/I Kings",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/i-kings.json",
+      "chapterCount": 22,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on I Kings",
+          "versionTitle": "The Metsudah Tanach series, Lakewood, N.J",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.judaicaplace.com/metsudah-kings-i-hardcover/m143/",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/English/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on I Kings · The Metsudah Tanach series, Lakewood, N.J · https://www.judaicaplace.com/metsudah-kings-i-hardcover/m143/",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "c8842324c801a956053d4cd2acdcae557448aa38242dbda0b1a3878cbed196b2",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20I%20Kings",
+          "licenseEvidenceRawSha256": "25e9c3abe98a03e462b51a990444e6a8a2ed5d03377acce050c9ed49e25f7892",
+          "textSha256": "afc3656125548d43a44988450d1799b8337130ff51e387c8c4d386880c6efab5",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "II Kings",
+      "hebrewBook": "מלכים ב׳",
+      "section": "Prophets",
+      "bookPath": "Prophets/II Kings",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/ii-kings.json",
+      "chapterCount": 25,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on II Kings",
+          "versionTitle": "The Metsudah Tanach series, Lakewood, N.J",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/English/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on II Kings · The Metsudah Tanach series, Lakewood, N.J · https://www.judaicaplace.com/search/brand/Metsudah-Publications/",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "ba45fadab09eec391296b8bf3362c72a4a3810b461d9157795c2d9412ceb9e56",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20II%20Kings",
+          "licenseEvidenceRawSha256": "bfd9c5419e9ec3234a4eb589d54f3b63591aad48da79f7747d7b6b0e89b1e5dc",
+          "textSha256": "d99259f385a8decfc10e6e8f3328082252c496580cfb3a19dcb20cc4b00af6ac",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Isaiah",
+      "hebrewBook": "ישעיהו",
+      "section": "Prophets",
+      "bookPath": "Prophets/Isaiah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/isaiah.json",
+      "chapterCount": 66,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Isaiah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Isaiah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "e35a969fee6ac0529aa4b7d46aeb48d0b2e9304a36ac6f7eb7a4c1d0b10b43d1",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Isaiah",
+          "licenseEvidenceRawSha256": "c1cf4f39213b29d40e4d60d24858c95d981e49ad3fdb5b7e22ddcf38b5b5b4c7",
+          "textSha256": "2da476a7cfa421efc4da26f72284bba787730768975669bfde4822221233b487",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Jeremiah",
+      "hebrewBook": "ירמיהו",
+      "section": "Prophets",
+      "bookPath": "Prophets/Jeremiah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/jeremiah.json",
+      "chapterCount": 52,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Jeremiah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Jeremiah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "f34fa501c9c74a2a99e34fed663f9149e075d52d7f35e256de0b3282e9d395db",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Jeremiah",
+          "licenseEvidenceRawSha256": "1a08a5be96ef7d0447e092c3db98336db69a51ad82f4f380ce57d8a2dc8d85b2",
+          "textSha256": "84927f95691701490155b5d0d759dcc15455e7180fa727d97153834403604bad",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Ezekiel",
+      "hebrewBook": "יחזקאל",
+      "section": "Prophets",
+      "bookPath": "Prophets/Ezekiel",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/ezekiel.json",
+      "chapterCount": 48,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Ezekiel",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Ezekiel/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Ezekiel · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "1bf93fd8501a1bc10c905013407f5779c4b111ffd15a010bf683e3f36aa10fdf",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Ezekiel",
+          "licenseEvidenceRawSha256": "2fb14018b204cfa6a71e09aff42e6aea0648cc56ce6d2e1eda011aa73a662344",
+          "textSha256": "0c6a33c04ca598e8fc2ef8012580b3a63689a6c8d210659cea72fbbb9a4dc2a0",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Hosea",
+      "hebrewBook": "הושע",
+      "section": "Prophets",
+      "bookPath": "Prophets/Hosea",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/hosea.json",
+      "chapterCount": 14,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Hosea",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Hosea/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Hosea · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "efdece81b57b6ded0f3a93f66c63819b970887af5600d929f2d7e7bba363034b",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Hosea",
+          "licenseEvidenceRawSha256": "51d9eab1e41244f3fffd22ecbeea77064e337aeb717a77af82ad00dbcef64c82",
+          "textSha256": "25cb54b3110ab2166a7f7af24ff8f85ccf8c4bb30c54141ecaa6539c1e820615",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Joel",
+      "hebrewBook": "יואל",
+      "section": "Prophets",
+      "bookPath": "Prophets/Joel",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/joel.json",
+      "chapterCount": 4,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Joel",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joel/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Joel · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "52ff51ff8e7c11247332b5e5c4e916a4ef0a424a363b6b75c1f4a6b38e450e49",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Joel",
+          "licenseEvidenceRawSha256": "e34158feb0ba492b9aec61e4afd35e39cd28b01afe7a7b3ff53b4e48b562c22f",
+          "textSha256": "668835229bc1b6ff326cfc06d2f30bd4bfff8398294004db41e44a4714f02c5d",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Amos",
+      "hebrewBook": "עמוס",
+      "section": "Prophets",
+      "bookPath": "Prophets/Amos",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/amos.json",
+      "chapterCount": 9,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Amos",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Amos/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Amos · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "cb1a006fd536e747d81b4df0d764e9e1569dd0b3bec7e875003e3b7b6dab23d8",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Amos",
+          "licenseEvidenceRawSha256": "6c148f44882eb9b361a445452a80eed3ccf0f7dc0d4748eb73dc8d2bd9e43e9c",
+          "textSha256": "6b8482b20c01f8e8cf4f81e3d50e5fc1e4e496482e4c13c6a0876d2aaa8b58de",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Obadiah",
+      "hebrewBook": "עובדיה",
+      "section": "Prophets",
+      "bookPath": "Prophets/Obadiah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/obadiah.json",
+      "chapterCount": 1,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Obadiah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Obadiah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Obadiah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "importedAt": "2026-10-29T23:46:50.819Z",
+          "textSha256": "06e83f6d786e7934e0eebe2bc393304b1c80181b24f8bc6d4caf03656ae85a9f",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Obadiah",
+          "licenseEvidenceRawSha256": "498055ed7d053df24b5f4869f34c8c086643907940ec1084951790be1e3753c5",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Jonah",
+      "hebrewBook": "יונה",
+      "section": "Prophets",
+      "bookPath": "Prophets/Jonah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/jonah.json",
+      "chapterCount": 4,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Jonah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jonah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Jonah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "49df3e2166e950f076aa4086c547a3fc9ba12d5cc2a7550d71da18bb8cbd694a",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Jonah",
+          "licenseEvidenceRawSha256": "cb5abbdb99d53916960199b614086f6190043d106a247d98aa88ddac2ccf8baf",
+          "textSha256": "b43817c78db6011a3570fd4a25e549b8181607808d7f1eeb62f5b9b48855cab9",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Micah",
+      "hebrewBook": "מיכה",
+      "section": "Prophets",
+      "bookPath": "Prophets/Micah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/micah.json",
+      "chapterCount": 7,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Micah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Micah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Micah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "importedAt": "2026-10-29T23:46:49.878Z",
+          "textSha256": "b4d20da6f216d04f687c4fdfa6b772643b6c4dd8c5f2ccd2d93ccfcad30aed11",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Micah",
+          "licenseEvidenceRawSha256": "039ac07ebec3e1351d2d608363ca548545a08db3b0ad27ca46dc5f8416ebf49d",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Nahum",
+      "hebrewBook": "נחום",
+      "section": "Prophets",
+      "bookPath": "Prophets/Nahum",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/nahum.json",
+      "chapterCount": 3,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Nahum",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Nahum/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Nahum · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "ceab52d3a364c0177fb8a1bcee1de34dbae99b9c084727cd3e8aebf950ef2341",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Nahum",
+          "licenseEvidenceRawSha256": "0b049f3fbae48ae94b9c90b6bb960410d6a165960e3bc3a45bc5e100489f2875",
+          "textSha256": "fc34952348fdfef5af84c702f156fc47f6889ee42a98b592cf50b3f1dd37f611",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Habakkuk",
+      "hebrewBook": "חבקוק",
+      "section": "Prophets",
+      "bookPath": "Prophets/Habakkuk",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/habakkuk.json",
+      "chapterCount": 3,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Habakkuk",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Habakkuk/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Habakkuk · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "importedAt": "2026-10-29T23:46:45.452Z",
+          "textSha256": "3ed9e504596edc9f47a92ce2d81235a1e3a20688ff41032ded701b574be24aa2",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Habakkuk",
+          "licenseEvidenceRawSha256": "7b8baed5c1250a740203a4fd84fb6362d8c2b8c4fa772ba2860a82c93d5b97b6",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Zephaniah",
+      "hebrewBook": "צפניה",
+      "section": "Prophets",
+      "bookPath": "Prophets/Zephaniah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/zephaniah.json",
+      "chapterCount": 3,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Zephaniah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Zephaniah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Zephaniah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "4e219b8a1db3e89475e2fe7fdb1b00591d03bf28999750c79b8a1eb0fec9ed07",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Zephaniah",
+          "licenseEvidenceRawSha256": "1fd254f21f1866279ae10664f51c779bc1e00eb75f23f8f5f3d4ed3f930eb83e",
+          "textSha256": "8ca917b0cadba8ad17abcdb648cb7b1cd84ece9f7b19dd9d8611166530b1a4e2",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Haggai",
+      "hebrewBook": "חגי",
+      "section": "Prophets",
+      "bookPath": "Prophets/Haggai",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/haggai.json",
+      "chapterCount": 2,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Haggai",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Haggai/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Haggai · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "5d001aff4a0d0a41308ca83a3c794413609d3a3d4352de6572b682c42c676cc5",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Haggai",
+          "licenseEvidenceRawSha256": "84cdab0c5296e44811cc935e21911a6d9ff094c56ee2d8d5e5b40ae0dc08099c",
+          "textSha256": "762964b92fef711106ae2eff4b34f4b0e8c6bac03688041562d625cfcd64e156",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Zechariah",
+      "hebrewBook": "זכריה",
+      "section": "Prophets",
+      "bookPath": "Prophets/Zechariah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/zechariah.json",
+      "chapterCount": 14,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Zechariah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Zechariah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Zechariah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "44253684c6a980b81057d035f88f2dad0c9da061b3c3da5aef248786f7ce0535",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Zechariah",
+          "licenseEvidenceRawSha256": "faf1d6ef288e3e5f1e6ed7768bebeafd925b5dc13884b9b6ac39350c3b8a0810",
+          "textSha256": "8eb122fd90525d44f0522b7c34baf2a2c23306ce970fa9c321f44fa39fd1f1da",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Malachi",
+      "hebrewBook": "מלאכי",
+      "section": "Prophets",
+      "bookPath": "Prophets/Malachi",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/malachi.json",
+      "chapterCount": 3,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Malachi",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Malachi/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Malachi · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "c5f383dfe151372f7a6823df86fba055f33665c34dc0496f22d15a8e40935b1e",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Malachi",
+          "licenseEvidenceRawSha256": "df5110f2874cd6b17cd3821bef3ff50c340a4945fe67f508c132c938750f992c",
+          "textSha256": "cb8af0e8f740f9d597efa93632f4f43bb7460a843627ba94eb1be7a2831c3afd",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Psalms",
+      "hebrewBook": "תהילים",
+      "section": "Writings",
+      "bookPath": "Writings/Psalms",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/psalms.json",
+      "chapterCount": 150,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Psalms",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Psalms/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Psalms · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "8086df711ac7b63da03c4c43acbc9f4e4a804fdc2f5c1119649681dabd8ad42f",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Psalms",
+          "licenseEvidenceRawSha256": "cb7c4353dfca05a93b63c652e8a0a74a5680a3e17b26bba2f25543d8269288ae",
+          "textSha256": "072b60619769437f5b51b58f3d3a5896da6eb7e52f9db522ec708c723401d31f",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Proverbs",
+      "hebrewBook": "משלי",
+      "section": "Writings",
+      "bookPath": "Writings/Proverbs",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/proverbs.json",
+      "chapterCount": 31,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Proverbs",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Proverbs/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Proverbs · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "8c877a27f5349263fffa4799194b9a5f200996ad99cde94e7a9de341157c065f",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Proverbs",
+          "licenseEvidenceRawSha256": "2b3ef35debcadbb91692c857c34a95714cb74db116e20ac840150c20d1bb608b",
+          "textSha256": "80a77f4ffec02b7ffdf719663b900275550e064a6934d8b303471c6547cb6f85",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Job",
+      "hebrewBook": "איוב",
+      "section": "Writings",
+      "bookPath": "Writings/Job",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/job.json",
+      "chapterCount": 42,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Job",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Job/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Job · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "29da8d20b74fea1f0de2435ba8f9df63bca88a83253122b617585197d2eab863",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Job",
+          "licenseEvidenceRawSha256": "4e4777388addd3a4c425b4163758a10889a215f931b08f4eaba37ac7b3983c13",
+          "textSha256": "d3f88f38659b58ac4bec55e0fb25f6290e895542715a6f8b01c43ce1c3cafe61",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Song of Songs",
+      "hebrewBook": "שיר השירים",
+      "section": "Writings",
+      "bookPath": "Writings/Song of Songs",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/song-of-songs.json",
+      "chapterCount": 8,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Song of Songs",
+          "versionTitle": "The Metsudah Five Megillot, Lakewood, N.J., 2001",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Song%20of%20Songs/English/The%20Metsudah%20Five%20Megillot%2C%20Lakewood%2C%20N.J.%2C%202001.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Song of Songs · The Metsudah Five Megillot, Lakewood, N.J., 2001 · https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "3919a55cf0a700b9a7d34631dde8a21d6d066d4c40762e65cd0f364d761c84e7",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Song%20of%20Songs",
+          "licenseEvidenceRawSha256": "001b6ba8828e2976b880f3d9ce44b298198b421e73e3c3b385744c58a6feccd2",
+          "textSha256": "b385bafe44bb2b7f13bb4ccce0d56f4155d71ee49267f3b7ddf8ba14e29b431c",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Ruth",
+      "hebrewBook": "רות",
+      "section": "Writings",
+      "bookPath": "Writings/Ruth",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/ruth.json",
+      "chapterCount": 4,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Ruth",
+          "versionTitle": "The Metsudah Five Megillot, Lakewood, N.J., 2001",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Ruth/English/The%20Metsudah%20Five%20Megillot%2C%20Lakewood%2C%20N.J.%2C%202001.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Ruth · The Metsudah Five Megillot, Lakewood, N.J., 2001 · https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "fdef5416642203f0e8cafd16d71c4f797114984960f6f7eec675eccd66fb5ab4",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Ruth",
+          "licenseEvidenceRawSha256": "7a3c6e99b806cb0b398a9da3053a333eeab2225c3cabc8952f7be6484b0862b7",
+          "textSha256": "32efa126a48de716f71dfc261f61a783935c1f065404acbe50c5938c58c9c985",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Lamentations",
+      "hebrewBook": "איכה",
+      "section": "Writings",
+      "bookPath": "Writings/Lamentations",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/lamentations.json",
+      "chapterCount": 5,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Lamentations",
+          "versionTitle": "The Metsudah Five Megillot, Lakewood, N.J., 2001",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Lamentations/English/The%20Metsudah%20Five%20Megillot%2C%20Lakewood%2C%20N.J.%2C%202001.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Lamentations · The Metsudah Five Megillot, Lakewood, N.J., 2001 · https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "400a401dcba429af07c500f0ddcff6acaebfdb1341b467d2d8e507d4ed997dde",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Lamentations",
+          "licenseEvidenceRawSha256": "6149bcbfb59ec0f6e6a3e0d026e9f29dc1aa306fe8e4a2b1625df84cfb46b0a5",
+          "textSha256": "c4b3ea1d81464502efe9e439bc34b86c522f991aaff510cd76e744838cbe85fb",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Ecclesiastes",
+      "hebrewBook": "קהלת",
+      "section": "Writings",
+      "bookPath": "Writings/Ecclesiastes",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/ecclesiastes.json",
+      "chapterCount": 12,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Ecclesiastes",
+          "versionTitle": "The Metsudah Five Megillot, Lakewood, N.J., 2001",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Ecclesiastes/English/The%20Metsudah%20Five%20Megillot%2C%20Lakewood%2C%20N.J.%2C%202001.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Ecclesiastes · The Metsudah Five Megillot, Lakewood, N.J., 2001 · https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "22612efed2a97977bea3a7717cf094402d14a4fb557939b598958b66c5b4462e",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Ecclesiastes",
+          "licenseEvidenceRawSha256": "eae5022531e240f2788a85716ff82f68d8cdc7c5b9b9820baa58c528307234b9",
+          "textSha256": "8b9b06ada070107cae79f822be208d2f40a319754ffb0c99c998082c21f29fa4",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Esther",
+      "hebrewBook": "אסתר",
+      "section": "Writings",
+      "bookPath": "Writings/Esther",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/esther.json",
+      "chapterCount": 10,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Esther",
+          "versionTitle": "The Metsudah Five Megillot, Lakewood, N.J., 2001",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Esther/English/The%20Metsudah%20Five%20Megillot%2C%20Lakewood%2C%20N.J.%2C%202001.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Esther · The Metsudah Five Megillot, Lakewood, N.J., 2001 · https://www.nli.org.il/he/books/NNL_ALEPH002162036",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "4a00c35962525e120ffb896afca35029f400266dd15b20aab09b21ec049ed145",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Esther",
+          "licenseEvidenceRawSha256": "51d6a73745f77b203af8389c463a1971b77345a33ddbe272ea9fa29ce589bcc7",
+          "textSha256": "4edab37329452d260a4e459e351af82e35dd815579bed2b0a53f7df2792bedad",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Daniel",
+      "hebrewBook": "דניאל",
+      "section": "Writings",
+      "bookPath": "Writings/Daniel",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/daniel.json",
+      "chapterCount": 12,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Daniel",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Daniel/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Daniel · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "3cffe4692fa4a919c919f33454af086530f66d42101068dfb7ce113da758b9a0",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Daniel",
+          "licenseEvidenceRawSha256": "3a8445ea38d8eff8ff58aed6b7e1dc1faac09e38d34329ab84ac5f9c837730b8",
+          "textSha256": "c1a4910dbd78d8c843b3b8f53a677ee19b8f09305e6b0f4de6e98cbe1c1b6caa",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Ezra",
+      "hebrewBook": "עזרא",
+      "section": "Writings",
+      "bookPath": "Writings/Ezra",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/ezra.json",
+      "chapterCount": 10,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Ezra",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Ezra/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Ezra · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "6d12acd507ac1abcc70da48269a7c2369c0027b7c6572da9e9379d0c9c989f45",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Ezra",
+          "licenseEvidenceRawSha256": "a91f5e9a76fe04a16fd2a4c9a197921d2311c01e35bc2e29a56e07a0aa78a0a9",
+          "textSha256": "28d8085e2922b1459416eefd8a05e8dece03d739886080b9f48e1e04770bbf6c",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Nehemiah",
+      "hebrewBook": "נחמיה",
+      "section": "Writings",
+      "bookPath": "Writings/Nehemiah",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/nehemiah.json",
+      "chapterCount": 13,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on Nehemiah",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20Nehemiah/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on Nehemiah · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "importedAt": "2026-10-29T23:46:50.258Z",
+          "textSha256": "5d5e0c7e6d5fa33aa99bacd2279151a76fe47087323c5b29d5bf8665dfbdc08d",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Nehemiah",
+          "licenseEvidenceRawSha256": "c114bb515c3a158d8eaef6ec00e1992db06f8e81c3f81f47362cac6d853b926c",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "I Chronicles",
+      "hebrewBook": "דברי הימים א׳",
+      "section": "Writings",
+      "bookPath": "Writings/I Chronicles",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/i-chronicles.json",
+      "chapterCount": 29,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on I Chronicles",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20I%20Chronicles/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on I Chronicles · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "9155f0d09c5fd0844408254ce7d120da57b263b8d50de00d8b05765bcecea973",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20I%20Chronicles",
+          "licenseEvidenceRawSha256": "9dd300a07d777a0601abbf81b8dfc0951acbd0af276c0732e6e28ccee64cdb11",
+          "textSha256": "eae4bef38bfe8f4cc1ec62c702cf600975565cbdef019a67884fde6d3c011d69",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "II Chronicles",
+      "hebrewBook": "דברי הימים ב׳",
+      "section": "Writings",
+      "bookPath": "Writings/II Chronicles",
+      "file": "Tanakh/Commentaries/rashi-licensed-english/ii-chronicles.json",
+      "chapterCount": 36,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Rashi on II Chronicles",
+          "versionTitle": "The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Writings/Rashi%20on%20II%20Chronicles/English/The%20Judaica%20Press%20complete%20Tanach%20with%20Rashi%2C%20translated%20by%20A.%20J.%20Rosenberg.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Rashi on II Chronicles · The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg · https://www.nli.org.il/en/items/NNL_ALEPH990019164710205171/NLI",
+          "changes": "Retained source English wording, formatting, and chapter/verse positions in a separate plaintext edition. No OCR or new translation was performed by Amudi.",
+          "rawSourceSha256": "fbe4584aed16a59dc995216e532bc62131b3b1eed1a3ba8ea136953a075ed2c0",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20II%20Chronicles",
+          "licenseEvidenceRawSha256": "82dcd168e8d18a6dd6c6d9a8cea34f61a902d840972291a84a295b65c3d7a8b2",
+          "textSha256": "718145bb5f6d20b8edc009f10057a47760f4cfa6cb9a06d65dc3fa97418d0176",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    }
+  ],
+  "coverageStatus": "One provider-recorded English edition per listed book; sources may be partial.",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY 3.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/rashi-licensed-english/source-manifest.json"
+  ]
+}

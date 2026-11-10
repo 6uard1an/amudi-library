@@ -1,0 +1,1314 @@
+{
+  "createdAt": "2026-10-30T04:48:53.813452+00:00",
+  "title": "Meiri on Berakhot — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Berakhot (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Meiri on Berakhot",
+  "bibliographySourceLines": [
+    1749,
+    2276,
+    2496
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Berakhot. Hebrew Wikisource contributors, typed digital edition and editorial notes. Exact source-page revision permalinks and contributor histories are recorded in source-manifest.json. CC BY-SA4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "Introduction, all9Berakhot chapters and the separately headed BeitYad lexical appendix available in the selected typed source.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/הקדמה",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/הקדמה",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-a351e53587ab0f51.json",
+      "sourceSnapshotSha256": "d12c0e34a737c2cc4945553e828b538588276270cbf437e0da22d8adffca8415",
+      "sourceRevision": {
+        "id": 959828,
+        "timestamp": "2020-06-02T15:19:28Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=959828",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history",
+      "sourcePageId": 373694,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=959828&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-a351e53587ab0f51.json",
+        "sha256": "e957dff1b79f84f3adbc188e5b5513217efafd49e357faac640fe9c780bfba12"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 2645,
+      "readingBlocks": 12,
+      "convertedChapters": [
+        1
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-3c7fe866959c87fa.json",
+      "sourceSnapshotSha256": "3a1e2982b5bc8c8a8e3b696e9b72aec66acc7306fcaae601992a26d1d904254b",
+      "sourceRevision": {
+        "id": 2991332,
+        "timestamp": "2026-02-20T08:12:03Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourcePageId": 373695,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2991332&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-3c7fe866959c87fa.json",
+        "sha256": "f68452702102c298d8a6364765b4e522b94a3d4cc3eb814c7db71fd5ab117b0d"
+      },
+      "sourceHeadings": [
+        "דף ב עמוד א",
+        "דף ג עמוד א",
+        "דף ג עמוד ב",
+        "דף ד עמוד א",
+        "דף ד עמוד ב",
+        "דף ה עמוד א",
+        "דף ה עמוד ב",
+        "דף ו עמוד א",
+        "דף ו עמוד ב",
+        "דף ז עמוד א",
+        "דף ז עמוד ב",
+        "דף ח עמוד א",
+        "דף ח עמוד ב",
+        "דף ט עמוד א",
+        "דף ט עמוד ב",
+        "דף י עמוד א",
+        "דף י עמוד ב",
+        "דף יא עמוד א",
+        "דף יא עמוד ב",
+        "דף יב עמוד א",
+        "דף יב עמוד ב"
+      ],
+      "readingCharacters": 96422,
+      "readingBlocks": 55,
+      "convertedChapters": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ב",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ב",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-d850fdd59b7ba71e.json",
+      "sourceSnapshotSha256": "77ce363169fd2608ccdada25cb72187b485a6c3ace3cdf5ba18a2ae65d397ba7",
+      "sourceRevision": {
+        "id": 2853089,
+        "timestamp": "2024-04-25T12:11:55Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2853089",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&action=history",
+      "sourcePageId": 374971,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2853089&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-d850fdd59b7ba71e.json",
+        "sha256": "4d6fe2d1ff5d7ff4d7982577a2a71265cf89142fbcc6d5076fadd0480a2dd448"
+      },
+      "sourceHeadings": [
+        "דף יג עמוד א",
+        "דף יג עמוד ב",
+        "דף יד עמוד א",
+        "דף יד עמוד ב",
+        "דף טו עמוד א",
+        "דף טו עמוד ב",
+        "דף טז עמוד א",
+        "דף טז עמוד ב",
+        "דף יז עמוד א",
+        "דף יז עמוד ב"
+      ],
+      "readingCharacters": 45970,
+      "readingBlocks": 20,
+      "convertedChapters": [
+        10,
+        11,
+        12
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-b588e122b72a27f8.json",
+      "sourceSnapshotSha256": "b676c3c7cfc26a369a2b0da9779506c5a6b217d8f78bfd1afb012ad68ff66add",
+      "sourceRevision": {
+        "id": 2960672,
+        "timestamp": "2025-10-13T14:15:41Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&action=history",
+      "sourcePageId": 375489,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2960672&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-b588e122b72a27f8.json",
+        "sha256": "991c6d41c544e45f991eb172a16d17638f218da4fa791c954af3c4f8d9337a54"
+      },
+      "sourceHeadings": [
+        "דף יז עמוד ב",
+        "דף יח עמוד א",
+        "דף יט עמוד א",
+        "דף יט עמוד ב",
+        "דף כ עמוד א",
+        "דף כ עמוד ב",
+        "דף כא עמוד א",
+        "דף כא עמוד ב",
+        "דף כב עמוד א",
+        "דף כב עמוד ב",
+        "דף כג עמוד א",
+        "דף כג עמוד ב",
+        "דף כד עמוד א",
+        "דף כד עמוד ב",
+        "דף כה עמוד א",
+        "דף כה עמוד ב",
+        "דף כו עמוד א"
+      ],
+      "readingCharacters": 91546,
+      "readingBlocks": 35,
+      "convertedChapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ד",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ד",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-ea894b0bb2ffb148.json",
+      "sourceSnapshotSha256": "8656ae5dc62085029970b71a57c579609d494b405f21170c807e035decf417e7",
+      "sourceRevision": {
+        "id": 1054315,
+        "timestamp": "2021-02-22T13:33:12Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=1054315",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&action=history",
+      "sourcePageId": 375800,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=1054315&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-ea894b0bb2ffb148.json",
+        "sha256": "e46aaf9974f290aa47c2c244a9922d759f486896c4e755932d626be547cf0be5"
+      },
+      "sourceHeadings": [
+        "דף כו עמוד א",
+        "דף כו עמוד ב",
+        "דף כז עמוד א",
+        "דף כז עמוד ב",
+        "דף כח עמוד א",
+        "דף כח עמוד ב",
+        "דף כט עמוד א",
+        "דף כט עמוד ב",
+        "דף ל עמוד א",
+        "דף ל עמוד ב"
+      ],
+      "readingCharacters": 46046,
+      "readingBlocks": 86,
+      "convertedChapters": [
+        21,
+        22,
+        23
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ה",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ה",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-609a52e116309e4e.json",
+      "sourceSnapshotSha256": "e55d3afca129577a370de02cad8b6fb79c012f59c84c966690f0d024fa4f2464",
+      "sourceRevision": {
+        "id": 2816642,
+        "timestamp": "2023-11-08T12:10:48Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2816642",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&action=history",
+      "sourcePageId": 375965,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2816642&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-609a52e116309e4e.json",
+        "sha256": "a240d5e293c57978d7041c0f66d85d570134d11c425c778516fde0c92b9e68c9"
+      },
+      "sourceHeadings": [
+        "דף ל עמוד ב",
+        "דף לא עמוד א",
+        "דף לא עמוד ב",
+        "דף לב עמוד א",
+        "דף לב עמוד ב",
+        "דף לג עמוד א",
+        "דף לג עמוד ב",
+        "דף לד עמוד א",
+        "דף לד עמוד ב"
+      ],
+      "readingCharacters": 42284,
+      "readingBlocks": 19,
+      "convertedChapters": [
+        24,
+        25,
+        26,
+        27
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-00cd3e1a3da55c1a.json",
+      "sourceSnapshotSha256": "0d1f02597c74f1d4994b91512f4a888841c908a854d56a7181d7e36025ebbce0",
+      "sourceRevision": {
+        "id": 2858746,
+        "timestamp": "2024-05-22T07:57:16Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&action=history",
+      "sourcePageId": 376087,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2858746&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-00cd3e1a3da55c1a.json",
+        "sha256": "b6df9d1af821fe1288688f6f936edbc2192c1ce5bc6dd3f819f8eed29dfe017b"
+      },
+      "sourceHeadings": [
+        "דף לה עמוד א",
+        "דף לה עמוד ב",
+        "דף לו עמוד א",
+        "דף לו עמוד ב",
+        "דף לז עמוד א",
+        "דף לז עמוד ב",
+        "דף לח עמוד א",
+        "דף לח עמוד ב",
+        "דף לט עמוד א",
+        "דף לט עמוד ב",
+        "דף מ עמוד א",
+        "דף מ עמוד ב",
+        "דף מא עמוד א",
+        "דף מב עמוד א",
+        "דף מב עמוד ב",
+        "דף מג עמוד א",
+        "דף מג עמוד ב",
+        "דף מד עמוד א",
+        "דף מד עמוד ב",
+        "הערות"
+      ],
+      "readingCharacters": 102329,
+      "readingBlocks": 49,
+      "convertedChapters": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-857a0eb61bc7f9f8.json",
+      "sourceSnapshotSha256": "73f38711d4315a4f1bd98b11736627162ade8f0248a8edff4e4bb3615abdf612",
+      "sourceRevision": {
+        "id": 2858749,
+        "timestamp": "2024-05-22T07:58:54Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2858749",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&action=history",
+      "sourcePageId": 377133,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2858749&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-857a0eb61bc7f9f8.json",
+        "sha256": "bee61047de9daee0f53104ab7b2822fd2b81fdcf51d824663042c809762616a4"
+      },
+      "sourceHeadings": [
+        "דף מה עמוד א",
+        "דף מה עמוד ב",
+        "דף מו עמוד א",
+        "דף מו עמוד ב",
+        "דף מז עמוד א",
+        "דף מז עמוד ב",
+        "דף מח עמוד א",
+        "דף מח עמוד ב",
+        "דף מט עמוד א",
+        "דף מט עמוד ב",
+        "דף נ עמוד א",
+        "דף נ עמוד ב",
+        "דף נא עמוד א",
+        "דף נא עמוד ב"
+      ],
+      "readingCharacters": 71321,
+      "readingBlocks": 29,
+      "convertedChapters": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ח",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ח",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-514ed7b3da9b7ca7.json",
+      "sourceSnapshotSha256": "886adf310d9fdeb1e04c4ca0cbc510abb4dcf57e2383d063c460b7e3077ee8cf",
+      "sourceRevision": {
+        "id": 2899147,
+        "timestamp": "2025-01-06T14:22:04Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2899147",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&action=history",
+      "sourcePageId": 377818,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2899147&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-514ed7b3da9b7ca7.json",
+        "sha256": "10ae9d84708ebef18853087ab5c8ba6a890e6e88ec91c97f3667d07aa8f966e4"
+      },
+      "sourceHeadings": [
+        "דף נא עמוד ב",
+        "דף נב עמוד א",
+        "דף נג עמוד א",
+        "דף נג עמוד ב"
+      ],
+      "readingCharacters": 32483,
+      "readingBlocks": 11,
+      "convertedChapters": [
+        42,
+        43,
+        44
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ט",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/פרק ט",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-1a792b25ea717eee.json",
+      "sourceSnapshotSha256": "2383757c1566d1e272c5c89b38f2d6b71a59dc2e3be1df54e005fe68edd993cd",
+      "sourceRevision": {
+        "id": 2850613,
+        "timestamp": "2024-04-17T07:19:27Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&oldid=2850613",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&action=history",
+      "sourcePageId": 378400,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2850613&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-1a792b25ea717eee.json",
+        "sha256": "2578adee2df85d428d060d0cebf942e108b858c88f71e850a6ecec06e8f0c101"
+      },
+      "sourceHeadings": [
+        "דף נד עמוד א",
+        "דף נד עמוד ב",
+        "דף נה עמוד א",
+        "דף נה עמוד ב",
+        "דף נז עמוד ב",
+        "דף נח עמוד א",
+        "דף נח עמוד ב",
+        "דף נט עמוד א",
+        "דף נט עמוד ב",
+        "דף ס עמוד א",
+        "דף ס עמוד ב",
+        "דף סא עמוד א",
+        "דף סא עמוד ב",
+        "דף סב עמוד א",
+        "דף סב עמוד ב",
+        "דף סג עמוד א",
+        "דף סג עמוד ב",
+        "דף סד עמוד א"
+      ],
+      "readingCharacters": 38080,
+      "readingBlocks": 38,
+      "convertedChapters": [
+        45,
+        46,
+        47
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/בית יד",
+      "canonicalTitle": "מאירי על הש\"ס/ברכות/בית יד",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-4420ee443cd4e269.json",
+      "sourceSnapshotSha256": "3df4c09cb2d917cf88399b7c57c82c1f6ceb3d1ccecc732b876b3098e300d11e",
+      "sourceRevision": {
+        "id": 992922,
+        "timestamp": "2020-10-15T09:50:56Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%91%D7%99%D7%AA_%D7%99%D7%93&oldid=992922",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%91%D7%99%D7%AA_%D7%99%D7%93&action=history",
+      "sourcePageId": 378665,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=992922&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-4420ee443cd4e269.json",
+        "sha256": "c790f4e502412db706f9806dceeb75429df0c38b8a47321a8584268cf51ebac9"
+      },
+      "sourceHeadings": [
+        "השער הראשון",
+        "השער השני",
+        "השער השלישי",
+        "השער הרביעי",
+        "השער החמישי",
+        "השער הששי",
+        "השער השביעי",
+        "השער השמיני",
+        "השער התשיעי",
+        "השער העשירי",
+        "השער האחד עשר",
+        "השער השנים עשר",
+        "השער השלשה עשר",
+        "השער הארבעה עשר"
+      ],
+      "readingCharacters": 38632,
+      "readingBlocks": 33,
+      "convertedChapters": [
+        48,
+        49,
+        50
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ט",
+      "notice": "כר פוטרת את של יין יש אומר שאין מברך הטוב והמטיב על היין, וכן יראה לי (חסר):",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&oldid=2850613"
+    }
+  ],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/ברכות/הקדמה",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/הקדמה",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 959828,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=959828",
+      "paragraphs": 12,
+      "plainCharacters": 2639,
+      "outputFile": "Original/1.json",
+      "outputSha256": "7b77b80f0827c9a96e0e60e1d9efb59c05948fc5b945e69e8ec52771c47836b6",
+      "normalizedTextSha256": "5340b68aca8b89177b6c60c5c1ce4236dd0cd0acae3fc619952fd1f73689569d"
+    },
+    {
+      "chapter": 2,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 1,
+      "plainCharacters": 11,
+      "outputFile": "Original/2.json",
+      "outputSha256": "1895d2d5f6148c9c68fa82c63dd2cb84f54b25bd9e867cc89e6d4cd79a50c006",
+      "normalizedTextSha256": "ff8e8898dcdb6bad49d4613639ff4d900973fc8547e839f09895f3d2b6d9e4a1"
+    },
+    {
+      "chapter": 3,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 1,
+      "plainCharacters": 25004,
+      "outputFile": "Original/3.json",
+      "outputSha256": "27934d3c043bce30dac6abb738ab95648dd4525f9a17790015b47852f0c5702a",
+      "normalizedTextSha256": "4b69d8d0d1a8701d64da24fdbae2d6655465e948b2dfaa808ab5efcf72bac692"
+    },
+    {
+      "chapter": 4,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 36,
+      "plainCharacters": 15713,
+      "outputFile": "Original/4.json",
+      "outputSha256": "c619494b3fda5719f103154eaf36297556e7432fd8bb20bc47e6197e3a099c2d",
+      "normalizedTextSha256": "ac86aab4208bfecd9c46ba334056c5e09ed8fd30d3ffbcf09fbb0796d2cf0663"
+    },
+    {
+      "chapter": 5,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 4",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 10,
+      "plainCharacters": 12955,
+      "outputFile": "Original/5.json",
+      "outputSha256": "fed29ca281c3fe264adb279bac3778dc656c7af1b987741eb8160086e86a8b2e",
+      "normalizedTextSha256": "d148c33f6141e3fa4dd914b40d98cc586e67d9475f667a4d38ba1ced2b467aa0"
+    },
+    {
+      "chapter": 6,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 5",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 5,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 1,
+      "plainCharacters": 17712,
+      "outputFile": "Original/6.json",
+      "outputSha256": "04f5441b2e9a55bc3817ab8f37bb4c55d48c046a134b41cf1e7cb9bd8fac13f1",
+      "normalizedTextSha256": "84ca7f148da67e600de06ac74b49eb3e0c354f82c36c9f6c2f6fbe5742f5235d"
+    },
+    {
+      "chapter": 7,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 6",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 6,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 2,
+      "plainCharacters": 2999,
+      "outputFile": "Original/7.json",
+      "outputSha256": "d6435acef7297c8389ed0bdbc522c134a72f43bdddd75852ad4fe17393d6de54",
+      "normalizedTextSha256": "3fd951237d92b8a46c9ff36dfce33dfc985e15c1e3c728bfc79ef11a785cea58"
+    },
+    {
+      "chapter": 8,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 7",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 7,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 1,
+      "plainCharacters": 17407,
+      "outputFile": "Original/8.json",
+      "outputSha256": "cb572a1a65f9f9113fe3313443007418c4fe36131517127700430c4bd77d501b",
+      "normalizedTextSha256": "139431b028bf67fa388ddd1bd71d92b5acc099e5f73b9de5af7e87dfa8e379f9"
+    },
+    {
+      "chapter": 9,
+      "title": "מאירי על הש\"ס/ברכות/פרק א · reading section 8",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק א",
+      "sourceIndex": 2,
+      "sourceReadingSection": 8,
+      "sourceRevisionId": 2991332,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2991332",
+      "paragraphs": 3,
+      "plainCharacters": 4549,
+      "outputFile": "Original/9.json",
+      "outputSha256": "e0d38fb8ba66053bfd58ec2e15b3a348be9d0e67a215bc1ececc0260b2167d70",
+      "normalizedTextSha256": "f73417a187b8ea951dc3df9b909ecd92fd2e2d5f6148798d132404d2f69bd494"
+    },
+    {
+      "chapter": 10,
+      "title": "מאירי על הש\"ס/ברכות/פרק ב · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ב",
+      "sourceIndex": 3,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2853089,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2853089",
+      "paragraphs": 5,
+      "plainCharacters": 14851,
+      "outputFile": "Original/10.json",
+      "outputSha256": "a60558263c95e85c5cd9d0185dc0a9eda9c2a24d3d54f16d6fbc78d8f817b8e4",
+      "normalizedTextSha256": "10b003d200a07312c8c02bf26f39e2699c9494f83574702ceca6113a1164cbe5"
+    },
+    {
+      "chapter": 11,
+      "title": "מאירי על הש\"ס/ברכות/פרק ב · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ב",
+      "sourceIndex": 3,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2853089,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2853089",
+      "paragraphs": 8,
+      "plainCharacters": 15558,
+      "outputFile": "Original/11.json",
+      "outputSha256": "d78749e509d5200b1bd56464fd7e40c6179502f60c40c8e2ba1fe6f2b3315650",
+      "normalizedTextSha256": "8f8dbb9280571123d2774b13bbf173c58cfde49f66d86cef0c3866be6f529ead"
+    },
+    {
+      "chapter": 12,
+      "title": "מאירי על הש\"ס/ברכות/פרק ב · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ב",
+      "sourceIndex": 3,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2853089,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2853089",
+      "paragraphs": 7,
+      "plainCharacters": 15525,
+      "outputFile": "Original/12.json",
+      "outputSha256": "9d348360229f14bc371f455b42b7b72c2d8af348c1d96e7f7807e4297af77c9f",
+      "normalizedTextSha256": "6fec734fe14246ac5415a8d0b6737dbfba2b1e520c8ca6024b6a9d4669c8b595"
+    },
+    {
+      "chapter": 13,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 5,
+      "plainCharacters": 11837,
+      "outputFile": "Original/13.json",
+      "outputSha256": "afa7fc814de905e997c67d28316074db79727368f469de4f8161ef6cb90621a4",
+      "normalizedTextSha256": "76e172b0cd25233a96b5dad5a2a0a3f1ed954b0552a1e525067e85d787366bc9"
+    },
+    {
+      "chapter": 14,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 2,
+      "plainCharacters": 7433,
+      "outputFile": "Original/14.json",
+      "outputSha256": "54607fca6a74942dc632fd330fbf458c96b741995b965a16e23054b01852af5a",
+      "normalizedTextSha256": "1b1f7bb93d87d48f5e10fc56cccd13c77fa25c832704fcc70bf41782ad7058f6"
+    },
+    {
+      "chapter": 15,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 4,
+      "plainCharacters": 12747,
+      "outputFile": "Original/15.json",
+      "outputSha256": "6121632d93cc030a7b4494d49ffe2a240d426910f35defc37664b6c23349e9a3",
+      "normalizedTextSha256": "bde868297baea0e9dee23f88b73d9ebc260608467e5e75d3b81b84193c6ea8ef"
+    },
+    {
+      "chapter": 16,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 4",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 2,
+      "plainCharacters": 9173,
+      "outputFile": "Original/16.json",
+      "outputSha256": "9ca196d3b9e976b93b98e1cea6c3e146817c9f89f3df6a795807fd7ddd181924",
+      "normalizedTextSha256": "177b11296c19539ff9fae90eeda6cc3359fa43df75debd9c4bf960228329b208"
+    },
+    {
+      "chapter": 17,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 5",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 5,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 6,
+      "plainCharacters": 14251,
+      "outputFile": "Original/17.json",
+      "outputSha256": "2c88b6f8636e9a86ee757bd130bf2aa7f35ebe8c340483b61de15572abeeb6dd",
+      "normalizedTextSha256": "bdb099563262faa77b8e8e543d03484fff30a05d7aa661b935c1b24938262e7b"
+    },
+    {
+      "chapter": 18,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 6",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 6,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 6,
+      "plainCharacters": 14292,
+      "outputFile": "Original/18.json",
+      "outputSha256": "041827775fed64c5c48bf97acd7d3c9e1896356cf9183ccb1005e4ff0012bf68",
+      "normalizedTextSha256": "709a2369d3d836c886f94568e4aa9abed33be95ff20d2af0b75015437cb53a5f"
+    },
+    {
+      "chapter": 19,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 7",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 7,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 6,
+      "plainCharacters": 12446,
+      "outputFile": "Original/19.json",
+      "outputSha256": "d4fa94883fd82ee7919112d6e0e8ab4d5d22b7620daed619cfe2b544bba0dd7a",
+      "normalizedTextSha256": "64dd22cab3883aef39e58d481451992865a9c36a28ea311e602637a03b1761d8"
+    },
+    {
+      "chapter": 20,
+      "title": "מאירי על הש\"ס/ברכות/פרק ג · reading section 8",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ג",
+      "sourceIndex": 4,
+      "sourceReadingSection": 8,
+      "sourceRevisionId": 2960672,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2960672",
+      "paragraphs": 4,
+      "plainCharacters": 9308,
+      "outputFile": "Original/20.json",
+      "outputSha256": "6fb20134c13377ead3a8f8a0f2571281ccf32b969bb9df3e304e6cb613d6804e",
+      "normalizedTextSha256": "2f633753a6fe7afccaaed65a6e3e53bccee6d974a55d4ea4246b4a978e7552ed"
+    },
+    {
+      "chapter": 21,
+      "title": "מאירי על הש\"ס/ברכות/פרק ד · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ד",
+      "sourceIndex": 5,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 1054315,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=1054315",
+      "paragraphs": 27,
+      "plainCharacters": 15296,
+      "outputFile": "Original/21.json",
+      "outputSha256": "d1705b94b96f834d7146f0509b20585244cb1721dcbb74e62b6127a08ff44e13",
+      "normalizedTextSha256": "1ab3f87d089eae7cd14f3c6d2d277a60e2c8d688837abf7ec9915276cf434771"
+    },
+    {
+      "chapter": 22,
+      "title": "מאירי על הש\"ס/ברכות/פרק ד · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ד",
+      "sourceIndex": 5,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 1054315,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=1054315",
+      "paragraphs": 33,
+      "plainCharacters": 15821,
+      "outputFile": "Original/22.json",
+      "outputSha256": "45ae5c1ccbc6ccc2dc85c9abe3a2c91ae21f9612ffa215f01c799b911e53db4b",
+      "normalizedTextSha256": "63d7fc09104a1316bc1792e35f49aa5aca5dc5605c423c09971e36d6f6932dc1"
+    },
+    {
+      "chapter": 23,
+      "title": "מאירי על הש\"ס/ברכות/פרק ד · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ד",
+      "sourceIndex": 5,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 1054315,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=1054315",
+      "paragraphs": 26,
+      "plainCharacters": 14888,
+      "outputFile": "Original/23.json",
+      "outputSha256": "9460032570cec5694ce938cd376061e29cca0b13edaf8e4e21a8026427941ab1",
+      "normalizedTextSha256": "a8623d223263fc333248b43392d26f2b5c84dc209b83c424ab36e2c48f06655b"
+    },
+    {
+      "chapter": 24,
+      "title": "מאירי על הש\"ס/ברכות/פרק ה · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ה",
+      "sourceIndex": 6,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2816642,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2816642",
+      "paragraphs": 3,
+      "plainCharacters": 2662,
+      "outputFile": "Original/24.json",
+      "outputSha256": "cb8ebc33ea7e19b547f567dedf86a5bece8cd42f13369a6e3c07fdee77e4308b",
+      "normalizedTextSha256": "3bd57379fa640fc86da66377dd57bf1beea445493e35825f7aec5e524d28eac2"
+    },
+    {
+      "chapter": 25,
+      "title": "מאירי על הש\"ס/ברכות/פרק ה · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ה",
+      "sourceIndex": 6,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2816642,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2816642",
+      "paragraphs": 1,
+      "plainCharacters": 17936,
+      "outputFile": "Original/25.json",
+      "outputSha256": "97237f8f6c65c58bdb6d06f6d1a35dbaac1c5ce7db19feecb9053987e0563c03",
+      "normalizedTextSha256": "c0a494f574d11128efaa20f2dab017f3148ebaec36241b833a322928b5bf7d64"
+    },
+    {
+      "chapter": 26,
+      "title": "מאירי על הש\"ס/ברכות/פרק ה · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ה",
+      "sourceIndex": 6,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2816642,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2816642",
+      "paragraphs": 11,
+      "plainCharacters": 12018,
+      "outputFile": "Original/26.json",
+      "outputSha256": "710222960a77417c3507b933f5bc8acb21e133d2a7fe944652e0f2917d9a62f1",
+      "normalizedTextSha256": "68200e2fa20f4a20732cfea05c5b5fce386c8eedba6a46fc0c6c3f9b96ebe5dc"
+    },
+    {
+      "chapter": 27,
+      "title": "מאירי על הש\"ס/ברכות/פרק ה · reading section 4",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ה",
+      "sourceIndex": 6,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 2816642,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2816642",
+      "paragraphs": 4,
+      "plainCharacters": 9633,
+      "outputFile": "Original/27.json",
+      "outputSha256": "7030f4a9e52b5782bb4d840d5ab4470a0bb70744e6cc86d30af4c508985f9799",
+      "normalizedTextSha256": "ec01d746fc0cdc47f952be6ba74fa24d1b5e8610c8f0f1a6245ecbf0f10cdf86"
+    },
+    {
+      "chapter": 28,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 8,
+      "plainCharacters": 15804,
+      "outputFile": "Original/28.json",
+      "outputSha256": "aa8e224ca174d8c5f3280e7f28540f59f73eef990c2f2db2681814178a94a87d",
+      "normalizedTextSha256": "9367e1a64cff032713e92d31fa7e1fb559fae3759c27de6e3858d0a22e53295b"
+    },
+    {
+      "chapter": 29,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 10,
+      "plainCharacters": 15984,
+      "outputFile": "Original/29.json",
+      "outputSha256": "280d97c4712470230b38144e8eb7999b3e792b685081188f056e75d44d6e46cc",
+      "normalizedTextSha256": "1aaf2ccbc7f798dea8440044ac7fc2250e34da093e758a406b92a480c2440227"
+    },
+    {
+      "chapter": 30,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 9,
+      "plainCharacters": 13930,
+      "outputFile": "Original/30.json",
+      "outputSha256": "43fcb107a81fd273bdcbc47e6d79888d302c6ac660b073385208f20fe50039fa",
+      "normalizedTextSha256": "1fd56ba64087f4c633def772ef3908f66b7a7ea19316263822bd0e92f5dd4dc4"
+    },
+    {
+      "chapter": 31,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 4",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 6,
+      "plainCharacters": 8224,
+      "outputFile": "Original/31.json",
+      "outputSha256": "3113a3b309726cd87aa820a6dd48624b46a2ba0bee6c7e7484f96c93a62f79e7",
+      "normalizedTextSha256": "c9ceeeb51448564f2ac226fe92728da744d2eec4bb11728293ef89240158ede3"
+    },
+    {
+      "chapter": 32,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 5",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 5,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 2,
+      "plainCharacters": 12845,
+      "outputFile": "Original/32.json",
+      "outputSha256": "28f71cf477c8cbb9eb9cc724ced6b8b9225a7996a3b95858e72ca41183935442",
+      "normalizedTextSha256": "d05d6d027abf34d6abcad08b0a704e26f1753d5735f8cc7a6ae98c68ce4bae71"
+    },
+    {
+      "chapter": 33,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 6",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 6,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 2,
+      "plainCharacters": 14576,
+      "outputFile": "Original/33.json",
+      "outputSha256": "621a1df26e5468bdabeff6c06dafa48b8972c30ed8a9941964c1a6866aafa3a5",
+      "normalizedTextSha256": "c2096e16635c0c044d77f9624b0e37af006e68d451496482b248e732739a4e53"
+    },
+    {
+      "chapter": 34,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 7",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 7,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 6,
+      "plainCharacters": 13195,
+      "outputFile": "Original/34.json",
+      "outputSha256": "dd0893e83156f9ebbb1dd9bdcd63f186a78d71d6f7242e31ba8d2edb72a4adcc",
+      "normalizedTextSha256": "61bc9bc6fc20b9dab80597b048f5b823dcc2f0ba1541a7ee46544b80b0af5eda"
+    },
+    {
+      "chapter": 35,
+      "title": "מאירי על הש\"ס/ברכות/פרק ו · reading section 8",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ו",
+      "sourceIndex": 7,
+      "sourceReadingSection": 8,
+      "sourceRevisionId": 2858746,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2858746",
+      "paragraphs": 6,
+      "plainCharacters": 7705,
+      "outputFile": "Original/35.json",
+      "outputSha256": "d56d3c95b6338b00191e1e5994028665475a17e83f384cfc8fa8cce2c6f1f7bf",
+      "normalizedTextSha256": "0029118f025196bc4fcf08ae2c9aa9154aa89334e4daa7ba7c02d7c9cf9308ad"
+    },
+    {
+      "chapter": 36,
+      "title": "מאירי על הש\"ס/ברכות/פרק ז · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2858749,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2858749",
+      "paragraphs": 5,
+      "plainCharacters": 11308,
+      "outputFile": "Original/36.json",
+      "outputSha256": "8b787e7417c329745370bb241d0fde9c70aaba343bd69e42af1f372238ea9b3f",
+      "normalizedTextSha256": "8f7c12304d15eda0de3503cfc24295524467d36c697f676f75aec9f6f80a46a0"
+    },
+    {
+      "chapter": 37,
+      "title": "מאירי על הש\"ס/ברכות/פרק ז · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2858749,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2858749",
+      "paragraphs": 2,
+      "plainCharacters": 15954,
+      "outputFile": "Original/37.json",
+      "outputSha256": "0a52db544c8c4bbd28591f937e7208820c7bf7bfafe3f53e40ad59f0509f21f3",
+      "normalizedTextSha256": "2a737f9ae726d14d5e943b1cccf5f54b8144763e0f0f9934223e13eb8111bc91"
+    },
+    {
+      "chapter": 38,
+      "title": "מאירי על הש\"ס/ברכות/פרק ז · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2858749,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2858749",
+      "paragraphs": 4,
+      "plainCharacters": 12550,
+      "outputFile": "Original/38.json",
+      "outputSha256": "0bd25a9b633593e701085a13220757f8956590ee0e2fba894078d54cf9b2a712",
+      "normalizedTextSha256": "f9d92f9adc63987c26df8c1d1423d488539286f43b98982ba8667d7a69956117"
+    },
+    {
+      "chapter": 39,
+      "title": "מאירי על הש\"ס/ברכות/פרק ז · reading section 4",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 2858749,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2858749",
+      "paragraphs": 6,
+      "plainCharacters": 12937,
+      "outputFile": "Original/39.json",
+      "outputSha256": "7a4d43d9971226915047cdb8691de5968baed8bc8dbbe18473eb1cb49c170e96",
+      "normalizedTextSha256": "90a4843830981570a3a335589a7ec918f180e87af4123d964d4b77bec99e42f4"
+    },
+    {
+      "chapter": 40,
+      "title": "מאירי על הש\"ס/ברכות/פרק ז · reading section 5",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 5,
+      "sourceRevisionId": 2858749,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2858749",
+      "paragraphs": 8,
+      "plainCharacters": 15403,
+      "outputFile": "Original/40.json",
+      "outputSha256": "fd81169740d4fbe094b5028c4661b3e0ac034ca63e7333bc234f9bb0308c9c19",
+      "normalizedTextSha256": "d008a8a29182acf5ae7c03efeec918fbc7f06280896855811afa2ddf9748f3eb"
+    },
+    {
+      "chapter": 41,
+      "title": "מאירי על הש\"ס/ברכות/פרק ז · reading section 6",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ז",
+      "sourceIndex": 8,
+      "sourceReadingSection": 6,
+      "sourceRevisionId": 2858749,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2858749",
+      "paragraphs": 4,
+      "plainCharacters": 3119,
+      "outputFile": "Original/41.json",
+      "outputSha256": "39cf3d96bfb3fe4b7d419984a06a3e20e6cf5858f689f583614ef5481191a94c",
+      "normalizedTextSha256": "4e4aa8a779cb75b302d2118cad9a0d74c257f86c37cf1086265acda29beb77ae"
+    },
+    {
+      "chapter": 42,
+      "title": "מאירי על הש\"ס/ברכות/פרק ח · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ח",
+      "sourceIndex": 9,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2899147,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2899147",
+      "paragraphs": 4,
+      "plainCharacters": 2346,
+      "outputFile": "Original/42.json",
+      "outputSha256": "4f535c3e572c54bc87b74042eed34e81e9be6ac7acd2ba74d788d9e03878c1f5",
+      "normalizedTextSha256": "c31c668834615580ed2a5c222f62cc0eac13848f440fedd8fe7a1403e03e16b5"
+    },
+    {
+      "chapter": 43,
+      "title": "מאירי על הש\"ס/ברכות/פרק ח · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ח",
+      "sourceIndex": 9,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2899147,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2899147",
+      "paragraphs": 1,
+      "plainCharacters": 16325,
+      "outputFile": "Original/43.json",
+      "outputSha256": "ddcf6333930dd7eef9bcffb3a38f20f299d715e5627810585d7af1ffbd84b529",
+      "normalizedTextSha256": "d926f83a99ecded275d4da84c7ea87985ae6f0666abbddb71c67ba8047c80d39"
+    },
+    {
+      "chapter": 44,
+      "title": "מאירי על הש\"ס/ברכות/פרק ח · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ח",
+      "sourceIndex": 9,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2899147,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2899147",
+      "paragraphs": 6,
+      "plainCharacters": 13795,
+      "outputFile": "Original/44.json",
+      "outputSha256": "2a18571eeec354e852fb2551862b2ac9594b485faa944124bb7b37f8836c049c",
+      "normalizedTextSha256": "a8cf9f713089cc6a15f474246825178311bc78beab2eaef81727391007d0c626"
+    },
+    {
+      "chapter": 45,
+      "title": "מאירי על הש\"ס/ברכות/פרק ט · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ט",
+      "sourceIndex": 10,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2850613,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&oldid=2850613",
+      "paragraphs": 16,
+      "plainCharacters": 15503,
+      "outputFile": "Original/45.json",
+      "outputSha256": "c0e9e9dcdf748865c6ff9c0b32479e44518c31b1c6f760e3ae74c7c9797731d3",
+      "normalizedTextSha256": "86c2e73f08c84bd15bd84ca856e53779cd557c3786db1ddbd0dcca4a170468ea"
+    },
+    {
+      "chapter": 46,
+      "title": "מאירי על הש\"ס/ברכות/פרק ט · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ט",
+      "sourceIndex": 10,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2850613,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&oldid=2850613",
+      "paragraphs": 10,
+      "plainCharacters": 15724,
+      "outputFile": "Original/46.json",
+      "outputSha256": "98d950d43d689afb8b469e9278923fe35e6250e35804bf2a0d450caafa1c46ec",
+      "normalizedTextSha256": "4627d73ecf112f28d431f0ff9a3b34343e0913c35a08dc8807baba670c4ac016"
+    },
+    {
+      "chapter": 47,
+      "title": "מאירי על הש\"ס/ברכות/פרק ט · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/פרק ט",
+      "sourceIndex": 10,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2850613,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%98&oldid=2850613",
+      "paragraphs": 12,
+      "plainCharacters": 6792,
+      "outputFile": "Original/47.json",
+      "outputSha256": "642d3a9b47b077dd9fa060003480441b33500831b40a836523ab75534388135f",
+      "normalizedTextSha256": "6e3e0555047e8b4db2f5c869c9f562ddbc914b8dd7c80acceec7dc7874acbdc5"
+    },
+    {
+      "chapter": 48,
+      "title": "מאירי על הש\"ס/ברכות/בית יד · reading section 1",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/בית יד",
+      "sourceIndex": 11,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 992922,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%91%D7%99%D7%AA_%D7%99%D7%93&oldid=992922",
+      "paragraphs": 14,
+      "plainCharacters": 14891,
+      "outputFile": "Original/48.json",
+      "outputSha256": "d340d30a871b0cb77a8d01cdba86a37861adf6974af442085ce975e33339f5e9",
+      "normalizedTextSha256": "e4b9e8b68aa4aa112800681405462ddd2524f48066d7f584c91a2a24d892db28"
+    },
+    {
+      "chapter": 49,
+      "title": "מאירי על הש\"ס/ברכות/בית יד · reading section 2",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/בית יד",
+      "sourceIndex": 11,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 992922,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%91%D7%99%D7%AA_%D7%99%D7%93&oldid=992922",
+      "paragraphs": 14,
+      "plainCharacters": 15111,
+      "outputFile": "Original/49.json",
+      "outputSha256": "a57f0d0f5b00fcf8573aef344a97d54d3ab1710b91e99bf619ba85818ad2639c",
+      "normalizedTextSha256": "fddab146ec39b9150ed7395c1e0099956b1c8dc91eebc4f08e440b2e1346f62c"
+    },
+    {
+      "chapter": 50,
+      "title": "מאירי על הש\"ס/ברכות/בית יד · reading section 3",
+      "sourceTitle": "מאירי על הש\"ס/ברכות/בית יד",
+      "sourceIndex": 11,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 992922,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%A8%D7%9B%D7%95%D7%AA/%D7%91%D7%99%D7%AA_%D7%99%D7%93&oldid=992922",
+      "paragraphs": 5,
+      "plainCharacters": 8607,
+      "outputFile": "Original/50.json",
+      "outputSha256": "79c0b647b668f11a1644eafd20f3db7082c57b48a1596440638d595e374983e5",
+      "normalizedTextSha256": "f6ff9a43d7033ad6c4bbeaa1c7da76160fc4ed3cbe430748173335f82239a9af"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Meiri on Berakhot/Original/1.json": "e9b768a599b47417e417c1486bf10fc8f7841ffec3f0da5e851d774798b9a56a",
+    "Library/Rabbinic/Meiri on Berakhot/Original/2.json": "67c4fb414f99689af6dc35fcb2d9a839174b61c0f1c3711022949fabf2a5c391"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "d48096be76ce8c966f8d93e99e7d9df2164e86d2168d5794477310e41c5369b0",
+    "retainedNormalizedTextSha256": "d48096be76ce8c966f8d93e99e7d9df2164e86d2168d5794477310e41c5369b0",
+    "existingEnglishBodyFilesUnchanged": 2,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  }
+}

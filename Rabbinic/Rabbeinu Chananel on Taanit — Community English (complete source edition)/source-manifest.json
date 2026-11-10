@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "work": "Rabbeinu Chananel on Taanit",
+  "parentPath": "Rabbinic/Rabbeinu Chananel on Taanit",
+  "editionName": "Rabbeinu Chananel on Taanit — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rabbeinu%20Chananel/Seder%20Moed/Rabbeinu%20Chananel%20on%20Taanit/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/a8b2e68e91fe8986d864.json",
+  "sourceRawSha256": "a8e4727db50c7652a04abb31f84b9fcbdb9dc9e41f219df43cb41a73cbf78f8d",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Rabbeinu Chananel on Taanit; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Rabbeinu Chananel on Taanit",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rabbeinu%20Chananel/Seder%20Moed/Rabbeinu%20Chananel%20on%20Taanit/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/a8b2e68e91fe8986d864.json",
+    "sourceRawSha256": "a8e4727db50c7652a04abb31f84b9fcbdb9dc9e41f219df43cb41a73cbf78f8d",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Rabbeinu%20Chananel%20on%20Taanit",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Rabbeinu%20Chananel%20on%20Taanit",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/9f112ed02369c4fe4825-versions.json",
+      "rawSha256": "4c7c8c82ad8c181dce8ced2853b3e58d30ba561673883d6811122cc75b1d25a9",
+      "retrievedAt": "2026-10-30T04:25:34.051Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Rabbeinu Chananel on Taanit",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Rabbeinu Chananel on Taanit 30b"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "60",
+      "sourcePosition": [
+        60
+      ],
+      "payloadSha256": "43d2ccbaad856cbe489b97e576b93ec2daaa3cbf24e8fc89688394141fd232f8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            60,
+            1
+          ],
+          "sourceTextSha256": "da53074b5a3aa9919230785fc12543dd9e8404409eca77dee2b776415e183a5b",
+          "retainedTextSha256": "da53074b5a3aa9919230785fc12543dd9e8404409eca77dee2b776415e183a5b"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            60,
+            2
+          ],
+          "sourceTextSha256": "6e4704bf2d1746a60920ccad23f247d8f3715d01e71e49e5288fbf03aae61215",
+          "retainedTextSha256": "6e4704bf2d1746a60920ccad23f247d8f3715d01e71e49e5288fbf03aae61215"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            60,
+            3
+          ],
+          "sourceTextSha256": "34982536ac591a074b4c48f9556f24bb420ee7379a53a672d702b980c25d0af1",
+          "retainedTextSha256": "34982536ac591a074b4c48f9556f24bb420ee7379a53a672d702b980c25d0af1"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            60,
+            4
+          ],
+          "sourceTextSha256": "b116e8c10021a28dbd8cbe2f407b4fdbb83b2a58df1cfc17e7df6a60fd8f44c5",
+          "retainedTextSha256": "b116e8c10021a28dbd8cbe2f407b4fdbb83b2a58df1cfc17e7df6a60fd8f44c5"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            60,
+            5
+          ],
+          "sourceTextSha256": "e47413ce28854f644c7da7c9bf699f717b77de0c7a27ab152912912ea5052d2f",
+          "retainedTextSha256": "e47413ce28854f644c7da7c9bf699f717b77de0c7a27ab152912912ea5052d2f"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            60,
+            6
+          ],
+          "sourceTextSha256": "6caa89860feeee5d640b9dcc1238c58ef98f361b8d5a615d2f9a058d31c17f73",
+          "retainedTextSha256": "6caa89860feeee5d640b9dcc1238c58ef98f361b8d5a615d2f9a058d31c17f73"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            60,
+            7
+          ],
+          "sourceTextSha256": "8cb17750c4b6485b6b909955d1651a23b30a71e82071166ff870296161adf2bf",
+          "retainedTextSha256": "8cb17750c4b6485b6b909955d1651a23b30a71e82071166ff870296161adf2bf"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 7,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.550Z"
+}

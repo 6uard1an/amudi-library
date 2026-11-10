@@ -1,0 +1,23 @@
+{
+  "baseBookPath": "Rabbinic/Midrash Tanchuma Buber",
+  "translationBookPath": "Rabbinic/Midrash Tanchuma Buber - Townsend Nataf English adaptation",
+  "baseChapter": 960,
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "62fdf4012ea2ee208b6c805e0f0c4efaff7d53c64efe6c1a1d27b85a8b3351ac",
+      "translationChapter": 22,
+      "translationPosition": 3,
+      "translationTextSha256": "e5329bed3a77c437a7462a9b200019c50f5ee381f4f97f5a6921140570cc299f",
+      "fragments": [
+        {
+          "translationChapter": 22,
+          "translationPosition": 3,
+          "translationTextSha256": "e5329bed3a77c437a7462a9b200019c50f5ee381f4f97f5a6921140570cc299f",
+          "start": 0,
+          "end": 1223
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "baseBookPath": "Rabbinic/Rosh on Menachot",
+  "baseChapter": 1,
+  "translationBookPath": "Rabbinic/Rosh on Menachot — Sefaria community English (partial)",
+  "method": "Same source section, local Hebrew near match with omitted source references; compared opening and closing. Translation contains wording differences.",
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "d03921e95646243aaa96cce097ba7a68f5f1810450a1ea3dbcdddae6d4ff6147",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "c5f555cc308cc9d1a694e8498eeeaff70f5d0657ebd1f9d0b2e1aa2f5c3aee49",
+      "meaningWarning": "rosh-torah-scroll-variants"
+    }
+  ]
+}

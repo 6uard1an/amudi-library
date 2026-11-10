@@ -1,0 +1,131 @@
+{
+  "work": "Arukh HaShulchan",
+  "branch": "Yoreh De'ah",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Arukh%20HaShulchan/Hebrew/Arukh%20HaShulchan%2C%20Yoreh%20De%27ah%20--%20Wikisource.json",
+  "sourceSha256": "1246dc6181e2ad81c1a300aded63e4ebb43a56907f66726417fabcedd7547a95",
+  "sourceSnapshot": "Amudi/data/rights/arukh-yoreh-wikisource-gaps-20261106/source.json",
+  "versionsUrl": "https://www.sefaria.org/api/texts/versions/Arukh%20HaShulchan",
+  "versionsSha256": "5f9fbf8971b87a8a3bec4c83e58c3efc2fcade74599db25072db79e3986a3779",
+  "providerLicenseField": "CC-BY-SA",
+  "providerLicenseMapping": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+  "upstreamProviderLicense": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "adaptationLicense": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseCompatibility": "https://wiki.creativecommons.org/wiki/ShareAlike_compatibility",
+  "upstreamPages": [
+    {
+      "section": 1,
+      "title": "ערוך השולחן יורה דעה א",
+      "pageUrl": "https://he.wikisource.org/wiki/%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%90",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%90&action=history",
+      "latestRevisionId": 422602,
+      "earliestRevisionId": 240976,
+      "namedContributors": [
+        "CandalBot",
+        "Dovi",
+        "Shemindex"
+      ],
+      "historyRevisionCount": 17,
+      "historyCheckedUtc": "2026-11-06T17:34:26.600851+00:00"
+    },
+    {
+      "section": 87,
+      "title": "ערוך השולחן יורה דעה פז",
+      "pageUrl": "https://he.wikisource.org/wiki/%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A4%D7%96",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A4%D7%96&action=history",
+      "latestRevisionId": 2843722,
+      "earliestRevisionId": 347577,
+      "namedContributors": [
+        "2A0D:6FC2:6190:5100:786B:D78A:D347:8A28",
+        "94.159.148.6",
+        "Dovi",
+        "Shykush",
+        "אסףעזריה",
+        "נת- ה-"
+      ],
+      "historyRevisionCount": 103,
+      "historyCheckedUtc": "2026-11-06T17:34:26.600851+00:00"
+    },
+    {
+      "section": 89,
+      "title": "ערוך השולחן יורה דעה פט",
+      "pageUrl": "https://he.wikisource.org/wiki/%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A4%D7%98",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A4%D7%98&action=history",
+      "latestRevisionId": 382603,
+      "earliestRevisionId": 363666,
+      "namedContributors": [
+        "212.143.245.250",
+        "Dovi",
+        "אסףעזריה",
+        "נת- ה-"
+      ],
+      "historyRevisionCount": 11,
+      "historyCheckedUtc": "2026-11-06T17:34:26.600851+00:00"
+    },
+    {
+      "section": 240,
+      "title": "ערוך השולחן יורה דעה רמ",
+      "pageUrl": "https://he.wikisource.org/wiki/%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A8%D7%9E",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A8%D7%9E&action=history",
+      "latestRevisionId": 2955164,
+      "earliestRevisionId": 90713,
+      "namedContributors": [
+        "213.151.51.59",
+        "2A01:6500:A036:8B83:C8CE:CCA5:2F8:54EC",
+        "Dovi",
+        "Israel.M",
+        "Testbot",
+        "נדב ס",
+        "תולדות אדם"
+      ],
+      "historyRevisionCount": 13,
+      "historyCheckedUtc": "2026-11-06T17:34:26.600851+00:00"
+    },
+    {
+      "section": 245,
+      "title": "ערוך השולחן יורה דעה רמה",
+      "pageUrl": "https://he.wikisource.org/wiki/%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A8%D7%9E%D7%94",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A8%D7%9E%D7%94&action=history",
+      "latestRevisionId": 517051,
+      "earliestRevisionId": 121268,
+      "namedContributors": [
+        "Dovi",
+        "Testbot"
+      ],
+      "historyRevisionCount": 5,
+      "historyCheckedUtc": "2026-11-06T17:34:26.600851+00:00"
+    },
+    {
+      "section": 282,
+      "title": "ערוך השולחן יורה דעה רפב",
+      "pageUrl": "https://he.wikisource.org/wiki/%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A8%D7%A4%D7%91",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A2%D7%A8%D7%95%D7%9A_%D7%94%D7%A9%D7%95%D7%9C%D7%97%D7%9F_%D7%99%D7%95%D7%A8%D7%94_%D7%93%D7%A2%D7%94_%D7%A8%D7%A4%D7%91&action=history",
+      "latestRevisionId": 855983,
+      "earliestRevisionId": 141715,
+      "namedContributors": [
+        "2A01:6500:A042:D77:B564:7245:6DF:7730",
+        "Dovi"
+      ],
+      "historyRevisionCount": 7,
+      "historyCheckedUtc": "2026-11-06T17:34:26.600851+00:00"
+    }
+  ],
+  "sections": [
+    1,
+    87,
+    89,
+    240,
+    245,
+    282
+  ],
+  "attribution": "Arukh HaShulchan, Yoreh De’ah: Wikisource contributors, via Sefaria; contributor histories are linked per section in source-manifest.json.",
+  "changes": "Selected six existing source sections, retained source wording and order, added section labels and source-coordinate links. No OCR or translation performed by Amudi. Adapted material is shared under CC BY-SA 4.0.",
+  "limitations": "Current upstream page histories and latest rendered-page comparisons were captured. Not all exported paragraphs matched the current rendered pages as complete normalized sequences; the exact originating revisions, prior digitization method, contributor authority, and final release compliance remain unverified.",
+  "importedAt": "2026-11-06T17:33:19.437597+00:00",
+  "upstreamLatestContentComparison": {
+    "sourceParagraphs": 225,
+    "entireNormalizedSequencePresent": 73,
+    "scope": "Search each entire Hebrew-letter word sequence from the Sefaria source paragraph within the latest rendered Wikisource page. Exact sequence presence is a partial content comparison, not proof of edition provenance, a full-page match or copyright authority. Some pages may fail fetch.",
+    "warning": "Nonmatches can include formatting or edition changes; they do not establish the exact originating revision."
+  },
+  "originReviewSummary": "Earliest and latest visible revision contents and revision comments were checked for selected OCR markers; no such markers were found. This is not proof that the text was manually typed."
+}

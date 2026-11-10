@@ -1,0 +1,734 @@
+{
+  "createdAt": "2026-10-30T05:16:54.125729+00:00",
+  "title": "Meiri on Mishnah Shekalim — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Mishnah Shekalim (Hebrew Wikisource)",
+  "bibliographySourceLines": [
+    1407,
+    1749,
+    2276,
+    2496
+  ],
+  "sourceSeriesAuthorEvidence": {
+    "url": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1&oldid=3083958",
+    "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-cfaafcd23d7bef60.json",
+    "sourceSnapshotSha256": "fc395fc563d7fb56aa9cef6f5b719106228673e70bec7b86ddf7434cb553d373",
+    "finding": "The selected series identifies BeitHaBechira as Menachem benShlomo of theMeir family. The Ketubot/BavaBatra/Avot introductions explicitly name the author. No contrary authorship attribution was found in the inspected selected pages; this is not a survey of disputes beyond those source pages."
+  },
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Mishnah Shekalim, Menachem Meiri (Menachem benShlomo HaMeiri). Typed digital edition and editorial notes by Hebrew Wikisource contributors, CC BY-SA4.0. Individual source revisions, source-page permalinks and contributor histories are recorded in source-manifest.json.",
+  "changes": "Amudi removed only source navigation and parser edit controls, image/style/script tags and parser attributes, and made source/reference links absolute. Ordinary reader chapters contain flat text/HTML strings and are bounded to16000plain characters /32000markup characters per group. Exceptionally long HTML blocks are converted to escaped plain-text chunks at whitespace boundaries; all selected reading text, notes, variants and explicit source gaps remain conserved in source order. No OCR or new translation. Copyrightable Amudi adaptations remain CC BY-SA4.0.",
+  "coverageScope": "All eight chapter reading pages of the selected typed Mishnah Shekalim commentary. This is the commentary on the Mishnah; not a claim to supply a separate full Yerushalmi commentary.",
+  "partialWork": false,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק א",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק א",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק א",
+        "מאירי על הש\"ס/שקלים/פרק א"
+      ],
+      "sourcePageId": 1735213,
+      "sourceRevision": {
+        "id": 2969536,
+        "timestamp": "2025-12-23T20:52:49Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2969536",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-67d36ed1c00c3e95.json",
+      "sourceSnapshotSha256": "255b13fbd9d946417cf028750b124de05484ffb01e6f2183c22b6ff65cb239fc",
+      "sourceHtmlSha256": "d6c0dc599a6bb7cb5752fa3ea42e06f6d08d6d787717ff18ade5fe2d6d8ee6f9",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.request.json",
+        "requestSha256": "b2cf061a9768e5e09d9d9e98d72fd0c047f25ed24242fbc26a11cb8298586eb8",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.json",
+        "responseSha256": "9a528cb64540457301242394d8d04b2566825e06df2894b952d3ad660aa9a77c",
+        "sourceWrapperId": "amudi-meiri-source-1"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 21632,
+      "sourceHeadings": [
+        "הקדמה",
+        "הלכה א",
+        "הלכה ב",
+        "הלכה ג",
+        "הלכה ד"
+      ],
+      "convertedChapters": [
+        1,
+        2
+      ],
+      "sourceNormalizedTextSha256": "0f059b4a8dca0c0abe1a2dc0413f5aeb037a1f1e31b7a56b6f2cb7d60d3bfc6f",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ב",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק ב",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק ב",
+        "מאירי על הש\"ס/שקלים/פרק ב"
+      ],
+      "sourcePageId": 1735214,
+      "sourceRevision": {
+        "id": 2969551,
+        "timestamp": "2025-12-23T21:16:14Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2969551",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%91&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-d946642dc0c330e2.json",
+      "sourceSnapshotSha256": "08b8da815ac93b7a565beacd1d5bb75e3e5bf8f96f03e45771d8e059c2c59796",
+      "sourceHtmlSha256": "bd67879d7290e16c0bce8be9e1e08628823ac1dcc7c83555d2e1e06ac05f44db",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.request.json",
+        "requestSha256": "b2cf061a9768e5e09d9d9e98d72fd0c047f25ed24242fbc26a11cb8298586eb8",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.json",
+        "responseSha256": "9a528cb64540457301242394d8d04b2566825e06df2894b952d3ad660aa9a77c",
+        "sourceWrapperId": "amudi-meiri-source-2"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 16997,
+      "sourceHeadings": [
+        "פרק שני בעזרת הצור",
+        "הלכה א",
+        "הלכה ב",
+        "הלכה ג",
+        "הלכה ד",
+        "הלכה ה"
+      ],
+      "convertedChapters": [
+        3,
+        4
+      ],
+      "sourceNormalizedTextSha256": "930436225196ba502c8c10d452da7f6e9b978e8c814c08918219e15dbaf9cd8e",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ג",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק ג",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק ג",
+        "מאירי על הש\"ס/שקלים/פרק ג"
+      ],
+      "sourcePageId": 1735215,
+      "sourceRevision": {
+        "id": 2969549,
+        "timestamp": "2025-12-23T21:15:18Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2969549",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%92&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-572bfb49accdaa51.json",
+      "sourceSnapshotSha256": "2c6f1a958a02f4822aaa46df62d1463c28ddad0054efbba5e7614dcba0f2a4ea",
+      "sourceHtmlSha256": "fa630bc124acbc352737df41da85f700e469fef53b7515078b415116c04e19b0",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.request.json",
+        "requestSha256": "b2cf061a9768e5e09d9d9e98d72fd0c047f25ed24242fbc26a11cb8298586eb8",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.json",
+        "responseSha256": "9a528cb64540457301242394d8d04b2566825e06df2894b952d3ad660aa9a77c",
+        "sourceWrapperId": "amudi-meiri-source-3"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 7751,
+      "sourceHeadings": [
+        "פרק שלישי בעזרת הצור",
+        "הלכה א",
+        "הלכה ב"
+      ],
+      "convertedChapters": [
+        5
+      ],
+      "sourceNormalizedTextSha256": "143d6a71a035ab426d673003346edde183a89bf6be4c161fbbee22ebc49e6919",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ד",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק ד",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק ד",
+        "מאירי על הש\"ס/שקלים/פרק ד"
+      ],
+      "sourcePageId": 1735216,
+      "sourceRevision": {
+        "id": 2969550,
+        "timestamp": "2025-12-23T21:15:37Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=2969550",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%93&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-fe9664d40c24e92f.json",
+      "sourceSnapshotSha256": "1999226de227feabc7a763a457f6438f2278b29c235a0c4eb93832ccdedc4041",
+      "sourceHtmlSha256": "488b7339f2929460641d683d3175f5412b5e4582eb7cc64a3f8876624cf9b4d8",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.request.json",
+        "requestSha256": "b2cf061a9768e5e09d9d9e98d72fd0c047f25ed24242fbc26a11cb8298586eb8",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-9-064ac2dcbe44.json",
+        "responseSha256": "9a528cb64540457301242394d8d04b2566825e06df2894b952d3ad660aa9a77c",
+        "sourceWrapperId": "amudi-meiri-source-4"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 13408,
+      "sourceHeadings": [
+        "פרק רביעי בעזר הצור",
+        "הלכה א",
+        "הלכה ב",
+        "הלכה ג",
+        "הלכה ד",
+        "הלכה ה"
+      ],
+      "convertedChapters": [
+        6
+      ],
+      "sourceNormalizedTextSha256": "b3a9870bf33fea153fade4a39c3b27f6805792881d2431d10b94697f968daf1b",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ה",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק ה",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק ה",
+        "מאירי על הש\"ס/שקלים/פרק ה"
+      ],
+      "sourcePageId": 1735217,
+      "sourceRevision": {
+        "id": 2969547,
+        "timestamp": "2025-12-23T21:13:56Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2969547",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%94&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-136f2e81629329f8.json",
+      "sourceSnapshotSha256": "b728d4158b9f6f69c134041913a6fa033153b60956b663c64459e9a758916c5d",
+      "sourceHtmlSha256": "592698b4e94e6119db7ef0d4c1bf923d8ae16844ec57007e355c391ab1d710f5",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.request.json",
+        "requestSha256": "0b8730129e11875efc41bab086490b714532a0bb8c4205cfe1261ac50a151028",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.json",
+        "responseSha256": "582aa19561aad98837929d06336d29960ae76f75b0b7f62c0095aac8aff5dd9c",
+        "sourceWrapperId": "amudi-meiri-source-0"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 13859,
+      "sourceHeadings": [
+        "הלכה א",
+        "הלכה ג",
+        "הלכה ד"
+      ],
+      "convertedChapters": [
+        7
+      ],
+      "sourceNormalizedTextSha256": "dbddee9b27fe2941d15b546ae4d96e1246c63b9991e434b29aeee4f11250f338",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ו",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק ו",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק ו",
+        "מאירי על הש\"ס/שקלים/פרק ו"
+      ],
+      "sourcePageId": 1735218,
+      "sourceRevision": {
+        "id": 2969526,
+        "timestamp": "2025-12-23T20:52:29Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2969526",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%95&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-2ef42a83f8e630f6.json",
+      "sourceSnapshotSha256": "f77eabdd08d8a7906be4c6e7a84d771c6ef1a9e9852f2e056349d040b6af62a2",
+      "sourceHtmlSha256": "ce72eb01f6f84f304e2dd61fa3e08cd1dc65f53d75c39288a6aa95215eac999b",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.request.json",
+        "requestSha256": "0b8730129e11875efc41bab086490b714532a0bb8c4205cfe1261ac50a151028",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.json",
+        "responseSha256": "582aa19561aad98837929d06336d29960ae76f75b0b7f62c0095aac8aff5dd9c",
+        "sourceWrapperId": "amudi-meiri-source-1"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 10307,
+      "sourceHeadings": [
+        "הלכה א",
+        "הלכה ב",
+        "הלכה ג",
+        "הלכה ד"
+      ],
+      "convertedChapters": [
+        8
+      ],
+      "sourceNormalizedTextSha256": "383c0bef26c648985069dacb7bb1af1d1dc2dc0837f54be6ace5cb97b933b4dc",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ז",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק ז",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק ז",
+        "מאירי על הש\"ס/שקלים/פרק ז"
+      ],
+      "sourcePageId": 1735220,
+      "sourceRevision": {
+        "id": 2969544,
+        "timestamp": "2025-12-23T21:09:03Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2969544",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%96&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-785426b232f5fef8.json",
+      "sourceSnapshotSha256": "578c83c1448ad9f2ce7eae44f7b2161e6791c4762d5b47d433ed38da9dffe5e5",
+      "sourceHtmlSha256": "400084018fb7a1d4502837a88f113427e9b7550aab4046e9e7f7ba4b05924e83",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.request.json",
+        "requestSha256": "0b8730129e11875efc41bab086490b714532a0bb8c4205cfe1261ac50a151028",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.json",
+        "responseSha256": "582aa19561aad98837929d06336d29960ae76f75b0b7f62c0095aac8aff5dd9c",
+        "sourceWrapperId": "amudi-meiri-source-2"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 14209,
+      "sourceHeadings": [
+        "הלכה א",
+        "הלכה ב",
+        "הלכה ג"
+      ],
+      "convertedChapters": [
+        9
+      ],
+      "sourceNormalizedTextSha256": "05b74875689b7273b28adae96a0c2200b065342a052676f3c9420d2454d77e49",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ח",
+      "canonicalTitle": "מאירי על הש\"ס/משנה שקלים/פרק ח",
+      "requestedAliases": [
+        "מאירי על הש\"ס/משנה שקלים/פרק ח",
+        "מאירי על הש\"ס/שקלים/פרק ח"
+      ],
+      "sourcePageId": 1735221,
+      "sourceRevision": {
+        "id": 2969543,
+        "timestamp": "2025-12-23T21:06:41Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2969543",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%97&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-2079ef9fb66fba78.json",
+      "sourceSnapshotSha256": "189d196a3410e4ba03976c75441f81f5fc7db7632a1e24cc715ccc2eb9139ceb",
+      "sourceHtmlSha256": "2cf1c2c86814d66613fb730e57dcb8784d8976bafb410d8243fb4060fc16a49e",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.request.json",
+        "requestSha256": "944c2ba78d0f5f6b2e35e45b36c263c91512397afa7a39456e412b6a8b66726c",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-2-76f27ec99a52.json",
+        "responseSha256": "eb97d7a033f60c59a60e7654abaf608d421a64276fd063a8aec571ec7b4c15e2"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.request.json",
+        "requestSha256": "0b8730129e11875efc41bab086490b714532a0bb8c4205cfe1261ac50a151028",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-10-d206bea7e5e2.json",
+        "responseSha256": "582aa19561aad98837929d06336d29960ae76f75b0b7f62c0095aac8aff5dd9c",
+        "sourceWrapperId": "amudi-meiri-source-3"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 12874,
+      "sourceHeadings": [
+        "הלכה א",
+        "הלכה ב",
+        "הלכה ג",
+        "הלכה ד",
+        "הלכה ה"
+      ],
+      "convertedChapters": [
+        10
+      ],
+      "sourceNormalizedTextSha256": "23592f5b5f94660c0084bc6ac838d57416d7789e06cbcb7741e477512437fc52",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק א · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969536,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2969536",
+      "paragraphs": 32,
+      "plainCharacters": 15193,
+      "outputFile": "Original/1.json",
+      "outputSha256": "d5d2b9efb959b0b1fbd0db2b82452ea0adacb6fd0019e5821359a7a4fcc04102",
+      "normalizedTextSha256": "2d525bdcb7bf3ec98941f5de5836e558163b501898ac583038f7141b907b1b6c",
+      "payloadBytes": 28296
+    },
+    {
+      "chapter": 2,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק א · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2969536,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=2969536",
+      "paragraphs": 5,
+      "plainCharacters": 6433,
+      "outputFile": "Original/2.json",
+      "outputSha256": "27146fb0b1f6ea23fec762cf2af80c6b82df81400d1b34f82ef3652862d0ff83",
+      "normalizedTextSha256": "a9e2e39124b856d608432390843bd9beec2cd91a62067e34db071fc21e3bd387",
+      "payloadBytes": 11732
+    },
+    {
+      "chapter": 3,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ב · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ב",
+      "sourceIndex": 2,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969551,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2969551",
+      "paragraphs": 35,
+      "plainCharacters": 15951,
+      "outputFile": "Original/3.json",
+      "outputSha256": "1e27901dff5a690bfc854e0e41467279fd4c36c89edc472aa8e70f9c83d92cc2",
+      "normalizedTextSha256": "f075ca28274a42ef9403139f1a5c8f3b610cef197b9b527874e4a06fb32782dd",
+      "payloadBytes": 29891
+    },
+    {
+      "chapter": 4,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ב · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ב",
+      "sourceIndex": 2,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2969551,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=2969551",
+      "paragraphs": 3,
+      "plainCharacters": 1039,
+      "outputFile": "Original/4.json",
+      "outputSha256": "a93a5c04b2c453dda3acb3eb615e0e2bbf26ebcfb737de96302059ad9a511b89",
+      "normalizedTextSha256": "fa050c764c3e1df1b7fb533c86ef647a027266c4e39cc7204bbb488cbe41d926",
+      "payloadBytes": 1942
+    },
+    {
+      "chapter": 5,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ג",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969549,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=2969549",
+      "paragraphs": 21,
+      "plainCharacters": 7747,
+      "outputFile": "Original/5.json",
+      "outputSha256": "00d397d29a167265ab4b16b2647a3f29a8ddbfffb705062d0f53d3797333e413",
+      "normalizedTextSha256": "143d6a71a035ab426d673003346edde183a89bf6be4c161fbbee22ebc49e6919",
+      "payloadBytes": 14671
+    },
+    {
+      "chapter": 6,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ד",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ד",
+      "sourceIndex": 4,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969550,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%93&oldid=2969550",
+      "paragraphs": 32,
+      "plainCharacters": 13401,
+      "outputFile": "Original/6.json",
+      "outputSha256": "28cfcc2b575c44281f4f5744abd996edc46fc53520810fe766ae9b156ddb09b4",
+      "normalizedTextSha256": "b3a9870bf33fea153fade4a39c3b27f6805792881d2431d10b94697f968daf1b",
+      "payloadBytes": 25320
+    },
+    {
+      "chapter": 7,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ה",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ה",
+      "sourceIndex": 5,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969547,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%94&oldid=2969547",
+      "paragraphs": 22,
+      "plainCharacters": 13855,
+      "outputFile": "Original/7.json",
+      "outputSha256": "2d47a0aacea279ae299188243a41ca92181a6b77291dbe133b35ca8d9c03f9d0",
+      "normalizedTextSha256": "dbddee9b27fe2941d15b546ae4d96e1246c63b9991e434b29aeee4f11250f338",
+      "payloadBytes": 25615
+    },
+    {
+      "chapter": 8,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ו",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ו",
+      "sourceIndex": 6,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969526,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%95&oldid=2969526",
+      "paragraphs": 24,
+      "plainCharacters": 10306,
+      "outputFile": "Original/8.json",
+      "outputSha256": "ed13d38a1d05419547c3b4b808556bc87c80625d3c3d19a3a7557e9d6bb56981",
+      "normalizedTextSha256": "383c0bef26c648985069dacb7bb1af1d1dc2dc0837f54be6ace5cb97b933b4dc",
+      "payloadBytes": 19289
+    },
+    {
+      "chapter": 9,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ז",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ז",
+      "sourceIndex": 7,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%96&oldid=2969544",
+      "paragraphs": 21,
+      "plainCharacters": 14205,
+      "outputFile": "Original/9.json",
+      "outputSha256": "6ffaaac479b0f6f4c876487249f5d011f11b6667ea9e6665424aa2c4eed9628b",
+      "normalizedTextSha256": "05b74875689b7273b28adae96a0c2200b065342a052676f3c9420d2454d77e49",
+      "payloadBytes": 26198
+    },
+    {
+      "chapter": 10,
+      "title": "מאירי על הש\"ס/משנה שקלים/פרק ח",
+      "sourceTitle": "מאירי על הש\"ס/משנה שקלים/פרק ח",
+      "sourceIndex": 8,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2969543,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%A9%D7%A0%D7%94_%D7%A9%D7%A7%D7%9C%D7%99%D7%9D/%D7%A4%D7%A8%D7%A7_%D7%97&oldid=2969543",
+      "paragraphs": 28,
+      "plainCharacters": 12868,
+      "outputFile": "Original/10.json",
+      "outputSha256": "7580aaa7026c59900d5903b3fb1cd4f0707dcec792c5eb34024c48bd2f32c64c",
+      "normalizedTextSha256": "23592f5b5f94660c0084bc6ac838d57416d7789e06cbcb7741e477512437fc52",
+      "payloadBytes": 24097
+    }
+  ],
+  "sourceWarnings": [],
+  "longSourceBlocksConvertedToBoundedPlainStrings": 0,
+  "verification": {
+    "currentPrimaryCC4LicenseVerified": true,
+    "beforeAfterSourceRevisionStable": true,
+    "canonicalPageIdsUnique": true,
+    "selectedSourceOrderAndTextConserved": true,
+    "sourceNormalizedTextSha256": "626416eaf8778999dd8ec5c5da22dc162a93a31d2b351221a3e4fbc11c64a19f",
+    "retainedNormalizedTextSha256": "626416eaf8778999dd8ec5c5da22dc162a93a31d2b351221a3e4fbc11c64a19f",
+    "chapterParagraphsFlatStrings": true,
+    "chapterPayloadsBounded": true,
+    "noOcrPerformed": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false,
+    "existingBooksOrCatalogsChanged": false
+  }
+}

@@ -1,0 +1,2495 @@
+{
+  "schemaVersion": 1,
+  "work": "Derekh Hashem",
+  "parentPath": "Rabbinic/Derekh Hashem",
+  "editionName": "Derekh Hashem — Nataf 2019 English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Derekh%20Hashem/English/Sefaria%20Edition%202019%2C%20Translated%20by%20Rabbi%20Francis%20Nataf.json",
+  "versionTitle": "Sefaria Edition 2019, Translated by Rabbi Francis Nataf",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/d4c3f4fdb18279d2276f.json",
+  "sourceRawSha256": "c2e2e0f2b53b5f77ff886dc6ce77622a111a4d62dcb7b216469dc09140bb9983",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Derekh Hashem",
+    "versionTitle": "Sefaria Edition 2019, Translated by Rabbi Francis Nataf",
+    "scannerVersionTitle": "Sefaria Edition 2019, Translated by Rabbi Francis Nataf",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Derekh Hashem"
+    ],
+    "alreadyRecorded": true,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Acharonim/Derekh%20Hashem/English/Sefaria%20Edition%202019%2C%20Translated%20by%20Rabbi%20Francis%20Nataf.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/d4c3f4fdb18279d2276f.json",
+    "sourceRawSha256": "c2e2e0f2b53b5f77ff886dc6ce77622a111a4d62dcb7b216469dc09140bb9983",
+    "sourceTextSha256": "7fb5558a4e0e06b974ec79517d1b48ccdaa607f58bea340a7533323ec4c52d76",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "Nataf translation",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 209,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Derekh%20Hashem",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Derekh%20Hashem",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:55:38.136Z",
+      "rawSha256": "7b12f738fda0b8a496469f84315f95cc1b121d48f5c9b599554865299efd0056",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-f63b6f1659eab8efeb7b46.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": 1,
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Derekh Hashem",
+      "versionSource": "Nataf translation",
+      "versionTitle": "Sefaria Edition 2019, Translated by Rabbi Francis Nataf",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Derekh Hashem, Introduction"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Derekh Hashem; Sefaria Edition 2019, Translated by Rabbi Francis Nataf; original publisher/source: Nataf translation; supplied by Sefaria Export.",
+  "changeNotice": "Reproduced the existing typed English source in full source order, including front matter and all available nonplaceholder entries. Removed inline HTML/link wrappers, preserved displayed words, and recorded every source coordinate and text hash. No OCR or new translation. The separate edition uses its own chapter IDs; earlier parent files and IDs are preserved.",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Introduction",
+      "sourcePosition": [
+        "Introduction"
+      ],
+      "payloadSha256": "e4228f4b0a3810a05758365ea78d4517edfc66032049355e072b6d131f66f854",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Introduction",
+            1
+          ],
+          "sourceTextSha256": "51e967bc8135a1e40faa2a6ef6344b1260eb1622959518f63bb1a2d6e0ddf9c1",
+          "retainedTextSha256": "51e967bc8135a1e40faa2a6ef6344b1260eb1622959518f63bb1a2d6e0ddf9c1"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Introduction",
+            2
+          ],
+          "sourceTextSha256": "e6e8edfe284debd44fa43c2d4d66479d58ef52e536f1c51b95f20a3aaa5104d8",
+          "retainedTextSha256": "e6e8edfe284debd44fa43c2d4d66479d58ef52e536f1c51b95f20a3aaa5104d8"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Introduction",
+            3
+          ],
+          "sourceTextSha256": "f1f2257cf84b5f79e919369519c333e23503251105de741c5c145cf785ea285d",
+          "retainedTextSha256": "f1f2257cf84b5f79e919369519c333e23503251105de741c5c145cf785ea285d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Introduction",
+            4
+          ],
+          "sourceTextSha256": "73f67a94ca793d4926435c42c6388a2e9b7a8e884a05065c8e3165d8183f8b9e",
+          "retainedTextSha256": "73f67a94ca793d4926435c42c6388a2e9b7a8e884a05065c8e3165d8183f8b9e"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Introduction",
+            5
+          ],
+          "sourceTextSha256": "7546f2713ae3b8b5dc745e068009d7a62c467f27e5c43b70f19001f096edd348",
+          "retainedTextSha256": "7546f2713ae3b8b5dc745e068009d7a62c467f27e5c43b70f19001f096edd348"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "Part One · On the Creator",
+      "sourcePosition": [
+        "Part One",
+        "On the Creator"
+      ],
+      "payloadSha256": "e144a7b0e782aac8ea094878733ee092164aca74cf6ef7bb5dc915e09b2b2cf9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            1
+          ],
+          "sourceTextSha256": "4e8fa6b6ba3bd45e7300f0ec3212b4505898ee75ff1ebc04ddcbd6f49569212a",
+          "retainedTextSha256": "8b80f28c1aed56135b790fef0e8c1972dc58b671b23c6a30e1401ca7c0b7fa34"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            2
+          ],
+          "sourceTextSha256": "94917de87a8cf0f1411882c433d58a06897b4540c91ff25ed815c2636fb306f6",
+          "retainedTextSha256": "65dda17d1250e39891b59dde0b243d092b388b0f2ff30ab19f257bbc817a93d1"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            3
+          ],
+          "sourceTextSha256": "8e19c8f15fbe026a3607141e7e6daffc2d19ba10b1dba4599425c529df9c9168",
+          "retainedTextSha256": "2398c128b464b82ec7aaae86a253785d96a3fc6488fa4f5352105959e2a8c35d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            4
+          ],
+          "sourceTextSha256": "eaf9c76cd7713968223ff93ba8744eb7577bf25df9af4f22209f559e57865bac",
+          "retainedTextSha256": "0d89a2ed64b6c161e7c24f7052acc2c497a29c8d191a58ddf11fbc2e10f8d8a4"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            5
+          ],
+          "sourceTextSha256": "40c3dfbb0562a1a4d451bbab696f25cea39a5c3c6901469f3f707633b149e2a3",
+          "retainedTextSha256": "b64a2bbf3efa714a9c3187d975db5e9a55edcd2dfcde9287470c4040fc16bcda"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            6
+          ],
+          "sourceTextSha256": "f4b7e7941456d7bf7015807916eb04f83fa10f07609871ed4355946d8e3a2a3f",
+          "retainedTextSha256": "07da0642891bb2bbb36450021a29be66f4eeb37827c1d70f04c5ac43ab4c4d00"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part One",
+            "On the Creator",
+            7
+          ],
+          "sourceTextSha256": "6046861aeaf23234aee78c8819c5ed702dd1d07a1d04dc4d32437070a9918406",
+          "retainedTextSha256": "6046861aeaf23234aee78c8819c5ed702dd1d07a1d04dc4d32437070a9918406"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "Part One · On the Purpose of Creation",
+      "sourcePosition": [
+        "Part One",
+        "On the Purpose of Creation"
+      ],
+      "payloadSha256": "098f75999d89ec00c159e1b311a798e681ffcca9aaa045903c0521cfca400925",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part One",
+            "On the Purpose of Creation",
+            1
+          ],
+          "sourceTextSha256": "5ab8617f817cb2782bf392d670bc1b5c72e4682293e234ff46e89c0737e132cb",
+          "retainedTextSha256": "9551c70423a05ba8d614f2fdf5706ce55fcfc994d442cdcaf6b1ccb71766918f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part One",
+            "On the Purpose of Creation",
+            2
+          ],
+          "sourceTextSha256": "4dd7320c4f9cd8d5f78dc8fba47d5c33f8f7f6a1e29988bf348a49fdfd1843a7",
+          "retainedTextSha256": "d4b7b423dc99b85b4ed505d7dc5382e2b3249abcdcf7b352201b79e03bc8a27f"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part One",
+            "On the Purpose of Creation",
+            3
+          ],
+          "sourceTextSha256": "c8b517f3ea10bde6c6fcc760f7b66bae3a52326771e5a1a34ecc1158c80fb8ca",
+          "retainedTextSha256": "c8b517f3ea10bde6c6fcc760f7b66bae3a52326771e5a1a34ecc1158c80fb8ca"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part One",
+            "On the Purpose of Creation",
+            4
+          ],
+          "sourceTextSha256": "6f8a9680dfb5d8ec8be5402572d0e554dc2c643ebb411ed9fce709cf4ab47935",
+          "retainedTextSha256": "ab523da4fbc8eebc48ec13be4da3a6d0dfcd24f3007314e1f73ae769ebeaa8d5"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part One",
+            "On the Purpose of Creation",
+            5
+          ],
+          "sourceTextSha256": "3646ea188e0e4c76a3028c26e98dbf7f2ef70c372f5c50c99f24569e5f9e2e69",
+          "retainedTextSha256": "3646ea188e0e4c76a3028c26e98dbf7f2ef70c372f5c50c99f24569e5f9e2e69"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "Part One · On Mankind",
+      "sourcePosition": [
+        "Part One",
+        "On Mankind"
+      ],
+      "payloadSha256": "719a655fc3b4d6ecdf2e373cab8ee1f0088415c96d97e69d4dd616c8ee0b70a5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            1
+          ],
+          "sourceTextSha256": "6c721cc6174afdbd9a5bad7eb39fe13f2a5bed17cb2521e4e70b1cd4c4d81e10",
+          "retainedTextSha256": "27d2b174c1eb1fe30bf60871fc14344937e22a6d175115f8e07c813df46049d0"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            2
+          ],
+          "sourceTextSha256": "c11536f6073bdbc69e14c3d2a1b3a8377cc65adc3420ae63c5d71a91187552f8",
+          "retainedTextSha256": "1b0dcbce743bc646f30974f0004a21cdcd22ce56c93eae5ae80f215bd2787582"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            3
+          ],
+          "sourceTextSha256": "099c15a7ca373cffabec4ec1e94307527995f6514f2ca4221723d3022cbc99af",
+          "retainedTextSha256": "9f22676cf910d6b87a8eac4bb106527cbc05b8ac41bf3f7672427090f0d56943"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            4
+          ],
+          "sourceTextSha256": "7f7533434d5af5aab843d767e5d501a098533603ae9eb1644c5d29773b196b5c",
+          "retainedTextSha256": "736072789dad1e3e5880f5b5ff84340e6d1d42d108265b634bc8587fa523e2b2"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            5
+          ],
+          "sourceTextSha256": "ae74bf078e9801974eac17d6d214b6b67be702807a6299c830ca53a393911235",
+          "retainedTextSha256": "41a942727c241d4f121c37edb5eaad38e5525f60fcc41f542b121f1438b2c485"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            6
+          ],
+          "sourceTextSha256": "b43935a6870ee5f97acebc83644fe868cff27fc0b366cdfe58975303656dbe6c",
+          "retainedTextSha256": "b43935a6870ee5f97acebc83644fe868cff27fc0b366cdfe58975303656dbe6c"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            7
+          ],
+          "sourceTextSha256": "df45a92b3a3b7378afcd9169fa2cc5704497fea5f3a73df2f34c1fdfc0bb6c00",
+          "retainedTextSha256": "a3fc7e55a061500c43e6fce6bfadb54dd8ba920d14d95bc7358bebefc272d1ee"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            8
+          ],
+          "sourceTextSha256": "4722a2d741ba5c309538d540b58ee85b7595bd549d0ef0d08fe42cd238bf54ce",
+          "retainedTextSha256": "0ff66608a025e59a3ea866f9a8b567702b40901ac4690eac93923562bdea8c51"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            9
+          ],
+          "sourceTextSha256": "a6b0e1ef54aa34a28eb35be696c338e3a30604ea61c859e554b27406bd486065",
+          "retainedTextSha256": "b17460cd5b83b89bf6830151071d5689f547d1075ceed92791c6c4ca2790bc3d"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            10
+          ],
+          "sourceTextSha256": "62156285412f09ea52ed59488da7038479583f0c8dd5597710ed573bcadb950c",
+          "retainedTextSha256": "62156285412f09ea52ed59488da7038479583f0c8dd5597710ed573bcadb950c"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            11
+          ],
+          "sourceTextSha256": "fbc4e657b757d9eea6fcf8433947db63056245693e2ce5b1d1cba65cd1f52d9a",
+          "retainedTextSha256": "edc44598a9af1c00e468416daef4173b8556d232744395291c63205b2d315a20"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            12
+          ],
+          "sourceTextSha256": "93d8e74de6529e1bf00c5faddaa49cd251243adb2593f766ed199b0ed2cb37d2",
+          "retainedTextSha256": "a28f8e688e75ef043de41314cd08c3a1afaf05157a80a5e551f126b63a2eac34"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Part One",
+            "On Mankind",
+            13
+          ],
+          "sourceTextSha256": "05e1b8cc8216c49f8c95456a80e8ae8bbc0e84c06dd7ac784ca2d3ce60210e49",
+          "retainedTextSha256": "64401cfa58e2c092d3d49dc10cfe772f26bd39dac2d23d69ad1fac1cdeae60c1"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "label": "Part One · On Human Responsibility",
+      "sourcePosition": [
+        "Part One",
+        "On Human Responsibility"
+      ],
+      "payloadSha256": "b0ace7b91d1f64e0067704339619d579222044f6cd325d62852a6f619ef21a3b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            1
+          ],
+          "sourceTextSha256": "bcd54e09ea3ef22db471a4c7fbdaf28a5fb696699083deee0d7a3eac713bc347",
+          "retainedTextSha256": "bcd54e09ea3ef22db471a4c7fbdaf28a5fb696699083deee0d7a3eac713bc347"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            2
+          ],
+          "sourceTextSha256": "d5ad7f26ff984f7df085b6e1375b292d1acfad65822671b129fd3c4339f68f7e",
+          "retainedTextSha256": "b5e83c5212e4730cae136c3d60ff40f160e0f3eea1723d57ad6b9e21c309b882"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            3
+          ],
+          "sourceTextSha256": "1b2f83afeb291a1fca3eaff1f3904c0e175f6ff320aa4ab524ad84dc44762276",
+          "retainedTextSha256": "09aa59184985756ff79b0e1246d643a6e4c6ce8ad0caa6950c1db66263ceff53"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            4
+          ],
+          "sourceTextSha256": "fa08a92cc55fd0931f11f1638cd3c9423d8c8fb08bcf1ff9c18d5f60e98d7da6",
+          "retainedTextSha256": "751d6ae3ffbea0de3f78f2ded1a6c5e69d941d2c819bf747cf3e7c03b225643a"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            5
+          ],
+          "sourceTextSha256": "0cf621dad38b7c6754a16dc8bebde04f07960c7a8734dbfd60c754cba103f1e3",
+          "retainedTextSha256": "0cf621dad38b7c6754a16dc8bebde04f07960c7a8734dbfd60c754cba103f1e3"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            6
+          ],
+          "sourceTextSha256": "21dafc0c09b8524ea416e99c8aa82814ed69558c95d6283458f465318a5aae1e",
+          "retainedTextSha256": "59ac53f05648d4f9936d13907b8c89fc6f469f744080a98321ec0742f4c1db13"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            7
+          ],
+          "sourceTextSha256": "626e42bd9ece9d80988ce27221ba12be0945b4a382ce78bac1ffcff7827cc7e5",
+          "retainedTextSha256": "411e9d4de3c530df416a0f178355ff33053424b9067cdb60056803bdfa8a1f4a"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            8
+          ],
+          "sourceTextSha256": "935381353ee17149d78d5d38bf6beb767f986e2540110c04e2055a5b7afd53c0",
+          "retainedTextSha256": "935381353ee17149d78d5d38bf6beb767f986e2540110c04e2055a5b7afd53c0"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            9
+          ],
+          "sourceTextSha256": "93a444d4f5f953da34f588960ba39905c70bed17294c795bcc7f86fab8e0b384",
+          "retainedTextSha256": "dc8b3c8c80a66ed2a3f8bb47b4195dbfaf44a6afe6697275be05e5166a471c4b"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            10
+          ],
+          "sourceTextSha256": "8f8576244aa2cebc47b0004e4e5cc86f283c19d650c0a42b76119c4ca9bbb529",
+          "retainedTextSha256": "78a741e329ba8630b3e6038954c75a1d4f157ddb32fa62181e623ed823403428"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Part One",
+            "On Human Responsibility",
+            11
+          ],
+          "sourceTextSha256": "a05e176b68fa5b09dd843d72d8aa7ed2ad1ceaf4643c291e335371bf73816d7a",
+          "retainedTextSha256": "a05e176b68fa5b09dd843d72d8aa7ed2ad1ceaf4643c291e335371bf73816d7a"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "label": "Part One · On the Spiritual Realm",
+      "sourcePosition": [
+        "Part One",
+        "On the Spiritual Realm"
+      ],
+      "payloadSha256": "16e6468dbe017c1d9755d14186ffb132dd1b26259cd0ce63b5b3d139336b421a",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            1
+          ],
+          "sourceTextSha256": "1ca7db206dae64dee8263293e51dc910a82017a5de7ff45fccc706cc7bcf93a7",
+          "retainedTextSha256": "0ae84b59224cdf242328a403a6dfb0cd173dd7ba3658b9e0517faa2ec4db4f26"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            2
+          ],
+          "sourceTextSha256": "1ffe3987b71a24c98d7bbf9418d2ac13ca0963c80c541e86c623858d65b0f5d0",
+          "retainedTextSha256": "0ce41ebfd72ce2a9a9d0e830602f628327a999126f095f021fa45b9ce13d68bd"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            3
+          ],
+          "sourceTextSha256": "c83f6c713a3765bc3a74513428cbf73c5e55e0528264458f95075a38b48f7346",
+          "retainedTextSha256": "c83f6c713a3765bc3a74513428cbf73c5e55e0528264458f95075a38b48f7346"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            4
+          ],
+          "sourceTextSha256": "e33051788a5360eabe752d4084f8dbfb5d3045b9f56ab78e2789e2c372f842b1",
+          "retainedTextSha256": "5504b50097a01394603ac3c6fc03c7d57b3bd56a354a46da3007c85f147d0a0e"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            5
+          ],
+          "sourceTextSha256": "523944afe117b93cb949e15ae7377da334f4780b4971f2af3edd0319e3370806",
+          "retainedTextSha256": "523944afe117b93cb949e15ae7377da334f4780b4971f2af3edd0319e3370806"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            6
+          ],
+          "sourceTextSha256": "ff7b1e1d67e41017b144c0f3744f6619f4828fe677ab6fc82a9fa68977b64f73",
+          "retainedTextSha256": "ff7b1e1d67e41017b144c0f3744f6619f4828fe677ab6fc82a9fa68977b64f73"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            7
+          ],
+          "sourceTextSha256": "654b36bc4ab0409b9dd76e85a074475e199406be9b8fd77b841664934136879a",
+          "retainedTextSha256": "efe451eff7c3c634849089090c0f9796935c320a07b49efb6579c8edb9df0f38"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            8
+          ],
+          "sourceTextSha256": "03e52292fa227f3e5fe2bf01366db7d7daa943902cb05d04906e45c3fb4d0c17",
+          "retainedTextSha256": "ee578be2cab270b8396b1e01a9a8e4e90cc689708dd5a490eea75117ec68c49f"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            9
+          ],
+          "sourceTextSha256": "b930e24516a833432b457e8ce690b8422988ac630b63304adc274a1aab26a930",
+          "retainedTextSha256": "b930e24516a833432b457e8ce690b8422988ac630b63304adc274a1aab26a930"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part One",
+            "On the Spiritual Realm",
+            10
+          ],
+          "sourceTextSha256": "29e4765c3be91797b7476b56e5696b9b43334eea1755e9e08a386dd613e4e56d",
+          "retainedTextSha256": "337b432acdf2d02721e883c9207095e299b21f2077aa3b383657d0c1ac2ae9bc"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "label": "Part Two · On Divine Providence in General",
+      "sourcePosition": [
+        "Part Two",
+        "On Divine Providence in General"
+      ],
+      "payloadSha256": "cbbdd3a1697d2ffee11378ee2ac9aa4d5c3e5b21c83b178add6ca46e5a3a8058",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On Divine Providence in General",
+            1
+          ],
+          "sourceTextSha256": "3af0575441f88b869ff2b8b71edb13bf44a79f7a76f9e3593040a03d4c7ee804",
+          "retainedTextSha256": "3af0575441f88b869ff2b8b71edb13bf44a79f7a76f9e3593040a03d4c7ee804"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On Divine Providence in General",
+            2
+          ],
+          "sourceTextSha256": "d6b07f1bc8854d163f0a116b823dc361f37409673d5ee065a5373c5e56e1a7c5",
+          "retainedTextSha256": "b2eb5d9e3d606b4e22a6f7d2dc0a039ebf095145429528a7ad31bb45b5070e66"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On Divine Providence in General",
+            3
+          ],
+          "sourceTextSha256": "54502f7a6d2ecee32a1ba799e5e788899efdb4267229a49867c4eac5c241af1a",
+          "retainedTextSha256": "de53234dfeac94307646dcd92587db120ec048014ac7a10760f855be29e763b0"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "label": "Part Two · On Mankind in This World",
+      "sourcePosition": [
+        "Part Two",
+        "On Mankind in This World"
+      ],
+      "payloadSha256": "ecc35135f121176c624731600e3c994151c1d52e660636e550c8984048b3997e",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            1
+          ],
+          "sourceTextSha256": "beb4ece0bcbae3bd71a613a0a3f848119c5cfd109765723392db8e23f85a93e7",
+          "retainedTextSha256": "6600df4deda2fdd67637452ac4aaf2a87280eda21d7df12e411ec6f32978838e"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            2
+          ],
+          "sourceTextSha256": "1019d2dd85c7b522c94057c413f559753b4ab6d8dda96758a304d8c75db3268e",
+          "retainedTextSha256": "09f0e385462d6f926b9c7a04c8fd8dd1596dc3f50a390d72a72dd56de12ca0a2"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            3
+          ],
+          "sourceTextSha256": "19f2007038dd25928834818fc60b0cda32cf05ea7b22a2d08ca2157fbd877472",
+          "retainedTextSha256": "d94ce15b799d839b892b09ea0c23a2449df19c6714ff67d26166816b33ba6151"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            4
+          ],
+          "sourceTextSha256": "5a495c5bc1bb85da95c49169df3f5dcc42760723def455279d2120c2b95fdc4c",
+          "retainedTextSha256": "acee0cb8999d987208bfe74d3fe5253e3a674c04372105861c69408ac2fd9e67"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            5
+          ],
+          "sourceTextSha256": "759958cc103efa2a4bddb1d4b6b9c2059edc1f76962874fa6342a1ea5345fdfa",
+          "retainedTextSha256": "faeef1acfd22a437498260a266b060199ff11c581f92c2ab322f2e20bd0b2e98"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            6
+          ],
+          "sourceTextSha256": "d8d3e152639a1096102c4006dd492866c5d6be20d8492b20dd0a7ed7cd1203a6",
+          "retainedTextSha256": "e28a75f63e4cd445bd5c342f7a0e0ecd46f2d85b63342a479794f0d64f8da5a3"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            7
+          ],
+          "sourceTextSha256": "637b13842898f553c0ebdbfc78ecd82c415c810be92d78399350084b0e04e0fa",
+          "retainedTextSha256": "cf78b672c91753b86e2ab2224dccf5a3ace130b38f69924f18efe12a1b9e6bf2"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            8
+          ],
+          "sourceTextSha256": "ca7708ac2ec6ee4a3df2b23e7e5bca946df5938672f7ab14d0976b6e944877b9",
+          "retainedTextSha256": "975f065939e5b026df75d44fdd0ea63a809846d25bd2f11f49f20b0bf37c7b43"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part Two",
+            "On Mankind in This World",
+            9
+          ],
+          "sourceTextSha256": "f9d6b986ed0496d4880d1d5d52ac77ed45a6e8715f0706ebfad3cf259cbd07e1",
+          "retainedTextSha256": "f9d6b986ed0496d4880d1d5d52ac77ed45a6e8715f0706ebfad3cf259cbd07e1"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "label": "Part Two · On Personal Providence",
+      "sourcePosition": [
+        "Part Two",
+        "On Personal Providence"
+      ],
+      "payloadSha256": "e58f8bb55db2593f2b6b00656ca6188e99c39e48fc542470b2ee04e864b951e1",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            1
+          ],
+          "sourceTextSha256": "c7d5700b41b6f500b34cd84472c33b9f4ed0b15dd7a5dec0d9144741f7d24934",
+          "retainedTextSha256": "c55925619d4abbb91af2d1ee9c064c22d4a113d179be7ebd83d0a2be14c138fe"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            2
+          ],
+          "sourceTextSha256": "a13e572e78d2c123f49bce9f6d80636a55d9cff83a594668ca0f269d494def21",
+          "retainedTextSha256": "a13e572e78d2c123f49bce9f6d80636a55d9cff83a594668ca0f269d494def21"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            3
+          ],
+          "sourceTextSha256": "2da127a27b0c374d068d5b6a9d5b61b276908714b48801b029220b1b8959b153",
+          "retainedTextSha256": "905a2ff3f31e2e8ece41b081d13d5e8b55180c206be9c2ec1be26fc483be99b5"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            4
+          ],
+          "sourceTextSha256": "dcdf23e6f9c883a88f1a157bfe69e22202c5cef5aa1d645f51e3de97b2d40b99",
+          "retainedTextSha256": "f0b4f2efa3540110e8d994234f38b9365715f29dcf69d3bcfe55710f6212722b"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            5
+          ],
+          "sourceTextSha256": "a1632d5562de2000adea814255484232ec1d02fa0c1069595312ca1953446938",
+          "retainedTextSha256": "e80e6c3a7091c67d52ebbf17dfea07e0bada82839f43fdb702f8b3018550d9a1"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            6
+          ],
+          "sourceTextSha256": "258f470f615b13d82c3d07729f9d75eb87ef25b108a490fd73bde0cbcc292d76",
+          "retainedTextSha256": "42bc837221c051ae89ae13a5e28464e9c56cbb5e788a0dbbe6cfe52ceae3fcee"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            7
+          ],
+          "sourceTextSha256": "c499cd4215dcf08153e3bae8ab1a8ab5991a0a6729a6c63ce3cf2d141dbe811c",
+          "retainedTextSha256": "cd6332620ae3bc71d738841c15d22a8d50d03b08a43a9970a12bf243927c8d9d"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            8
+          ],
+          "sourceTextSha256": "88c3f3d63aca9eac4de783e4149fff70d40d40c331d2080a0cb6df79b2398c22",
+          "retainedTextSha256": "700453dca13bb764d19175451a48d6e3e5b494868a79bf0bf806fc640c245d8c"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            9
+          ],
+          "sourceTextSha256": "907c49a648947cbbd7c4e9b31113cff308e63af2813d563f69fb12a701179651",
+          "retainedTextSha256": "907c49a648947cbbd7c4e9b31113cff308e63af2813d563f69fb12a701179651"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            10
+          ],
+          "sourceTextSha256": "2e06e82b07c549fda7e03ea9262205f22aadf46fd0b6e3f37fa60429e511a0e5",
+          "retainedTextSha256": "4ac3dff0b72c03b2d6000a4edcf84c87aa1f99a12e69ca2ba26d5394cb0445f1"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            11
+          ],
+          "sourceTextSha256": "f48990832a0d76f3eb9e13effb49e885478734f0e02565855214cfc5cce72e4b",
+          "retainedTextSha256": "2e03a6a94f63795a8ad3f9daff42516b4aca20cd19a2275ec8cd7b094e6e6d50"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Part Two",
+            "On Personal Providence",
+            12
+          ],
+          "sourceTextSha256": "f52da29ff13993addfc6bb7db1ed9ebe4a1cb0c4bc483b6cb2dfec75494b7cd6",
+          "retainedTextSha256": "9c08ff266f533b9353c17f62128608fb4b01fb4b36e8619ed1d46eae5ba99610"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "label": "Part Two · On Israel and the Nations",
+      "sourcePosition": [
+        "Part Two",
+        "On Israel and the Nations"
+      ],
+      "payloadSha256": "198de352a67550042a2fdc1ea89584bd7ce82d70625404b3a8a1d461c64723b9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            1
+          ],
+          "sourceTextSha256": "32f4eed5b118f3ebaea551b729e82cefd83174b2210c8b9bad7c473f5f610103",
+          "retainedTextSha256": "32f4eed5b118f3ebaea551b729e82cefd83174b2210c8b9bad7c473f5f610103"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            2
+          ],
+          "sourceTextSha256": "b057162824ca7bd31f9d6c03c931a91407f73fb5d9023cf94d10ad620b7365e1",
+          "retainedTextSha256": "f46a4c44a58325f771b3d2f5cc2b47813274ab7728dcaf18ae521ac2ee434551"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            3
+          ],
+          "sourceTextSha256": "b1772a9704183984f46f683f91826a0f47806e4345e2f738525a2a905914b491",
+          "retainedTextSha256": "295a3c0ea1cf89efc92a69ce079e3d8b3c297ebecabf794b21a9dfd8893d7a71"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            4
+          ],
+          "sourceTextSha256": "358c5fc0f9fd881d63fe01d563ecc77d2a8ba9253cde866c863b8cb12681faf0",
+          "retainedTextSha256": "14d6bae302f21d104beea97dc86f63623006a721c1d425b6737ace2b299689d5"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            5
+          ],
+          "sourceTextSha256": "e3b0248a9989649b1c45757bab4eb6430d7eebea57650472ba2e089bf6e59d67",
+          "retainedTextSha256": "58d74fbbe734764cadf826a3a8196033ec6e4430a12035a896c035f855e01592"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            6
+          ],
+          "sourceTextSha256": "c600991ab4293badfe2d017ff3349fb13cab68e88fbc0408ce600b0451773757",
+          "retainedTextSha256": "9c261f77770d80fe6362febd886d7aa956d7d8790786a91c84a5114e70e07485"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            7
+          ],
+          "sourceTextSha256": "63dec81d6d173c7b1222bfcb9e263b1ba40ffdb341f2405684df6cf685eda9a3",
+          "retainedTextSha256": "af10b7046a108128ef32a9a7b05d0a708d90212db2fd456f69f285e00a459184"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            8
+          ],
+          "sourceTextSha256": "5555e99246f8e38ec63b92886359917ae19294c89884ef20766993c5f357185e",
+          "retainedTextSha256": "fc37a832de11623ffd53562a91c45748a4b3b1599cb2eafe3fddb9952e1acae6"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            9
+          ],
+          "sourceTextSha256": "cdfa506b4fe3c7df9cc5c22f307fd27cb7842cff45d659489c5d90ed2b7181da",
+          "retainedTextSha256": "0882bef70503415944987ba543b56faccae4ca35903eb20dcd11362c1aee5e93"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part Two",
+            "On Israel and the Nations",
+            10
+          ],
+          "sourceTextSha256": "99a3a328a229069274d852f363d701c97832fef7d0528231fcbfb2bde0b04659",
+          "retainedTextSha256": "513e12f72b36e9e2ae9dc5286bdf8b0acc4492038a68532ba52e755e954d0065"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "label": "Part Two · On How Providence Works",
+      "sourcePosition": [
+        "Part Two",
+        "On How Providence Works"
+      ],
+      "payloadSha256": "7d4773e4b91967a3c44fe2e76ed91fb8f3a9d416832e343c4e7007d5f689fa50",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On How Providence Works",
+            1
+          ],
+          "sourceTextSha256": "ffde329abf1ac196b2e12588a2cb914f7fc8b59895976e7c8c8ac44d2245119d",
+          "retainedTextSha256": "ffde329abf1ac196b2e12588a2cb914f7fc8b59895976e7c8c8ac44d2245119d"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On How Providence Works",
+            2
+          ],
+          "sourceTextSha256": "f9a707dd791987eae3835fff52d1f9d92cdf1b29ace1b9f9045fc92d55bfb8e2",
+          "retainedTextSha256": "9cf7e3074e6dae366f852c066defe74f522810f4afa97f32d30261e215f55a49"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On How Providence Works",
+            3
+          ],
+          "sourceTextSha256": "426679297855645500b505775af9467c2bb6479c5c40cc8fe37ff2fbd3beafaa",
+          "retainedTextSha256": "332526643da072bb578655d524a3ec5c36367527a5903807e811e95bd5bf0da3"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Two",
+            "On How Providence Works",
+            4
+          ],
+          "sourceTextSha256": "a0d41e64f2a89dcfa5246880bae8e17debad93bf711b529956a14f39b57c5ca9",
+          "retainedTextSha256": "9e769f69fea176a5c12c74b7400e03b84fe6a3dbd69b0d488fb8b033dec0bd26"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Two",
+            "On How Providence Works",
+            5
+          ],
+          "sourceTextSha256": "1581b340cbb467c7a060b898865a7cb8916ea6364d3d763dd25eaba4e37eebd2",
+          "retainedTextSha256": "1581b340cbb467c7a060b898865a7cb8916ea6364d3d763dd25eaba4e37eebd2"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Two",
+            "On How Providence Works",
+            6
+          ],
+          "sourceTextSha256": "8c502b600cb7efbd19865971a4d3fa3e7f00901b7ae97147d14fbb59af4f2009",
+          "retainedTextSha256": "e580dc6d47c76d2eb8513468a32805029225853204b1e4c1565eeacfd428da7c"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "label": "Part Two · On the System of Providence",
+      "sourcePosition": [
+        "Part Two",
+        "On the System of Providence"
+      ],
+      "payloadSha256": "537531eb45a649d7dce927775fbbf339bbd12060075a8014b291e4bd97fc8ad7",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On the System of Providence",
+            1
+          ],
+          "sourceTextSha256": "6864fec5d92882be60a36ec83882e3e44eb162191adc5b585310d21ebe02b043",
+          "retainedTextSha256": "4a3cf39ebea7a7cd91288e65ef98b88f11e374283b5bad8c9c15468f3335fb33"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On the System of Providence",
+            2
+          ],
+          "sourceTextSha256": "99f91bd28a9c6c6b15dbf3c1abf66f1f1d952db919bbbe3c02c23d1377bd0c96",
+          "retainedTextSha256": "e61f50d0262b23ee412b7f32fe885bc6bd83dc772bbd64e07a3461ad96d776dc"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On the System of Providence",
+            3
+          ],
+          "sourceTextSha256": "57988f1bd15ada21e24276bb3cdf44e5f9510fcec8159ef625951f210068b6fc",
+          "retainedTextSha256": "457e8a25d6477d5321ca0e5944b3f584cf69cabe04693d3bfe1055d154d555c6"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Two",
+            "On the System of Providence",
+            4
+          ],
+          "sourceTextSha256": "f785438ac4cfff38bf22d5dbc219e26763da8d143383c95db60edf517cdc2036",
+          "retainedTextSha256": "d98860eeb655142ada2f384f5f85ca4f0b4a59f61ca334180275d5ba901828d4"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Two",
+            "On the System of Providence",
+            5
+          ],
+          "sourceTextSha256": "ba61defcda3bc74e14fa7a9b7725cde07c73fc58af8d364a6cb20e6876d19fa3",
+          "retainedTextSha256": "05beabc419a5c919d35f8a683fc229aef8e8c7bf14cdfededcd0d83d0f512cbb"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "label": "Part Two · On the Influence of the Stars",
+      "sourcePosition": [
+        "Part Two",
+        "On the Influence of the Stars"
+      ],
+      "payloadSha256": "b04b23bb172618c9ecaee764a0e3457a5a0a474c3810a107f1f899a614db5348",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On the Influence of the Stars",
+            1
+          ],
+          "sourceTextSha256": "e0d57a10e38d73d73664f675031002dd752685eaad6c57ad297d523e6f3204ea",
+          "retainedTextSha256": "ab4752b2b46d0f1829bd4a0b1cf03313ef2597d918a2cb1d203168874d0ad403"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On the Influence of the Stars",
+            2
+          ],
+          "sourceTextSha256": "a8443e4a6ad7ed29f202d7d94739b7997a2ba6dea12116ac43b8993270b43fc3",
+          "retainedTextSha256": "c3fe44350bbee514d6849c95516e026daeecea1a8208a3d3a5e9cc4afe8c780a"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On the Influence of the Stars",
+            3
+          ],
+          "sourceTextSha256": "c22635f4ec37fb8f5130a934b7934bdae7c269ce7136257f9327ebd648a9ff11",
+          "retainedTextSha256": "9aa040b5dc4ad2b2d702ba270da49153c8e187a43d98205cd84ced644d1d173c"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Two",
+            "On the Influence of the Stars",
+            4
+          ],
+          "sourceTextSha256": "5675d1d5910cd78d8fb03353a88d30cdb7b523473b57f71c35713535f5e4088d",
+          "retainedTextSha256": "6454d74374df7d68db062977b76ba2fc3fcadf659b8a0f000e37f4ec00b293cf"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "label": "Part Two · On Specific Modes of Providence",
+      "sourcePosition": [
+        "Part Two",
+        "On Specific Modes of Providence"
+      ],
+      "payloadSha256": "62dd7a304daa7ba0c0e1e08f721ac9cad73eb80578a05088219cb09644707dfc",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Two",
+            "On Specific Modes of Providence",
+            1
+          ],
+          "sourceTextSha256": "1e356fb2d11e656fffd2c2e538b668ec6d275d92d67da03c4faa4413d5be62e5",
+          "retainedTextSha256": "1e356fb2d11e656fffd2c2e538b668ec6d275d92d67da03c4faa4413d5be62e5"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Two",
+            "On Specific Modes of Providence",
+            2
+          ],
+          "sourceTextSha256": "d8ee02ef659b2750b18292ff13d1b4d853ec2c9ae6b60dc169fd280d522e88d1",
+          "retainedTextSha256": "1bf324f48588f381043f1fd49717e1fd1e841e53eb3889ad23b30bc7ef86c386"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Two",
+            "On Specific Modes of Providence",
+            3
+          ],
+          "sourceTextSha256": "1a798647b80341d1ab078bd851459dbd99fb4dc1b01774d9d1b37636a14ed24a",
+          "retainedTextSha256": "2de6ee75732f5a379d5514fa251fe18f43177fc88bc3259e708fe9cc58e7f9a5"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Two",
+            "On Specific Modes of Providence",
+            4
+          ],
+          "sourceTextSha256": "1a5468914ed80794d091bcd60b1571861601b66e5c1a341324af03af30a9bb63",
+          "retainedTextSha256": "d81c68c73e31e4956790bb14759db6bbd381712cdc670f498a7060557ada9a05"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Two",
+            "On Specific Modes of Providence",
+            5
+          ],
+          "sourceTextSha256": "5cf6057943ab33b5f847b9c1a112161199713ec2eeed61a2d3f3324da93f403a",
+          "retainedTextSha256": "de9dc79bd9ce39460f48c6d00c183754569b80ad9265ed7c9823af39ad75e433"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "label": "Part Three · On the Soul and Its Activities",
+      "sourcePosition": [
+        "Part Three",
+        "On the Soul and Its Activities"
+      ],
+      "payloadSha256": "a36e2644e18c921fa8f8a4be1af1422f1490262a3918d7e5141bddf18fcc3e11",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Three",
+            "On the Soul and Its Activities",
+            1
+          ],
+          "sourceTextSha256": "b4c4bd037f68790a1ae2140117a30f407f1da13fd45bf7aefb8f4313d450ff64",
+          "retainedTextSha256": "1333f446482e47b6f6a2ed3e169db6565ba204da144a50522e7f9217c7ed2a4e"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Three",
+            "On the Soul and Its Activities",
+            2
+          ],
+          "sourceTextSha256": "a4ecdeb8e9a409b5465fa5ceac890e7ff6dbb748326f49dbac5a75d36920f22f",
+          "retainedTextSha256": "e75c4ddddc3d4fb575e94a3961f2cf3fbf0f5b0217e3031bfd337c8b62503fd8"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Three",
+            "On the Soul and Its Activities",
+            3
+          ],
+          "sourceTextSha256": "79a4c6f9ca1ca16ce83d54076a78ec4b96ded58faf3f5602277c9734e18b409e",
+          "retainedTextSha256": "6e2285f1bd72bbb64dc03bb855b208f470e1ed500364dd9b9519566410c855f9"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Three",
+            "On the Soul and Its Activities",
+            4
+          ],
+          "sourceTextSha256": "8d7898af12b7cadad83b4df0ef158e43232f5cc669abfab7e811bdf5b261b798",
+          "retainedTextSha256": "6da6397cd4551732afa378557052ea110b835cf6da0bc81abfdf36ee9f327e80"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Three",
+            "On the Soul and Its Activities",
+            5
+          ],
+          "sourceTextSha256": "6f45f20cf542a954dd54f2e6e03e40d06505a4f9dc69bbb6da98674f9fa11e33",
+          "retainedTextSha256": "254afcfad770b0a98e286c533a296682da291b922bf9a3481ece4a7189add584"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Three",
+            "On the Soul and Its Activities",
+            6
+          ],
+          "sourceTextSha256": "4962a629f35e4be23a6d6e75f72055853c13d3a959a8f88ba6a86489b6748140",
+          "retainedTextSha256": "4d8c0106fb52723f36e1e031cf3e3b22127353a5c65932169520edfd6cf3ce6a"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "label": "Part Three · On Divine Names and Witchcraft",
+      "sourcePosition": [
+        "Part Three",
+        "On Divine Names and Witchcraft"
+      ],
+      "payloadSha256": "c018b551ed1e9404cda302eb312ddcfc673c015e03027ae899d81f685f698dab",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            1
+          ],
+          "sourceTextSha256": "a00f49c47ba01d14343a7ea2543ef5231d98326904afe0587aa0003c977d780e",
+          "retainedTextSha256": "a4559eedb3bc29d610ca1d362aba34f8cb39f5a07972ed523579804b2093a474"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            2
+          ],
+          "sourceTextSha256": "7d977256a0de0dcef087c7fa04ce29a38c6ef7cec463a8cb5c47446e7df65aa6",
+          "retainedTextSha256": "7d977256a0de0dcef087c7fa04ce29a38c6ef7cec463a8cb5c47446e7df65aa6"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            3
+          ],
+          "sourceTextSha256": "813e9246ef11649460d94251fc6d049a9ef546dc55a8415d2674e041dd03f57a",
+          "retainedTextSha256": "b3fa1cf39286dfde91e6dc3859966716ae74ddbcb865942697d74d773e23f00d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            4
+          ],
+          "sourceTextSha256": "a279c2467bf18cc96234a1038a54a056d632339ea0aba0641fead80ccdab654e",
+          "retainedTextSha256": "a279c2467bf18cc96234a1038a54a056d632339ea0aba0641fead80ccdab654e"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            5
+          ],
+          "sourceTextSha256": "4e333bffba7c5b9414e372a91b6fb83c56ef0cd3274ebaf4df801d17333c7dfd",
+          "retainedTextSha256": "ab15c1f24f076972f042bea476bdf08fee33a4a4110777497e46fcabca64410c"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            6
+          ],
+          "sourceTextSha256": "1e9566e11deb4e56229b97b3954e76d4ef7ccfbd48a928b56c293490dc315d8c",
+          "retainedTextSha256": "58c6fc9a4c663d8dd6dfa71c9f532b326e9a2d3b9ac155e6558a485ec8692af7"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            7
+          ],
+          "sourceTextSha256": "9d902cf19a9e79bcd96c9e221e132075a4e7ca6f036f1ebf19866d89cf5ba81a",
+          "retainedTextSha256": "9d902cf19a9e79bcd96c9e221e132075a4e7ca6f036f1ebf19866d89cf5ba81a"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            8
+          ],
+          "sourceTextSha256": "b63beb803c3473a79fb4a56a3c0d0a7979600a665244b6dd764dae53490f4fb5",
+          "retainedTextSha256": "b63beb803c3473a79fb4a56a3c0d0a7979600a665244b6dd764dae53490f4fb5"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            9
+          ],
+          "sourceTextSha256": "63732bd2af2f6e48112dba59c85832d4bbc8909aa465d13d875149f15d1e096f",
+          "retainedTextSha256": "deef5220692171866f679569ba57cdca13e980d4f3c4d732e05cb10077f99596"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Names and Witchcraft",
+            10
+          ],
+          "sourceTextSha256": "56106c55a51e323d88a4b5693421cac3bcba09c3641d21ba059bef0564793a9a",
+          "retainedTextSha256": "93517b2dcaef9c9934cc847460b74fcf91a350e01a528b4438f71a45a044bf9f"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "label": "Part Three · On Divine Inspiration and Prophecy",
+      "sourcePosition": [
+        "Part Three",
+        "On Divine Inspiration and Prophecy"
+      ],
+      "payloadSha256": "66a837ee57bf8c7b82e1256db498b6c107f97259ae3538523544ba54662719ef",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Inspiration and Prophecy",
+            1
+          ],
+          "sourceTextSha256": "ea5e76d864da7db26946346cd4557f862ff171304bb46e10157b617fa27b1288",
+          "retainedTextSha256": "2e8db1f7a3672d1655b4314df79cf6459b870fc8b3273d30a13fe4b403cb4ac9"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Inspiration and Prophecy",
+            2
+          ],
+          "sourceTextSha256": "93b5e0bf936fd2853803e20be58576ac74d0f6b8d0f617160ab5bec4931b7948",
+          "retainedTextSha256": "3c60d5de36a2c203bbbedb82fc30c1fcee08bebd7dca03c6a6f2672a2f4e301b"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Inspiration and Prophecy",
+            3
+          ],
+          "sourceTextSha256": "d9b95a5784ec54c9f087aab576a4629dbbff4e04fd92b1838b6aaa4fc7c40fdb",
+          "retainedTextSha256": "314c00f21abccfbf346277da8a6ffb0460799908c488e4a4fc9bc7d936ae5b2d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Inspiration and Prophecy",
+            4
+          ],
+          "sourceTextSha256": "f3af1a3eb9d5b513fa2f2ae3f0c653a4fc00c0b7662da108777676dc86ed16a5",
+          "retainedTextSha256": "fb038387d2845fbad34cfb57a9572ebc2bdacbf904a9537f57a4430bb58dbaa7"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Inspiration and Prophecy",
+            5
+          ],
+          "sourceTextSha256": "a522563aa946bdf01ce538b3c1c52dd7a3a0f74114fb1310824f136a34073a26",
+          "retainedTextSha256": "f03b53759e0ee4c13a1a22ba324b32154e0b5c364ebdeb5ac1e1ffabf5860282"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Three",
+            "On Divine Inspiration and Prophecy",
+            6
+          ],
+          "sourceTextSha256": "069dd805f2af171f4f44664e0b37296005eb15888b40036bc4629acd71dfe681",
+          "retainedTextSha256": "9b2d80c41351fd8fa9bed21d88cb106dd37a9e8ba4771657b0e620f3ae03de99"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "label": "Part Three · On the Prophetic Experience",
+      "sourcePosition": [
+        "Part Three",
+        "On the Prophetic Experience"
+      ],
+      "payloadSha256": "c8bba067295b451e41d8158b5ec1c6737b5f41f6cc21c05be244ea6832f5a836",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            1
+          ],
+          "sourceTextSha256": "8f8b867ea39d3c7b8ea9889c6dbf77535110f5f6349053f20de0a0563a5dcd5a",
+          "retainedTextSha256": "b79cf2cd6131529875cc040548c750ba9cf8e91702a1eb0d485b6897e1c5b3b5"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            2
+          ],
+          "sourceTextSha256": "55711fa6ff7b253498dcb329c3facd4fdb59c9e491ae1d5672a249e3845a4a5f",
+          "retainedTextSha256": "0467f5d14cfabbd309426f039e180c6c465a6fbf77cc9a2f5ccdc442ba9a5ff8"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            3
+          ],
+          "sourceTextSha256": "6405f9ea75ff8afe666b71716280f66b44c8dbc7ea53b0d31e9db12327ce68c0",
+          "retainedTextSha256": "2790e77539ec9459dc64b2658e8d46928c866c9ec1127d876b749d238469e403"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            4
+          ],
+          "sourceTextSha256": "e7a1d95f48fc3b50ee1f2f54c95bb5a0036b416bd8691d810e41034f80af8bca",
+          "retainedTextSha256": "ddf8ec0869841d66664ef1a8000263a929634b800b89335966f90fc812693fe2"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            5
+          ],
+          "sourceTextSha256": "772805669a21728e83eb18e5b13765c46dfbefc70e5e5c7513727cdec4962a0b",
+          "retainedTextSha256": "f3798eda8cf93053af3e91e4d12a3e2c3c01271fc053a37dffb54d4eb0186843"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            6
+          ],
+          "sourceTextSha256": "dba8800d2d609e16732b67220f0e6cb485cbec28a693b48f788a804d7f42bdae",
+          "retainedTextSha256": "a6548566c58af71d0ad1d2b3cd3437638f20e48b2301e0bac8f6194974fa384b"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            7
+          ],
+          "sourceTextSha256": "6a1490505b182f89c049bcf1af5e8d197ca30bc4a74873853c72cf68708b761f",
+          "retainedTextSha256": "8b1eab8aab925278da52bc8e4ff5d65190585097a07c4fca2478d57b77283059"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            8
+          ],
+          "sourceTextSha256": "f5295da78dd5f83b8a019a120e9b8182c32ace87e216d67ded5e7c9033203f96",
+          "retainedTextSha256": "031443154b910dddd297b92c28d7a42a09406e75dbdf7d4c2604fbf49e7a7e06"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            9
+          ],
+          "sourceTextSha256": "ee4f87f62adb24c9e9d6d04f98de52705d01143615ca73f3d50278c9e5a07616",
+          "retainedTextSha256": "bc49b00c7f9d98ff07e2010a79b977ad8d997473b17b1d6b8058bbd82e8a0fe1"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            10
+          ],
+          "sourceTextSha256": "fa29620e50a7cc915c42cd18fb055764d1d5af0b794d087fd33491c0007e942c",
+          "retainedTextSha256": "2f9731136c06872e2bfac3ddc53cbcf849058e19c856cf228645573917dbf17c"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Part Three",
+            "On the Prophetic Experience",
+            11
+          ],
+          "sourceTextSha256": "7876f7889c33378b4d32d251389a424f3e3e58579d34f121842025e19bca68be",
+          "retainedTextSha256": "a5c09dbca38a69656bebf7a761501d179bee2a1bafe30c6a87d28292f1a163b1"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "label": "Part Three · On Moshe's Unique Status",
+      "sourcePosition": [
+        "Part Three",
+        "On Moshe's Unique Status"
+      ],
+      "payloadSha256": "b924e5123015e96e3b0062fd97d77d409d902c2c0dcd015fc248a8439bafc50e",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Three",
+            "On Moshe's Unique Status",
+            1
+          ],
+          "sourceTextSha256": "cb2207a27aded63d4998e9ef7e4fd1dc14da8d59d86eaba00a38ab7230d773cc",
+          "retainedTextSha256": "6172a9726f48c9ed81fe4d59725d8b32ce236a5cdf4e13148ec85a40e8ce2904"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Three",
+            "On Moshe's Unique Status",
+            2
+          ],
+          "sourceTextSha256": "cb27628cfec8b1d8fa8d55dc2d1ba2d1628ce3421e7c4d80f44ad9ff3e2c7494",
+          "retainedTextSha256": "458ecacae8dc758cbeb9b158401095fb014b2fca9376b63076e9ac2f7fc9e8c5"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Three",
+            "On Moshe's Unique Status",
+            3
+          ],
+          "sourceTextSha256": "003eeac9a99b9b42d5c12c987c51f65577bd1cfb96d5d9b8d8b6f32cd39e5bd3",
+          "retainedTextSha256": "003eeac9a99b9b42d5c12c987c51f65577bd1cfb96d5d9b8d8b6f32cd39e5bd3"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Three",
+            "On Moshe's Unique Status",
+            4
+          ],
+          "sourceTextSha256": "a659b9c328aeafaa6ea1706cef84a3421a0ec6753640f29860c4ba70dad1f71e",
+          "retainedTextSha256": "a659b9c328aeafaa6ea1706cef84a3421a0ec6753640f29860c4ba70dad1f71e"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Three",
+            "On Moshe's Unique Status",
+            5
+          ],
+          "sourceTextSha256": "c4fb64038f42b37be9a7f3b3233c99fcad3d09d2ecfc826700cfd15f66189ad8",
+          "retainedTextSha256": "c72de5ba3c58168a132a84ac7966bfba938edc9721f1b59feefec6ff97b34289"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Three",
+            "On Moshe's Unique Status",
+            6
+          ],
+          "sourceTextSha256": "4cd0d42e7d3256842121dbe8e6bfb8ae3799cedf8e20fb208012c4d84f44e19e",
+          "retainedTextSha256": "4cd0d42e7d3256842121dbe8e6bfb8ae3799cedf8e20fb208012c4d84f44e19e"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Three",
+            "On Moshe's Unique Status",
+            7
+          ],
+          "sourceTextSha256": "9eb904e883de426dc56711b9f6ff8d204a1b8e0d3fc72a1755ed29e38a3a2c82",
+          "retainedTextSha256": "bd46de98f7a5dd27c0bd8e07fa8a48c788f9b7bbbeea4d740ed1152f869417bb"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "label": "Part Four · On Divine Service",
+      "sourcePosition": [
+        "Part Four",
+        "On Divine Service"
+      ],
+      "payloadSha256": "4c9cb05551f77459fe5b069c0b684dae13e68019b26b7a4e03554d65a6e22f65",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service",
+            1
+          ],
+          "sourceTextSha256": "d51046068c7feee3b6dbda080032a1a9986d7de45381f41523802bf433c8fac6",
+          "retainedTextSha256": "be244766a8f4d8ad7719d8eee19093f1199812a26b72bc6ccefd2c1686f73dd2"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service",
+            2
+          ],
+          "sourceTextSha256": "ba334b0e3f46db541a27e80f5bcda603ecbcb76e9bf4a05a6a4380d5196cb2a9",
+          "retainedTextSha256": "7c96a6f013caa59b99ac7e9efbb2a1269f96e61ba7994074463d0dffebea0a7b"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service",
+            3
+          ],
+          "sourceTextSha256": "11be9f5c0918bdc087ee4f76664b7c10149b64405b0f6fdd08b6240433ae5a08",
+          "retainedTextSha256": "dfcad77d6ca84bab2e3ecfd0914b324f24e74bd1592a57c5e7d45766ca97f62b"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service",
+            4
+          ],
+          "sourceTextSha256": "ba4bc9831f57f00c5d61d9165a9e9e9f7f2726217b28b286386aaa09b8243482",
+          "retainedTextSha256": "59e5022283b25b5447c4280f33a63d26da5c50778223e3925882fb190879ff26"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service",
+            5
+          ],
+          "sourceTextSha256": "c934397a3914681e3a91bcab3a204e207a9a76a03ea96cb8313ff35c1ee919c1",
+          "retainedTextSha256": "c934397a3914681e3a91bcab3a204e207a9a76a03ea96cb8313ff35c1ee919c1"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "label": "Part Four · On Torah Study",
+      "sourcePosition": [
+        "Part Four",
+        "On Torah Study"
+      ],
+      "payloadSha256": "b16452ef04422fe568f8068548aad006ace95d7cc4d682b7db0f0ed638c4c141",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            1
+          ],
+          "sourceTextSha256": "80f61d1da0c645a453900d9668394b55800eb8538273e0566abe3f150a814583",
+          "retainedTextSha256": "80f61d1da0c645a453900d9668394b55800eb8538273e0566abe3f150a814583"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            2
+          ],
+          "sourceTextSha256": "18ad196f7bb6ae955815efcb59ff123c3b9a91fedc16816a4ccef301fbece20a",
+          "retainedTextSha256": "ba878bae406767618091f9df25954de6cc45b3fa4bd5f4efadf75af133f69e70"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            3
+          ],
+          "sourceTextSha256": "098102c348f9ef2d26e409c6e8c4b9c8e866d911fa8fe588525effe6b0230691",
+          "retainedTextSha256": "098102c348f9ef2d26e409c6e8c4b9c8e866d911fa8fe588525effe6b0230691"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            4
+          ],
+          "sourceTextSha256": "f665b26bde6c6a8d57f37a31b817eb3d7cc0732e4b13800a8cf32bf3f42939f8",
+          "retainedTextSha256": "b14dfc83b5ee3a6260e0df034c338dce34d1aa15058f2d4f7c4c37f2b5b211db"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            5
+          ],
+          "sourceTextSha256": "49f892fd4196cfdf02182dd87c332b7869e7689baada3b9aacd64b9f285b7469",
+          "retainedTextSha256": "c94c26a875dbd04b4acefb46028c498d593b7afa6a5c17396cc6d8bfe5d93d6c"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            6
+          ],
+          "sourceTextSha256": "aef3b9c3c493b8721c977caa6b7bcdcf18a889af53f1b4d8866453d5f0bd6196",
+          "retainedTextSha256": "aef3b9c3c493b8721c977caa6b7bcdcf18a889af53f1b4d8866453d5f0bd6196"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Four",
+            "On Torah Study",
+            7
+          ],
+          "sourceTextSha256": "b97a48ce86d88f740615b405ecfaeded8a5230fb2aefcd52c5cf6cbbb7f7b064",
+          "retainedTextSha256": "63123c5127d025604ea4a433a62d2741604dfb9e62d44684df35fc06a71f0911"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "label": "Part Four · On Love and Fear of God",
+      "sourcePosition": [
+        "Part Four",
+        "On Love and Fear of God"
+      ],
+      "payloadSha256": "ce372db4317420b05817bb2022bb5e51f9431a96f78f9cf61775ab34ff98bad2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Love and Fear of God",
+            1
+          ],
+          "sourceTextSha256": "c06956d49265f654efd1698961c13b40ad1a3ae1e1c7aa48e58191eaf2fa46dc",
+          "retainedTextSha256": "f0c5e65de905e2844217258872b4cd47b0cd8072aa7b9e3d6ce146db64c85267"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Love and Fear of God",
+            2
+          ],
+          "sourceTextSha256": "a69eeb7de524620abfa08130c2406a975dce3df6d275579621af25c87102ec43",
+          "retainedTextSha256": "860f7a49fe9b1eaa1789b427ad33c2605e37c07117896b0a4f436e54bfd79379"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "label": "Part Four · On the Sh'ma and Its Blessings",
+      "sourcePosition": [
+        "Part Four",
+        "On the Sh'ma and Its Blessings"
+      ],
+      "payloadSha256": "e7834bd1bcaf9830342981b56e1ea25aec6a431dee01f6b0813b4c0d18e3b044",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            1
+          ],
+          "sourceTextSha256": "aced68857621055c723b21e1adbd34146f2c1198ff827612d2c8d9ef45892fcc",
+          "retainedTextSha256": "0347f807926630dbf65e83c2cc49131478ad132069374b314079a0c992ee7679"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            2
+          ],
+          "sourceTextSha256": "d46793cc93662162732b071822afe9fd31100d9310880e6eb33d7e7b73d9732e",
+          "retainedTextSha256": "b2de29f90aa8bb65891eeee6bf5ee25093386b902dfcab0c367b34618ae406b9"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            3
+          ],
+          "sourceTextSha256": "e626c7039f7dcff27a3dde1f43d59907022f7d943a9801831610908966ee0fe5",
+          "retainedTextSha256": "341501fc96619302fdbfeb9a70b0c0a1763e40c5c23a14604fcbd9ae4e68c92d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            4
+          ],
+          "sourceTextSha256": "ad6623ec299a031bf2caf275c6b56ad78b66378f6f481dece51d2e64328a7eb6",
+          "retainedTextSha256": "ad6623ec299a031bf2caf275c6b56ad78b66378f6f481dece51d2e64328a7eb6"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            5
+          ],
+          "sourceTextSha256": "c80dd61bef51054ac52a3858e284ba5355b330356e662cdbe3424ae5d8441e31",
+          "retainedTextSha256": "857e11ff6366a65e58340044484e6219d9439a355fd4e45eab0d6dddc528763a"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            6
+          ],
+          "sourceTextSha256": "accd0a456fe26728e50e7e34fdf149e07da43f284c58df80673bc46b30eb907a",
+          "retainedTextSha256": "accd0a456fe26728e50e7e34fdf149e07da43f284c58df80673bc46b30eb907a"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            7
+          ],
+          "sourceTextSha256": "ba49841dde7743e641bc016aab23f223aa8cb09984d97c40417d356aeab6f64c",
+          "retainedTextSha256": "64a1cec006da7b9ab20d7a384e1b76f575c632940c378bbd6bb1f4a903579062"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            8
+          ],
+          "sourceTextSha256": "255348a679e693421ef8b47cd9aa437bf50b1dbd6d066cf4bc968f0d39505c02",
+          "retainedTextSha256": "2cf14d38caa781a0a8fe765ced241703b9e70c2b4a288e434604655e23480e45"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            9
+          ],
+          "sourceTextSha256": "f41470023b02c36cc95bad32dbf904b602b55086972b450124b1dc3df1a3a6c2",
+          "retainedTextSha256": "39ea79fb465b91603695e90db406ce112b8379e5c2868bc37e2a1404d7187c46"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            10
+          ],
+          "sourceTextSha256": "3274a6b452acaead43c6fdd3f15a870d4752e8ae257260c0f9bbd4bf47108eeb",
+          "retainedTextSha256": "0950f11375019133cff45ce5a71062af40ec2636cfb5cbcb4146dca2dcb2ebd0"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            11
+          ],
+          "sourceTextSha256": "66480661531c7cf8b0a8a354614c8e6777d7b1d25d544c350abfa14ff1edd043",
+          "retainedTextSha256": "69b686fe8c2b87e4669db397cc79a9a78957f82a626a6a4693cf83638b671a28"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Part Four",
+            "On the Sh'ma and Its Blessings",
+            12
+          ],
+          "sourceTextSha256": "1ae3baf9a1eacca6fda6d94a5671853c26fc885539bb434005092b30eecc595f",
+          "retainedTextSha256": "86eebcd007110da8951148459e21075681538dd0b2c1a7a65c3d73282bff92ba"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "label": "Part Four · On Prayer",
+      "sourcePosition": [
+        "Part Four",
+        "On Prayer"
+      ],
+      "payloadSha256": "7b8270ee76365316f8f0f522996134880a80fb69ce0224362fd9e92f1d6cdf08",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Prayer",
+            1
+          ],
+          "sourceTextSha256": "18b1cfae9b2bd21b90f1812a0d0ee93aa2a6699cc7696526f87bec21a53616ce",
+          "retainedTextSha256": "a1b8d0b11e2930499363412115700ee325b1060919b2ca53249784120439825c"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Prayer",
+            2
+          ],
+          "sourceTextSha256": "eda2d9b6cd50d195515bd02af6c7689f40c1d982df061db8802434546474c9c9",
+          "retainedTextSha256": "eda2d9b6cd50d195515bd02af6c7689f40c1d982df061db8802434546474c9c9"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On Prayer",
+            3
+          ],
+          "sourceTextSha256": "9c8b9ddad488627b45b26bc2125ce8012a2efdb8bcbf745d417f05f13fd68fec",
+          "retainedTextSha256": "a11f987735408690a50c5461d2a2e1380e3d6f7d8e3a59b743b3a11abb9376e9"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On Prayer",
+            4
+          ],
+          "sourceTextSha256": "a11062545b72b50125d6d025d1957135d4d9ab66f97fb2828be48d5b628b2115",
+          "retainedTextSha256": "a11062545b72b50125d6d025d1957135d4d9ab66f97fb2828be48d5b628b2115"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Four",
+            "On Prayer",
+            5
+          ],
+          "sourceTextSha256": "ac732c3b4495cae6d887a5c1f26a5970db4d8c7dc452854739eea1fc59e4e91d",
+          "retainedTextSha256": "ac732c3b4495cae6d887a5c1f26a5970db4d8c7dc452854739eea1fc59e4e91d"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "label": "Part Four · On the Daily Order of Prayer",
+      "sourcePosition": [
+        "Part Four",
+        "On the Daily Order of Prayer"
+      ],
+      "payloadSha256": "d46f0d200fdd227fa11e2d71aec1e5dcc2fb6df001cf40ceedce73d283711747",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            1
+          ],
+          "sourceTextSha256": "ed9da95c4e7d897825e535f43743bd887e8b1a24f14524e036c38ca823e8deb5",
+          "retainedTextSha256": "600d97ca14a7af6c4c54917c6e9cc30ca8a3a55cb7088d3c3af4c6e07037bedc"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            2
+          ],
+          "sourceTextSha256": "f2e781f1596270890db4abdc8e5120a484c9f64cd1bcd53fe161c6c76a1e2029",
+          "retainedTextSha256": "ac35be5229439b29e16568d4c9f2d25bad39f307227acca1ea8d31e99779088d"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            3
+          ],
+          "sourceTextSha256": "52d09bd289be98ea8bcbf17a8308ceceaba8a342064173b062dc4897af81749a",
+          "retainedTextSha256": "52d09bd289be98ea8bcbf17a8308ceceaba8a342064173b062dc4897af81749a"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            4
+          ],
+          "sourceTextSha256": "2b8651b2abe7d1f865fba666adebdb40aa50c5bc9f6f57dc6ff83affb66fca9a",
+          "retainedTextSha256": "7f78d2886c8a4193bb856b7114d29b9a6e3fcf3dbcc253fc82f911232a7aec75"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            5
+          ],
+          "sourceTextSha256": "4f5e7e01e2d6758510f70c56bf8194dbb8fe887dd604dd90478c4e8a9ff38e01",
+          "retainedTextSha256": "204edba756f1dd005a6bcc3d6cdd673ce4af124bef89d3899b5b597ae1bc5141"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            6
+          ],
+          "sourceTextSha256": "3b28475532b65e411438869aea3459938dfa8e0632a5c9624f4679ec4d795a89",
+          "retainedTextSha256": "46a16e3c397a1e4d1560fce2d5c67e4a9205ee85b5ed9d34b61d58dd59980e20"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            7
+          ],
+          "sourceTextSha256": "aec578b84076a805b803078a17ac253dad533d18f0cd9d327e15d07c9cabdb47",
+          "retainedTextSha256": "8083bb04353e328d2da17b8917ae8969db43bac817647655bc9936b93d628709"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            8
+          ],
+          "sourceTextSha256": "215027aeac5d3b22e227e6f2426250ec77aa245c6da90dcfaf4169bde85bb37a",
+          "retainedTextSha256": "ebd4c37b90212cd7aa0348e41b99649c65be0344a862620823a3761ce688f6f6"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            9
+          ],
+          "sourceTextSha256": "c7c45ac11fbc29d40f4c02f5ec3e6a23310d38f189bdd6ecff17807cb5ce292b",
+          "retainedTextSha256": "8f3cb25a5d8445bdae842d2b55809c18a51590a673edf8ae4c53658fed27daa9"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            10
+          ],
+          "sourceTextSha256": "77ece2d733710c9fe2ae26e1c92770cdabec14280f7a5a1206865955e2a22d49",
+          "retainedTextSha256": "6a18eeb010b0ac6223a077bbf20fb9dfa5d08f3dfc4d974679079ddf1e38caa9"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            11
+          ],
+          "sourceTextSha256": "06081c67920f98f918af63ada7a8977e7dae31e6cd281b1af9cd7b5d6299fce9",
+          "retainedTextSha256": "925c4a9fca0bac386ae7b01305b04bdc7f32708ce4a7199b28ac5db7e15fbaaa"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            12
+          ],
+          "sourceTextSha256": "b211fa5a3f1242280358159c7b7379f23b09f5853c5d573edac0ee5dc6e9a62d",
+          "retainedTextSha256": "602531bd3c7c2c35dc41a57cbd708205eaf2c059a0aa3206b467735e30f85228"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            13
+          ],
+          "sourceTextSha256": "9722d2a16fb9977098da89cc334cba641bd218fb2b74ce5e6c30266358b4455a",
+          "retainedTextSha256": "26efecbf53f8cb2396f02a0e1fdfdcf834a5b5ccdcf274d1af8864c1228c341d"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            14
+          ],
+          "sourceTextSha256": "b160b31b51f77bdf1e654c884a95ed32eb6215fc9aeba21d40565ebf070fb7e6",
+          "retainedTextSha256": "8165d0b59988823e5294c93a64bce3eaef8c74473221b5570671ab59df77e9e4"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            15
+          ],
+          "sourceTextSha256": "288953c0a6d850f33ad8448d8e66ce51452b1a4c04d568402a9221c39fe7b101",
+          "retainedTextSha256": "937a8c631e8b0f8efcd0afeea37acc4c9cd59cb304e07416428e874882387b53"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            16
+          ],
+          "sourceTextSha256": "a281348eaeac8fae25e8990afdb8cf7ba454c996a3a74789c8328de9920ecd48",
+          "retainedTextSha256": "a6a662cfae60d164412e667b9ed9dd3ed9d148cf17992e72b5492d0dfb84a2ae"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Part Four",
+            "On the Daily Order of Prayer",
+            17
+          ],
+          "sourceTextSha256": "6f1429eca7151c56d02a0509d091ea6915a867227e876b667379413ee6848cbb",
+          "retainedTextSha256": "00feb34ed272b5afb33f2f072812b5fc0660bb74df1cba9c46e1db7d52775864"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "label": "Part Four · On Divine Service and the Calendar",
+      "sourcePosition": [
+        "Part Four",
+        "On Divine Service and the Calendar"
+      ],
+      "payloadSha256": "b33699a18747ba9ca18a07977095373da6d4189c74b77ceb4fdac6d3bc1167f2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service and the Calendar",
+            1
+          ],
+          "sourceTextSha256": "ab8e83c5a106e612f9a833c56148721ee530469f4319f3b320a2cc40c6a09fec",
+          "retainedTextSha256": "d0a816e0d144cb01d03d3cd83558d54804ea1315c89eb012373b414485b81a4d"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service and the Calendar",
+            2
+          ],
+          "sourceTextSha256": "9722078a560cd39aa334b4a0903fcd8eb27b55bda16894f510386494e6ab1296",
+          "retainedTextSha256": "74e38635b69ec3ed9c7521d703dc7285597de8e5eab32fca1b4d44bf6634bf0d"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service and the Calendar",
+            3
+          ],
+          "sourceTextSha256": "d6c884dd734d956389fe228cc6384672b0db1b9a8c185745892edcf3650a1578",
+          "retainedTextSha256": "bfaa8f85e7d30e3bea2626ff861708ea7bf7b4c0b3748064a438017685faaaf9"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service and the Calendar",
+            4
+          ],
+          "sourceTextSha256": "024cb33ffe954474e06225a9e8750c683c79c7b542fe6cc92625d84289983ded",
+          "retainedTextSha256": "b45fa6e85f6279a7d973d53dd88aa8d44176351c7fc058cec45de04d24b44872"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service and the Calendar",
+            5
+          ],
+          "sourceTextSha256": "20b99356e993209d45668fd53e870557091eef5e46e33ff7ac0555e05eb46a9f",
+          "retainedTextSha256": "c7ba76419a52d7f86476c63be6ffe435940879618e0a43168f6492597b2ca523"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Four",
+            "On Divine Service and the Calendar",
+            6
+          ],
+          "sourceTextSha256": "4d6a46e58fa8d23070625ef3fc99c3385fc75f82f4415251f8bfc9749bdec2f3",
+          "retainedTextSha256": "cdb930c7b21c681a149728aa569842d5b713d2ddd933e3affd3ac2e931f83a40"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "label": "Part Four · On Seasonal Commandments",
+      "sourcePosition": [
+        "Part Four",
+        "On Seasonal Commandments"
+      ],
+      "payloadSha256": "5888c36886c88506aa30fb6575c8d6e70dbe3b448891ceb0071ccc26eec85cf2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Seasonal Commandments",
+            1
+          ],
+          "sourceTextSha256": "800788fdbe4771d55685f7e03f529601fe2d0cdb2c7b8c6c08cc7e9901fd3cc8",
+          "retainedTextSha256": "5ecaa38d6567e0c7afd635c5bb855d82fb689adf49544c56ba10b93af8a5450a"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Seasonal Commandments",
+            2
+          ],
+          "sourceTextSha256": "0b241cbb615834d10709c58d5a59decd7b9bd6305fd896be8fbaeeb13c7e99ed",
+          "retainedTextSha256": "60cb1460cc32946be64fe2e9cbcc4b02a160324d0b4676670746f48ebd5108cd"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On Seasonal Commandments",
+            3
+          ],
+          "sourceTextSha256": "ef20c5ea2d392ed96af3402071fb28bac2ae3ec175c02e5df93ac670119f0835",
+          "retainedTextSha256": "40282f95048744a58369b4a5bfb3f7712df80164665c6d0b09b8b423a4a7184d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On Seasonal Commandments",
+            4
+          ],
+          "sourceTextSha256": "b2c15cf67c7e5ce7044de040d89b0ccd20576f59a36caadcc94d4487a97dfcb9",
+          "retainedTextSha256": "34e0e3bd0d32c8cebaea961b9a21c6dacabf6c754438e49676fd107624b5c452"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Part Four",
+            "On Seasonal Commandments",
+            5
+          ],
+          "sourceTextSha256": "9edf6b3fa9d0c553238c046e2e1a673c3642e6344e84ff947872e5b531cc8805",
+          "retainedTextSha256": "1145ee77f2ac8b48398e224c6ef4bb0df3f4e67062eff1cc25cad672bcb719a9"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Part Four",
+            "On Seasonal Commandments",
+            6
+          ],
+          "sourceTextSha256": "899eed00338c219a0168ebea792c6c8fd0b38f6ea5c8f662c76785345deacb45",
+          "retainedTextSha256": "e7d34aa87d9a769c0b1ea3a9034388a5ab6f48dfea231e7d449e883c96ceea55"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "label": "Part Four · On Blessings",
+      "sourcePosition": [
+        "Part Four",
+        "On Blessings"
+      ],
+      "payloadSha256": "4870e35bbf4e0fe99004798ccc98eb3049517a87da04afb17d2621434e1406e5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part Four",
+            "On Blessings",
+            1
+          ],
+          "sourceTextSha256": "f8ccbabf60c6a28849a1382572fedf76469ec0fdea7cbf03b31a5248bb1c9c40",
+          "retainedTextSha256": "f8ccbabf60c6a28849a1382572fedf76469ec0fdea7cbf03b31a5248bb1c9c40"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Part Four",
+            "On Blessings",
+            2
+          ],
+          "sourceTextSha256": "afac1ef6f9473e2227bd86c94a9e1424ecb18037587da75f4bdd5d2bbd2d5941",
+          "retainedTextSha256": "83b8b3e2f90e0023deec7ed3b9f67c5f92df9c204cc5ad77273245428256e2aa"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Part Four",
+            "On Blessings",
+            3
+          ],
+          "sourceTextSha256": "500d7376ea70f6994a655bab8163db8bf94c0b52f41eff64bbdde89e9ddbe1af",
+          "retainedTextSha256": "c11b393ce70a9fe2c14340fad80c7fcc226ccb0f419ac340f743200d5941474f"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Part Four",
+            "On Blessings",
+            4
+          ],
+          "sourceTextSha256": "158498d1163347e10c58ef10f9caa1af70f549edad1d662c18411e93deac9c63",
+          "retainedTextSha256": "158498d1163347e10c58ef10f9caa1af70f549edad1d662c18411e93deac9c63"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 209,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:20:22.254Z"
+}

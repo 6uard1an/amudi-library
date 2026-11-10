@@ -1,0 +1,23 @@
+{
+  "baseBookPath": "Rabbinic/Shir HaShirim Rabbah",
+  "baseChapter": 1,
+  "translationBookPath": "Rabbinic/Shir HaShirim Rabbah — Feuer Jerusalem Anthology (separate edition)",
+  "method": "Source coordinate and unique normalized Hebrew source match; English openings and endpoints reviewed. Two selections partial. Translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 36,
+      "baseTextSha256": "04a3d7b7083a82d4702462aacd0a6f2f10b3bfaa4bc17e48b34b90d1e19ec737",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "ccad9cbe0fead2720a1ee5a69a37410421c6f8183517e62324a283444bdf2b0c"
+    },
+    {
+      "basePosition": 58,
+      "baseTextSha256": "eb88029c9a2781e7804a8b0fb6f0afd38849db95e948509b1b902ec79f23f48b",
+      "translationChapter": 2,
+      "translationPosition": 1,
+      "translationTextSha256": "b4748eb6508424f2784a2bd07a78f7657092da72dfb891250e55dd1425491139",
+      "partialTranslation": true
+    }
+  ]
+}

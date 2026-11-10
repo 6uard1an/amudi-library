@@ -1,0 +1,22 @@
+{
+  "baseBookPath": "Rabbinic/Guide for the Perplexed",
+  "baseChapter": 35,
+  "translationBookPath": "Rabbinic/Guide for the Perplexed — Friedlander 1903 revised English (separate edition)",
+  "method": "Provider coordinate checked against a unique matching local Hebrew paragraph; Feuer passage spans two Hebrew paragraphs. Translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 303,
+      "baseTextSha256": "8ef5f4b0ce451d1a5bbbdde2b92acf5a1e7df01bc3d1ecb2f89b058cc628c7b1",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "58aebfe3f16b26febe1c7e4f029c4b30cca477735970aee70d5644641d08ad0a"
+    },
+    {
+      "basePosition": 304,
+      "baseTextSha256": "02fdcf44a6b114f17d2399cb0896fee707d8b9d9bb27b04e309c7cd380b05c00",
+      "translationChapter": 1,
+      "translationPosition": 2,
+      "translationTextSha256": "a5215907c470dbb0f298f0e71321d42d72b9a762ea5c99716d030dc0310b7a55"
+    }
+  ]
+}

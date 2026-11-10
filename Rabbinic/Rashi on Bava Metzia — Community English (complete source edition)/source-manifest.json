@@ -1,0 +1,3844 @@
+{
+  "schemaVersion": 1,
+  "work": "Rashi on Bava Metzia",
+  "parentPath": "Rabbinic/Rashi on Bava Metzia",
+  "editionName": "Rashi on Bava Metzia — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rashi/Seder%20Nezikin/Rashi%20on%20Bava%20Metzia/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/663e126b62753ba2ea2b.json",
+  "sourceRawSha256": "648840f19b260cf9cf35582ec8eb3ae7233d366f52608e79711990dfcea20fb4",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Rashi on Bava Metzia; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Rashi on Bava Metzia",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rashi/Seder%20Nezikin/Rashi%20on%20Bava%20Metzia/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/663e126b62753ba2ea2b.json",
+    "sourceRawSha256": "648840f19b260cf9cf35582ec8eb3ae7233d366f52608e79711990dfcea20fb4",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Bava%20Metzia",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Rashi%20on%20Bava%20Metzia",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/b85810742218758ce691-versions.json",
+      "rawSha256": "14870aaf57e938a2a1fa334951608e6da16cae2f2f9980e40994ea6048d1836e",
+      "retrievedAt": "2026-10-30T04:25:34.376Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Rashi on Bava Metzia",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Rashi on Bava Metzia 2a:1"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "3 · 1",
+      "sourcePosition": [
+        3,
+        1
+      ],
+      "payloadSha256": "c9472b4277e050ed5f892485586186d14cb09f2d13e6d1e300681a1b770dc2a7",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            1,
+            1
+          ],
+          "sourceTextSha256": "3869d2799a155bc493c21277c5b29f58d4e5a086768ba6ce43a96f05211735c6",
+          "retainedTextSha256": "9c4e6d4eb4c99f6288ad3eea6fff32cadec5098ff080b5a2c08beab0e72e60d2"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            3,
+            1,
+            2
+          ],
+          "sourceTextSha256": "1576b3694b7566b7373e0370078456d2083a33663d7e9bc20c52e7e0e7cf9412",
+          "retainedTextSha256": "45d5fb51cb8fb7cebdb2d6a54d2aaf0ff6abd9fcf8edb9d5a161302ec74cf66d"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            3,
+            1,
+            3
+          ],
+          "sourceTextSha256": "89b565eca6a614546b078c6666596599687d54e7d75658f7acad87dcf6a66757",
+          "retainedTextSha256": "6614ecd57f9b7c61117a643049fe6dffc63731c657d70e68a516c0cc0aa4a35d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            3,
+            1,
+            4
+          ],
+          "sourceTextSha256": "5e4d82a4170509c6ea49844be7be463fd4570ea04004c646e4192b47c372cb7e",
+          "retainedTextSha256": "2910befbfd53a613352e1039c2575abe8bedb76ace070a52bf3e2ba45bb6f894"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "3 · 2",
+      "sourcePosition": [
+        3,
+        2
+      ],
+      "payloadSha256": "7fd9320c09976e293c1bf0d844731d36fc758187ee8589f9c842a38bb52a5339",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            2,
+            1
+          ],
+          "sourceTextSha256": "5ddfb25eccf5f596d62ff4e2e26d64cc2473425aeaf70da2c2f580f5f55333fa",
+          "retainedTextSha256": "129d8f0eda4774244a31bc90c48817d9dddced33f4bac4d24a28bba23efb3761"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "3 · 3",
+      "sourcePosition": [
+        3,
+        3
+      ],
+      "payloadSha256": "5dc0606726250a1c4261e36a5425d52a7355609929e61220b448de9103c49f37",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            3,
+            1
+          ],
+          "sourceTextSha256": "853d16a6094292d29dfa9ec3932f5915589eaf2a66825430ee10986036e9bba2",
+          "retainedTextSha256": "6c970313e92466ff10cbaeb49680051930f127603e6110abf5dfe271d00c6a11"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "3 · 4",
+      "sourcePosition": [
+        3,
+        4
+      ],
+      "payloadSha256": "01358b2b4faebc8a334e28c7f20f9885dcd921ec7399a5ef898acd0c48e253fc",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            4,
+            1
+          ],
+          "sourceTextSha256": "3b8741e53ffab0a3c705fa9ab198363c4e9baf107929a0c23e89c48c2cdebc0f",
+          "retainedTextSha256": "99f9ebafd38f8b8834941e9eac083e8d964227159875ba2d2be3b8e082647c36"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "label": "3 · 6",
+      "sourcePosition": [
+        3,
+        6
+      ],
+      "payloadSha256": "611a6530e716ad057d1cbbb5fb03d69258dbf83f8afc6a4cdc1097dfe4d53fb5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            6,
+            1
+          ],
+          "sourceTextSha256": "4cd7fd5f58c2483b7e0891d40f164021334d10782e48dc07a607249fc18737f9",
+          "retainedTextSha256": "33417c935fbc2bfb318c91c01a4ccc378328a0285cdc553c1891e42b168cf447"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            3,
+            6,
+            2
+          ],
+          "sourceTextSha256": "80f5d3e2489d2f651356b8b6ff72ae730e6501d517ec7837c7960dcb95cbb844",
+          "retainedTextSha256": "302f87b142023cf84bf269b666d43c253ebc7e64e0da7fb09af7a4c7b921588d"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            3,
+            6,
+            3
+          ],
+          "sourceTextSha256": "83c90b8a1d9c93b41279b196b5f0b0869604dbeb8889f7f22389c2f24d72d38c",
+          "retainedTextSha256": "2802cd18a22f9a7c85e0797b9da08add602be5df8d516d2e6fd079db969b004b"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "label": "3 · 7",
+      "sourcePosition": [
+        3,
+        7
+      ],
+      "payloadSha256": "0f16757d23f12dbca2c8f31676d8a9a6a464f213b824b05bfe299fb3c331f157",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            7,
+            1
+          ],
+          "sourceTextSha256": "47f44b1acbf1408b15bf65698f3ad555886f2ea4ce20c7f0a64f86eb5a81867c",
+          "retainedTextSha256": "c4a4fbd4ce128dcb291396600596a4f33f7eae32d9b73f766e6ffa36ba0a3f7e"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            3,
+            7,
+            2
+          ],
+          "sourceTextSha256": "04f113a33459991bc7bd0b4f9e070df552bb457aef1ede39cfcb1ba62fd7420c",
+          "retainedTextSha256": "3a6ea91f547d546307aa73cecdcd33104c721373139c529db99d4793a43053d4"
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "label": "3 · 8",
+      "sourcePosition": [
+        3,
+        8
+      ],
+      "payloadSha256": "cfaf2d24c2810310274bf16a51a6a50f5523cf686c02be82a677a5a5e0982d98",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            8,
+            1
+          ],
+          "sourceTextSha256": "acf8baef476bcaf872f023166099a7f1b6a60df78e8ca0a16a15dbb489e9dc9e",
+          "retainedTextSha256": "3292d7046bb9286c0f58e262be22e72eb64b4d7553f03edbe53100ab40763e1d"
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "label": "3 · 9",
+      "sourcePosition": [
+        3,
+        9
+      ],
+      "payloadSha256": "ffbdb8c8e34523ac4c2731433c8108b111ebc737d8bfc557df4948b1b12c95a9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            9,
+            1
+          ],
+          "sourceTextSha256": "e440d74ccf1893601e3c9bc84054069fbba92af57b2d17769cb10a6cce084b05",
+          "retainedTextSha256": "d6c6ba483f7e377e6c0d3a343d0debefe2db435852683d97f0c4e779a48e4dbd"
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "label": "3 · 10",
+      "sourcePosition": [
+        3,
+        10
+      ],
+      "payloadSha256": "a39fb3498f72e72af4df2b1b6124fe5c52cd2914579d638099192777be8f1124",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            10,
+            1
+          ],
+          "sourceTextSha256": "105220643c9ea04fa6fa69c35115bf4e59a63982299a4c423866b5f2792aab5e",
+          "retainedTextSha256": "53136e2d76b105d3a6207dd506e4359d9f74ccceb8016a01be5f0e1f56b8084b"
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "label": "3 · 11",
+      "sourcePosition": [
+        3,
+        11
+      ],
+      "payloadSha256": "c29004f5a747c9fba888ba11cdfa3aa837438f08ebd4e8c14f2ada5227f3d917",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            3,
+            11,
+            1
+          ],
+          "sourceTextSha256": "ef5f2c34e6e267a4af3c5dc931c3d81b37fec3ff05dae703d7031eb93da1574b",
+          "retainedTextSha256": "3fd0c5552e107192cddb2643d5e22147905f1d04f29daa9a50ed4881e0f4d1f4"
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "label": "4 · 1",
+      "sourcePosition": [
+        4,
+        1
+      ],
+      "payloadSha256": "6cd4def0b62335bebcf67080c44bc7eb97963fb96749d2c3a551e8e48d8c13a9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            1,
+            1
+          ],
+          "sourceTextSha256": "5c53825ab2325ce2d1db58ecaa02ea92bf1a1ebb07491d2ea9c08ae065093bf4",
+          "retainedTextSha256": "9163c9a39b8569657caed52330b2d4ee13ed29fd3cc7cf187f625842dd1f6202"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            4,
+            1,
+            2
+          ],
+          "sourceTextSha256": "b4b9bace87aae37a609c8bd4096a4917a27031427841234535c09d0258e89844",
+          "retainedTextSha256": "1da976d770ba94c7d27915d47035939592b41359e3aa7c661b684cb62846c204"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            4,
+            1,
+            3
+          ],
+          "sourceTextSha256": "41cdbca6cb64f22df87e3b58db40c281e6a7b974269084cc8591cdb4545426c0",
+          "retainedTextSha256": "3926b18161e645ccb169ab56769a16ea454624bacfabef47319d0ff161fa3837"
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "label": "4 · 2",
+      "sourcePosition": [
+        4,
+        2
+      ],
+      "payloadSha256": "41d6003cf0a451585cfb006e1d6a4bcfee608e882094fd41bae26a45ac6465f3",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            2,
+            1
+          ],
+          "sourceTextSha256": "1ae8db2aae71b3d57dc82c40df6e6963da323122d6a87fd158fe4fd8fa85eca7",
+          "retainedTextSha256": "44dfb14e5259bfcd0d46e3495077fffcc2537e20caa3d084c44cd24f17168f24"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            4,
+            2,
+            2
+          ],
+          "sourceTextSha256": "8335d136b84eae1cb9d2f302eaedd2b853d76a2eb7fac2a3e7ef32b4dc87a437",
+          "retainedTextSha256": "f72d5614c8e37ee43f2abcdfd12ecfc1da1250e6045e5da2ea1cae16cf2076ff"
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "label": "4 · 3",
+      "sourcePosition": [
+        4,
+        3
+      ],
+      "payloadSha256": "3ee7ae8d286cc7f2af8f972ac8749f9e756c5b4471d44089ebbb01b57e1cdf99",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            3,
+            1
+          ],
+          "sourceTextSha256": "e2ffdc1aebe7433d042abfa02df6dbaec1ca097a7b11bc2eaf11728c4ce5d0fa",
+          "retainedTextSha256": "cda49fe6aedd462ed6b18dc1e47d1a52177a1da2dd31c77ecc3fb0c4565a2193"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            4,
+            3,
+            2
+          ],
+          "sourceTextSha256": "041e81be0eabbf9bddaeba30e8b11f034d6d6dff4f66adc6de47747f836960b4",
+          "retainedTextSha256": "ccb45ebe27426150bf035e53fbc2e86712670c3b568fa62a3a6ae4db9af35243"
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "label": "4 · 4",
+      "sourcePosition": [
+        4,
+        4
+      ],
+      "payloadSha256": "32ae595da21a0cab257f9e7bdc735ba29608b0611cfd81c118a8230dcdf10586",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            4,
+            1
+          ],
+          "sourceTextSha256": "05dd717b7200ed9614b64ec973c85a6ab68e628e2859a1009e502566ecf0163e",
+          "retainedTextSha256": "10dd16f67f216e9f0b618414728f042e9cd101f4997976547447e57499d7a4b2"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            4,
+            4,
+            2
+          ],
+          "sourceTextSha256": "007777625fc869a01de2d1eb9036ed6df44c80014389efee4d12278ab8c6b186",
+          "retainedTextSha256": "36064be75b480b1f68990f89f337876abef9230f297b9320f9e6e64d4cb5ac6c"
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "label": "4 · 6",
+      "sourcePosition": [
+        4,
+        6
+      ],
+      "payloadSha256": "af76bd93f0677fa1ab39f8de6e11f8c8d8ecd68cfce27c9e62b4dce8d9719327",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            6,
+            1
+          ],
+          "sourceTextSha256": "ce255379f54f4897d476f2a70c0c57756b23103d241887440cb29ddb96c4f701",
+          "retainedTextSha256": "e1e391e37f1827319bf1464abdafd2ba55c26f7b89c58149cdfc8b129cf756df"
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "label": "4 · 7",
+      "sourcePosition": [
+        4,
+        7
+      ],
+      "payloadSha256": "312bda32e4db7d840c3da39542f66d185fc818685be7496dbce627c88ce0659f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            7,
+            1
+          ],
+          "sourceTextSha256": "5b186500576bd56bd58d861dcdca7e68e680ab0b15d89533ba0a39977e6b6ae3",
+          "retainedTextSha256": "8bc369d56e6a53c79d0883625e7924619f68f2b34cc16be420f2134ba9fdef3a"
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "label": "4 · 9",
+      "sourcePosition": [
+        4,
+        9
+      ],
+      "payloadSha256": "2f4790c21b46d423338412801cd4d88a7b9a83db79755c90cdc8df7b627a4183",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            9,
+            1
+          ],
+          "sourceTextSha256": "1b63f1531e8c83609a3ad3e5df8003f703dddcbf2b8c0d5aaeaf6b988a709089",
+          "retainedTextSha256": "6178bb5a88c7768d09d2c7813329cbf012e885d1709974457779f265cac22915"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            4,
+            9,
+            2
+          ],
+          "sourceTextSha256": "02e95a2b379752b1875629845f120ee3c45d4ed1eecb5a1b7388d177ee9a7dc9",
+          "retainedTextSha256": "9f8f7ac08520292e2d10d6e03241af9484c7aa8d92a2ecb2dbc2daa8372e1edb"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            4,
+            9,
+            3
+          ],
+          "sourceTextSha256": "ca7a01947a2dce05838d893e7242145f7be0728e86d000b32eb114be11421130",
+          "retainedTextSha256": "7231e6a46a47f775d6ff951474c32b66626cb01537534b052ee64f7b33cf0cb6"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            4,
+            9,
+            4
+          ],
+          "sourceTextSha256": "7b25aa9f0845a48d59b9fed997f3311aadd14e091604722fb9afb82301f39359",
+          "retainedTextSha256": "39053d01c58f228e80a98b11125850e9eb7a2b43b82cdc3b285daf19ceba3457"
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "label": "4 · 11",
+      "sourcePosition": [
+        4,
+        11
+      ],
+      "payloadSha256": "f0e266d56762cf5329cf04889bfcd97663daf30fcc103e6345060c86f8c9ffc0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            11,
+            1
+          ],
+          "sourceTextSha256": "3789b12b390c92679bc5c999c8f13773584cc99dd24337b5f1d02fec2ac116a6",
+          "retainedTextSha256": "31e78069fd02131d2e01cbf1367bdb3d5600f7ffdf5b71d2a3cce3a5e2f72be4"
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "label": "4 · 12",
+      "sourcePosition": [
+        4,
+        12
+      ],
+      "payloadSha256": "69be703c9cb5728f59ad366d741f5bf66110b8bfd1bb12434dbbffca389bc1ce",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            12,
+            1
+          ],
+          "sourceTextSha256": "696a052054e0104784c79ac928c194ed9e5dfdf99a0208380d2ebf70508a0c03",
+          "retainedTextSha256": "3494f0e06653f68f417bf3d37705f456c08cf02f0114f9934a284201e5409604"
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "label": "4 · 13",
+      "sourcePosition": [
+        4,
+        13
+      ],
+      "payloadSha256": "112d4608adb81a65047a92825ebe620a9959b69e31e7544258871275bf983013",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            13,
+            1
+          ],
+          "sourceTextSha256": "43639c749c40a6aec9854d90b05b825faa643e3c91059b25e3baaff291e1d0fa",
+          "retainedTextSha256": "2e994652db5ebe6db892ae9cf330f245e35aab8018133e2669d06910e12e9311"
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "label": "4 · 14",
+      "sourcePosition": [
+        4,
+        14
+      ],
+      "payloadSha256": "84a30be7007c91a40a6b143a2bb041dd2a2714ca2343335a2628200f39b5b0d5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            4,
+            14,
+            1
+          ],
+          "sourceTextSha256": "4bbd3b5f0a78a76a9d0b5f36c63d092475401cfa8266560e20326e69b1157aa4",
+          "retainedTextSha256": "0d60bc29223410c975a1ca34bd6478215c256dcb4bd7df07398eb394399916cc"
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "label": "5 · 1",
+      "sourcePosition": [
+        5,
+        1
+      ],
+      "payloadSha256": "782a74e63a84c37f507c385bf5838ce10ad73363c8ba9730a4a5f739dc8e5712",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            1,
+            1
+          ],
+          "sourceTextSha256": "10c4c5c57af54620d4e838ee83eae12ecdc71978fb3dd73a142e5c85f941468b",
+          "retainedTextSha256": "8758b6446c2933f98702d05702ca7b498217721c91fb6d0f72e8c050f195434d"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            5,
+            1,
+            2
+          ],
+          "sourceTextSha256": "ccfc0e27946c620a3838985b3fc16dd955bd71fe4fd6c286845a775832cf1eba",
+          "retainedTextSha256": "99f5496f20f4db3763e42b33f6e7eef486e5d34e57589ecc4eac76a26c328907"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            5,
+            1,
+            3
+          ],
+          "sourceTextSha256": "7f82db5eb01769c740584ed1f47e75cf97398b53abf9a49e80ba1b6d6b8ade41",
+          "retainedTextSha256": "f9e0d7dfbc99652a7e6553b10b5c6a738bbe87c8c90fd01a66e48d244b8dfca0"
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "label": "5 · 2",
+      "sourcePosition": [
+        5,
+        2
+      ],
+      "payloadSha256": "cd92936d7aabe728c289e8e9a44f847693bfb7d9c4d06c77f9d4c31956dd6040",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            2,
+            1
+          ],
+          "sourceTextSha256": "6cfa66b4d74de1940de93413c2d7ae535bcd0b6c180492d67f2de58853ce5c90",
+          "retainedTextSha256": "cb78110703d2a4d0d810248d89036f0b2ca94662e19892242f6e4aa40a2dea56"
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "label": "5 · 3",
+      "sourcePosition": [
+        5,
+        3
+      ],
+      "payloadSha256": "4447775f26f5a4751da18df730a762ee4505bd5a704c2e502f5783798bfc025b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            3,
+            1
+          ],
+          "sourceTextSha256": "5768e15c86f65a304a444ffa8fe1e98e8bb817f18e715275690c4b2771faf1fb",
+          "retainedTextSha256": "8778471be332da8d2274a312ce623456963da9a4178c2b8367170cc2f4611a68"
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "label": "5 · 4",
+      "sourcePosition": [
+        5,
+        4
+      ],
+      "payloadSha256": "4562577e4bada58efa00b22fb5d01277915fabe907ce0443f3a9ba029ed5c0f6",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            4,
+            1
+          ],
+          "sourceTextSha256": "25cff925c8a692a3470d84db146c735f8e646ddfab98d67989bb6147cb91273d",
+          "retainedTextSha256": "bbe0a424bfdad261b352465d55a3a783e970cac93f4aee5fe60c71db199845b7"
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "label": "5 · 5",
+      "sourcePosition": [
+        5,
+        5
+      ],
+      "payloadSha256": "a6dcb78ee727fb15a410e08237146eab6305e515148b379dd1b12ce92bfd6ca3",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            5,
+            1
+          ],
+          "sourceTextSha256": "6f9a06347867046cf124b9bbaef66901094bf0f5504535e7cae0419b87e6177e",
+          "retainedTextSha256": "308b7dadcc04a51afcf20acabbc7d9b59ea2c53663357d09abfc133836524f62"
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "label": "5 · 6",
+      "sourcePosition": [
+        5,
+        6
+      ],
+      "payloadSha256": "bb64bd1ad544a5790a6d014023c9a290bc2357f0571cd5fcd899e98c583a32e9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            6,
+            1
+          ],
+          "sourceTextSha256": "e72376c479ec46d954ce93fa42a5af9be0d0c53f2e3f0833f88ee1105281e24f",
+          "retainedTextSha256": "827aeea0d82916ebb160e8d5eb2085567afa1e3c958bd7db04d380dc56ef09ea"
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "label": "5 · 8",
+      "sourcePosition": [
+        5,
+        8
+      ],
+      "payloadSha256": "b5301d80520fc0cd4247b82eae7d9b5bf530dad95bd52323aa51d00545f526ef",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            8,
+            1
+          ],
+          "sourceTextSha256": "9ed5b7db1086d86587260b51219cbc5138d9e0f9019c9f5b2424349712721162",
+          "retainedTextSha256": "49c44c74734f317b0d0c17d097a92a62a527fa1eb9807e4c5fefc96d79d01d0f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            5,
+            8,
+            2
+          ],
+          "sourceTextSha256": "7be786858b776e1bec01d071e59e464860601e241ea432f48cc75b72e5727e9b",
+          "retainedTextSha256": "e6dd256156f15e42d3832bdc390559c54cb829789fb27d20bf63f6f64e790cdd"
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "label": "5 · 9",
+      "sourcePosition": [
+        5,
+        9
+      ],
+      "payloadSha256": "666486677cfc626b883259bd70d59e7bc92406350a9fb10a8b8e6d7f5420b7bc",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            9,
+            1
+          ],
+          "sourceTextSha256": "d79d22256ccea65316c71b85149678b209946f2b9c0d1da16f676d74c8db5139",
+          "retainedTextSha256": "a6958f03888e09cf4ca5dd2c2edcc5d19cbacba840551fb04eaaed8f88980c49"
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "label": "5 · 12",
+      "sourcePosition": [
+        5,
+        12
+      ],
+      "payloadSha256": "447129413d5d91560204e857f8217df19197c14f86c7559bd9d7d303a83a6cae",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            5,
+            12,
+            1
+          ],
+          "sourceTextSha256": "8abf3d2e68a8222313d220d549ff2cb7ca712b174a323c8ae5cc04bcd97c7ce2",
+          "retainedTextSha256": "c69827b9e4a53a005ff712e04cd0d3e37ff1323af1eb30f659d2ef9096fcb580"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            5,
+            12,
+            2
+          ],
+          "sourceTextSha256": "f1aa33f00087f67f6922403ad16b6a898f17cdc5d7cee15cf0ef74aacf10af07",
+          "retainedTextSha256": "791006a85ed5495cb125f6014cdebc8115d28dd357df849823837ed450da29cc"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            5,
+            12,
+            3
+          ],
+          "sourceTextSha256": "55c91f54a3a1587aa35832ce76ab48549f44a164519103134f44e85c68f32fe7",
+          "retainedTextSha256": "ce26ed5a7f8d16860296961e26ff7ef5bf3a21449d27b726c3e01fea3b155432"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            5,
+            12,
+            4
+          ],
+          "sourceTextSha256": "4ed609e06253fb0c44710a394416c1dff9bf9fa2a13f898c08dc425e8dfd1123",
+          "retainedTextSha256": "4adf62575c48cf8bfb95cd868ab14c5a5f90bfd43a44037248935c148b9c7630"
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "label": "7 · 1",
+      "sourcePosition": [
+        7,
+        1
+      ],
+      "payloadSha256": "28a1dcbc8d50c2fa528de806fe7727c857553514dfbfed1a1ca35e6a40a37a4a",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            1,
+            1
+          ],
+          "sourceTextSha256": "6254b1cf588af3d02f834893cf5ecdac2e2723f7e0700d285f9b80356de88f08",
+          "retainedTextSha256": "6254b1cf588af3d02f834893cf5ecdac2e2723f7e0700d285f9b80356de88f08"
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "label": "7 · 2",
+      "sourcePosition": [
+        7,
+        2
+      ],
+      "payloadSha256": "b241880894586ef7a6378c2678c316452fcc73bf49ccc964cf730e49af57adb8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            2,
+            1
+          ],
+          "sourceTextSha256": "9a63e88a5e2c343aa30bb78552dd1ef2a8888743b8fef3bde4d47358617b4544",
+          "retainedTextSha256": "9a63e88a5e2c343aa30bb78552dd1ef2a8888743b8fef3bde4d47358617b4544"
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "label": "7 · 3",
+      "sourcePosition": [
+        7,
+        3
+      ],
+      "payloadSha256": "4c6c072924ce6a34add80b00c864099714d7bb909bf7e263636f07d03461a6e7",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            3,
+            1
+          ],
+          "sourceTextSha256": "861ddacd5050677e197255c3f1a7b6b3c94b73c60175e6861c8138e8f79d8892",
+          "retainedTextSha256": "861ddacd5050677e197255c3f1a7b6b3c94b73c60175e6861c8138e8f79d8892"
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "label": "7 · 4",
+      "sourcePosition": [
+        7,
+        4
+      ],
+      "payloadSha256": "41a885b629857bd410e068850676100579b57cc77900fff2b3cb3156c07b0848",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            4,
+            1
+          ],
+          "sourceTextSha256": "e7bd170946188f3b87c8f929d8895b794b663d193cc8fd2c1d0a918590a585ea",
+          "retainedTextSha256": "e7bd170946188f3b87c8f929d8895b794b663d193cc8fd2c1d0a918590a585ea"
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "label": "7 · 6",
+      "sourcePosition": [
+        7,
+        6
+      ],
+      "payloadSha256": "9ff0d557cf50a1edef40a5f9295b0597d1ed7506d57cd7c1e2ae5ef1b7ecd403",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            6,
+            1
+          ],
+          "sourceTextSha256": "c20e072b46ab0636804c3a8d84ace44ff00501933cee4b95c237d047c8ef25f5",
+          "retainedTextSha256": "c20e072b46ab0636804c3a8d84ace44ff00501933cee4b95c237d047c8ef25f5"
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "label": "7 · 7",
+      "sourcePosition": [
+        7,
+        7
+      ],
+      "payloadSha256": "0a702e1583f66961c5fa359f4a2f21bb67cf19c6676062458b988b6e10b1a0d8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            7,
+            1
+          ],
+          "sourceTextSha256": "279c6dfa732d4c21697a9639036ffa1850ff9bf634a77a04360dcb907e9e9a13",
+          "retainedTextSha256": "279c6dfa732d4c21697a9639036ffa1850ff9bf634a77a04360dcb907e9e9a13"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            7,
+            7,
+            2
+          ],
+          "sourceTextSha256": "781a67eb5f7628803c8688dc181e8d1ea363f48d20ccbae4590325eaf4562687",
+          "retainedTextSha256": "781a67eb5f7628803c8688dc181e8d1ea363f48d20ccbae4590325eaf4562687"
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "label": "7 · 8",
+      "sourcePosition": [
+        7,
+        8
+      ],
+      "payloadSha256": "185b780621f7c80a649bcad9e393a83532792b9ab32ed8f63ca598869bb92fcf",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            7,
+            8,
+            1
+          ],
+          "sourceTextSha256": "04618d007a568ca2c0dcd5660b5af9e75684b1f16d3c64557de7f0527813dcf6",
+          "retainedTextSha256": "04618d007a568ca2c0dcd5660b5af9e75684b1f16d3c64557de7f0527813dcf6"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            7,
+            8,
+            2
+          ],
+          "sourceTextSha256": "a2b34cca2dc371e644e417bc96d3d3e5cbd2ce319e2e1317c689114f9dd09efe",
+          "retainedTextSha256": "a2b34cca2dc371e644e417bc96d3d3e5cbd2ce319e2e1317c689114f9dd09efe"
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "label": "41 · 8",
+      "sourcePosition": [
+        41,
+        8
+      ],
+      "payloadSha256": "2d9c7c0c3a9b8b21489bc4efdd49b9d88d791d0e5ad7026f3d3fb1ae211cfd0c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            8,
+            1
+          ],
+          "sourceTextSha256": "7fd04518389f7e0810513633db46256d338bb5f6764379fadf74c47957ddc15f",
+          "retainedTextSha256": "a866353688f5f1c0c380d8adcba0cda7fda7de5f3b44f288d5b238a57455cc93"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            41,
+            8,
+            2
+          ],
+          "sourceTextSha256": "f3b4c4d163a7a2ad7b49a6809bb71783ac74af891e3c67c08a68ac966523d93a",
+          "retainedTextSha256": "f3b4c4d163a7a2ad7b49a6809bb71783ac74af891e3c67c08a68ac966523d93a"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            41,
+            8,
+            3
+          ],
+          "sourceTextSha256": "68152373d4cbcbfbf1a092a4c4ebc59d2adea80f834f2750e5c1fd6c7cab95ae",
+          "retainedTextSha256": "705ce5ae28fb35d4c368c19d67e97cb5600982007ddc54876738158cccf63642"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            41,
+            8,
+            4
+          ],
+          "sourceTextSha256": "8dae29241b22cacfe35d5786d77fa65e5ac245f5021dc9e389fb6f3c8050f701",
+          "retainedTextSha256": "8dae29241b22cacfe35d5786d77fa65e5ac245f5021dc9e389fb6f3c8050f701"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            41,
+            8,
+            5
+          ],
+          "sourceTextSha256": "7da80db79e27d9961d9597eaf9afa18526f62cf99d6e2290236e664218fbd881",
+          "retainedTextSha256": "7da80db79e27d9961d9597eaf9afa18526f62cf99d6e2290236e664218fbd881"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            41,
+            8,
+            6
+          ],
+          "sourceTextSha256": "f8bab431de7b1610546e217b9a2e0089c56cd7af17673b35223a416c8b33a7b0",
+          "retainedTextSha256": "f8bab431de7b1610546e217b9a2e0089c56cd7af17673b35223a416c8b33a7b0"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            41,
+            8,
+            7
+          ],
+          "sourceTextSha256": "00f4fa22ad80434e08fd92ba4831aef9ad07c116978fc04fa24ac0cd138a551b",
+          "retainedTextSha256": "1cfc4489da9b70a66a404d3840444461c74eeb0ee4d95fd6b4f088b435e5356f"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            41,
+            8,
+            8
+          ],
+          "sourceTextSha256": "f6570bbfe1354ffc0668797dac2e165cdcce53b22dfe8fb83ee7f4aaea1a13d6",
+          "retainedTextSha256": "f6570bbfe1354ffc0668797dac2e165cdcce53b22dfe8fb83ee7f4aaea1a13d6"
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "label": "41 · 9",
+      "sourcePosition": [
+        41,
+        9
+      ],
+      "payloadSha256": "8506b2ec441a9b7908d4c8b8083ece64d9a5eba30a8dc4a850124848756a52bc",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            9,
+            1
+          ],
+          "sourceTextSha256": "b5087629596fe14554448e446f5a195ffeca4ecf01c072573241f91ecebfb236",
+          "retainedTextSha256": "b5087629596fe14554448e446f5a195ffeca4ecf01c072573241f91ecebfb236"
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "label": "41 · 10",
+      "sourcePosition": [
+        41,
+        10
+      ],
+      "payloadSha256": "0d0c16945bb8324212af369370c248a9cf4322f23280b078e34ceb6dfbd471d6",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            10,
+            1
+          ],
+          "sourceTextSha256": "e7541cc6ebe06502822a2131b6cb38ab645f884094fef76f0b7339e71b76cbb1",
+          "retainedTextSha256": "66301c1b345fbdd36de036b6c17e2afb263ab8b820481b2539c0b9aea09b2ee0"
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "label": "41 · 11",
+      "sourcePosition": [
+        41,
+        11
+      ],
+      "payloadSha256": "feefda2270a0fd93dc597e0b5f42a2aaef381de7300c4b94f1499f504671bdb0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            11,
+            1
+          ],
+          "sourceTextSha256": "9d869b9437bf6f0080492de6a5f48248e1d1f17ae788022ba19b849fd702dd62",
+          "retainedTextSha256": "c80e65df5f868d91c4617f277622d58df0a2863ac2b5b273e97cdea9b89ec3f3"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            41,
+            11,
+            2
+          ],
+          "sourceTextSha256": "136b90bf79a05e4f97faff6c8c95202329706ed702dcb865a1fdc36f4878fa46",
+          "retainedTextSha256": "499f49f017075c0e53da041ef42661580e8412b222153f1e89d89bda7dedbdc4"
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "label": "41 · 12",
+      "sourcePosition": [
+        41,
+        12
+      ],
+      "payloadSha256": "957b778ff8666d7be20d5b352fec95d89c57f79c2c8d0180b98cfae06ad36905",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            12,
+            1
+          ],
+          "sourceTextSha256": "370cc51658e0d574db2d799dbcb688b0640c7cfb59552b37177cf6ebcaa1ee46",
+          "retainedTextSha256": "370cc51658e0d574db2d799dbcb688b0640c7cfb59552b37177cf6ebcaa1ee46"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            41,
+            12,
+            2
+          ],
+          "sourceTextSha256": "d19bc582714f24c3f8d2460d0621e690715278bd47381876c2bff4767c123985",
+          "retainedTextSha256": "05d0ac0dc1d128fcac869ecdca60665da88ab18159953ffb5873f1a3277a7f94"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            41,
+            12,
+            3
+          ],
+          "sourceTextSha256": "dc2a779758fb7e3c483c4d605be14e38263d4032dc01f9a85bbd4a97b5395004",
+          "retainedTextSha256": "dc2a779758fb7e3c483c4d605be14e38263d4032dc01f9a85bbd4a97b5395004"
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "label": "41 · 13",
+      "sourcePosition": [
+        41,
+        13
+      ],
+      "payloadSha256": "b9c98433c41d6d4588837bddc838ea55640f19ec2b2a5705d9c007387ecd0411",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            13,
+            1
+          ],
+          "sourceTextSha256": "fab0c69999e9f0f41ebbcee0ea766c0847de2508aa6c64192ef93ddfee4e4cd3",
+          "retainedTextSha256": "fab0c69999e9f0f41ebbcee0ea766c0847de2508aa6c64192ef93ddfee4e4cd3"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            41,
+            13,
+            2
+          ],
+          "sourceTextSha256": "194bfab979ff1d1a57816138437fe0637d7a00713091e8478088b21b3abef4e3",
+          "retainedTextSha256": "194bfab979ff1d1a57816138437fe0637d7a00713091e8478088b21b3abef4e3"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            41,
+            13,
+            3
+          ],
+          "sourceTextSha256": "2ada7f9ac3601071713527c3b2e3434cfd76bb0b20f132755e3fd61c9091d0e7",
+          "retainedTextSha256": "2ada7f9ac3601071713527c3b2e3434cfd76bb0b20f132755e3fd61c9091d0e7"
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "label": "41 · 14",
+      "sourcePosition": [
+        41,
+        14
+      ],
+      "payloadSha256": "e2062e474041a4bbc1344ff32bfe361a71ce8e34c90e905b4179096738bfe014",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            14,
+            1
+          ],
+          "sourceTextSha256": "de28ed556aa7803d1371861f7cf6abddf12f7ce82c3f5ce278cef4924acb1b0d",
+          "retainedTextSha256": "10b8b8a5eb2449afe01da97e6b45569268cd57b37d0b156c70d3bc9610db1dae"
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "label": "41 · 16",
+      "sourcePosition": [
+        41,
+        16
+      ],
+      "payloadSha256": "d2b77fde2dd7acc389994f7305369ee845a477f20e127585c4359e32d9e7f13a",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            16,
+            1
+          ],
+          "sourceTextSha256": "184e85b3a59ba720aa8c4826ed78a350ccfc813b988782e63b03034e3281dbce",
+          "retainedTextSha256": "184e85b3a59ba720aa8c4826ed78a350ccfc813b988782e63b03034e3281dbce"
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "label": "41 · 17",
+      "sourcePosition": [
+        41,
+        17
+      ],
+      "payloadSha256": "e804af4e59d91b6f5489891e4dd90ef741afec31adcce35fb5395564b61849cb",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            41,
+            17,
+            1
+          ],
+          "sourceTextSha256": "677de6fddb5c059655f18d4192a1aff1884803cd92d101f67c2f5654b41ed50e",
+          "retainedTextSha256": "677de6fddb5c059655f18d4192a1aff1884803cd92d101f67c2f5654b41ed50e"
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "label": "42 · 1",
+      "sourcePosition": [
+        42,
+        1
+      ],
+      "payloadSha256": "06482f06a19d623c0f705c80d6c1419c0c69a76c3428dd7b0de32a1cdfc77a23",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            1,
+            1
+          ],
+          "sourceTextSha256": "ec8bf6e8f1795fa26cace1d75f370cf0ee54963d99d0585e1e2915124b8d5e76",
+          "retainedTextSha256": "ec8bf6e8f1795fa26cace1d75f370cf0ee54963d99d0585e1e2915124b8d5e76"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            42,
+            1,
+            2
+          ],
+          "sourceTextSha256": "e4b8906e46054a944d93af4f0c68e1d057618636e3c5cb9557581908d83fbc30",
+          "retainedTextSha256": "e4b8906e46054a944d93af4f0c68e1d057618636e3c5cb9557581908d83fbc30"
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "label": "42 · 2",
+      "sourcePosition": [
+        42,
+        2
+      ],
+      "payloadSha256": "626187cb20c0d34fc3c2c6a822b8d4790da59968c82cd189b209ab8fbfec66da",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            2,
+            1
+          ],
+          "sourceTextSha256": "f2f3303f1a5c0837f9ba9af230e785aa8c871da939a723022e43a927b7b5fc46",
+          "retainedTextSha256": "f2f3303f1a5c0837f9ba9af230e785aa8c871da939a723022e43a927b7b5fc46"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            42,
+            2,
+            2
+          ],
+          "sourceTextSha256": "6caa4d73c67e1dae1fd66d168c21d7b3d6e8bb0cd5e440726a007f78e240822e",
+          "retainedTextSha256": "6caa4d73c67e1dae1fd66d168c21d7b3d6e8bb0cd5e440726a007f78e240822e"
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "label": "42 · 3",
+      "sourcePosition": [
+        42,
+        3
+      ],
+      "payloadSha256": "94b02131ef95dc82fbf2b8c751513c9468f0ebb2929aea63b1243dbc814ac2ac",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            3,
+            1
+          ],
+          "sourceTextSha256": "40e7e535dc82a9e9b662f2867127034d89ff566d9fc8afae08f5c27557932f54",
+          "retainedTextSha256": "7a86471c0d9c11703218b53191ba0b000e93bebee21c0791f5a5bf879c0bc17f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            42,
+            3,
+            2
+          ],
+          "sourceTextSha256": "fda4fde2bc187a145019c529e124207f0dcacd4ac86f75a559684c20d183c5a0",
+          "retainedTextSha256": "c02011e3f74c2ca47eb296fe24b6112bf597d5d46bd11c245c7bb071a6f4f63f"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            42,
+            3,
+            3
+          ],
+          "sourceTextSha256": "e2aaecea6e13c50d84e1ab1cb5a7bf0bbcb95798f4358f6bbe260fb1b2eb3394",
+          "retainedTextSha256": "e2aaecea6e13c50d84e1ab1cb5a7bf0bbcb95798f4358f6bbe260fb1b2eb3394"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            42,
+            3,
+            4
+          ],
+          "sourceTextSha256": "52f83cb94a682b310d3b4af933d285f5725ff38ffa543f72f93f92b357d0f258",
+          "retainedTextSha256": "52f83cb94a682b310d3b4af933d285f5725ff38ffa543f72f93f92b357d0f258"
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "label": "42 · 4",
+      "sourcePosition": [
+        42,
+        4
+      ],
+      "payloadSha256": "fc86517efa849a3811c40be4da9f7379d4e5474f38c24ed7163716c83a69265f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            4,
+            1
+          ],
+          "sourceTextSha256": "89ca50bafb0f32b16623e9297ff59574a2280ed9fd97bf8e740e281a351d5500",
+          "retainedTextSha256": "89ca50bafb0f32b16623e9297ff59574a2280ed9fd97bf8e740e281a351d5500"
+        }
+      ]
+    },
+    {
+      "chapter": 51,
+      "label": "42 · 6",
+      "sourcePosition": [
+        42,
+        6
+      ],
+      "payloadSha256": "cb90a8fc4bdf48f9982e5f54ef7bb5ceda3b2ec8a7860896118242734cbe3d5e",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            6,
+            1
+          ],
+          "sourceTextSha256": "aca7a0a86e40813093225be78a217a9021690ca6cbbf00adcf6d74273eb4ae66",
+          "retainedTextSha256": "aca7a0a86e40813093225be78a217a9021690ca6cbbf00adcf6d74273eb4ae66"
+        }
+      ]
+    },
+    {
+      "chapter": 52,
+      "label": "42 · 7",
+      "sourcePosition": [
+        42,
+        7
+      ],
+      "payloadSha256": "b9794453fa06eb07c51fdbd1d3fbae4d648ac530759d325e3093a2b3e45e4c48",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            7,
+            1
+          ],
+          "sourceTextSha256": "f8066575de94bac60719cf206cde7ce3a454519d73544cff892edd89a0f78206",
+          "retainedTextSha256": "f8066575de94bac60719cf206cde7ce3a454519d73544cff892edd89a0f78206"
+        }
+      ]
+    },
+    {
+      "chapter": 53,
+      "label": "42 · 8",
+      "sourcePosition": [
+        42,
+        8
+      ],
+      "payloadSha256": "f4a7c8df0632af90c770bacf479abfe690098245ed908b44e0acb98f16258b5a",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            8,
+            1
+          ],
+          "sourceTextSha256": "4fb0873d49bb22f8822c1837fdede0a49038276ad437079a1cea5f4ef3d61dcd",
+          "retainedTextSha256": "4fb0873d49bb22f8822c1837fdede0a49038276ad437079a1cea5f4ef3d61dcd"
+        }
+      ]
+    },
+    {
+      "chapter": 54,
+      "label": "42 · 11",
+      "sourcePosition": [
+        42,
+        11
+      ],
+      "payloadSha256": "03703d90bdcd981e17ce584ce0048edd7e9cbc9d3145e00cbe215c7220b7c2a7",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            11,
+            1
+          ],
+          "sourceTextSha256": "5d8dc11a502b8ac48094bf6ff3ed334e186ade7b84639ce23f3d747ac0867a37",
+          "retainedTextSha256": "50b04341de40fdcb61f1069d39bf4c0bb8074246ad8eca2832eb2a9259c31e1e"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            42,
+            11,
+            2
+          ],
+          "sourceTextSha256": "b108e07bd4a4d7c93eef763cb2a876703fd672b968297e97e1a4bf4c7377b0f6",
+          "retainedTextSha256": "ac28ad56b29e8afaf9ff2291e31e893b42892d28812b9064e11ef048ac8e58e5"
+        }
+      ]
+    },
+    {
+      "chapter": 55,
+      "label": "42 · 12",
+      "sourcePosition": [
+        42,
+        12
+      ],
+      "payloadSha256": "f243988c73e8a9d73d88e4ffc280faef2e210defa578743a67735d2b42ab453f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            12,
+            1
+          ],
+          "sourceTextSha256": "3d52ed553df316458a3f199cf90ad544406603896e81ef2da0e83a166735b741",
+          "retainedTextSha256": "3d52ed553df316458a3f199cf90ad544406603896e81ef2da0e83a166735b741"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            42,
+            12,
+            2
+          ],
+          "sourceTextSha256": "83419904e3e635b29b53ec754e4a717348a997b89101960a89cc851d901385d3",
+          "retainedTextSha256": "5618c97be32428ba4538564a2d6cb9c2b893c8fb3fee969a40cb9151c33722c6"
+        }
+      ]
+    },
+    {
+      "chapter": 56,
+      "label": "42 · 13",
+      "sourcePosition": [
+        42,
+        13
+      ],
+      "payloadSha256": "efec6753e0a56a518fe0c6061cc8cf5ac6a471bde48b98ce36baf5a8f4f9264e",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            13,
+            1
+          ],
+          "sourceTextSha256": "30428651051c6ab240198f593f98dba59550552e453d04ecce6873531506dffd",
+          "retainedTextSha256": "30428651051c6ab240198f593f98dba59550552e453d04ecce6873531506dffd"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            42,
+            13,
+            2
+          ],
+          "sourceTextSha256": "882b46a19776a4f57292637bc8c2d5b36c835dba334723a37fa28aa452f3c247",
+          "retainedTextSha256": "882b46a19776a4f57292637bc8c2d5b36c835dba334723a37fa28aa452f3c247"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            42,
+            13,
+            3
+          ],
+          "sourceTextSha256": "84da3cfaadc88639701904ff487a8634df66b6c52b71e1235f8a5a619d940f8f",
+          "retainedTextSha256": "84da3cfaadc88639701904ff487a8634df66b6c52b71e1235f8a5a619d940f8f"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            42,
+            13,
+            4
+          ],
+          "sourceTextSha256": "4437f3f82b91984c7afbb053e066dfb3c1a9fa880ef008076dd18cacacf7138a",
+          "retainedTextSha256": "4437f3f82b91984c7afbb053e066dfb3c1a9fa880ef008076dd18cacacf7138a"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            42,
+            13,
+            5
+          ],
+          "sourceTextSha256": "12d713204e7e300e3802ad33366e8cd430bb5f5858bb58ab36d3b63cd1dfe5c9",
+          "retainedTextSha256": "12d713204e7e300e3802ad33366e8cd430bb5f5858bb58ab36d3b63cd1dfe5c9"
+        }
+      ]
+    },
+    {
+      "chapter": 57,
+      "label": "42 · 14",
+      "sourcePosition": [
+        42,
+        14
+      ],
+      "payloadSha256": "ea4942c984fc375b7b98e270db94fab9b5195ea53e9c606e236971b4a0d4d67b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            14,
+            1
+          ],
+          "sourceTextSha256": "3de0bd40233745c78a6f1e4a7cff70bbea95b4df282cde5c883e5a089a8640b2",
+          "retainedTextSha256": "3de0bd40233745c78a6f1e4a7cff70bbea95b4df282cde5c883e5a089a8640b2"
+        }
+      ]
+    },
+    {
+      "chapter": 58,
+      "label": "42 · 15",
+      "sourcePosition": [
+        42,
+        15
+      ],
+      "payloadSha256": "bcfdac40108703f14bfc2da71d2cffa28cde827256744ab97de1dca5a5a74d8e",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            15,
+            1
+          ],
+          "sourceTextSha256": "a08fa9146e9c0af3b974086fd29d0ae3ff3a9e1acf7dc0b40d99eabf76943cd9",
+          "retainedTextSha256": "a08fa9146e9c0af3b974086fd29d0ae3ff3a9e1acf7dc0b40d99eabf76943cd9"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            42,
+            15,
+            2
+          ],
+          "sourceTextSha256": "19539082b4d5a1c24be5a27ff6a75edecabc77aabe33aceb54ad1e348dee84ad",
+          "retainedTextSha256": "19539082b4d5a1c24be5a27ff6a75edecabc77aabe33aceb54ad1e348dee84ad"
+        }
+      ]
+    },
+    {
+      "chapter": 59,
+      "label": "42 · 16",
+      "sourcePosition": [
+        42,
+        16
+      ],
+      "payloadSha256": "c98ebcb5cfa1a9bb0d13cc079231a6f4bd66dbd331daada75f973275a55ddcc3",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            42,
+            16,
+            1
+          ],
+          "sourceTextSha256": "d7e4e0dcf60550c3be9644b08837e42397a6a75bf7f42d460ace044cb29b4a5c",
+          "retainedTextSha256": "d7e4e0dcf60550c3be9644b08837e42397a6a75bf7f42d460ace044cb29b4a5c"
+        }
+      ]
+    },
+    {
+      "chapter": 60,
+      "label": "43 · 1",
+      "sourcePosition": [
+        43,
+        1
+      ],
+      "payloadSha256": "e4a5326ad8816990ced2951871719bc9fb75e8f9f6bbcf6ff7e9afdd4be9b4c9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            43,
+            1,
+            1
+          ],
+          "sourceTextSha256": "93163556244b3182508f8306a6d3405806b5ca02b17ff81b149aa9c4fdf1ec23",
+          "retainedTextSha256": "93163556244b3182508f8306a6d3405806b5ca02b17ff81b149aa9c4fdf1ec23"
+        }
+      ]
+    },
+    {
+      "chapter": 61,
+      "label": "43 · 2",
+      "sourcePosition": [
+        43,
+        2
+      ],
+      "payloadSha256": "add74c2f450488f82bca54a7f5c604b605b59486b66d2afa69c77a18ff75e0a5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            43,
+            2,
+            1
+          ],
+          "sourceTextSha256": "475a87e3ec9830630dff13df037e96016e734868860d0c1eaf9bcf16656f63ba",
+          "retainedTextSha256": "475a87e3ec9830630dff13df037e96016e734868860d0c1eaf9bcf16656f63ba"
+        }
+      ]
+    },
+    {
+      "chapter": 62,
+      "label": "43 · 3",
+      "sourcePosition": [
+        43,
+        3
+      ],
+      "payloadSha256": "7248008793573faf1cf1366452f9aa16626a754361881467d954e388d1884993",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            43,
+            3,
+            2
+          ],
+          "sourceTextSha256": "9f590a71bfb0d0b3fe64d29eb248603e7e81ac35820c41b256f11a1a9b2c6707",
+          "retainedTextSha256": "9f590a71bfb0d0b3fe64d29eb248603e7e81ac35820c41b256f11a1a9b2c6707"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            43,
+            3,
+            3
+          ],
+          "sourceTextSha256": "ac1e16cc1a6c826025226737cfcfaaddab42047d7fea7cbf122e2aaea330a4f5",
+          "retainedTextSha256": "ac1e16cc1a6c826025226737cfcfaaddab42047d7fea7cbf122e2aaea330a4f5"
+        }
+      ]
+    },
+    {
+      "chapter": 63,
+      "label": "43 · 4",
+      "sourcePosition": [
+        43,
+        4
+      ],
+      "payloadSha256": "4a61490a4c6c83132f7763998ae7907c0bfffea5fa95df17a2b9776059842ebe",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            43,
+            4,
+            1
+          ],
+          "sourceTextSha256": "17ad26fcd9eea8b7f6062ebd5a7233fdcf88d1e1e564a0e5226c4e60ff47f317",
+          "retainedTextSha256": "17ad26fcd9eea8b7f6062ebd5a7233fdcf88d1e1e564a0e5226c4e60ff47f317"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            43,
+            4,
+            2
+          ],
+          "sourceTextSha256": "b1714a05fec6e15fabed1c32ca9bf308fc76872425a32a1b34ed2c0ab5398b0d",
+          "retainedTextSha256": "b1714a05fec6e15fabed1c32ca9bf308fc76872425a32a1b34ed2c0ab5398b0d"
+        }
+      ]
+    },
+    {
+      "chapter": 64,
+      "label": "43 · 6",
+      "sourcePosition": [
+        43,
+        6
+      ],
+      "payloadSha256": "178d05f9ec9b0f5d0331a846ca10e06e979420df5fcba7b4f0a6d5a948e96ada",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            43,
+            6,
+            1
+          ],
+          "sourceTextSha256": "bb3eb0c22033e060761580d3e4e763f343718c9ed5279a62ef77f8f6d08c94ca",
+          "retainedTextSha256": "bb3eb0c22033e060761580d3e4e763f343718c9ed5279a62ef77f8f6d08c94ca"
+        }
+      ]
+    },
+    {
+      "chapter": 65,
+      "label": "43 · 7",
+      "sourcePosition": [
+        43,
+        7
+      ],
+      "payloadSha256": "6796bcbd6cb5b9169f23d911af2f46ccb610f670a59a688fd41011657ec7d9d9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            43,
+            7,
+            1
+          ],
+          "sourceTextSha256": "be8497f20026e10c8a352aeb00779ed9f19ff6dccf16a2c285bf135c64eef05a",
+          "retainedTextSha256": "be8497f20026e10c8a352aeb00779ed9f19ff6dccf16a2c285bf135c64eef05a"
+        }
+      ]
+    },
+    {
+      "chapter": 66,
+      "label": "44 · 11",
+      "sourcePosition": [
+        44,
+        11
+      ],
+      "payloadSha256": "358c21c160b780350f110df965f9f3e0e207104be132e9b1307f1538dd066fdc",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            44,
+            11,
+            1
+          ],
+          "sourceTextSha256": "c9702aa6c7ed8ebbf2ba7d56284cfa762d1f7cc4c7a2545e3cd6a83a9e1c3117",
+          "retainedTextSha256": "c9702aa6c7ed8ebbf2ba7d56284cfa762d1f7cc4c7a2545e3cd6a83a9e1c3117"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            44,
+            11,
+            2
+          ],
+          "sourceTextSha256": "98e5fc0fbb6c193656af18d173892e95b233186e4052d5ad2a7a6522201bae22",
+          "retainedTextSha256": "98e5fc0fbb6c193656af18d173892e95b233186e4052d5ad2a7a6522201bae22"
+        }
+      ]
+    },
+    {
+      "chapter": 67,
+      "label": "44 · 13",
+      "sourcePosition": [
+        44,
+        13
+      ],
+      "payloadSha256": "973710e5afee0db68f918d58a91c3c98881c47beb2eda1c25595390c034a7f20",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            44,
+            13,
+            2
+          ],
+          "sourceTextSha256": "cfe4ea3c508613965a6bfd37c5f4990db770a9f3aa7c5fdb61b4cbc244d7bf73",
+          "retainedTextSha256": "cfe4ea3c508613965a6bfd37c5f4990db770a9f3aa7c5fdb61b4cbc244d7bf73"
+        }
+      ]
+    },
+    {
+      "chapter": 68,
+      "label": "44 · 14",
+      "sourcePosition": [
+        44,
+        14
+      ],
+      "payloadSha256": "aec35ec6ae631103e3393f1daceab489f716f244a75ac13be99ec6a5be674bcb",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            44,
+            14,
+            1
+          ],
+          "sourceTextSha256": "cf3823e74e207ad40fb96a2f7ecd20bf264d387c04aaa2a8451aba8f4164aeec",
+          "retainedTextSha256": "cf3823e74e207ad40fb96a2f7ecd20bf264d387c04aaa2a8451aba8f4164aeec"
+        }
+      ]
+    },
+    {
+      "chapter": 69,
+      "label": "44 · 15",
+      "sourcePosition": [
+        44,
+        15
+      ],
+      "payloadSha256": "1b0ecf72d3b4714b06e581bdd88ddbc3c87bc8a117b706fb2c4ea77d539ead09",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            44,
+            15,
+            2
+          ],
+          "sourceTextSha256": "68caaf4dc7995877b13e524e58d8786aac8b48d61f568fa2c84fc678005f7415",
+          "retainedTextSha256": "68caaf4dc7995877b13e524e58d8786aac8b48d61f568fa2c84fc678005f7415"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            44,
+            15,
+            3
+          ],
+          "sourceTextSha256": "72b99bc4f21fdcac1bc13be5c419bb247a567eef2eb28108773ad4cdbd030b95",
+          "retainedTextSha256": "72b99bc4f21fdcac1bc13be5c419bb247a567eef2eb28108773ad4cdbd030b95"
+        }
+      ]
+    },
+    {
+      "chapter": 70,
+      "label": "45 · 4",
+      "sourcePosition": [
+        45,
+        4
+      ],
+      "payloadSha256": "be846d85a77d914e39965c27bdcced719aeaf7e689d1775137fa6e878dde8bc2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            45,
+            4,
+            1
+          ],
+          "sourceTextSha256": "c840953297f925b7a3911fa659aa9b25c6209de08118ce046a56e39be709f7b1",
+          "retainedTextSha256": "c840953297f925b7a3911fa659aa9b25c6209de08118ce046a56e39be709f7b1"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            45,
+            4,
+            3
+          ],
+          "sourceTextSha256": "b9e4ef078024b21f3a3cfad19c475b7915438789eb764dd595a3e7c84762b7da",
+          "retainedTextSha256": "b9e4ef078024b21f3a3cfad19c475b7915438789eb764dd595a3e7c84762b7da"
+        }
+      ]
+    },
+    {
+      "chapter": 71,
+      "label": "46 · 5",
+      "sourcePosition": [
+        46,
+        5
+      ],
+      "payloadSha256": "db75cd6ab52e2175d7d5c885e80f2aed5d16df513edefdad436a54d7b5c409a5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            46,
+            5,
+            2
+          ],
+          "sourceTextSha256": "21057c09cfd938b34106efe79d749fd58b811b3c4524733b2da6af5e951460dd",
+          "retainedTextSha256": "21057c09cfd938b34106efe79d749fd58b811b3c4524733b2da6af5e951460dd"
+        }
+      ]
+    },
+    {
+      "chapter": 72,
+      "label": "47 · 1",
+      "sourcePosition": [
+        47,
+        1
+      ],
+      "payloadSha256": "78fe4e602463c65362936d64c4d33095934b0955c16ce653e81ac764d3b1a7f2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            47,
+            1,
+            1
+          ],
+          "sourceTextSha256": "c460cfc262f0eba284f4124a2baf1031b401e30d6bc6b5563b8e2a1380a53b3f",
+          "retainedTextSha256": "c460cfc262f0eba284f4124a2baf1031b401e30d6bc6b5563b8e2a1380a53b3f"
+        }
+      ]
+    },
+    {
+      "chapter": 73,
+      "label": "49 · 1",
+      "sourcePosition": [
+        49,
+        1
+      ],
+      "payloadSha256": "e2613ae18a91fb80938101020bac9cb25709848aad57659855e25cf924c02f3e",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            49,
+            1,
+            1
+          ],
+          "sourceTextSha256": "94255e260cdb312eb2c24ac792549dd3afc587ba30097c6a6ec4521d687a1766",
+          "retainedTextSha256": "94255e260cdb312eb2c24ac792549dd3afc587ba30097c6a6ec4521d687a1766"
+        }
+      ]
+    },
+    {
+      "chapter": 74,
+      "label": "49 · 2",
+      "sourcePosition": [
+        49,
+        2
+      ],
+      "payloadSha256": "f6498a74e1f00ba44a9b55960c8a4c64eb5e3c798b10dcaf54f0316f5d949e9c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            49,
+            2,
+            1
+          ],
+          "sourceTextSha256": "7e4a0b241bb6f41db30a354848bf098b220f7ff3d4e8891e946757d93f3f6991",
+          "retainedTextSha256": "7e4a0b241bb6f41db30a354848bf098b220f7ff3d4e8891e946757d93f3f6991"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            49,
+            2,
+            2
+          ],
+          "sourceTextSha256": "f8baf213e96ede511b44792710de1ab62efa02365293b2da3a0e2b0ffb9ef96e",
+          "retainedTextSha256": "f8baf213e96ede511b44792710de1ab62efa02365293b2da3a0e2b0ffb9ef96e"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            49,
+            2,
+            3
+          ],
+          "sourceTextSha256": "5abcfd81c30689de470aefc03683ad81546ce0e5f94017b438f42094e91a9d83",
+          "retainedTextSha256": "5abcfd81c30689de470aefc03683ad81546ce0e5f94017b438f42094e91a9d83"
+        }
+      ]
+    },
+    {
+      "chapter": 75,
+      "label": "49 · 3",
+      "sourcePosition": [
+        49,
+        3
+      ],
+      "payloadSha256": "4ca1d08e3091ccc651fe928f20f2844ce17e69e9f4bfd336d2868e4738c6d4e2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            49,
+            3,
+            1
+          ],
+          "sourceTextSha256": "96d42b473788185eb9af1194fc65957a934d6140e37e3d8d61ed177a9f3afc92",
+          "retainedTextSha256": "96d42b473788185eb9af1194fc65957a934d6140e37e3d8d61ed177a9f3afc92"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            49,
+            3,
+            2
+          ],
+          "sourceTextSha256": "859778d7cfd742fe16ba58224b5c58249c2d12fc4ca5401b7674f629ce4c7088",
+          "retainedTextSha256": "859778d7cfd742fe16ba58224b5c58249c2d12fc4ca5401b7674f629ce4c7088"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            49,
+            3,
+            3
+          ],
+          "sourceTextSha256": "9aea54814f535b2f295c0be77d736e1f4135a6c127162b7021c6af032af4040e",
+          "retainedTextSha256": "9aea54814f535b2f295c0be77d736e1f4135a6c127162b7021c6af032af4040e"
+        }
+      ]
+    },
+    {
+      "chapter": 76,
+      "label": "49 · 4",
+      "sourcePosition": [
+        49,
+        4
+      ],
+      "payloadSha256": "2cc22bb0381c701b5e946f322424c937395d24492e14830056ca6120ec06d498",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            49,
+            4,
+            1
+          ],
+          "sourceTextSha256": "4658ab9f996afffa6f8fbd8719f1bb6f5dbcc190550974471ffd817f3fdba7ed",
+          "retainedTextSha256": "928925469e10885c95213f171e9bf5e2e638779e7367a392850a20145b4d6cfa"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            49,
+            4,
+            2
+          ],
+          "sourceTextSha256": "5410b1fc315d4dee7922c9b87aeb4fbee6f4eb2e408707d73a9ac7addc2e6777",
+          "retainedTextSha256": "5410b1fc315d4dee7922c9b87aeb4fbee6f4eb2e408707d73a9ac7addc2e6777"
+        }
+      ]
+    },
+    {
+      "chapter": 77,
+      "label": "66 · 1",
+      "sourcePosition": [
+        66,
+        1
+      ],
+      "payloadSha256": "1a7b09452aa166340320ed749063b70aec044791b03328805ae7e2bbbcd5a709",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            66,
+            1,
+            1
+          ],
+          "sourceTextSha256": "86c178696d6c51a180a8a784f257e5cceb4d063ed0cd1ae4ac3f2ff50e4a0706",
+          "retainedTextSha256": "86c178696d6c51a180a8a784f257e5cceb4d063ed0cd1ae4ac3f2ff50e4a0706"
+        }
+      ]
+    },
+    {
+      "chapter": 78,
+      "label": "81 · 1",
+      "sourcePosition": [
+        81,
+        1
+      ],
+      "payloadSha256": "a757addd5c930583698e6c4f43af73f20882f70b3bfc63183bb5a292a220e41c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            81,
+            1,
+            1
+          ],
+          "sourceTextSha256": "c3bb599ea9f56678e1c69fd7602cb08e60cb5198a55009b051926b01238133fb",
+          "retainedTextSha256": "c3bb599ea9f56678e1c69fd7602cb08e60cb5198a55009b051926b01238133fb"
+        }
+      ]
+    },
+    {
+      "chapter": 79,
+      "label": "117 · 1",
+      "sourcePosition": [
+        117,
+        1
+      ],
+      "payloadSha256": "d9bc4c6546fe513fbe203826cd0f7ea6a7701f271a7139bf482311f34df8d6e3",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            117,
+            1,
+            2
+          ],
+          "sourceTextSha256": "2c588910bd05d63aab0c30a0a591a9e0f06fc95738c1bb35838a698601bb45e7",
+          "retainedTextSha256": "2c588910bd05d63aab0c30a0a591a9e0f06fc95738c1bb35838a698601bb45e7"
+        }
+      ]
+    },
+    {
+      "chapter": 80,
+      "label": "117 · 3",
+      "sourcePosition": [
+        117,
+        3
+      ],
+      "payloadSha256": "a5c1a4b311139f45c684e0a5367232697a7e027ca0b516fd4d2638041f97a5fb",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            117,
+            3,
+            1
+          ],
+          "sourceTextSha256": "62425ebce2995b5aeefcea345bbe43fe5ba4bd6a1253613067edd6eac3c40763",
+          "retainedTextSha256": "62425ebce2995b5aeefcea345bbe43fe5ba4bd6a1253613067edd6eac3c40763"
+        }
+      ]
+    },
+    {
+      "chapter": 81,
+      "label": "117 · 12",
+      "sourcePosition": [
+        117,
+        12
+      ],
+      "payloadSha256": "5532967b78852dbf3876310b34bf31331505dcd3420b460f72afbe7b80091820",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            117,
+            12,
+            1
+          ],
+          "sourceTextSha256": "db36e3316ff2fceb82ffb02e55327d775a7d28e33d161c87518ef688a2881189",
+          "retainedTextSha256": "3dcb05bf44f6b31edaf798bce98f15c23ff18a7984b099f95182e5d325ce68ea"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            117,
+            12,
+            2
+          ],
+          "sourceTextSha256": "5f8ed0fdec012e593382cbbc547fec74af22a30b838ea7202880b11ad9695be6",
+          "retainedTextSha256": "9b6c7e52ed1e4f5495752a2ae734cc891b44e8684f688521025445ed0b493449"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            117,
+            12,
+            3
+          ],
+          "sourceTextSha256": "c602b175c27617a0d891ac59a2fa8a1f20e51e43ced788aba19c3ce0c5d7dd2d",
+          "retainedTextSha256": "246e30eb557a14718a507048da3c9292b97d679bdc1feda10b1698e3aa0b8731"
+        }
+      ]
+    },
+    {
+      "chapter": 82,
+      "label": "118 · 1",
+      "sourcePosition": [
+        118,
+        1
+      ],
+      "payloadSha256": "66bc5cfecf5dcdb75fd48afaf2394b6b2db141c9e276e9c941bda1e9b6ee83f8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            118,
+            1,
+            1
+          ],
+          "sourceTextSha256": "651b18f2a6f020c0c926b2f85d0ee6c1320322132ea25e23072cf1352eb7e979",
+          "retainedTextSha256": "709d2453280bd46c2c6529e1452dc6d2b171cfd180fc0711cbe1263f3d41db25"
+        }
+      ]
+    },
+    {
+      "chapter": 83,
+      "label": "118 · 6",
+      "sourcePosition": [
+        118,
+        6
+      ],
+      "payloadSha256": "4ef1bbbfd815e324daec077ec5575d285e6939cda07385aeaf3b1de8743895d4",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            118,
+            6,
+            1
+          ],
+          "sourceTextSha256": "c729a1e33697889a445e69e89044f6b6bdb1c4dad415e07c711a26c7a0a740fe",
+          "retainedTextSha256": "511bb91522df1dacc3dc473cd544bb78e8949726b27e0b0c28ed2ac5598b996f"
+        }
+      ]
+    },
+    {
+      "chapter": 84,
+      "label": "118 · 7",
+      "sourcePosition": [
+        118,
+        7
+      ],
+      "payloadSha256": "98563f4d8ebaeb1ffa1666818653aaa7857518c4c4df760e5ee56d07870deec3",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            118,
+            7,
+            1
+          ],
+          "sourceTextSha256": "cdb620471dee74a35e3969b5505296f4e659367f9900dee7c2e695a81b654995",
+          "retainedTextSha256": "33b9d077a7f1be7f8684ca018faff30f023312eb22eba457ef900cf929632ea4"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            118,
+            7,
+            2
+          ],
+          "sourceTextSha256": "6a76562996d6618de07508be6ba858a6e2798265d928b6dddc2d4fa0b8178d03",
+          "retainedTextSha256": "cab1aa5431dfc1cf8733f027522cbd587c0eb9db3b50f25c4823cac6a6e74c65"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            118,
+            7,
+            3
+          ],
+          "sourceTextSha256": "6c65cb67774c94a3012257d861dfbfe94e230a14b53e8f3b3eb41aeec67adcd6",
+          "retainedTextSha256": "8ea6479ab7ae139757710218b514a77b9dff31008fb16f7a34659fe13fd6c8d5"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            118,
+            7,
+            4
+          ],
+          "sourceTextSha256": "59b3b295db8ae5060419dfb44069b7123fff29aa0524b44c0072eb333aa3e843",
+          "retainedTextSha256": "285d1803e8c97c3527d61352c9c55d92ef0591b283bb63c6a4128080c57d6418"
+        }
+      ]
+    },
+    {
+      "chapter": 85,
+      "label": "118 · 8",
+      "sourcePosition": [
+        118,
+        8
+      ],
+      "payloadSha256": "0d6814e98bbc94f828cee16861562739523ada685d790f46f1de2fbe3e699397",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            118,
+            8,
+            1
+          ],
+          "sourceTextSha256": "2bf793f42f5ed95527c0a7b78ab275e9766cf72bd2644d08345c5e36f7563494",
+          "retainedTextSha256": "983e622b68aa081c811b75642541c77a07cf71c7d5627b3d4e6d7d33651c73b1"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            118,
+            8,
+            2
+          ],
+          "sourceTextSha256": "0621bd2dfd414dbe0c8a2cca13277ebf029ec2b0aa02bd5a01b1346c6a2cb6a8",
+          "retainedTextSha256": "af01244ec2d312607591d227391d6986fd390125dd13bee77f204e20c676218d"
+        }
+      ]
+    },
+    {
+      "chapter": 86,
+      "label": "118 · 9",
+      "sourcePosition": [
+        118,
+        9
+      ],
+      "payloadSha256": "029841616e6eefb85e97b5535fe09ed1ee7320db9dafab7b66a856bad0bb5b75",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            118,
+            9,
+            1
+          ],
+          "sourceTextSha256": "d128ee2baca093ed2474a43d1cad16b5687d094ec647930709d22bea227ada8f",
+          "retainedTextSha256": "e254cb3041ef6b36113af4cb2bd5005eee7e7b617ef2cd505c59085a3e34b11f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            118,
+            9,
+            2
+          ],
+          "sourceTextSha256": "547529c40e8e9a915ab0d941a925a3a82cc96775c56f46333fe2e39da93f847e",
+          "retainedTextSha256": "55467e71e5fa791f8826d46d13a9516ff6f687b2116eebf4e9454a8697634728"
+        }
+      ]
+    },
+    {
+      "chapter": 87,
+      "label": "118 · 10",
+      "sourcePosition": [
+        118,
+        10
+      ],
+      "payloadSha256": "10a2286b206396c35eb42c077c65ded2c3676649fde25efc6bdf1fbca1fe7e17",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            118,
+            10,
+            1
+          ],
+          "sourceTextSha256": "182ada76a481905fee61c9213671afc6205e53d340f64201491d4e49c6105c14",
+          "retainedTextSha256": "65da2f1b8db80a32c76b6b2f6ff50c82bec2a0a36b3c94c4a9f88e68afcb9cb7"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            118,
+            10,
+            2
+          ],
+          "sourceTextSha256": "ef3642ab532adb6d95af88a26433418d4da1d556600dcabb3ad80d83d493b801",
+          "retainedTextSha256": "9ac4f4f2877d736e14c2d2e6a462541b4245020cb688d0ecee0e44374a2be2a2"
+        }
+      ]
+    },
+    {
+      "chapter": 88,
+      "label": "118 · 11",
+      "sourcePosition": [
+        118,
+        11
+      ],
+      "payloadSha256": "7c967a6ad11474a1000be84487da314d340e382d4ef4ac2d37c2140190fa60f9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            118,
+            11,
+            1
+          ],
+          "sourceTextSha256": "bdbacfba6ed924c426d733558c96725c4b9ce8f5ae75526052831765d48cfaab",
+          "retainedTextSha256": "10d08d0cf337295b3bfa0151c1e24c218ff9b0d6546e2535e2132cba0ae68858"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            118,
+            11,
+            2
+          ],
+          "sourceTextSha256": "1d1a589b52fae91b2212a3f8380c7aa261e201949f3fa886c01cc19535e0c45b",
+          "retainedTextSha256": "72322233bdbe3f3b97fac0161a8b2a1fcd80e9397081c0835e46e8f49544f55c"
+        }
+      ]
+    },
+    {
+      "chapter": 89,
+      "label": "155 · 3",
+      "sourcePosition": [
+        155,
+        3
+      ],
+      "payloadSha256": "1e9664c3882daca44eea23f567df1cfb8aa4d76af18a71b4be575b748058c399",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            155,
+            3,
+            1
+          ],
+          "sourceTextSha256": "dfa545f79055152d5cd8835739e0a9b72379e72b2e77a969b85b86b418d0706e",
+          "retainedTextSha256": "dfa545f79055152d5cd8835739e0a9b72379e72b2e77a969b85b86b418d0706e"
+        }
+      ]
+    },
+    {
+      "chapter": 90,
+      "label": "155 · 4",
+      "sourcePosition": [
+        155,
+        4
+      ],
+      "payloadSha256": "4d2c4bbf026d7c4972687200cc113caddd31ad774adba1f11e6e65052b147c2b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            155,
+            4,
+            1
+          ],
+          "sourceTextSha256": "c48478b3a11412308f14e564bb1ec62c6eeef1ef89485d84b266f4e64095100c",
+          "retainedTextSha256": "c48478b3a11412308f14e564bb1ec62c6eeef1ef89485d84b266f4e64095100c"
+        }
+      ]
+    },
+    {
+      "chapter": 91,
+      "label": "160 · 12",
+      "sourcePosition": [
+        160,
+        12
+      ],
+      "payloadSha256": "fb2065de7743e08964a8e7058af00c7ff1f809905f01fbcf9dcc3efa746ee101",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            160,
+            12,
+            1
+          ],
+          "sourceTextSha256": "4b235237dd3abb622a6133f7090a649ed5a82113e4fff9bd5de2665df36b6b79",
+          "retainedTextSha256": "4b235237dd3abb622a6133f7090a649ed5a82113e4fff9bd5de2665df36b6b79"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            160,
+            12,
+            2
+          ],
+          "sourceTextSha256": "efb21309624e28307a8e749c72e8df44e18a0791422d97ad410920d6ac92ba49",
+          "retainedTextSha256": "efb21309624e28307a8e749c72e8df44e18a0791422d97ad410920d6ac92ba49"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            160,
+            12,
+            3
+          ],
+          "sourceTextSha256": "178bc2f7239f563c250974614114d8315f075041b614097f8fd69ea9bf032839",
+          "retainedTextSha256": "178bc2f7239f563c250974614114d8315f075041b614097f8fd69ea9bf032839"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            160,
+            12,
+            4
+          ],
+          "sourceTextSha256": "78ee260db42c7816d5961f8242067a6e8533f6ccda556024c080601dc973ef6e",
+          "retainedTextSha256": "78ee260db42c7816d5961f8242067a6e8533f6ccda556024c080601dc973ef6e"
+        }
+      ]
+    },
+    {
+      "chapter": 92,
+      "label": "160 · 13",
+      "sourcePosition": [
+        160,
+        13
+      ],
+      "payloadSha256": "3b2a8f09ca1ac8647f64010100f3fc48ee36b0a2d3709cdc43c1ff36f163e5e5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            160,
+            13,
+            1
+          ],
+          "sourceTextSha256": "ccbbc59ae40ed4029c58d9646ca5edffcc0f4f8a63982b1ecef806e8356d7da6",
+          "retainedTextSha256": "ccbbc59ae40ed4029c58d9646ca5edffcc0f4f8a63982b1ecef806e8356d7da6"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            160,
+            13,
+            2
+          ],
+          "sourceTextSha256": "0d3665c04961235c288b35d68a1d59edf4d1a752337275e2bc34301628b36afb",
+          "retainedTextSha256": "0d3665c04961235c288b35d68a1d59edf4d1a752337275e2bc34301628b36afb"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            160,
+            13,
+            3
+          ],
+          "sourceTextSha256": "42c777f34a26c42de95f9116514b030fdbbfab65f4069496a5359cebfe0f09d5",
+          "retainedTextSha256": "42c777f34a26c42de95f9116514b030fdbbfab65f4069496a5359cebfe0f09d5"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            160,
+            13,
+            4
+          ],
+          "sourceTextSha256": "42738dbb5eaa04702e13908baeaf71cea6d8210e0ab37de95e7c4a2d3e88b604",
+          "retainedTextSha256": "42738dbb5eaa04702e13908baeaf71cea6d8210e0ab37de95e7c4a2d3e88b604"
+        }
+      ]
+    },
+    {
+      "chapter": 93,
+      "label": "161 · 1",
+      "sourcePosition": [
+        161,
+        1
+      ],
+      "payloadSha256": "bcda6a2a3387d8da996295057caa69d60f6e153340ae7c6c6ad9d085719a88ca",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            161,
+            1,
+            1
+          ],
+          "sourceTextSha256": "40e846eacef0fd97428d2cc201998a9935120de927a0e2f38c7052075be663ea",
+          "retainedTextSha256": "40e846eacef0fd97428d2cc201998a9935120de927a0e2f38c7052075be663ea"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            161,
+            1,
+            2
+          ],
+          "sourceTextSha256": "a4be5d68e4be6e8c2888828f7e5de00e82eb4404de6cc3e4caf75670e60587a5",
+          "retainedTextSha256": "a4be5d68e4be6e8c2888828f7e5de00e82eb4404de6cc3e4caf75670e60587a5"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            161,
+            1,
+            3
+          ],
+          "sourceTextSha256": "9e8e291fc71beca30b030e19368455566721c906781dbb8ebc45bc8b7b4ed941",
+          "retainedTextSha256": "9e8e291fc71beca30b030e19368455566721c906781dbb8ebc45bc8b7b4ed941"
+        }
+      ]
+    },
+    {
+      "chapter": 94,
+      "label": "161 · 12",
+      "sourcePosition": [
+        161,
+        12
+      ],
+      "payloadSha256": "bbaf315e11f8579c7b7f123f8fc3605027759b9e55ab29f9d3d030a2497fec7c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            161,
+            12,
+            1
+          ],
+          "sourceTextSha256": "628477208e96021f6ebc05d3d64af29c1e33c0a1f42dd3c8c53e71869837fb66",
+          "retainedTextSha256": "628477208e96021f6ebc05d3d64af29c1e33c0a1f42dd3c8c53e71869837fb66"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            161,
+            12,
+            2
+          ],
+          "sourceTextSha256": "71f32e175c8f91e8cd5253ade5535523bdb2b21313d06aaab12c6393c4e960ab",
+          "retainedTextSha256": "71f32e175c8f91e8cd5253ade5535523bdb2b21313d06aaab12c6393c4e960ab"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            161,
+            12,
+            3
+          ],
+          "sourceTextSha256": "bfbe72bd4fcc4bdf2233b523fcc4cc107a62c30c797a0e40414560654f71f893",
+          "retainedTextSha256": "bfbe72bd4fcc4bdf2233b523fcc4cc107a62c30c797a0e40414560654f71f893"
+        }
+      ]
+    },
+    {
+      "chapter": 95,
+      "label": "167 · 12",
+      "sourcePosition": [
+        167,
+        12
+      ],
+      "payloadSha256": "8d8822ade40f32d7f7bb62fa62fbe7fd3f55e848ef34d924ff6a767e79b2aa6c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            167,
+            12,
+            1
+          ],
+          "sourceTextSha256": "cbb65b251772b22dcd2a971bdcf1f64ee215a0c0a00b56ef83bb19cb8e886fc2",
+          "retainedTextSha256": "7332c79defc3c1c8dfe2a8db2c4d8a54d38fc983d7393678516cc831f79f3e47"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            167,
+            12,
+            2
+          ],
+          "sourceTextSha256": "b8b09efd912ab169aa13e3c932dcbbbca4a45cf877072a231ceef267a28cc93e",
+          "retainedTextSha256": "c9ef31498cc462d9ae84e6643a9f3e6be6cbcfece2cdb603e2d9e3bcac0f939e"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            167,
+            12,
+            3
+          ],
+          "sourceTextSha256": "63f802578efdcf2d90a04e89bb4f8b9adf62fc92b41a36e357751c7d366c5143",
+          "retainedTextSha256": "75ca702c815021fed12c2e3e67113d2a6200a2a69773faa9a09cba6e59ddfb4d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            167,
+            12,
+            4
+          ],
+          "sourceTextSha256": "c1eab133d97880264c86c20fc9efd61dd9d5f88c147628c7c1499cf55819f081",
+          "retainedTextSha256": "09720308b6a767e4eb85d750c1d02403001407a4675d7e32a39c739165cb125b"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            167,
+            12,
+            5
+          ],
+          "sourceTextSha256": "39eebabbc052607c01be39eda04cca049d765e7b01336827c858169a0ebff3f6",
+          "retainedTextSha256": "25fef8c5ee360818bfdc88a5cbf636f1f68041c906aac8b6f24df0cd402b64ec"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            167,
+            12,
+            6
+          ],
+          "sourceTextSha256": "b09c7c1fc8e56ea08c854c21735148341be5ac22fbd310f9ccc2298e08113976",
+          "retainedTextSha256": "e397921182cee324e60affe1b365e5cb54e906844936674a4b75857daf5e9236"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            167,
+            12,
+            7
+          ],
+          "sourceTextSha256": "e8578340e559cf5636cadf0b9da00cacf50b79c7451a2ca2c518f25a79123242",
+          "retainedTextSha256": "3fc59fde77c2f7eece37c93671974f6db65deed1710f1ac9cfd464e2e1fa2270"
+        }
+      ]
+    },
+    {
+      "chapter": 96,
+      "label": "167 · 13",
+      "sourcePosition": [
+        167,
+        13
+      ],
+      "payloadSha256": "6e2ffd62a60f078a58a6db355a71bc05f0b692fd5687ce6ab604e5b40048b02b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            167,
+            13,
+            1
+          ],
+          "sourceTextSha256": "cce25f486906f16d849f2433a0670abe57c7bf8e298b1c4d1e9d0507fc526785",
+          "retainedTextSha256": "934c31e270a6bbc61bded552b4296d6dd7cc061ea0fcb4b2a9292fe6dd88912c"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            167,
+            13,
+            2
+          ],
+          "sourceTextSha256": "3e92b8db41ace0bb3dc62f9c366026690854aaee5275912aecf4b2b98dbde8e8",
+          "retainedTextSha256": "90069b5ebbcc378dce2fe6c7a5890332e0947f30035a0a25bb92e4732783a7f4"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            167,
+            13,
+            3
+          ],
+          "sourceTextSha256": "ac5fbe26fa2c54ae07d0b8b8f158957fa12f63ac367f6e4d31f4ba8a37512504",
+          "retainedTextSha256": "6c3d5dea0929d75dcee991c385d8b26859146dc712463afd34fb16c6896089f1"
+        }
+      ]
+    },
+    {
+      "chapter": 97,
+      "label": "167 · 14",
+      "sourcePosition": [
+        167,
+        14
+      ],
+      "payloadSha256": "b3beee20f0b1cb628993332bab19cf17d0c06e2176b67f4def69ac8775a5c2ed",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            167,
+            14,
+            1
+          ],
+          "sourceTextSha256": "ae8711da5a28c301289624d34b21e587c2f7da39784fd6f4b770f2252bfea7e3",
+          "retainedTextSha256": "bc8031ae78bb09dbe2148cd54a0eb1a2de8f6a6ce312a6fb2bd35919bc03b0be"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            167,
+            14,
+            2
+          ],
+          "sourceTextSha256": "c835055c4e87cd092cc14910392ee6aadf8f143c13d4cae6c2e499c740b317ed",
+          "retainedTextSha256": "9f0e6ac3a14b724769601dc8bca6d6fc38e0c65b305c8c15ff5a6b789cb38dea"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            167,
+            14,
+            3
+          ],
+          "sourceTextSha256": "a99d4e890c63da5bdd976f94678dcf315fba748d4f87aec134bf6e0ce823e12b",
+          "retainedTextSha256": "0dfa3ef4b914de22fb54cb55ab20f1bf7710bda38d4126283856708665015bae"
+        }
+      ]
+    },
+    {
+      "chapter": 98,
+      "label": "167 · 15",
+      "sourcePosition": [
+        167,
+        15
+      ],
+      "payloadSha256": "724247c886b19f40c74bac38b0d09b5774387094fe5bf6225edb57cea8d6a430",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            167,
+            15,
+            1
+          ],
+          "sourceTextSha256": "53789b216175e7f588e95670cae341f003f3a9d42997ddc1525c47a48421408f",
+          "retainedTextSha256": "9e07fa3b578cb1712897fb58f2d26d4694767682aa0437e10022e77ee850d108"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            167,
+            15,
+            2
+          ],
+          "sourceTextSha256": "f9e76a609a4228199d903055a1f15ea9bcd232200314086057f6127715cba420",
+          "retainedTextSha256": "2e3602951a9286585f288ddda5e96a02b4ee226f073f0e4df39ca46e8dbb9994"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            167,
+            15,
+            3
+          ],
+          "sourceTextSha256": "1b6a3195c98b4016625ff27a220d78e46a30f957a392cc19140690c641434a62",
+          "retainedTextSha256": "1e5606ba610cb64212ef3e4d65542c3b14163af24c6002d1c253f5ee908e5e9f"
+        }
+      ]
+    },
+    {
+      "chapter": 99,
+      "label": "167 · 16",
+      "sourcePosition": [
+        167,
+        16
+      ],
+      "payloadSha256": "e84395cff5faaaff90e8cae9d9361e02074835bfdcf4a06e7d552fe7744bf595",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            167,
+            16,
+            1
+          ],
+          "sourceTextSha256": "b0ee85b0f8a9aef9bf8d58dd7701b36237c41ed93cfd437919dc048f18ccccef",
+          "retainedTextSha256": "f48914179da3dce23a8d1c8afc852c0948b0321cd019af5234990c33229e9f0a"
+        }
+      ]
+    },
+    {
+      "chapter": 100,
+      "label": "167 · 18",
+      "sourcePosition": [
+        167,
+        18
+      ],
+      "payloadSha256": "14e162dda57f10739ec3311b165c88465bec71a959ef0730a3e5248b74efdad7",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            167,
+            18,
+            1
+          ],
+          "sourceTextSha256": "768fad20f7abf09c6a13601be913e470526ac5ae875ccb774ed51bce63a41f89",
+          "retainedTextSha256": "2cb7f0a412ddc6e097ebdf4aa05cc18b67d0d39e3e98e1b75da0ab5b860c551e"
+        }
+      ]
+    },
+    {
+      "chapter": 101,
+      "label": "177 · 1",
+      "sourcePosition": [
+        177,
+        1
+      ],
+      "payloadSha256": "2df113190938dc0a0f477c94b2e0aae44e447290bf8be364aca964a587bea062",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            1,
+            1
+          ],
+          "sourceTextSha256": "2a1d01a9ccd065f47bf4693c968f396ce2ff0e376a237ab26746645d2611b6ed",
+          "retainedTextSha256": "41ddeb2fba0ad9c48fe1793e6b2e48cfadf6dba4f37abc1f652156fab549d828"
+        }
+      ]
+    },
+    {
+      "chapter": 102,
+      "label": "177 · 2",
+      "sourcePosition": [
+        177,
+        2
+      ],
+      "payloadSha256": "2a2bc9486eee0b245120eea6b91502ce048a421d260b72bdd12e93ab2be7f182",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            2,
+            1
+          ],
+          "sourceTextSha256": "01119a1abe6f305f1eabca45016afac6c631d20d37168981b312422a428413cf",
+          "retainedTextSha256": "01119a1abe6f305f1eabca45016afac6c631d20d37168981b312422a428413cf"
+        }
+      ]
+    },
+    {
+      "chapter": 103,
+      "label": "177 · 3",
+      "sourcePosition": [
+        177,
+        3
+      ],
+      "payloadSha256": "bb54bbc41b95c7acdc4328043033c57572c2c221bc20aadb0ed29fbb7cd2c4f0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            3,
+            1
+          ],
+          "sourceTextSha256": "db965c1521ad108f49bb36420bfffb5ff490abedeb93dec875c948b778691941",
+          "retainedTextSha256": "db965c1521ad108f49bb36420bfffb5ff490abedeb93dec875c948b778691941"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            177,
+            3,
+            2
+          ],
+          "sourceTextSha256": "05557005655d3c1a58bd45a0217f99723ebca00a01b59177bd139e8803a4d538",
+          "retainedTextSha256": "05557005655d3c1a58bd45a0217f99723ebca00a01b59177bd139e8803a4d538"
+        }
+      ]
+    },
+    {
+      "chapter": 104,
+      "label": "177 · 5",
+      "sourcePosition": [
+        177,
+        5
+      ],
+      "payloadSha256": "1a805c06a57e6ea443a75c382b1db538b7b83abfc38e95214d35e59dbcf30ad5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            5,
+            1
+          ],
+          "sourceTextSha256": "00d0e740b11dd0d4b7f1dbdc802a1102bdebc9d5e5a56e6dfb84c6e141fcfa72",
+          "retainedTextSha256": "782cb66a1bbf3917ac59e6313a3bb8c4de24395f60c3d863d3f0e73865808acb"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            177,
+            5,
+            2
+          ],
+          "sourceTextSha256": "266d110e1ba044a1e921a94e58499f0e4db20009c2baf08efa5a117325cba75a",
+          "retainedTextSha256": "266d110e1ba044a1e921a94e58499f0e4db20009c2baf08efa5a117325cba75a"
+        }
+      ]
+    },
+    {
+      "chapter": 105,
+      "label": "177 · 6",
+      "sourcePosition": [
+        177,
+        6
+      ],
+      "payloadSha256": "bdd3c15bd081cd82acca015293ed9d2dfe5ff2671a279d0e58d1e55aaa0dd8d8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            6,
+            1
+          ],
+          "sourceTextSha256": "c329f8cb36bdcbffd7316400bac8be2922b332688112652d8804a68f380859da",
+          "retainedTextSha256": "c329f8cb36bdcbffd7316400bac8be2922b332688112652d8804a68f380859da"
+        }
+      ]
+    },
+    {
+      "chapter": 106,
+      "label": "177 · 7",
+      "sourcePosition": [
+        177,
+        7
+      ],
+      "payloadSha256": "08586075e516c1531f6bb2314e948ff350ab696cee5949d6a437ae612ad0477c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            7,
+            1
+          ],
+          "sourceTextSha256": "5827a8646e73925986c86b471e8c059b50d158acc02d2f3bd4a628b67a90ff01",
+          "retainedTextSha256": "5827a8646e73925986c86b471e8c059b50d158acc02d2f3bd4a628b67a90ff01"
+        }
+      ]
+    },
+    {
+      "chapter": 107,
+      "label": "177 · 8",
+      "sourcePosition": [
+        177,
+        8
+      ],
+      "payloadSha256": "c73856e04ce368270968084509157c6319608911953b6677be697c91f33714c8",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            8,
+            1
+          ],
+          "sourceTextSha256": "1cf5880764d460c2079cd54355a912f74f2b7a184c791cf32d7d7ca8f698bd46",
+          "retainedTextSha256": "34ae10fe310583a13cf4c08955dede17ca64718458e6117d58325a0daf8e18c2"
+        }
+      ]
+    },
+    {
+      "chapter": 108,
+      "label": "177 · 9",
+      "sourcePosition": [
+        177,
+        9
+      ],
+      "payloadSha256": "48b8745013ccd1d05fd0e6f31f0663dbc2d1546743217c836522df113f912b22",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            9,
+            1
+          ],
+          "sourceTextSha256": "1c1620432d0cf231630fbe95a7336384a0dc7b6c766259cbc45be9cc138874dc",
+          "retainedTextSha256": "95df73a0460ca7be1954b3f500da87932e5b9bc9e9d9c3a84fb912460cbc6a37"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            177,
+            9,
+            2
+          ],
+          "sourceTextSha256": "07b6082b0d35598bb0e9cc60ababaf5f55baa45c49dd870422e5226085e80362",
+          "retainedTextSha256": "07b6082b0d35598bb0e9cc60ababaf5f55baa45c49dd870422e5226085e80362"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            177,
+            9,
+            3
+          ],
+          "sourceTextSha256": "3f555e74901cfef8c4541fa9b86c9ff2afd4f29fd209e43b029ca160e7bb0424",
+          "retainedTextSha256": "3f555e74901cfef8c4541fa9b86c9ff2afd4f29fd209e43b029ca160e7bb0424"
+        }
+      ]
+    },
+    {
+      "chapter": 109,
+      "label": "177 · 10",
+      "sourcePosition": [
+        177,
+        10
+      ],
+      "payloadSha256": "9056d29966c637c21cb14dc7be1f2a0b5ab2fa52565fb2675ac42cdf6cf082de",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            10,
+            1
+          ],
+          "sourceTextSha256": "152a968cb3e8da1fea2b9a6ccc51f772d42a7977e20e01273b5f47a274ff13e1",
+          "retainedTextSha256": "93656a439ce7364e3b11453539bda9316d319e3130a30ea1cd003d34f0bcb80e"
+        }
+      ]
+    },
+    {
+      "chapter": 110,
+      "label": "177 · 11",
+      "sourcePosition": [
+        177,
+        11
+      ],
+      "payloadSha256": "98eed712c20ae033f79621b7e9bc8d36efa8055e09ba163c28e6e05957336a3d",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            11,
+            1
+          ],
+          "sourceTextSha256": "080a7521388691687cdb4dcbd79352e2aa3bb8caecab0ac09af50e558e96c7a2",
+          "retainedTextSha256": "080a7521388691687cdb4dcbd79352e2aa3bb8caecab0ac09af50e558e96c7a2"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            177,
+            11,
+            2
+          ],
+          "sourceTextSha256": "a3a7bcb5249768202f7684e7a58053e4d48f313dd02237f1a0fc6f047a0dcf39",
+          "retainedTextSha256": "a3a7bcb5249768202f7684e7a58053e4d48f313dd02237f1a0fc6f047a0dcf39"
+        }
+      ]
+    },
+    {
+      "chapter": 111,
+      "label": "177 · 12",
+      "sourcePosition": [
+        177,
+        12
+      ],
+      "payloadSha256": "05355ff4bf20a95e2e4ff907bade4dc2050b6ffa2adebbe8183b0fa30ad67327",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            12,
+            1
+          ],
+          "sourceTextSha256": "54992ca03b30adef7981e859cbac966ad0cbb9225a279437e7fb54049238a3af",
+          "retainedTextSha256": "f300f5e90fdf3fc195f298379dd9a3c3a807bf2ab0c88e664ef9737ce271c524"
+        }
+      ]
+    },
+    {
+      "chapter": 112,
+      "label": "177 · 13",
+      "sourcePosition": [
+        177,
+        13
+      ],
+      "payloadSha256": "6fb806bd984c5d8719eed5affb4bea723bcfd701fe01e881d955fb8a523e8022",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            177,
+            13,
+            1
+          ],
+          "sourceTextSha256": "83fed7cc23e3d5497b8d5922371264effbd0baf42203cb683c7fb3334456b542",
+          "retainedTextSha256": "83fed7cc23e3d5497b8d5922371264effbd0baf42203cb683c7fb3334456b542"
+        }
+      ]
+    },
+    {
+      "chapter": 113,
+      "label": "215 · 1",
+      "sourcePosition": [
+        215,
+        1
+      ],
+      "payloadSha256": "1cc80ad6431d4d5cdfc5d2eea35db3e3d2753654b6ca95c56d3aa3fdae14c2ab",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            215,
+            1,
+            1
+          ],
+          "sourceTextSha256": "a7d3a1fcfdce4013069a37ce861f3428f7107748da4cc09d2188197573b4a561",
+          "retainedTextSha256": "a7d3a1fcfdce4013069a37ce861f3428f7107748da4cc09d2188197573b4a561"
+        }
+      ]
+    },
+    {
+      "chapter": 114,
+      "label": "215 · 2",
+      "sourcePosition": [
+        215,
+        2
+      ],
+      "payloadSha256": "22e96d6ae0a5d86eafb8299f3e43deba05104faa6c7d679c26cd24adcc6d8e96",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            215,
+            2,
+            1
+          ],
+          "sourceTextSha256": "42e44b44c1aec1f23912e9e7df93083494e38e77599b1761635b9d847daf05a1",
+          "retainedTextSha256": "42e44b44c1aec1f23912e9e7df93083494e38e77599b1761635b9d847daf05a1"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            215,
+            2,
+            2
+          ],
+          "sourceTextSha256": "20c4971815a9fac41410469f3c191c91ef6f996326a0badb3c97857cff1ccc0c",
+          "retainedTextSha256": "20c4971815a9fac41410469f3c191c91ef6f996326a0badb3c97857cff1ccc0c"
+        }
+      ]
+    },
+    {
+      "chapter": 115,
+      "label": "215 · 3",
+      "sourcePosition": [
+        215,
+        3
+      ],
+      "payloadSha256": "0cd5f3a8ec26d9e6dfee31bec9f580dd7f2995e2ba8dc04838e711a2a31d68b2",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            215,
+            3,
+            1
+          ],
+          "sourceTextSha256": "b97d67a9c31cdbf8c2b2008e99cfd5df0e1a436e8d286f9f23748df2c74b70c5",
+          "retainedTextSha256": "b97d67a9c31cdbf8c2b2008e99cfd5df0e1a436e8d286f9f23748df2c74b70c5"
+        }
+      ]
+    },
+    {
+      "chapter": 116,
+      "label": "215 · 4",
+      "sourcePosition": [
+        215,
+        4
+      ],
+      "payloadSha256": "93a39ca7a4701b0bb6e02ad50ba4df03043839e9b89934ae25e393398ecdcc2f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            215,
+            4,
+            1
+          ],
+          "sourceTextSha256": "17c850e084393f68bf00167fa1bc76e43d6c4921c71d5d561c0ff79e643a4bc4",
+          "retainedTextSha256": "17c850e084393f68bf00167fa1bc76e43d6c4921c71d5d561c0ff79e643a4bc4"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            215,
+            4,
+            2
+          ],
+          "sourceTextSha256": "63885ba6c3f7ca0b076167db332f57d12b8b14361a869c5544d79f941bbf8c15",
+          "retainedTextSha256": "63885ba6c3f7ca0b076167db332f57d12b8b14361a869c5544d79f941bbf8c15"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            215,
+            4,
+            3
+          ],
+          "sourceTextSha256": "f10bb179c5a44dcc63d64c398a5cc70b4e4ce7c68b9b79f1723d94da375b6767",
+          "retainedTextSha256": "f10bb179c5a44dcc63d64c398a5cc70b4e4ce7c68b9b79f1723d94da375b6767"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            215,
+            4,
+            4
+          ],
+          "sourceTextSha256": "b6d7fce1c9eb4d36107b2b8e94207d0415066478123bafae80e3ff5aad0fa7ea",
+          "retainedTextSha256": "b6d7fce1c9eb4d36107b2b8e94207d0415066478123bafae80e3ff5aad0fa7ea"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            215,
+            4,
+            5
+          ],
+          "sourceTextSha256": "5af6714792c18e212a9d0ed55685d26c77baa0a6d3f25ab76bc2b03d4b129d09",
+          "retainedTextSha256": "5af6714792c18e212a9d0ed55685d26c77baa0a6d3f25ab76bc2b03d4b129d09"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            215,
+            4,
+            6
+          ],
+          "sourceTextSha256": "c1f1362fce7c7970c32dd6aecfbca28a8bba33d49446032bab90b30f92805706",
+          "retainedTextSha256": "c1f1362fce7c7970c32dd6aecfbca28a8bba33d49446032bab90b30f92805706"
+        }
+      ]
+    },
+    {
+      "chapter": 117,
+      "label": "215 · 10",
+      "sourcePosition": [
+        215,
+        10
+      ],
+      "payloadSha256": "2891b49f8a7d6e76e39b9a808fd2bb92bb5688390c4c2cf0df086080120a9dbc",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            215,
+            10,
+            1
+          ],
+          "sourceTextSha256": "65db8689f5bddd09e1bcc68a76169a698981cbc4642682e32a5895d0fca5a3ab",
+          "retainedTextSha256": "65db8689f5bddd09e1bcc68a76169a698981cbc4642682e32a5895d0fca5a3ab"
+        }
+      ]
+    },
+    {
+      "chapter": 118,
+      "label": "219 · 1",
+      "sourcePosition": [
+        219,
+        1
+      ],
+      "payloadSha256": "b9b2f724e0071fd2c2f12e7514ecd76ac40f827cbdfdf8ea9939ec84f9f56ff0",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            1,
+            1
+          ],
+          "sourceTextSha256": "02e9d12dac5b54d157ae5acb2abd993298231de6d9e8c88f4cb62d3726e4f4f5",
+          "retainedTextSha256": "02e9d12dac5b54d157ae5acb2abd993298231de6d9e8c88f4cb62d3726e4f4f5"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            219,
+            1,
+            2
+          ],
+          "sourceTextSha256": "ba8e4f2084e134b41698a988795fbc23f534d6607cf5f5f771941309c57296cb",
+          "retainedTextSha256": "ba8e4f2084e134b41698a988795fbc23f534d6607cf5f5f771941309c57296cb"
+        }
+      ]
+    },
+    {
+      "chapter": 119,
+      "label": "219 · 2",
+      "sourcePosition": [
+        219,
+        2
+      ],
+      "payloadSha256": "b6378004f512bbbd3a8aba6a83b1c68d2d3828d4af2818b1931bc0877a2b8a48",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            2,
+            1
+          ],
+          "sourceTextSha256": "942f01a337352c92f2342daec0c65202e5f1eaa077358f3b5dc4914bd6dd29ad",
+          "retainedTextSha256": "942f01a337352c92f2342daec0c65202e5f1eaa077358f3b5dc4914bd6dd29ad"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            219,
+            2,
+            2
+          ],
+          "sourceTextSha256": "91c9a6781d91aaa982f279937cedc998f89a7c7711a7cd64f72150f388d66c82",
+          "retainedTextSha256": "91c9a6781d91aaa982f279937cedc998f89a7c7711a7cd64f72150f388d66c82"
+        }
+      ]
+    },
+    {
+      "chapter": 120,
+      "label": "219 · 3",
+      "sourcePosition": [
+        219,
+        3
+      ],
+      "payloadSha256": "23feccff9d0049e591109308745f64922848b3bd72bd9a31c4752cc170b2dec1",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            3,
+            1
+          ],
+          "sourceTextSha256": "ea57b41716d447441d8e0b645c4db0c0ca07b9e5404ca1ddafaba18b552a20d2",
+          "retainedTextSha256": "ea57b41716d447441d8e0b645c4db0c0ca07b9e5404ca1ddafaba18b552a20d2"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            219,
+            3,
+            2
+          ],
+          "sourceTextSha256": "c215a3c21d5d040ab2fc066eec171143d2524411a7748791f2e09812a59ddcb7",
+          "retainedTextSha256": "c215a3c21d5d040ab2fc066eec171143d2524411a7748791f2e09812a59ddcb7"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            219,
+            3,
+            3
+          ],
+          "sourceTextSha256": "5c67e12b71f993afa72cc9cf42f5afac5aa7a5cf0185d3ebe09efd7ab47f40eb",
+          "retainedTextSha256": "5c67e12b71f993afa72cc9cf42f5afac5aa7a5cf0185d3ebe09efd7ab47f40eb"
+        }
+      ]
+    },
+    {
+      "chapter": 121,
+      "label": "219 · 4",
+      "sourcePosition": [
+        219,
+        4
+      ],
+      "payloadSha256": "3fca6fe661db99acedaf23621d72fd69f985ae987fa01df3b0cc6b7df426be01",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            4,
+            1
+          ],
+          "sourceTextSha256": "73fbf44685651c37bfed4b7acb3e60c008d7b47ce21f6f616bd2932e48faab1f",
+          "retainedTextSha256": "73fbf44685651c37bfed4b7acb3e60c008d7b47ce21f6f616bd2932e48faab1f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            219,
+            4,
+            2
+          ],
+          "sourceTextSha256": "120527c59a330f9e23e1b4ebe6df20fadb66cee373ce0f3502b9fe81e6ca4f52",
+          "retainedTextSha256": "120527c59a330f9e23e1b4ebe6df20fadb66cee373ce0f3502b9fe81e6ca4f52"
+        }
+      ]
+    },
+    {
+      "chapter": 122,
+      "label": "219 · 5",
+      "sourcePosition": [
+        219,
+        5
+      ],
+      "payloadSha256": "bdff5df90c6c828e32a12d10926d3403b73cbd26369a6786feebc1a189e26c1f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            5,
+            1
+          ],
+          "sourceTextSha256": "aabf482e3add5909e0e0dbbf2bc230857b3653f372fd1309d904e259a0e8e870",
+          "retainedTextSha256": "aabf482e3add5909e0e0dbbf2bc230857b3653f372fd1309d904e259a0e8e870"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            219,
+            5,
+            2
+          ],
+          "sourceTextSha256": "2eaa54581563cd19b401783f8358d466c909ae4ca042fef48667a48490dcdeca",
+          "retainedTextSha256": "2eaa54581563cd19b401783f8358d466c909ae4ca042fef48667a48490dcdeca"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            219,
+            5,
+            3
+          ],
+          "sourceTextSha256": "fbcaf8dee4cebb4ebbeb73e4afbe58e6496282edcdfa5f590fcb890bf902fe70",
+          "retainedTextSha256": "fbcaf8dee4cebb4ebbeb73e4afbe58e6496282edcdfa5f590fcb890bf902fe70"
+        }
+      ]
+    },
+    {
+      "chapter": 123,
+      "label": "219 · 6",
+      "sourcePosition": [
+        219,
+        6
+      ],
+      "payloadSha256": "f8dcb4a98ff0422d8c8daab7ae6f7126bc72cd53f0add775da846a79089d6209",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            6,
+            1
+          ],
+          "sourceTextSha256": "0917284481c7b21d19a002ac45f44ba179c80954185c295e5e1f11847dce7d4a",
+          "retainedTextSha256": "0917284481c7b21d19a002ac45f44ba179c80954185c295e5e1f11847dce7d4a"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            219,
+            6,
+            2
+          ],
+          "sourceTextSha256": "4a621117a4a1deabdedd49fc19962878d8938d476552e7a264bf375598d7410e",
+          "retainedTextSha256": "4a621117a4a1deabdedd49fc19962878d8938d476552e7a264bf375598d7410e"
+        }
+      ]
+    },
+    {
+      "chapter": 124,
+      "label": "219 · 7",
+      "sourcePosition": [
+        219,
+        7
+      ],
+      "payloadSha256": "6fbe59a4fa3a7bdbe78dd77c2909f388115e6f18bde2c3ef05f6213dce419399",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            7,
+            1
+          ],
+          "sourceTextSha256": "e665c0b6e0e86664f09245fa50942cfd5ad10a144b5f84bddf6aa6a00b44b248",
+          "retainedTextSha256": "e665c0b6e0e86664f09245fa50942cfd5ad10a144b5f84bddf6aa6a00b44b248"
+        }
+      ]
+    },
+    {
+      "chapter": 125,
+      "label": "219 · 8",
+      "sourcePosition": [
+        219,
+        8
+      ],
+      "payloadSha256": "f83b46927eba8553190b8cb4c0a7fcf691c4e21b56e0234714df4d13104faa6b",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            219,
+            8,
+            1
+          ],
+          "sourceTextSha256": "52aa9936ab03ab87475c2c8d8e69161865f612c51d6a2049399207af1c449fd4",
+          "retainedTextSha256": "52aa9936ab03ab87475c2c8d8e69161865f612c51d6a2049399207af1c449fd4"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            219,
+            8,
+            2
+          ],
+          "sourceTextSha256": "fb9edcc1f7767f5d3cf1f506f947f0623ef6a00e3ad1be415b06d9a774178db8",
+          "retainedTextSha256": "fb9edcc1f7767f5d3cf1f506f947f0623ef6a00e3ad1be415b06d9a774178db8"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            219,
+            8,
+            3
+          ],
+          "sourceTextSha256": "5b770782ca834c82b0d0c84cc5f8f97c91e879b43223c557b10734c735362d7d",
+          "retainedTextSha256": "5b770782ca834c82b0d0c84cc5f8f97c91e879b43223c557b10734c735362d7d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            219,
+            8,
+            4
+          ],
+          "sourceTextSha256": "945fd1e11838d0eab6967f409e6055e2c2b5e4dc361e7ed0491faffef0cac589",
+          "retainedTextSha256": "945fd1e11838d0eab6967f409e6055e2c2b5e4dc361e7ed0491faffef0cac589"
+        }
+      ]
+    },
+    {
+      "chapter": 126,
+      "label": "237 · 5",
+      "sourcePosition": [
+        237,
+        5
+      ],
+      "payloadSha256": "3749b7d519c95a19b64458459a58bb8fc3b3d64fc674b98886a4cc285361617f",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            237,
+            5,
+            1
+          ],
+          "sourceTextSha256": "631c941dfced757ab1b6690bffe920b89fe0f5b015e14961a58019fcf8b12199",
+          "retainedTextSha256": "631c941dfced757ab1b6690bffe920b89fe0f5b015e14961a58019fcf8b12199"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            237,
+            5,
+            2
+          ],
+          "sourceTextSha256": "e946988b6839e6897586252e802560eab991f31b19f4366d25f719b0edbca515",
+          "retainedTextSha256": "e946988b6839e6897586252e802560eab991f31b19f4366d25f719b0edbca515"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 236,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:36.702Z"
+}

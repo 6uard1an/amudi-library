@@ -1,0 +1,46 @@
+{
+  "parentPath": "Rabbinic/Bereshit Rabbah (Hebrew Wikisource, Chapter 1)",
+  "translationPath": "Sefaria Community Translation (selected passages)",
+  "chapterFingerprints": {
+    "2": {
+      "original": "5efb226dc7e4880b00b63b5b32821c4c02e3033a064368cc0c9dd573b1ebc5b7",
+      "translation": "35b5f514912e5ab2d33c4204fabb88489a839efd38e5a361ade0f284a83de133"
+    }
+  },
+  "mappedEntries": [
+    {
+      "chapter": 2,
+      "position": 1,
+      "sourcePosition": [
+        2,
+        1
+      ],
+      "sourceSha256": "0ee5a28b6f2e85d60e3b6e8066061e6b490ddd504aadf24694a8d72e66fa5c85",
+      "retainedSha256": "1ec438b8d79772bc676c2182915ca1bccbf4fb9d900ff9c21bd8c14f5319b702",
+      "hebrewSha256": "ca58830b2736eeeead3d6fcc7fd51e9d2a6d87168d4d52cd78c78a62732da35c"
+    },
+    {
+      "chapter": 2,
+      "position": 2,
+      "sourcePosition": [
+        2,
+        2
+      ],
+      "sourceSha256": "faec9b64dfcf6640b84957dda1266b28a6fde51f4c36753ff5c788d91229c37d",
+      "retainedSha256": "1946f85ec04907c70da7e6879ce9a55a8158a4982b9bfe785efb8187be376961",
+      "hebrewSha256": "d7d597fa2a0245bf347ff4bf8416df24eab1f3cb7e01f9c393a7b0cb3ceb5ed9"
+    },
+    {
+      "chapter": 2,
+      "position": 3,
+      "sourcePosition": [
+        2,
+        3
+      ],
+      "sourceSha256": "9d2842a972cd8413181198d5b02074717209c08f966b8ad66256ce7baf3f802d",
+      "retainedSha256": "c619e24346ebdd39d5ceef08742be2a0e18cdb432f8d08cf102c8d4e1898883d",
+      "hebrewSha256": "4d5ba0ddc592ffb3b05d2f6904db13825edc4627811edeabae60308225e310c3"
+    }
+  ],
+  "scope": "Three selected passages; source markup removed. CC0 is the provider declaration, not an independent determination of every contributor’s authority. A different passage, source 3:1, is held because of a Soncino conflict and is not included. Source/rights review and actual release verification remain necessary."
+}

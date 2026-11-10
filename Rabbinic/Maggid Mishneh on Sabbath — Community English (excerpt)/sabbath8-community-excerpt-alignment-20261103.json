@@ -1,0 +1,18 @@
+{
+  "baseBookPath": "Rabbinic/Maggid Mishneh on Mishneh Torah, Sabbath (Hebrew Wikisource)",
+  "baseChapter": 8,
+  "translationBookPath": "Rabbinic/Maggid Mishneh on Sabbath — Community English (excerpt)",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "method": "English source is 8:15:1 and translates the opening grinding discussion within Wikisource chapter 8 paragraph 15. The paragraph also includes other comments, so the reader labels the translation partial.",
+  "pairs": [
+    {
+      "basePosition": 15,
+      "baseTextSha256": "a1565e2645f574ea571fb4c2a00045f8a3085ebc307167e662f93e7e6c29ab5e",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "12a252ce3aa41c1f1d873e6edc0a962daadc1abcdf218ed069d0083dbb7b9ef4",
+      "partialTranslation": true
+    }
+  ]
+}

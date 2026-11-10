@@ -1,0 +1,74 @@
+{
+  "baseBookPath": "Rabbinic/Rashi on Kiddushin",
+  "baseChapter": 127,
+  "translationBookPath": "Rabbinic/Rashi on Kiddushin — Community English (complete source edition)",
+  "method": "Source amud position minus two; exact unique local Hebrew and English source positions with fingerprints. Translation not independently proofread.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rashi/Seder%20Nashim/Rashi%20on%20Kiddushin/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 10,
+      "baseTextSha256": "68ae4d223b463360c42c105933a70f6f9380d489f73d3370657085963723faa0",
+      "translationChapter": 158,
+      "translationPosition": 1,
+      "translationTextSha256": "880faf711cda16c993f7a7575f987325ed6f80492ea4808624cbe7ac097f0779"
+    },
+    {
+      "basePosition": 11,
+      "baseTextSha256": "999855b05233f40ac074a411b75580e54d0743d5580dec1bc47c9e2898a733b9",
+      "translationChapter": 159,
+      "translationPosition": 1,
+      "translationTextSha256": "53b56fda780408aea4355c5da00c708c2b09ee095826bdb65071fb2116d840bd"
+    },
+    {
+      "basePosition": 17,
+      "baseTextSha256": "0e1e8c796381e8138e3102a7c36c35986638291d3df4dccf6ae7083afb69db1e",
+      "translationChapter": 160,
+      "translationPosition": 1,
+      "translationTextSha256": "d2e9a804c5b527b391a369835bbb5c7b44de99c9e33d73f14e1449f2a85963f0"
+    },
+    {
+      "basePosition": 18,
+      "baseTextSha256": "7c69f45f2823acf3df348c0060765ae008b3f857794dd3102f79fe911002c7f0",
+      "translationChapter": 161,
+      "translationPosition": 1,
+      "translationTextSha256": "0a5ed2c359889c0d9b74bbf00bd61b8d45ea05c8b6d9fabde1b60c4aa6e5a336"
+    },
+    {
+      "basePosition": 19,
+      "baseTextSha256": "139f735321a009175c2d62d5e856b429aa92991f1dd8d6e31728019e621d7b71",
+      "translationChapter": 162,
+      "translationPosition": 1,
+      "translationTextSha256": "a46f59d1c48693364808c23a268f73122e0e49dd9a19b5acf6946b52e5a36a1c"
+    },
+    {
+      "basePosition": 20,
+      "baseTextSha256": "e958e0dfe9f482282a26d8543c9a8af6ae6ccaeda8485e718b262a68d2855310",
+      "translationChapter": 162,
+      "translationPosition": 2,
+      "translationTextSha256": "ea1246efc8f78c7135584a27b1a320386b1f36736f80288ddc1c8070cde7b466"
+    },
+    {
+      "basePosition": 21,
+      "baseTextSha256": "18266aa140a3d46fe4e9964136cbe5197a017c4170e66405dde99817e52e0c6a",
+      "translationChapter": 162,
+      "translationPosition": 3,
+      "translationTextSha256": "318c92c7e71c4949d295fffd06e9bf91e1d234e28eaa9801c95cdf9f20614751"
+    },
+    {
+      "basePosition": 22,
+      "baseTextSha256": "d9217b7940dda77e8029616eefc37b1fbd246364852a353bcf7adb0ce1012e9e",
+      "translationChapter": 163,
+      "translationPosition": 1,
+      "translationTextSha256": "2a6e9c6b348f27f1a340fec564d7272efc0ba16e229c8d5735d60ae3005c7cfd"
+    },
+    {
+      "basePosition": 23,
+      "baseTextSha256": "ef7ca34abe5e14bf56eebf5d020107216e3100100caa8bacf125f2566da3ffbb",
+      "translationChapter": 163,
+      "translationPosition": 2,
+      "translationTextSha256": "249639cf27386a3dae3987d82ba1974f6fe29004126bbcd64de05da3db66313e"
+    }
+  ]
+}

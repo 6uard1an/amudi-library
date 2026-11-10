@@ -1,0 +1,211 @@
+{
+  "createdAt": "2026-10-30T04:48:47.933380+00:00",
+  "title": "Kessef Mishneh on Mishneh Torah, Sabbath — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Kessef Mishneh on Mishneh Torah, Sabbath (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Kessef Mishneh on Mishneh Torah, Sabbath",
+  "bibliographySourceLines": [
+    2528
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Kessef Mishneh on Mishneh Torah, Sabbath. Hebrew Wikisource contributors, typed digital edition and editorial notes. Exact source-page revision permalinks and contributor histories are recorded in source-manifest.json. CC BY-SA4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "Complete typed source reading page for this Hilkhot section, with its source chapter headings. All source text is retained; not a comparison against every printed edition.",
+  "partialWork": false,
+  "sourcePages": [
+    {
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "canonicalTitle": "כסף משנה/הלכות שבת",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-4aaf32a7510c2ab3.json",
+      "sourceSnapshotSha256": "aef08a0facc793d1c49dd158d9e288cfa2b23a2b84769c59854081f18fb689ba",
+      "sourceRevision": {
+        "id": 2766863,
+        "timestamp": "2023-06-09T14:48:50Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&action=history",
+      "sourcePageId": 295587,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2766863&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-4aaf32a7510c2ab3.json",
+        "sha256": "dd2a5dba2701250016bc5f383d9349f2d2ccb1512e19586732c8e93845cc14bc"
+      },
+      "sourceHeadings": [
+        "פרק א",
+        "פרק ב",
+        "פרק ג",
+        "פרק ד",
+        "פרק ה",
+        "פרק ו",
+        "פרק ז",
+        "פרק ח",
+        "פרק ט",
+        "פרק י",
+        "פרק יא",
+        "פרק יב",
+        "פרק יג",
+        "פרק יד",
+        "פרק טו",
+        "פרק טז",
+        "פרק יז",
+        "פרק יח",
+        "פרק יט",
+        "פרק כ",
+        "פרק כא",
+        "פרק כב",
+        "פרק כג",
+        "פרק כד",
+        "פרק כה",
+        "פרק כו",
+        "פרק כז",
+        "פרק כח",
+        "פרק כט",
+        "פרק ל"
+      ],
+      "readingCharacters": 105688,
+      "readingBlocks": 223,
+      "convertedChapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "כסף משנה/הלכות שבת · reading section 1",
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2766863,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "paragraphs": 29,
+      "plainCharacters": 15764,
+      "outputFile": "Original/1.json",
+      "outputSha256": "4300eff50a7db50748b927422cddb4f78c233eb22479961afb31aca281d5a914",
+      "normalizedTextSha256": "c8a326711714229023d856b5bbd3e0dab78c26414ff0d2c319846e4e9aa3b707"
+    },
+    {
+      "chapter": 2,
+      "title": "כסף משנה/הלכות שבת · reading section 2",
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "sourceIndex": 1,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2766863,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "paragraphs": 36,
+      "plainCharacters": 15895,
+      "outputFile": "Original/2.json",
+      "outputSha256": "e511b48a1d3d8f145ae7903a6a9645590a0e7987a7f7129c334b5e4a3b5463cc",
+      "normalizedTextSha256": "355262e68593aedf960f3cccbf04bb2162c5e444d0aecb6ceafc6f21d7e79230"
+    },
+    {
+      "chapter": 3,
+      "title": "כסף משנה/הלכות שבת · reading section 3",
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "sourceIndex": 1,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2766863,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "paragraphs": 42,
+      "plainCharacters": 15552,
+      "outputFile": "Original/3.json",
+      "outputSha256": "344f84f0a0b49998dcb059f189f22ae748d1f249b42e53a5a65358398ec651e7",
+      "normalizedTextSha256": "5c24c10500467b3c7d3ab0e392e8003e5c38c1a93ded9f17f659fd787bbb35db"
+    },
+    {
+      "chapter": 4,
+      "title": "כסף משנה/הלכות שבת · reading section 4",
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "sourceIndex": 1,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 2766863,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "paragraphs": 37,
+      "plainCharacters": 15258,
+      "outputFile": "Original/4.json",
+      "outputSha256": "ab2a9cf3a4c7ecb2722c360fa60843a0af481cb1ceedcfa5a2a1e592b0edde63",
+      "normalizedTextSha256": "78d85f1fce9bf6395c5f6b23b607ff31622e2a52fd1ae8e3b97a9ace08fdd5c9"
+    },
+    {
+      "chapter": 5,
+      "title": "כסף משנה/הלכות שבת · reading section 5",
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "sourceIndex": 1,
+      "sourceReadingSection": 5,
+      "sourceRevisionId": 2766863,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "paragraphs": 25,
+      "plainCharacters": 14014,
+      "outputFile": "Original/5.json",
+      "outputSha256": "bcc66d068c63906cedcf72d361bac24987955f708cee331298f37af3a013ffba",
+      "normalizedTextSha256": "bb0e7ebae4004f2b3e361e1420dbdcd49dfa0bd2ab19a93f1e20f37dd3ef31f0"
+    },
+    {
+      "chapter": 6,
+      "title": "כסף משנה/הלכות שבת · reading section 6",
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "sourceIndex": 1,
+      "sourceReadingSection": 6,
+      "sourceRevisionId": 2766863,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "paragraphs": 24,
+      "plainCharacters": 14776,
+      "outputFile": "Original/6.json",
+      "outputSha256": "ff583e4e603003ed6c383fe11e3b14b795f4997b59b345a9204257e9853f5bb9",
+      "normalizedTextSha256": "cb8a18227e981cd547576347df11255ae2db8a536aedab27d5e8d3de10be7e58"
+    },
+    {
+      "chapter": 7,
+      "title": "כסף משנה/הלכות שבת · reading section 7",
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "sourceIndex": 1,
+      "sourceReadingSection": 7,
+      "sourceRevisionId": 2766863,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "paragraphs": 30,
+      "plainCharacters": 14378,
+      "outputFile": "Original/7.json",
+      "outputSha256": "3b0dc325985030dd21029806af650e54cab43c7d1bfba0b8c7fd4e9a9fd60452",
+      "normalizedTextSha256": "2bff7f519c46da0a3e4ae811c23f04bd4010d8aa103b46ebce416b4a47580d3a"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Kessef Mishneh on Mishneh Torah, Sabbath/Original/1.json": "dabec7aac55b3ac089e9597cb392b2fd2775a5b544a808432272e70a3fb6ac38"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "a574c6d8ae9caea64104c03014807574b9c8c2a999f1efe0f96af84c12d87135",
+    "retainedNormalizedTextSha256": "a574c6d8ae9caea64104c03014807574b9c8c2a999f1efe0f96af84c12d87135",
+    "existingEnglishBodyFilesUnchanged": 1,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  },
+  "pages": [
+    {
+      "sourceTitle": "כסף משנה/הלכות שבת",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&oldid=2766863",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%A9%D7%91%D7%AA&action=history"
+    }
+  ]
+}

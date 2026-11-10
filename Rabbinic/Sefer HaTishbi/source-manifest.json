@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "work": "Sefer HaTishbi",
+  "sourceLines": [
+    4465
+  ],
+  "sourceIndex": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99",
+  "indexRevision": {
+    "id": 2995464,
+    "timestamp": "2026-03-05T17:24:50Z"
+  },
+  "indexWikitextSha256": "d92d07c4a4f34a28650f7cfff9a352feed2bc4b9d25561ebcb6711a5865012ea",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "R. Elijah Levita (Eliyahu Bachur), original author; Hebrew Wikisource contributors, typed and pointed transcription based on Isny1541, added references, punctuation and notes. Exact page/revision links are retained in source-manifest.json.",
+  "changeNotice": "Converted existing typed Wikisource text to reader paragraphs, retained source footnotes and variant readings, removed navigation/status/formatting syntax and link wrappers. Interleaved the two matching columns of the author’s introductory poem into their existing line pairs. Source entry headings without body text are explicitly marked as transcription gaps. No OCR or new translation was performed.",
+  "shareAlikeNotice": "Adapted text distributed under CC BY-SA4.0.",
+  "deliveryMode": "Free plaintext; no purchase gate, encryption or DRM.",
+  "coverage": {
+    "status": "partial",
+    "details": "Partial: author introductions and currently existing Aleph, Bet, Gimel and Dalet transcription pages only. Some individual entry headings are unfinished. Other letter pages and English translation are not included.",
+    "actualExistingContentPages": 5,
+    "emptyEntryHeadings": 9
+  },
+  "pages": [
+    {
+      "chapter": 1,
+      "label": "הקדמות המחבר",
+      "sourceTitle": "ספר התשבי/הקדמות המחבר",
+      "pageId": 251756,
+      "revisionId": 445266,
+      "revisionTimestamp": "2012-07-29T16:31:41Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%94%D7%A7%D7%93%D7%9E%D7%95%D7%AA%20%D7%94%D7%9E%D7%97%D7%91%D7%A8",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%94%D7%A7%D7%93%D7%9E%D7%95%D7%AA%20%D7%94%D7%9E%D7%97%D7%91%D7%A8&oldid=445266",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "5dd1b276ca9d672dae413d4bdb34821850ee8293fd303cd9514cc693d79f4b3b",
+      "retainedTextSha256": "bc3f519944c6fa498ce80b2b8789fc445059a805d7a877f32aac729eb756792d",
+      "textCharacters": 8869,
+      "emptySourceEntryHeadings": []
+    },
+    {
+      "chapter": 2,
+      "label": "אות האלף",
+      "sourceTitle": "ספר התשבי/אות האלף",
+      "pageId": 251753,
+      "revisionId": 1296874,
+      "revisionTimestamp": "2021-12-30T18:53:13Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%90%D7%9C%D7%A3",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%90%D7%9C%D7%A3&oldid=1296874",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "74354614ae8ba7eafc1743f3a1c36193f09f84ab4877eab064253ae9007280fb",
+      "retainedTextSha256": "a02417aebe72bcc61a9a01822f27623d7c3db73f60be886f50f39f9bfb55be11",
+      "textCharacters": 15940,
+      "emptySourceEntryHeadings": []
+    },
+    {
+      "chapter": 3,
+      "label": "אות הבית",
+      "sourceTitle": "ספר התשבי/אות הבית",
+      "pageId": 251754,
+      "revisionId": 1296875,
+      "revisionTimestamp": "2021-12-30T18:53:23Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%91%D7%99%D7%AA",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%91%D7%99%D7%AA&oldid=1296875",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "eb478229d81440b232c1bc6626f94deb35b90f71c62de4b1415fa86c3dbce1e6",
+      "retainedTextSha256": "13051c326b9de53310ee2852377b1c426a4c0e0efdf286ed921cefa29785fdf3",
+      "textCharacters": 10175,
+      "emptySourceEntryHeadings": []
+    },
+    {
+      "chapter": 4,
+      "label": "אות הגימל",
+      "sourceTitle": "ספר התשבי/אות הגימל",
+      "pageId": 251893,
+      "revisionId": 2875350,
+      "revisionTimestamp": "2024-08-29T12:38:35Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%92%D7%99%D7%9E%D7%9C",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%92%D7%99%D7%9E%D7%9C&oldid=2875350",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "69536827fad018b32a6978f258bb89417ae42ad3a6c05e6ad67c941dac045f29",
+      "retainedTextSha256": "c9ec0b35e0f5951d3538f0343e1476537a27a65fd102a06de582692e0bd9deff",
+      "textCharacters": 16767,
+      "emptySourceEntryHeadings": []
+    },
+    {
+      "chapter": 5,
+      "label": "אות הדלת",
+      "sourceTitle": "ספר התשבי/אות הדלת",
+      "pageId": 1720995,
+      "revisionId": 2875433,
+      "revisionTimestamp": "2024-08-29T22:53:43Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%93%D7%9C%D7%AA",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A1%D7%A4%D7%A8%20%D7%94%D7%AA%D7%A9%D7%91%D7%99%2F%D7%90%D7%95%D7%AA%20%D7%94%D7%93%D7%9C%D7%AA&oldid=2875433",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "wikitextSha256": "4ac6c5301108bf34b27f1ce981e33e0d577d4b02c53e247a9608dd5fc2c7b129",
+      "retainedTextSha256": "e2b927f46b368c31636c10b68dd34453897d07e59e383627372ca41b075c017e",
+      "textCharacters": 6984,
+      "emptySourceEntryHeadings": [
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דָּרַשׁ"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דֶּרֶךְ אֶרֶץ"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דַּרְדַּק"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דּוֹרֹן"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דָּר"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דִּקְדֵּק (2)"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דִּקְדֵּק (1)"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דֵּפֶק"
+        },
+        {
+          "sourceTitle": "ספר התשבי/אות הדלת",
+          "entry": "דָּפַֿס"
+        }
+      ]
+    }
+  ],
+  "sourceMarkupRepairs": [
+    {
+      "sourceTitle": "ספר התשבי/אות הגימל",
+      "sourceMarkup": "}}",
+      "context": "ּט פְּטוּרִין. וּבַעֲלֵי הַתּוֹסְפוֹת (ראה תוספות גיטין ב א)}} נוֹתְנִים טַעַם לָמָּה נִקְרָא גֵּט, לְפִי שֶׁיֵּש בּוֹ שְׁתֵּים עֶשְׂרֵה שׁו",
+      "action": "Removed unmatched source closing braces while retaining surrounding words"
+    }
+  ],
+  "reviewedAt": "2026-10-30T03:32:02.568Z"
+}

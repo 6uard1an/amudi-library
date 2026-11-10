@@ -1,0 +1,207 @@
+{
+  "baseBookPath": "Rabbinic/Rashi on Taanit",
+  "baseChapter": 43,
+  "translationBookPath": "Rabbinic/Rashi on Taanit — Community English (complete source edition)",
+  "method": "Source amud position minus two; exact unique local Hebrew and English source positions with fingerprints. Translation not independently proofread.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rashi/Seder%20Moed/Rashi%20on%20Taanit/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 5,
+      "baseTextSha256": "3de2b062c338ed62eec13625b88a5b0755de93366d8bf7c21b55cf7ad74394fb",
+      "translationChapter": 13,
+      "translationPosition": 1,
+      "translationTextSha256": "54316af216796777acd45e99c457cc6144a7eff8a36255c20e414566d3498786"
+    },
+    {
+      "basePosition": 6,
+      "baseTextSha256": "5394688da4cb8719ea75a14d2b1154ee9ed6398e2223759e6e98420d0640203a",
+      "translationChapter": 13,
+      "translationPosition": 2,
+      "translationTextSha256": "92f6e3442afdcf6d5952bdbc41369dfcc22dea58ca4431d314e9eda8f8c0ba3d"
+    },
+    {
+      "basePosition": 7,
+      "baseTextSha256": "5f737024171f2c9cbd374bf9a44700c10278b633d0609bb1e250d2bc2c857207",
+      "translationChapter": 14,
+      "translationPosition": 1,
+      "translationTextSha256": "d5d5296f740122d3d19131fd9451dc44f7186578b4ae053d3de4ed93c7f39bbb"
+    },
+    {
+      "basePosition": 8,
+      "baseTextSha256": "92348f55088b1027f2227bdd4dd3feed0db4b95d91345edb5185770d07d87f64",
+      "translationChapter": 15,
+      "translationPosition": 1,
+      "translationTextSha256": "707dcedbd98f4fee9913b76f0373c5ad59030310f0b4e91ada3714a1f42c6f64"
+    },
+    {
+      "basePosition": 9,
+      "baseTextSha256": "3e128a6af197ebf3b206578c4a35a160a604c5db5710a5343aa808803dd6a457",
+      "translationChapter": 15,
+      "translationPosition": 2,
+      "translationTextSha256": "eccaf1548fb8529339893c78d02fc04efeeb39b2606680a492d925b5a49990ba"
+    },
+    {
+      "basePosition": 10,
+      "baseTextSha256": "863b34ae6ea25bfe1b0f706db397507f49a2488dd30b175c78a100dadac513af",
+      "translationChapter": 16,
+      "translationPosition": 1,
+      "translationTextSha256": "7cd3544d63fb07a7e81dafbe0cc5a3f332ddd1d7dbd5d991eec70df5d0454502"
+    },
+    {
+      "basePosition": 11,
+      "baseTextSha256": "0958464d7459c5fab3c00e1a96badbeb1638f18621713fbf0cd86acf819ba692",
+      "translationChapter": 16,
+      "translationPosition": 2,
+      "translationTextSha256": "4f4a84832bc84f9d05ac2f25d5c8828ebab7b31b66a15e9bf63bd2405268d7a3"
+    },
+    {
+      "basePosition": 12,
+      "baseTextSha256": "5f603638a8ff723cf2e3b34d71292f7abdcf9b5b6681bc21789be134fad92592",
+      "translationChapter": 16,
+      "translationPosition": 3,
+      "translationTextSha256": "c3a78339adc59b659a4038a566e5d5011c38d41a4b8302fdf111e5264b8d708c"
+    },
+    {
+      "basePosition": 13,
+      "baseTextSha256": "b9a1a7132a5be3a5c74f7c08b14ea21437932326aef0b0a7e0125964af672e98",
+      "translationChapter": 16,
+      "translationPosition": 4,
+      "translationTextSha256": "f2ce464589f62822ed825e99c83c30eda57e5624618fb5157df976ce62da526b"
+    },
+    {
+      "basePosition": 14,
+      "baseTextSha256": "3265d996a8aeefcdde95396f6c3fdb5fd74db6b042910a7e0074b62ebe162b48",
+      "translationChapter": 16,
+      "translationPosition": 5,
+      "translationTextSha256": "f6ea5077dfbf5135391e89ebc0db647c343a6d270d1f7d8e00120a91962cee54"
+    },
+    {
+      "basePosition": 15,
+      "baseTextSha256": "c12ad64349a240236cfff0f263c9d8cdfe30213f4d8cc599b3c8b45f047628cc",
+      "translationChapter": 16,
+      "translationPosition": 6,
+      "translationTextSha256": "5e1784ef7679f2dffc65e3410e34bd1bba4d3f2e0bd717c00eff41a37b67ac06"
+    },
+    {
+      "basePosition": 16,
+      "baseTextSha256": "cce254a13e2205924928015d7429822dbfa1d7a6b7a400c9fa7dec50011e05c8",
+      "translationChapter": 17,
+      "translationPosition": 1,
+      "translationTextSha256": "aee682b5bd03257af29c143624918a515d246c50afecf21c8b178a92e57cb786"
+    },
+    {
+      "basePosition": 17,
+      "baseTextSha256": "68cc4f0a207069ef6e1ee2a50ec2c3032ffa7baaa9006506f14e591fb361ffcd",
+      "translationChapter": 18,
+      "translationPosition": 1,
+      "translationTextSha256": "308eab7d5c94767aa1a92c593fe2b27bdebbada20c27faacc0c997f7a2b7b1a3"
+    },
+    {
+      "basePosition": 18,
+      "baseTextSha256": "db7c3e7ef421c4b34701bcdaf303dfcd926aea40e99b2e940a686c94b5723686",
+      "translationChapter": 19,
+      "translationPosition": 1,
+      "translationTextSha256": "fa27553fcea50710fcc2ed7f6a4b4950962f530777a0d7a549ac22ef57724b0b"
+    },
+    {
+      "basePosition": 19,
+      "baseTextSha256": "b7fe95b3401d27ccce798ad0e36edd9794ed001f55fb5b494a6083c78a0c42ff",
+      "translationChapter": 20,
+      "translationPosition": 1,
+      "translationTextSha256": "3f3ac94d0c3730dea9ee65212602f840a4d838fad8b3154b6174316412500bad"
+    },
+    {
+      "basePosition": 20,
+      "baseTextSha256": "9dd7ae998a893e38a31938c48161e26fc8124d00c9f08b3abfa4b056b12f400a",
+      "translationChapter": 21,
+      "translationPosition": 1,
+      "translationTextSha256": "c3b832c5ffd483ffe674341a9e25690fffb337356e4fad4eb6ec82ed4d044919"
+    },
+    {
+      "basePosition": 21,
+      "baseTextSha256": "f38775c12ae7016f1ad8885a649f6df870110931d7ce3358c8f3eda0d0f930dd",
+      "translationChapter": 21,
+      "translationPosition": 2,
+      "translationTextSha256": "98493c3323f9756fbdf247ed519ec6e55c303949e9cdadc928e5baf78361645a"
+    },
+    {
+      "basePosition": 22,
+      "baseTextSha256": "9357ac5b8ce9c93d651008f9b48751f6e7c0ed31e8512ba775243bb7e53a9b69",
+      "translationChapter": 21,
+      "translationPosition": 3,
+      "translationTextSha256": "11044ac7dea556f96a903934772653511d2be39536d0ca70b8f02954a32dffd6"
+    },
+    {
+      "basePosition": 23,
+      "baseTextSha256": "aeb8d49652b909612787a44596815b83c3a832909a980f183b251ff0dbebb9c7",
+      "translationChapter": 21,
+      "translationPosition": 4,
+      "translationTextSha256": "65544ecb2ccea584b5482ee27f5d41dfdee7efc2c7802b4b1d217c6a525ec311"
+    },
+    {
+      "basePosition": 24,
+      "baseTextSha256": "5c8d0f9d2f61da47f8cb2f3cc77add70ebbd06ef816ac94bf554e7f7b19067c0",
+      "translationChapter": 22,
+      "translationPosition": 1,
+      "translationTextSha256": "9254308d72ceaa9b07572e05f4c4b4cad99d0642b48ab7a74aa538294fcfafc6"
+    },
+    {
+      "basePosition": 25,
+      "baseTextSha256": "7198214a142a397cc29f03dc53b7f0e13af4aee46a27ef4e6b692092106124cb",
+      "translationChapter": 22,
+      "translationPosition": 2,
+      "translationTextSha256": "d579c7ed7a538fbf476ec7f28e5ee065679db36138ce7e2fa66ae567fac12a6d"
+    },
+    {
+      "basePosition": 26,
+      "baseTextSha256": "e906c1e35f1bdb70ddc7be7117151f37c683ca6ecb87716506a25006e8338ab9",
+      "translationChapter": 23,
+      "translationPosition": 1,
+      "translationTextSha256": "288b3f65360343a1c1b7613d72e0a23ca83867c58d42fd8680c0fbd23992864b"
+    },
+    {
+      "basePosition": 27,
+      "baseTextSha256": "3bb68fbdd87a6b4f29e9c03e5b249b8320a830de1873cc7d5261c4d5634c9618",
+      "translationChapter": 23,
+      "translationPosition": 2,
+      "translationTextSha256": "87842ae9421384001bc8ba55eaaa254e5362fb4fb3b4bbf63e82f32fa481ccb4"
+    },
+    {
+      "basePosition": 28,
+      "baseTextSha256": "38725846cff762d182e53d7c1c454f5eda8f97f9957df9d9b817c46b5adf14cb",
+      "translationChapter": 23,
+      "translationPosition": 3,
+      "translationTextSha256": "1adae811e08d6d93b17bd4eea08ab49fb7db716dabfd4f173135de383a08c634"
+    },
+    {
+      "basePosition": 29,
+      "baseTextSha256": "5f831151e62aec04a026f9dea9eb219e96740dc4d3910c0ec32fbefa59573489",
+      "translationChapter": 23,
+      "translationPosition": 4,
+      "translationTextSha256": "ccd25fecf6cea834d8d80b8d9cd5329535bfe330d2eca73e4b43f1a9046b2254"
+    },
+    {
+      "basePosition": 30,
+      "baseTextSha256": "870f692ec70cf08dcfc8e03a75138e39cbd18c97d56b81b8a060457d31708f1e",
+      "translationChapter": 24,
+      "translationPosition": 1,
+      "translationTextSha256": "2831e1718beca76a1958fbb28a204094ee9b2a42b1fb6a55b0f8255a31e5228d"
+    },
+    {
+      "basePosition": 31,
+      "baseTextSha256": "cd23636322b13f8d1aff3dc68089dbd22198afa3342e5634ba0bd445e83e1045",
+      "translationChapter": 24,
+      "translationPosition": 2,
+      "translationTextSha256": "4bf9405ec922672380912e92f3133683369ad3e5552001278c7c5891a60e097d"
+    },
+    {
+      "basePosition": 32,
+      "baseTextSha256": "b2919e8ddefb3c1c7f7c41d6ce20b2f82118c073b946a54963d95ba3f0e5b351",
+      "translationChapter": 24,
+      "translationPosition": 3,
+      "translationTextSha256": "92ab780fc25136bc1c887da5dda1ed5ec5679351a39b2d4842ea793f6d7a2cf9"
+    }
+  ]
+}

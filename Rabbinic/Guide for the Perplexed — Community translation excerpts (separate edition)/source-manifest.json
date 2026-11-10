@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "work": "Guide for the Perplexed",
+  "parentPath": "Rabbinic/Guide for the Perplexed",
+  "editionName": "Guide for the Perplexed — Community translation excerpts (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Guide%20for%20the%20Perplexed/English/Sefaria%20Community%20Translation.json",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Guide for the Perplexed, original work; Sefaria Community Translation; Sefaria Export. Translator/contributor credit as supplied by the exact source edition.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/c4abc111a5b894dfffa8.json",
+  "sourceRawSha256": "7c7adf062283010bd233bdba8ba0ed47bd0e21bed88a3581f181fea05a162d3b",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Guide%20for%20the%20Perplexed",
+    "rawSha256": "b409d41cf77318b7e8165af1ebeae72a1a3d4c6171012499690833e0d1422a7f",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-1097cf3c27080373061c.json",
+    "versionTitle": "Sefaria Community Translation",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC0"
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Part 2 · 1",
+      "sourcePosition": [
+        "Part 2",
+        "",
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part 2",
+            "",
+            1,
+            1
+          ],
+          "sourceTextSha256": "86615deffdc70aadd6311ef4579fef317cd701d6af3e5cd880ae7c8aedbb2995",
+          "retainedTextSha256": "86615deffdc70aadd6311ef4579fef317cd701d6af3e5cd880ae7c8aedbb2995"
+        }
+      ],
+      "payloadSha256": "ce982e6ab1940a736605079dc35a62ee908da51be465c2c4bfbce45f8c20419f"
+    },
+    {
+      "chapter": 2,
+      "label": "Part 3 · 43",
+      "sourcePosition": [
+        "Part 3",
+        "",
+        43
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part 3",
+            "",
+            43,
+            12
+          ],
+          "sourceTextSha256": "5ae8af075a3647ca2b15267fdf83cf06808525ed50b990c6135d8392a1cb54dd",
+          "retainedTextSha256": "5ae8af075a3647ca2b15267fdf83cf06808525ed50b990c6135d8392a1cb54dd"
+        }
+      ],
+      "payloadSha256": "409df52e0e66d80d37510c30e3691f2d9bc3c5e9c07fcf89dcbfeffe6a650218"
+    },
+    {
+      "chapter": 3,
+      "label": "Part 3 · 47",
+      "sourcePosition": [
+        "Part 3",
+        "",
+        47
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Part 3",
+            "",
+            47,
+            3
+          ],
+          "sourceTextSha256": "24ec66fe8c9ac9656d63d349205a55b8278709d765d1cc3da89d6171fbd9ae2e",
+          "retainedTextSha256": "24ec66fe8c9ac9656d63d349205a55b8278709d765d1cc3da89d6171fbd9ae2e"
+        }
+      ],
+      "payloadSha256": "abb410bd0b2b0eb06f1ae99d4f6f29730d7902bdd6242722ed647821cccb8626"
+    }
+  ],
+  "sourceEntries": 3,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T03:51:13.716Z"
+}

@@ -1,0 +1,82 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 70,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "4abb8c0d28a0ffcf6860295cfe52f122fd8e4d920842e00778370a1ce0b40ba1",
+      "translationChapter": 74,
+      "translationPosition": 1,
+      "translationTextSha256": "449dc17c243c9aceb05c7917f764c9efb833bfa2c0731e8012e006f5d9a52449",
+      "followingBaseTextSha256s": [
+        "4c9effa22ac91a689e71e92359d9766c9b06ba4c4bce98853b3575e4d2d19be6",
+        "f7c202c5dee6028b647d408b5db14d5037b1e46b61a26b5b6854628a2274ccd6"
+      ]
+    },
+    {
+      "basePosition": 5,
+      "baseTextSha256": "9be5466f3df19bd1d90ce053d00bb19f8a918fef51b226b5d933f898556a066b",
+      "translationChapter": 74,
+      "translationPosition": 2,
+      "translationTextSha256": "dae2ebe03482512cac67fa7d089d156b3c573103fd4a82856b979f674cfa0caf",
+      "followingBaseTextSha256s": [
+        "3ddca897c4898b10d3da02aa3a0040d5934d937709da282b9fb153305b5e2e2a",
+        "416dba4b779ca1dc924c3e7858dbe58da8ceb15a7f17f9c78e125761e701816a",
+        "b6fdd40eddb411794fa8de1b69514ddf77d3fffb03a09b1d2f95dff6247ed4cb"
+      ]
+    },
+    {
+      "basePosition": 9,
+      "baseTextSha256": "014ab0baeb5fd93a58c264a23fef1aca6f132a8aa79db0bd9ca0556f9d9f67bd",
+      "translationChapter": 74,
+      "translationPosition": 3,
+      "translationTextSha256": "28a56aa1efd3620e9627b23717af3b79c4b65d6c9adf5f0bdbee002e482f2427",
+      "followingBaseTextSha256s": [
+        "f9709fc0934d46fd1a01b7c070a636533d7764e66b2778d50b5d3bf6a704676e",
+        "16d16534e685fb8489a04ad2dc02c1b39ef3dc8480586e67816523d3f190bc58"
+      ]
+    },
+    {
+      "basePosition": 12,
+      "baseTextSha256": "aaebebf116306720758d91e5f500d7069ae042a86a61bb453944bf3528f85ac2",
+      "translationChapter": 74,
+      "translationPosition": 4,
+      "translationTextSha256": "de8ccd3dfe73d5ea42575d8f5971fc2c1258a2bd26787ec1d22d33a4ae828fbb",
+      "followingBaseTextSha256s": [
+        "b7a6c3d51ee762a0d1434dc69067c18372f07da94c07441c79593df2649a77c6",
+        "6a63a8a5a5809654142a0b3d60f107704b3a908c9650838a902b2f55eece55c2"
+      ]
+    },
+    {
+      "basePosition": 15,
+      "baseTextSha256": "458221384293ff903b2aaec887bcc93dc19e717a61fa3a5f3a85bad1a3cae954",
+      "translationChapter": 74,
+      "translationPosition": 5,
+      "translationTextSha256": "a5bfb679819f750df42dc44e1267fd1c145a5f762737d80f7c31b759614f5c11",
+      "followingBaseTextSha256s": [
+        "dea4f30af9e5d2e5b74878d22f4f0df2ff96c6f83d32e89445995f5e1e15ae74",
+        "fc3497b070be060f5efa2c27fa53f650bdb5bf4a2e5166cd126c928ae495b70b",
+        "ea15539877ef845ea5c6d1a3b1c20618df203e7bae89aeb424a6c1155725b839",
+        "ec7dadb37beaee2139e8ed1a6cf8e1622c072cb841ec515b51f1ac525104cd6e",
+        "d117837e0dd146861b402e94e9cdd7d46b05ba8e1c44f4a315a3fb2fbe2f2a9b",
+        "e10956d9d1e66742c614d50e4be61ff0163d5de037a570ad527b4e57fccf47d9"
+      ]
+    },
+    {
+      "basePosition": 22,
+      "baseTextSha256": "c337607a7eb520761397f0b69d6503c489839c28ba2a2e4c03c536ccf8011bec",
+      "translationChapter": 74,
+      "translationPosition": 6,
+      "translationTextSha256": "2788de313495dda72c5e1573722ca1d68e16e7ff80fedefc79c50e377603a2cb",
+      "followingBaseTextSha256s": [
+        "7ab07306ab9d54eea51e868838333d6a0d3d977b0a0e7003227aa32c22d0e574",
+        "4095b95700a8f0aa330ce7d210c3dee9ca4cbd0e9a03156d4df5fd55163e6303"
+      ]
+    }
+  ]
+}

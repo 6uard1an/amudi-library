@@ -1,0 +1,1349 @@
+{
+  "schemaVersion": 1,
+  "work": "Ba'alei Brit Avram",
+  "sourceLines": [
+    3953
+  ],
+  "author": "R. Abraham Azulai",
+  "indexIdentity": {
+    "url": "https://www.sefaria.org/api/v2/raw/index/Ba'alei%20Brit%20Avram",
+    "title": "Ba'alei Brit Avram",
+    "authors": [
+      "abraham-azulai"
+    ],
+    "categories": [
+      "Tanakh",
+      "Acharonim on Tanakh"
+    ],
+    "schema": {
+      "nodes": [
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "titles": [
+            {
+              "primary": true,
+              "text": "Endorsement",
+              "lang": "en"
+            },
+            {
+              "primary": true,
+              "text": "הסכמה",
+              "lang": "he"
+            }
+          ],
+          "key": "Endorsement"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Introduction",
+          "key": "Introduction"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Bereshit",
+          "key": "Bereshit"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Noach",
+          "key": "Noach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Lech Lecha",
+          "key": "Lech Lecha"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayera",
+          "key": "Vayera"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Chayei Sara",
+          "key": "Chayei Sara"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Toldot",
+          "key": "Toldot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayetzei",
+          "key": "Vayetzei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayishlach",
+          "key": "Vayishlach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayeshev",
+          "key": "Vayeshev"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Miketz",
+          "key": "Miketz"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayigash",
+          "key": "Vayigash"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayechi",
+          "key": "Vayechi"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Shemot",
+          "key": "Shemot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vaera",
+          "key": "Vaera"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Bo",
+          "key": "Bo"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Beshalach",
+          "key": "Beshalach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Yitro",
+          "key": "Yitro"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Mishpatim",
+          "key": "Mishpatim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Terumah",
+          "key": "Terumah"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Tetzaveh",
+          "key": "Tetzaveh"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Ki Tisa",
+          "key": "Ki Tisa"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayakhel",
+          "key": "Vayakhel"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Pekudei",
+          "key": "Pekudei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayikra",
+          "key": "Vayikra"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Tzav",
+          "key": "Tzav"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Tazria",
+          "key": "Tazria"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Metzora",
+          "key": "Metzora"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Achrei Mot",
+          "key": "Achrei Mot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Kedoshim",
+          "key": "Kedoshim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Emor",
+          "key": "Emor"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Behar",
+          "key": "Behar"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Bechukotai",
+          "key": "Bechukotai"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Bamidbar",
+          "key": "Bamidbar"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Nasso",
+          "key": "Nasso"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Beha'alotcha",
+          "key": "Beha'alotcha"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Sh'lach",
+          "key": "Sh'lach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Korach",
+          "key": "Korach"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Chukat",
+          "key": "Chukat"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Balak",
+          "key": "Balak"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Pinchas",
+          "key": "Pinchas"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Matot",
+          "key": "Matot"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Masei",
+          "key": "Masei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vaetchanan",
+          "key": "Vaetchanan"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Eikev",
+          "key": "Eikev"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Re'eh",
+          "key": "Re'eh"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Shoftim",
+          "key": "Shoftim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Ki Teitzei",
+          "key": "Ki Teitzei"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Ki Tavo",
+          "key": "Ki Tavo"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Nitzavim",
+          "key": "Nitzavim"
+        },
+        {
+          "nodeType": "JaggedArrayNode",
+          "depth": 1,
+          "addressTypes": [
+            "Integer"
+          ],
+          "sectionNames": [
+            "Paragraph"
+          ],
+          "sharedTitle": "Vayeilech",
+          "key": "Vayeilech"
+        }
+      ],
+      "titles": [
+        {
+          "primary": true,
+          "text": "בעלי ברית אברם",
+          "lang": "he"
+        },
+        {
+          "text": "Ba'alei Brit Avram",
+          "lang": "en",
+          "primary": true
+        }
+      ],
+      "key": "Ba'alei Brit Avram"
+    }
+  },
+  "attribution": "R. Abraham Azulai (c.1570–1643), Ba’alei Brit Avram; Hebrew Vilna1873 disambiguated edition provided by Sefaria. English excerpts: Sefaria Community Translation contributors, CC0 1.0.",
+  "changeNotice": "Converted the existing source’s52 named sections into reader chapters in their source order. Retained every paragraph and preserved blank English paragraph slots so translated excerpts remain aligned. Removed inline HTML formatting/link wrappers while retaining displayed text. No OCR or new translation performed.",
+  "deliveryMode": "Free plaintext; no encryption or purchase gate.",
+  "sources": [
+    {
+      "role": "Hebrew",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Ba%27alei%20Brit%20Avram/Hebrew/Vilna%2C%201873%20disambiguated.json",
+      "versionTitle": "Vilna, 1873 disambiguated",
+      "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001156661&context=L&vid=NLI&lang=iw_IL",
+      "license": "Public Domain",
+      "exportMetadataLicense": "Public Domain",
+      "rawCacheSha256": "069f314cd9a24e30f3c4d64616b799301f2b83589f8e23ac48831d4ed5efb5b7",
+      "textSha256": "60aa548a3be05dc418699c41bd164cd5e1c8744321ad1ce8eec8ce96ad7cf7d7"
+    },
+    {
+      "role": "English excerpts",
+      "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Ba%27alei%20Brit%20Avram/English/Sefaria%20Community%20Translation.json",
+      "versionTitle": "Sefaria Community Translation",
+      "license": "CC0 1.0",
+      "exportMetadataLicense": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rawCacheSha256": "21a28de96e714d0f9c466feb44b497374c8b2a6b33549be62190f77899a8e4ec",
+      "textSha256": "eceb7cb2058673a79d526b1e63c27492bc61a3ae4e8e722230b573bbb5878940"
+    }
+  ],
+  "excludedVersions": [
+    {
+      "versionTitle": "merged",
+      "license": "unspecified",
+      "reason": "Merged or unknown-license source not used"
+    },
+    {
+      "versionTitle": "Vilna, 1873",
+      "license": "unknown",
+      "reason": "Merged or unknown-license source not used"
+    },
+    {
+      "versionTitle": "merged",
+      "license": "unspecified",
+      "reason": "Merged or unknown-license source not used"
+    }
+  ],
+  "coverage": {
+    "status": "complete-source-contents",
+    "sections": 52,
+    "hebrewParagraphs": 362,
+    "englishTranslatedParagraphs": 4,
+    "englishCoverageStatus": "partial",
+    "details": "All 52 named sections and 362 Hebrew source paragraphs in the inspected Vilna1873 disambiguated export; this is source-edition coverage, not a claim of every edition or all biblical books."
+  },
+  "pages": [
+    {
+      "chapter": 1,
+      "sourceSection": "Endorsement",
+      "paragraphs": 12,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Endorsement",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Endorsement",
+      "hebrewPayloadSha256": "31b387a42ea46e5c4ea5a0e775e2be5abcd5042935ee20886c65990d646c20ca",
+      "englishPayloadSha256": "dab92c7865dc0834c87e1f0a316be1497c5fa80b60ec296de05c48e0a22d769f",
+      "hebrewTextCharacters": 2977,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 2,
+      "sourceSection": "Introduction",
+      "paragraphs": 7,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Introduction",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Introduction",
+      "hebrewPayloadSha256": "a1508fe6c20df8cc04f02db49a67286c31c70ce1cb93fd2bd2916c4b9f1b1fd9",
+      "englishPayloadSha256": "c2e6fbaee6cf307da60a4c29267dc275789960bc6113f4b22fc2ba6c256ddbb0",
+      "hebrewTextCharacters": 16913,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 3,
+      "sourceSection": "Bereshit",
+      "paragraphs": 31,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Bereshit",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Bereshit",
+      "hebrewPayloadSha256": "c438b528b611fb91462ca5f33e74382085b02b0fa63bcf4677ed06da5aee13d2",
+      "englishPayloadSha256": "8f6fe959323f6eb997de86b13c1a7cf1af28e2722f952c8f4acfefba1368f238",
+      "hebrewTextCharacters": 34307,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 4,
+      "sourceSection": "Noach",
+      "paragraphs": 5,
+      "englishParagraphs": 1,
+      "sourceRef": "Ba'alei Brit Avram, Noach",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Noach",
+      "hebrewPayloadSha256": "64ce6cec62f8734b40a5f1e261065564d891b35754f6fb41bcbea8d5c39ba1a8",
+      "englishPayloadSha256": "ec258113e0939d2825c06745ccc9f958b0f0968479695fffdf81b0839dfd235f",
+      "hebrewTextCharacters": 5543,
+      "englishTextCharacters": 1945
+    },
+    {
+      "chapter": 5,
+      "sourceSection": "Lech Lecha",
+      "paragraphs": 8,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Lech Lecha",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Lech_Lecha",
+      "hebrewPayloadSha256": "87e307e90ed22ec0f86f5f6c1650aa95123c25bfc4a6a9a3a3f849b7afb76ef7",
+      "englishPayloadSha256": "58317d78f6e35616f4d8882febce57fb74954f1fbb4aabd5c1867c64f6a805bc",
+      "hebrewTextCharacters": 22443,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 6,
+      "sourceSection": "Vayera",
+      "paragraphs": 19,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayera",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayera",
+      "hebrewPayloadSha256": "a54ee2a8b401232670021d2e601e65127cd530914af002c4b54ae1e93426ee76",
+      "englishPayloadSha256": "3b2c4549d1c69441e18051d99bc98fc727374323fe91c98cca3e64ecaecf0362",
+      "hebrewTextCharacters": 29781,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 7,
+      "sourceSection": "Chayei Sara",
+      "paragraphs": 7,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Chayei Sara",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Chayei_Sara",
+      "hebrewPayloadSha256": "85e01bd918090e2a22327ce7171617c6cb97f17a6b5bf914464a356e86862758",
+      "englishPayloadSha256": "a43485995dc6cbc202db0896a4d64d123045c9a7631163e27d56c1c10f6c3214",
+      "hebrewTextCharacters": 25891,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 8,
+      "sourceSection": "Toldot",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Toldot",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Toldot",
+      "hebrewPayloadSha256": "a07efc01bdccfa521def3e37b51c3d2a78541cdc905920a285fb0717618a8b7c",
+      "englishPayloadSha256": "56b8286da3615261ffc428697622904987b6b467028f394eefdb13c9799f984f",
+      "hebrewTextCharacters": 8469,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 9,
+      "sourceSection": "Vayetzei",
+      "paragraphs": 10,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayetzei",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayetzei",
+      "hebrewPayloadSha256": "1f077d5c3883d6a872e046321a451a979a9d326b7f41698f1158e58fba2da4f9",
+      "englishPayloadSha256": "ae95f3803b57067d659644f323c96d7e2e46b15b414c6b29adf658a520ef4190",
+      "hebrewTextCharacters": 18729,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 10,
+      "sourceSection": "Vayishlach",
+      "paragraphs": 5,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayishlach",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayishlach",
+      "hebrewPayloadSha256": "4b35ede013aad5ed7f42b7602979c44212ddebc8c6b9b194e40a35eb50e7cfa1",
+      "englishPayloadSha256": "8efa31662e04b1fc39bcde0b4b1188eed0ff233671628d231b71bd5d954b919b",
+      "hebrewTextCharacters": 5502,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 11,
+      "sourceSection": "Vayeshev",
+      "paragraphs": 3,
+      "englishParagraphs": 2,
+      "sourceRef": "Ba'alei Brit Avram, Vayeshev",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayeshev",
+      "hebrewPayloadSha256": "1f89b4837f2ac777b6fe4cfca8cd16a4ba3bc98b0666c7110af9d9b6c4a8481f",
+      "englishPayloadSha256": "9e7f5b2ff1aa3dba28477b06aad4bcf005c153a28a5b39f0c5d133bc7db68f29",
+      "hebrewTextCharacters": 6260,
+      "englishTextCharacters": 10586
+    },
+    {
+      "chapter": 12,
+      "sourceSection": "Miketz",
+      "paragraphs": 4,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Miketz",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Miketz",
+      "hebrewPayloadSha256": "c9d28c6c7a2c1ff3e55e6c121526250fcbc7d1b180bce53aa0bf359d210a9238",
+      "englishPayloadSha256": "803f5fbc687c3d0b9df612e2fe406130d3dbd5ca13fde74b3bb95d7f6562f821",
+      "hebrewTextCharacters": 3418,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 13,
+      "sourceSection": "Vayigash",
+      "paragraphs": 9,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayigash",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayigash",
+      "hebrewPayloadSha256": "069ebf4deff074533ac1a677e65fe36a87f562f6c1958195c9e8ebbf403a7b9b",
+      "englishPayloadSha256": "42e19eecf0f0f30c2f128d6f2d2a20a3b3c317762a34a4e4bb751eba00611b1a",
+      "hebrewTextCharacters": 23335,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 14,
+      "sourceSection": "Vayechi",
+      "paragraphs": 12,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayechi",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayechi",
+      "hebrewPayloadSha256": "b580d83de7cb79a4ae6ca07c6027e282b84e2acd88f7475b92cf9da8dcd84f0d",
+      "englishPayloadSha256": "c7d2bc043006e1b0bf89df083174634fc16bc67ed04db1aa3add4e768ea9f97d",
+      "hebrewTextCharacters": 23234,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 15,
+      "sourceSection": "Shemot",
+      "paragraphs": 16,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Shemot",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Shemot",
+      "hebrewPayloadSha256": "347e9b92fd5dc96b703dd5e8c6976deeabd325bf0e0eb69d95526cdf41e8c6c5",
+      "englishPayloadSha256": "4778e01f16bc4fb2686d666a2b7b4bd526ceec4380db5acbc8a3a228339d3928",
+      "hebrewTextCharacters": 12841,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 16,
+      "sourceSection": "Vaera",
+      "paragraphs": 9,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vaera",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vaera",
+      "hebrewPayloadSha256": "c129620a05bd6823293539e27789b5d6fdc97d875c350d664eb7b5cd55d55a57",
+      "englishPayloadSha256": "8bdea3b6c2b5d83c82ff41674c0d436dad09fe6f8ce61d99dc8dfbcc00177512",
+      "hebrewTextCharacters": 16802,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 17,
+      "sourceSection": "Bo",
+      "paragraphs": 17,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Bo",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Bo",
+      "hebrewPayloadSha256": "f650db8dee2fa1ba6fe83ee65deab0c2a17a2df5ba765e40cf23d5a9e5cfb472",
+      "englishPayloadSha256": "8096951b101571dad9ea957e4398b0186f310adf1577a9427b8cbda5573c71c8",
+      "hebrewTextCharacters": 33388,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 18,
+      "sourceSection": "Beshalach",
+      "paragraphs": 17,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Beshalach",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Beshalach",
+      "hebrewPayloadSha256": "d75043f0ce32e772efb6d7c5e5f5665792071267a75c387e73503e25245ffd72",
+      "englishPayloadSha256": "16712a4e885f38299315cfaa4ad9011bf1da6f585b3e103d00f77ec28099029c",
+      "hebrewTextCharacters": 21779,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 19,
+      "sourceSection": "Yitro",
+      "paragraphs": 9,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Yitro",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Yitro",
+      "hebrewPayloadSha256": "ec286f7b73d95b635d266da317a3a0ad6e4ae73ef35cd27322ae4f5a6849c116",
+      "englishPayloadSha256": "23acf7d64596c918b187b4123b3639d085ce2fe4103422d7b07a919ff71e02af",
+      "hebrewTextCharacters": 17601,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 20,
+      "sourceSection": "Mishpatim",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Mishpatim",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Mishpatim",
+      "hebrewPayloadSha256": "68704a66ff9be2fe44ddf04b1e59b0e91997a2723277bbc7c8ceeb9c89a53002",
+      "englishPayloadSha256": "b8478a8063f6bf263aa8bce9078df181dd44e2c237a52a3c3f03f59c6ab5fd4b",
+      "hebrewTextCharacters": 3748,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 21,
+      "sourceSection": "Terumah",
+      "paragraphs": 8,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Terumah",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Terumah",
+      "hebrewPayloadSha256": "4f7290e4ae66e5b5b66fb340e5db90c38ab039e1453bd171d5ab1cc762c1c09a",
+      "englishPayloadSha256": "a0522355e0fe27a9f619138f418cc47cb8a289b4e7ed218359e1ae9213d12b3c",
+      "hebrewTextCharacters": 6339,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 22,
+      "sourceSection": "Tetzaveh",
+      "paragraphs": 5,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Tetzaveh",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Tetzaveh",
+      "hebrewPayloadSha256": "183756249db1bf46cfeb4b9c51e0fc86665643e7b867b7220d7b26a7b11c2eea",
+      "englishPayloadSha256": "8d97fab0890e460669f61cc49708395baed1a68b046c0ec1073707656544d3ff",
+      "hebrewTextCharacters": 7768,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 23,
+      "sourceSection": "Ki Tisa",
+      "paragraphs": 7,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Ki Tisa",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Ki_Tisa",
+      "hebrewPayloadSha256": "d4fcc5bb43b85398e21018bb9d22e8ca74042af806d0d77786c7ddfa2f06b7a0",
+      "englishPayloadSha256": "d287ae8398724a3b08a801b7a261abdb6dc20730fc5837d49f324418040e5018",
+      "hebrewTextCharacters": 15918,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 24,
+      "sourceSection": "Vayakhel",
+      "paragraphs": 4,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayakhel",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayakhel",
+      "hebrewPayloadSha256": "60fa90d05cd47e779a7f426a0ea1f1160fb5f3b1321a3f9d16529107c48b6327",
+      "englishPayloadSha256": "545165ecb0c77e252cceb76d18bcab1603a84c371351f4017afcb1aa79e7873e",
+      "hebrewTextCharacters": 4166,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 25,
+      "sourceSection": "Pekudei",
+      "paragraphs": 1,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Pekudei",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Pekudei",
+      "hebrewPayloadSha256": "7c5e57c431e29d00e7a325bac8fae23bc22e407480846828b5375a77aad5cc92",
+      "englishPayloadSha256": "a377c0fb33ead76e4567a9ab3962bbe10f2ae7f1a8c78c6caaa125d31c0d0820",
+      "hebrewTextCharacters": 2416,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 26,
+      "sourceSection": "Vayikra",
+      "paragraphs": 2,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayikra",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayikra",
+      "hebrewPayloadSha256": "fe6c735cda1613ba790afc931305311d97358cdd838c2a6762875da684a766ff",
+      "englishPayloadSha256": "738fd1d0fb373532c294cf373b3ab7988fb86ce4d19cb9e10c52d4d8555e7a8c",
+      "hebrewTextCharacters": 19027,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 27,
+      "sourceSection": "Tzav",
+      "paragraphs": 2,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Tzav",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Tzav",
+      "hebrewPayloadSha256": "c0a45b17bdb2fc1741ccf45c3c4e9325fe67c14e2e153bf4f70c88ec66d22978",
+      "englishPayloadSha256": "feb650e4590c12341bb5f5b39366f5e63c80c84391a16fd91c1b010024d152fc",
+      "hebrewTextCharacters": 2758,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 28,
+      "sourceSection": "Tazria",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Tazria",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Tazria",
+      "hebrewPayloadSha256": "3e6110385fb21d78c9da247cef9e1c798653c33beca6602dff29f342d9e6809c",
+      "englishPayloadSha256": "22fb64fe8ce5850ae6da71db7db2ba4d43a2ea5e87d9e784d2d681f75839da21",
+      "hebrewTextCharacters": 24199,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 29,
+      "sourceSection": "Metzora",
+      "paragraphs": 3,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Metzora",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Metzora",
+      "hebrewPayloadSha256": "5b99184d68eed4c7b9fb44afc0b38bf319a2428bc8b1137fa88ffe294434170c",
+      "englishPayloadSha256": "fd3bb008c1d3e6f744511622a59d821245e90da7599d4e617a3aa25e240089bf",
+      "hebrewTextCharacters": 4929,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 30,
+      "sourceSection": "Achrei Mot",
+      "paragraphs": 8,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Achrei Mot",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Achrei_Mot",
+      "hebrewPayloadSha256": "149436b79d67dd988e5ee5b5679ef37d46a2889e0ad8b0cd1eb4cb3dfa6cc7c3",
+      "englishPayloadSha256": "d5d69db956970b83e556e4fd54b267d4ba27c5d5ff75595d164b21b0cdd35435",
+      "hebrewTextCharacters": 17912,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 31,
+      "sourceSection": "Kedoshim",
+      "paragraphs": 4,
+      "englishParagraphs": 1,
+      "sourceRef": "Ba'alei Brit Avram, Kedoshim",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Kedoshim",
+      "hebrewPayloadSha256": "57e7f9d19d1ab9b34fde26c1f3d8d0f8bd6d0009448df31d0ff856b12bbff3b5",
+      "englishPayloadSha256": "48ca8809481282a2b31f57223e5361a97fd310ccbbf6a291109b59f2a2803fba",
+      "hebrewTextCharacters": 4326,
+      "englishTextCharacters": 1486
+    },
+    {
+      "chapter": 32,
+      "sourceSection": "Emor",
+      "paragraphs": 5,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Emor",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Emor",
+      "hebrewPayloadSha256": "254f84eae378bc3792350894c2df976f649452537b7b361831bd74b249cf577c",
+      "englishPayloadSha256": "68189d2ef7d87cf915ce51ada667998a742036161c0ce34b52c5dbd2e23e129f",
+      "hebrewTextCharacters": 9622,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 33,
+      "sourceSection": "Behar",
+      "paragraphs": 2,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Behar",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Behar",
+      "hebrewPayloadSha256": "a8b3e1f13f894bc6bd53c6f889ffc2b0615e33094f08782bae5e0a2147f16532",
+      "englishPayloadSha256": "74bb29088ec976ff847542aca713ba8c04d9296fd51657ac80ed495080f6554d",
+      "hebrewTextCharacters": 3432,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 34,
+      "sourceSection": "Bechukotai",
+      "paragraphs": 4,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Bechukotai",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Bechukotai",
+      "hebrewPayloadSha256": "b04a11bdc1f174c1fdbfb15696f38ae83c73a265ed5da676b0dd1b3e06cb34fc",
+      "englishPayloadSha256": "46cbf989c956101e09ed00a6fb0a1a83b90aad3c2387dccf99dc965b7d958b1e",
+      "hebrewTextCharacters": 2667,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 35,
+      "sourceSection": "Bamidbar",
+      "paragraphs": 2,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Bamidbar",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Bamidbar",
+      "hebrewPayloadSha256": "d067ef87faec66f0b548f59f6f64ff997d0e0fbbaac6ebf83dd7b7ed1cda9fa8",
+      "englishPayloadSha256": "c726b811e2f95538b91d2e404402cd9194f1b9c4b0722ca3a5b8951110f332b4",
+      "hebrewTextCharacters": 3352,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 36,
+      "sourceSection": "Nasso",
+      "paragraphs": 5,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Nasso",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Nasso",
+      "hebrewPayloadSha256": "38ab9a7e5b7e488f62977bd22775b5c6032a72e7002b0a5fbd4ab30451af251c",
+      "englishPayloadSha256": "9d51cda9d26f5fc319580abd0f7e66ed52f05f1d121ca23202af2202f773da5d",
+      "hebrewTextCharacters": 17970,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 37,
+      "sourceSection": "Beha'alotcha",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Beha'alotcha",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Beha'alotcha",
+      "hebrewPayloadSha256": "cbfd328eb05f1e2eba5267c379954c6e2110a0ff21e670a2838f60d897ae538a",
+      "englishPayloadSha256": "0745b75ee57aae02ca56a8bd6b56b84ace02d6a64e1d156ec2784577be77bef4",
+      "hebrewTextCharacters": 9658,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 38,
+      "sourceSection": "Sh'lach",
+      "paragraphs": 5,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Sh'lach",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Sh'lach",
+      "hebrewPayloadSha256": "ba2f731a0a001c05285648ebb9d9181d043f6788e55471d77b4c2952d9b3bda3",
+      "englishPayloadSha256": "e9aafc542b71f2cb724405f4ec9580503ff2d1b4f37adce295f031f9e76632f6",
+      "hebrewTextCharacters": 5073,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 39,
+      "sourceSection": "Korach",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Korach",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Korach",
+      "hebrewPayloadSha256": "762b6d4d15b3e55abf7f4c3dbcb9ecb893960a0d45b56e08e40d0a30609ba0f4",
+      "englishPayloadSha256": "e0a7609dc43aad0182f7085c80782f68412ed02ae85df4f87e319b5e500d24ca",
+      "hebrewTextCharacters": 13291,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 40,
+      "sourceSection": "Chukat",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Chukat",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Chukat",
+      "hebrewPayloadSha256": "7ae6ac6f465ebe0781ae7881d6c0b23c50c59127beab0d9ccd84777276348ae7",
+      "englishPayloadSha256": "01bcf7fb0e8e509675f378c6adf059239b783b3707baca39eeecd0a7b3951ae9",
+      "hebrewTextCharacters": 12647,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 41,
+      "sourceSection": "Balak",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Balak",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Balak",
+      "hebrewPayloadSha256": "29391c0dcaca4bf22bbd34ed4507e73d576dafd09b2c5965c7f01d8f563e56a9",
+      "englishPayloadSha256": "6a2af882c0005ceaf73607c25514a1bbf0648084e5ccd5e9e856f9bf8679b01d",
+      "hebrewTextCharacters": 19806,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 42,
+      "sourceSection": "Pinchas",
+      "paragraphs": 11,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Pinchas",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Pinchas",
+      "hebrewPayloadSha256": "4a79e858ba32afb07eff3d60b94a237e1adc74b08d0b36ace3036a3a90de517d",
+      "englishPayloadSha256": "b0ae266e7b9f6cd9fb9a4c2847c5d10ec3560298843d6ce2dd872848195a86f4",
+      "hebrewTextCharacters": 23290,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 43,
+      "sourceSection": "Matot",
+      "paragraphs": 5,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Matot",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Matot",
+      "hebrewPayloadSha256": "2204810841f46197a5668db7dee24dcc2269d9717f5ed483c02b4a0c77faf32b",
+      "englishPayloadSha256": "d2786ef2d343238c74651b4783dd6462017ddab60dc11cee80e75a7443ff32c9",
+      "hebrewTextCharacters": 14016,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 44,
+      "sourceSection": "Masei",
+      "paragraphs": 2,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Masei",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Masei",
+      "hebrewPayloadSha256": "6c01ae98246cb9e70cfde4c3a2fa8dca5b8d7c5d44b9a2af8df03cfd1900a663",
+      "englishPayloadSha256": "1d02f0fc955373cb4a83b56c5877b0d847eff71a5000f9e9cd4eed07f4990803",
+      "hebrewTextCharacters": 3220,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 45,
+      "sourceSection": "Vaetchanan",
+      "paragraphs": 3,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vaetchanan",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vaetchanan",
+      "hebrewPayloadSha256": "d57e3db8e0d7b14de17f6883bb12a69512d9ccb758055f069c78fe1d58096be8",
+      "englishPayloadSha256": "6ed57846d911d258800b43ac22785918f16df0098f2a090c6e081920e6aede11",
+      "hebrewTextCharacters": 4921,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 46,
+      "sourceSection": "Eikev",
+      "paragraphs": 10,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Eikev",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Eikev",
+      "hebrewPayloadSha256": "e5d2263ab77a879f392ea3c83f5b8e37c65c81e1c64547cba45c0810f9da3ce5",
+      "englishPayloadSha256": "8da85bfed5ad5edb9a24106c4901a9d4f0134bb2b40c5be95e954c31e260d6ab",
+      "hebrewTextCharacters": 42925,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 47,
+      "sourceSection": "Re'eh",
+      "paragraphs": 2,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Re'eh",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Re'eh",
+      "hebrewPayloadSha256": "bdc912a73a2961653d90bf03a5107888aca2465ead6b0368b982dd9276d562dd",
+      "englishPayloadSha256": "e8c6b695a5e183fec599f3a9d58116cf2aebdec9d6ff6c16d795d1cad48a2f22",
+      "hebrewTextCharacters": 3265,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 48,
+      "sourceSection": "Shoftim",
+      "paragraphs": 2,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Shoftim",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Shoftim",
+      "hebrewPayloadSha256": "a16de62656a499180ce77740a6e2ae6b6b1e3acc73e287a1a08b06e76348de9b",
+      "englishPayloadSha256": "18a129c51a65288594da431d52d883596e6b4c3de8e56cd40e7f51e66a9ebe60",
+      "hebrewTextCharacters": 3211,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 49,
+      "sourceSection": "Ki Teitzei",
+      "paragraphs": 4,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Ki Teitzei",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Ki_Teitzei",
+      "hebrewPayloadSha256": "0b659631b64bd138fe3007fc3aef1f38e471ef46dc55b1dfd1b745ddc7535847",
+      "englishPayloadSha256": "bab3d98e1642190391ff4d202d192e1bc79340c4f50e3bd1ce7c74287880ca92",
+      "hebrewTextCharacters": 8146,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 50,
+      "sourceSection": "Ki Tavo",
+      "paragraphs": 6,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Ki Tavo",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Ki_Tavo",
+      "hebrewPayloadSha256": "9edff9965425d4cd6fa183bb6dd51aceadae158a23a275372664b3bbf5cdb2fe",
+      "englishPayloadSha256": "f792c1466379341b5a7d2fa80d88fd88086eaabd45f1204b0cc558caff86bf98",
+      "hebrewTextCharacters": 13537,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 51,
+      "sourceSection": "Nitzavim",
+      "paragraphs": 3,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Nitzavim",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Nitzavim",
+      "hebrewPayloadSha256": "734b4acc1688e1dced10557ca2ea37f53e164e6e341f9492ac178153d53c61ab",
+      "englishPayloadSha256": "963177f8e8c0cc948ed322a5393e1b88fe3a7f01344a9b77b5f5564f217d1f51",
+      "hebrewTextCharacters": 22404,
+      "englishTextCharacters": 0
+    },
+    {
+      "chapter": 52,
+      "sourceSection": "Vayeilech",
+      "paragraphs": 5,
+      "englishParagraphs": 0,
+      "sourceRef": "Ba'alei Brit Avram, Vayeilech",
+      "sourceReaderUrl": "https://www.sefaria.org/Ba'alei_Brit_Avram%2C_Vayeilech",
+      "hebrewPayloadSha256": "48dc423f554908104323d33c9471329a6480dc5c591beac2bd7737ec8dfdf623",
+      "englishPayloadSha256": "3dc41725b74b28393288ab441122e4fd53b05208eaa453604b02f2c1e3a65f09",
+      "hebrewTextCharacters": 4547,
+      "englishTextCharacters": 0
+    }
+  ],
+  "sourceRightsLimitations": "Sefaria selected export explicitly labels Hebrew Public Domain and English CC0. NLI bibliographic edition is linked by provider; direct NLI page fetch returned403 and is not claimed as independently inspected full rights evidence. No OCR or new translation performed.",
+  "reviewedAt": "2026-10-30T03:40:36.056Z"
+}

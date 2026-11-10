@@ -1,0 +1,110 @@
+{
+  "checkedUtc": "2026-11-05T04:12:12.195886+00:00",
+  "publisherArticleUrl": "https://sefarad.revistas.csic.es/index.php/sefarad/article/view/737",
+  "publisherArticleSha256": "b84e02f38e8832d8a27b7847799aa4afb24a678acd2a51ae8d06b489a017b8a9",
+  "publisherPdfUrl": "https://sefarad.revistas.csic.es/index.php/sefarad/article/download/737/841/1346",
+  "publisherPdfSha256": "677cbdb8b3f11be96d6cd5c4c2a5d0a84d7ba806c56c5ee1431dc0560943b321",
+  "currentArticleLicense": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "retainedPdfNotice": "Copyright © 2016 CSIC; CC BY 3.0 Spain",
+  "retainedPdfLicenseUrl": "https://creativecommons.org/licenses/by/3.0/es/",
+  "institutionalCopyRecord": "https://cris.unibo.it/handle/11585/795661",
+  "finding": "Publisher article page explicitly grants CC BY 4.0 for this article. The publisher PDF also retains its earlier CC BY 3.0 Spain notice; both notices are preserved. Existing excerpts were checked against this published copy, rather than relying only on Crossref metadata.",
+  "sourceExcerptChecks": [
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "English/6.json",
+      "sha256": "875add1d88bb66b8b42c0ea79ce176ea9211ec71160196d49f82cf2161cebcb5",
+      "publisherPdfPages": [
+        13
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "English/7.json",
+      "sha256": "1c00ee48e7a0a75ae56683134adc8dcd744a828a04e8d449f74a57f50ea444e6",
+      "publisherPdfPages": [
+        14
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "Original/1.json",
+      "sha256": "03f40c90e56c6b1b8188460a0f32f8579644b8ae93c8803985a1c38f31ed9afa",
+      "publisherPdfPages": [
+        11
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "Original/2.json",
+      "sha256": "f834d6e79b91d7c63f9610fe4fcd048f0422ad08276bdeee9e312c46e3dde8b0",
+      "publisherPdfPages": [
+        12
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "Original/3.json",
+      "sha256": "6d328bbdef2bd95322c27a8f76a912594c70dc560694a02ec9cb4cc430cc6da5",
+      "publisherPdfPages": [
+        12
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "Original/4.json",
+      "sha256": "430123c989670d70c3b479c32f4778e89c63f40ae869c8fb30be185a410357fc",
+      "publisherPdfPages": [
+        12,
+        13
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "Original/5.json",
+      "sha256": "4f2d0765869f95be5a1a69162a8a00d1f8b5c79ff5c9800eeeb1291d402a9ada",
+      "publisherPdfPages": [
+        13
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "Original/6.json",
+      "sha256": "fa40a99e3bf4a0397e891bb36d61fb00b8eb25cd1e44537bb18e3f77e04839f2",
+      "publisherPdfPages": [
+        13
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Sefer Meturgeman — Abate manuscript excerpt",
+      "file": "Original/7.json",
+      "sha256": "72e0f46be73ba95b4a64b1e1a4d10c35c949e11b29bc00e9a112b3b8cfb1fff9",
+      "publisherPdfPages": [
+        14
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    }
+  ],
+  "permissionScope": "Publisher grant for the article and its retained selections; no blanket claim for every Levita work or full English editions.",
+  "changes": "Amudi selected excerpts, retained source omissions, normalized PDF line breaks/punctuation, and corrected the specifically logged extraction-order errors. No OCR or new translation.",
+  "distribution": "These selections remain freely downloadable in plaintext, with author/publisher credit, source links, license links and modification notices. No endorsement is implied.",
+  "knownLimit": "Text matching is against the cited published transcription; it does not independently verify its manuscript readings."
+}

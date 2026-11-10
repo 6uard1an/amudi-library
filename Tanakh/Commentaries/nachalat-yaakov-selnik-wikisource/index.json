@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "nachalat-yaakov-selnik-wikisource",
+  "title": "Nachalat Yaakov on Rashi — Wikisource fragments",
+  "hebrewTitle": "נחלת יעקב על רש״י — קטעים",
+  "authors": [
+    {
+      "name": "Jacob ben Benjamin Aaron Selnik",
+      "hebrewName": "יעקב בן בנימין אהרן סלניק",
+      "role": "Rashi supercommentary author; exact source title page names Jacob son of the author of Masat Binyamin; source links identify Selnik",
+      "evidenceUrl": "https://he.wikisource.org/wiki/%D7%A0%D7%97%D7%9C%D7%AA_%D7%99%D7%A2%D7%A7%D7%91"
+    }
+  ],
+  "volumeCount": 2,
+  "languages": [
+    "Hebrew"
+  ],
+  "licenses": [
+    "CC BY-SA 4.0"
+  ],
+  "volumes": [
+    {
+      "book": "Genesis",
+      "hebrewBook": "בראשית",
+      "section": "Torah",
+      "bookPath": "Torah/Genesis",
+      "file": "Tanakh/Commentaries/nachalat-yaakov-selnik-wikisource/genesis.json",
+      "chapterCount": 50,
+      "languages": [
+        "Hebrew"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Nachalat Yaakov on Rashi",
+          "workAuthor": "Jacob ben Benjamin Aaron Selnik",
+          "versionTitle": "Typed Wikisource source revisions, exact pages retained separately",
+          "language": "Hebrew",
+          "actualLanguage": "he",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Exact source-page footer links to Attribution-ShareAlike 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?title=%D7%A0%D7%97%D7%9C%D7%AA%20%D7%99%D7%A2%D7%A7%D7%91%20%D7%A2%D7%9C%20%D7%A8%D7%A9%22%D7%99%20%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA%20%D7%95&oldid=349519",
+          "attribution": "Jacob ben Benjamin Aaron Selnik; Hebrew Wikisource contributors. Each immutable source page and contributor-history link is listed in source-manifest.json.",
+          "changes": "Extracted existing typed supercommentary under its explicit verse headings. Removed source navigation, edit controls, scripts and styles; normalized whitespace. Preserved source ellipses and incomplete-transcription markers. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/nachalat-yaakov-selnik-wikisource/source-manifest.json",
+          "textSha256": "896d0bc9347632e47b5d230d4e08a199a69917cba5f15d2c336b47038ae042a5"
+        }
+      ],
+      "coverage": {
+        "status": "Partial: exact available typed source chapters/passages only; no complete Torah or full chapter coverage claimed",
+        "sourceChapterPages": 1,
+        "nonemptyEntries": 3,
+        "passages": [
+          {
+            "chapter": 6,
+            "verses": [
+              14,
+              16
+            ],
+            "revisionId": 349519
+          }
+        ]
+      },
+      "supplementarySectionCount": 0
+    },
+    {
+      "book": "Exodus",
+      "hebrewBook": "שמות",
+      "section": "Torah",
+      "bookPath": "Torah/Exodus",
+      "file": "Tanakh/Commentaries/nachalat-yaakov-selnik-wikisource/exodus.json",
+      "chapterCount": 40,
+      "languages": [
+        "Hebrew"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Nachalat Yaakov on Rashi",
+          "workAuthor": "Jacob ben Benjamin Aaron Selnik",
+          "versionTitle": "Typed Wikisource source revisions, exact pages retained separately",
+          "language": "Hebrew",
+          "actualLanguage": "he",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Exact source-page footer links to Attribution-ShareAlike 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?title=%D7%A0%D7%97%D7%9C%D7%AA%20%D7%99%D7%A2%D7%A7%D7%91%20%D7%A2%D7%9C%20%D7%A8%D7%A9%22%D7%99%20%D7%A9%D7%9E%D7%95%D7%AA%20%D7%96&oldid=2719070",
+          "attribution": "Jacob ben Benjamin Aaron Selnik; Hebrew Wikisource contributors. Each immutable source page and contributor-history link is listed in source-manifest.json.",
+          "changes": "Extracted existing typed supercommentary under its explicit verse headings. Removed source navigation, edit controls, scripts and styles; normalized whitespace. Preserved source ellipses and incomplete-transcription markers. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/nachalat-yaakov-selnik-wikisource/source-manifest.json",
+          "textSha256": "2431e7dc18b301836a881a080588f52ca4e0f4c63e1a495a27d638535dc4da23"
+        }
+      ],
+      "coverage": {
+        "status": "Partial: exact available typed source chapters/passages only; no complete Torah or full chapter coverage claimed",
+        "sourceChapterPages": 4,
+        "nonemptyEntries": 7,
+        "passages": [
+          {
+            "chapter": 7,
+            "verses": [
+              2
+            ],
+            "revisionId": 2719070
+          },
+          {
+            "chapter": 13,
+            "verses": [
+              19,
+              20
+            ],
+            "revisionId": 365849
+          },
+          {
+            "chapter": 23,
+            "verses": [
+              28
+            ],
+            "revisionId": 366727
+          },
+          {
+            "chapter": 28,
+            "verses": [
+              4
+            ],
+            "revisionId": 1296855
+          }
+        ]
+      },
+      "supplementarySectionCount": 0
+    }
+  ],
+  "englishCoverageStatus": "No English translation located in this source",
+  "distributionRequirements": {
+    "license": "CC BY-SA 4.0",
+    "plaintextAccessRequired": true,
+    "shareAlikeRequired": true,
+    "attributionRequired": true,
+    "changesNoticeRequired": true,
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/nachalat-yaakov-selnik-wikisource/source-manifest.json"
+  ]
+}

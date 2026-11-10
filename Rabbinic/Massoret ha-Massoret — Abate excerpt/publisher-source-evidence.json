@@ -1,0 +1,79 @@
+{
+  "checkedUtc": "2026-11-05T04:12:12.195886+00:00",
+  "publisherArticleUrl": "https://sefarad.revistas.csic.es/index.php/sefarad/article/view/737",
+  "publisherArticleSha256": "b84e02f38e8832d8a27b7847799aa4afb24a678acd2a51ae8d06b489a017b8a9",
+  "publisherPdfUrl": "https://sefarad.revistas.csic.es/index.php/sefarad/article/download/737/841/1346",
+  "publisherPdfSha256": "677cbdb8b3f11be96d6cd5c4c2a5d0a84d7ba806c56c5ee1431dc0560943b321",
+  "currentArticleLicense": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "retainedPdfNotice": "Copyright © 2016 CSIC; CC BY 3.0 Spain",
+  "retainedPdfLicenseUrl": "https://creativecommons.org/licenses/by/3.0/es/",
+  "institutionalCopyRecord": "https://cris.unibo.it/handle/11585/795661",
+  "finding": "Publisher article page explicitly grants CC BY 4.0 for this article. The publisher PDF also retains its earlier CC BY 3.0 Spain notice; both notices are preserved. Existing excerpts were checked against this published copy, rather than relying only on Crossref metadata.",
+  "sourceExcerptChecks": [
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "English/1.json",
+      "sha256": "b41829caaf891e9da763b04f9d0afe7a425616a6d0ea8b5bcce85d7667e95b92",
+      "publisherPdfPages": [
+        10
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "English/2.json",
+      "sha256": "d96ab54d01cd2d37aaeef7526c03a10a3135c62dfa24bf6c4085a1a644d5299e",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "English/3.json",
+      "sha256": "293aa78d9f1f710490e8b6d7c7b1154252ebec10588ef46b431eaaeb9af7aaef",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "Original/1.json",
+      "sha256": "f6f1dd3cdd3a24cda88130b0962095ac224c64b1e7119c68c0b8fe378e7bb164",
+      "publisherPdfPages": [
+        10
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "Original/2.json",
+      "sha256": "2a2f8754f9da5b71832a795249f6ada2fb1bafcb8379659e10ecf08ddee0ac75",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    },
+    {
+      "bookPath": "Rabbinic/Massoret ha-Massoret — Abate excerpt",
+      "file": "Original/3.json",
+      "sha256": "c538968bb9166fd847036e332abf8a1a8f264eb17bfa0467e5b12b1ab123a642",
+      "publisherPdfPages": [
+        20
+      ],
+      "matchingLettersInReadingOrder": true,
+      "comparison": "Unicode letters in order; whitespace, punctuation, PDF soft hyphens and omission-marker punctuation ignored. Relevant source pages also visually inspected."
+    }
+  ],
+  "permissionScope": "Publisher grant for the article and its retained selections; no blanket claim for every Levita work or full English editions.",
+  "changes": "Amudi selected excerpts, retained source omissions, normalized PDF line breaks/punctuation, and corrected the specifically logged extraction-order errors. No OCR or new translation.",
+  "distribution": "These selections remain freely downloadable in plaintext, with author/publisher credit, source links, license links and modification notices. No endorsement is implied.",
+  "knownLimit": "Text matching is against the cited published transcription; it does not independently verify its manuscript readings."
+}

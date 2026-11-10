@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "immanuel-proverbs-wikisource",
+  "title": "Immanuel of Rome on Proverbs — Wikisource fragments",
+  "hebrewTitle": "עמנואל הרומי על משלי",
+  "authors": [
+    {
+      "name": "Immanuel of Rome",
+      "role": "Classical author named on exact source pages"
+    }
+  ],
+  "volumeCount": 1,
+  "languages": [
+    "Hebrew"
+  ],
+  "licenses": [
+    "CC BY-SA4.0"
+  ],
+  "volumes": [
+    {
+      "book": "Proverbs",
+      "hebrewBook": "משלי",
+      "section": "Writings",
+      "bookPath": "Writings/Proverbs",
+      "file": "Tanakh/Commentaries/immanuel-proverbs-wikisource/proverbs.json",
+      "chapterCount": 31,
+      "languages": [
+        "Hebrew"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Immanuel of Rome on Proverbs — Wikisource fragments",
+          "workAuthor": "Immanuel of Rome",
+          "versionTitle": "Typed Wikisource source revisions recorded individually",
+          "language": "Hebrew",
+          "actualLanguage": "he",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?title=%D7%A2%D7%9E%D7%A0%D7%95%D7%90%D7%9C%20%D7%94%D7%A8%D7%95%D7%9E%D7%99%20%D7%A2%D7%9C%20%D7%9E%D7%A9%D7%9C%D7%99%20%D7%9C%20%D7%99%D7%97&oldid=1281951",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Exact pages display Creative Commons Attribution-ShareAlike4.0 footer",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Immanuel of Rome; Hebrew Wikisource contributors. Each source page, immutable revision and history link is included in source-manifest.json.",
+          "changes": "Extracted existing typed commentary following the separate base verse. Removed page navigation, styles and scripts; collapsed display whitespace. No OCR or translation.",
+          "textSha256": "3032f6b14553355885906c02ee0b895841c958d04de5436a70ec185d7556e11b",
+          "sourceManifestPath": "Tanakh/Commentaries/immanuel-proverbs-wikisource/source-manifest.json"
+        }
+      ],
+      "supplementarySectionCount": 0
+    }
+  ],
+  "englishCoverageStatus": "No English translation imported",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "shareAlikeRequired": true,
+    "license": "CC BY-SA4.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/immanuel-proverbs-wikisource/source-manifest.json"
+  ]
+}

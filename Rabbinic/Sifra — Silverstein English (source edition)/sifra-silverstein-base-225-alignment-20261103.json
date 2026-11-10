@@ -1,0 +1,51 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 225,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "1d9f1452bd79d6e915e282420f6a6da6eda7a22e96b45521e60de13df2e95475",
+      "translationChapter": 230,
+      "translationPosition": 1,
+      "translationTextSha256": "1741c2d78dc5b268ae3e0556a304be525b349b6ac3a9dd4775f3f437a52e31fd"
+    },
+    {
+      "basePosition": 5,
+      "baseTextSha256": "c7f0db3394df444f6630ccb36fb5b9aa26ccea18ec9f63a0bc2698ed392742be",
+      "translationChapter": 230,
+      "translationPosition": 4,
+      "translationTextSha256": "15601247c7602363d2d9ad3633591cd392c4ea7911cd5b3a99b664df30c4e8bd"
+    },
+    {
+      "basePosition": 6,
+      "baseTextSha256": "d41a8b97288687cd282f60c4081d78f8c04f4bdc2bb3fc2492660af978369171",
+      "translationChapter": 230,
+      "translationPosition": 5,
+      "translationTextSha256": "5d40102125fd84b2db524ad5f311e3eede637a6126e1ca51b6ee9615b5e59fda"
+    },
+    {
+      "basePosition": 7,
+      "baseTextSha256": "050c230b4c8031a83192c45e61a3a85fbb2152507e13fc28d32afcbdf3de93b0",
+      "followingBaseTextSha256s": [
+        "c924650aec12e98dec7d37c8f19ebf72b744215b143a700f9445bbf160a42d29"
+      ],
+      "fragments": [
+        {
+          "translationChapter": 230,
+          "translationPosition": 6,
+          "translationTextSha256": "b95ad2ac00cec53fa8d2e6252805588d1097f23cbc4e474cc45ea1b64c8c34d4"
+        },
+        {
+          "translationChapter": 230,
+          "translationPosition": 7,
+          "translationTextSha256": "3bcee580b2a6739e3810a09f216dbef0f52de182f8387f71dbf806e7b8b24611"
+        }
+      ]
+    }
+  ]
+}

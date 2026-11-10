@@ -1,0 +1,158 @@
+{
+  "createdAt": "2026-10-30T04:48:47.687014+00:00",
+  "title": "Kessef Mishneh on Mishneh Torah, Forbidden Intercourse — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Kessef Mishneh on Mishneh Torah, Forbidden Intercourse (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Kessef Mishneh on Mishneh Torah, Forbidden Intercourse",
+  "bibliographySourceLines": [
+    2528
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Kessef Mishneh on Mishneh Torah, Forbidden Intercourse. Hebrew Wikisource contributors, typed digital edition and editorial notes. Exact source-page revision permalinks and contributor histories are recorded in source-manifest.json. CC BY-SA4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "Complete typed source reading page for this Hilkhot section, with its source chapter headings. All source text is retained; not a comparison against every printed edition.",
+  "partialWork": false,
+  "sourcePages": [
+    {
+      "sourceTitle": "כסף משנה/הלכות איסורי ביאה",
+      "canonicalTitle": "כסף משנה/הלכות איסורי ביאה",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-3f596076e39f2cec.json",
+      "sourceSnapshotSha256": "d7a3d29135b610afa7202fe6c6e53502eccb71576f7fa91b434a71af8270df43",
+      "sourceRevision": {
+        "id": 2766879,
+        "timestamp": "2023-06-09T14:49:09Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&oldid=2766879",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&action=history",
+      "sourcePageId": 295313,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=2766879&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-3f596076e39f2cec.json",
+        "sha256": "885330d45f2ed57af9dfb5584787b532079e6e1550dcbdb8ad79202eb3eb6531"
+      },
+      "sourceHeadings": [
+        "פרק א",
+        "פרק ב",
+        "פרק ג",
+        "פרק ד",
+        "פרק ה",
+        "פרק ו",
+        "פרק ז",
+        "פרק ח",
+        "פרק ט",
+        "פרק י",
+        "פרק יא",
+        "פרק יב",
+        "פרק יג",
+        "פרק יד",
+        "פרק טו",
+        "פרק טז",
+        "פרק יז",
+        "פרק יח",
+        "פרק יט",
+        "פרק כ",
+        "פרק כא",
+        "פרק כב"
+      ],
+      "readingCharacters": 48085,
+      "readingBlocks": 95,
+      "convertedChapters": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "כסף משנה/הלכות איסורי ביאה · reading section 1",
+      "sourceTitle": "כסף משנה/הלכות איסורי ביאה",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 2766879,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&oldid=2766879",
+      "paragraphs": 41,
+      "plainCharacters": 15811,
+      "outputFile": "Original/1.json",
+      "outputSha256": "4f7a13eb7d0e1b1ec818ab113a36dbfd0e7beb5a884d3b57615393cebd5bdaf2",
+      "normalizedTextSha256": "f718412cbef03eabf3569040de5e961861989d2f07d38db4d59c15454d572d31"
+    },
+    {
+      "chapter": 2,
+      "title": "כסף משנה/הלכות איסורי ביאה · reading section 2",
+      "sourceTitle": "כסף משנה/הלכות איסורי ביאה",
+      "sourceIndex": 1,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 2766879,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&oldid=2766879",
+      "paragraphs": 26,
+      "plainCharacters": 15845,
+      "outputFile": "Original/2.json",
+      "outputSha256": "61b459ddb3a670371cf143e72d8732d061da6cd230552a2d9f70534599b22254",
+      "normalizedTextSha256": "b73b3dac91ea87c822de137153fa4be24c361753fbb85221b686370c3f5f7239"
+    },
+    {
+      "chapter": 3,
+      "title": "כסף משנה/הלכות איסורי ביאה · reading section 3",
+      "sourceTitle": "כסף משנה/הלכות איסורי ביאה",
+      "sourceIndex": 1,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 2766879,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&oldid=2766879",
+      "paragraphs": 27,
+      "plainCharacters": 15278,
+      "outputFile": "Original/3.json",
+      "outputSha256": "5d6343cbd4398cffe608ff1a3d5f2ada1c7796ea2775b8c82e50e7cd8e6917c4",
+      "normalizedTextSha256": "d66c5ec4a8552d57ecbe4910926321208f39c79d2595328bc5c785ea04bfe19e"
+    },
+    {
+      "chapter": 4,
+      "title": "כסף משנה/הלכות איסורי ביאה · reading section 4",
+      "sourceTitle": "כסף משנה/הלכות איסורי ביאה",
+      "sourceIndex": 1,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 2766879,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&oldid=2766879",
+      "paragraphs": 1,
+      "plainCharacters": 1108,
+      "outputFile": "Original/4.json",
+      "outputSha256": "79a76569d83dd8cf754e42f3f326cf03d47bcd4b860f7239bc75962956a0f04c",
+      "normalizedTextSha256": "c3dd7c796522b4a596f2c76bd0b5f0700a91eb46b412184c3e70290e1f50a4ab"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Kessef Mishneh on Mishneh Torah, Forbidden Intercourse/Original/1.json": "3a8dbf390cc2ea38f9a7b038d50675a7918e1053c0bb72597a88d20dcd962db7"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "e3f97d8aed662e2ee98fc12b71854ac563f04824c17e8d91aa466291858e5f2c",
+    "retainedNormalizedTextSha256": "e3f97d8aed662e2ee98fc12b71854ac563f04824c17e8d91aa466291858e5f2c",
+    "existingEnglishBodyFilesUnchanged": 1,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  },
+  "pages": [
+    {
+      "sourceTitle": "כסף משנה/הלכות איסורי ביאה",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&oldid=2766879",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%9B%D7%A1%D7%A3_%D7%9E%D7%A9%D7%A0%D7%94/%D7%94%D7%9C%D7%9B%D7%95%D7%AA_%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99_%D7%91%D7%99%D7%90%D7%94&action=history"
+    }
+  ]
+}

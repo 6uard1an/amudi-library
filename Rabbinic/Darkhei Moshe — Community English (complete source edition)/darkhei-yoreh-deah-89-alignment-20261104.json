@@ -1,0 +1,15 @@
+{
+  "baseBookPath": "Rabbinic/Darkhei Moshe — Yoreh De'ah",
+  "baseChapter": 89,
+  "translationBookPath": "Rabbinic/Darkhei Moshe — Community English (complete source edition)",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "18e9d61d6c39adf3c54bdc99405447c657c0025190ea02411a610d8f1107e9aa",
+      "translationChapter": 6,
+      "translationPosition": 1,
+      "translationTextSha256": "501d15d1fb3a88789483a5e8036243639181741071aae53da8ba81e4e3b9bc00"
+    }
+  ],
+  "method": "Same provider source coordinate; sampled Hebrew and English manually. Translation not independently proofread."
+}

@@ -1,0 +1,20 @@
+{
+  "baseBookPath": "Rabbinic/Yachin on Mishnah Kelim",
+  "baseChapter": 5,
+  "translationBookPath": "Rabbinic/Yachin on Mishnah Kelim — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    5,
+    81,
+    1
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 81,
+      "baseTextSha256": "3b68b92868f7d2a7f81c49a703f78a5feba12b738ef2da4fbc8010212d1b9391",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "e721ca21cf1f2f831be41df1ea4f4eedc7c3afe034a9f65576e2796e5b4fa448"
+    }
+  ]
+}

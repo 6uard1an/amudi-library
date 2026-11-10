@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "chizkuni-munk-english",
+  "title": "Chizkuni — Eliyahu Munk English",
+  "hebrewTitle": "חזקוני — תרגום אליהו מונק לאנגלית",
+  "authors": [
+    {
+      "name": "Chizkuni",
+      "hebrewName": "Chizkuni על התנ״ך",
+      "role": "Commentator / work attribution",
+      "roleHebrew": "מפרש / ייחוס החיבור"
+    },
+    {
+      "name": "Eliyahu Munk",
+      "role": "English translation / edition as identified by the source"
+    }
+  ],
+  "volumeCount": 5,
+  "languages": [
+    "English"
+  ],
+  "licenses": [
+    "CC BY 3.0"
+  ],
+  "volumes": [
+    {
+      "book": "Genesis",
+      "hebrewBook": "בראשית",
+      "section": "Torah",
+      "bookPath": "Torah/Genesis",
+      "file": "Tanakh/Commentaries/chizkuni-munk-english/genesis.json",
+      "chapterCount": 50,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Chizkuni",
+          "versionTitle": "Chizkuni, translated and annotated by Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Chizkuni/Chizkuni/English/Chizkuni%2C%20translated%20and%20annotated%20by%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Chizkuni · Chizkuni, translated and annotated by Eliyahu Munk · http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained the existing source wording and chapter/verse coordinates in a separate plaintext edition; standalone ellipsis placeholders were excluded. Source formatting is retained. No OCR or new translation performed by Amudi. Restored specific altered quotations or citations to match the selected source; locations are documented in the source review.",
+          "rawSourceSha256": "0d4409dc206cbd1a977cf6d817df7b022a521db81ed67916934b304a335fa24b",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Chizkuni",
+          "licenseEvidenceRawSha256": "fa2a8489d3341c07fbd12183aad7b1056b6c3f8a3a18387f3e9006df680c2743",
+          "textSha256": "8602247dadfb1400d2256011855e7d6aba4520990f8034b0c710bbc150d7e2e0",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Exodus",
+      "hebrewBook": "שמות",
+      "section": "Torah",
+      "bookPath": "Torah/Exodus",
+      "file": "Tanakh/Commentaries/chizkuni-munk-english/exodus.json",
+      "chapterCount": 40,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Chizkuni",
+          "versionTitle": "Chizkuni, translated and annotated by Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Chizkuni/Chizkuni/English/Chizkuni%2C%20translated%20and%20annotated%20by%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Chizkuni · Chizkuni, translated and annotated by Eliyahu Munk · http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained the existing source wording and chapter/verse coordinates in a separate plaintext edition; standalone ellipsis placeholders were excluded. Source formatting is retained. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "0d4409dc206cbd1a977cf6d817df7b022a521db81ed67916934b304a335fa24b",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Chizkuni",
+          "licenseEvidenceRawSha256": "fa2a8489d3341c07fbd12183aad7b1056b6c3f8a3a18387f3e9006df680c2743",
+          "textSha256": "eed12943b45aad1a14380b4669154e5cab1c5272b4b81403b4da009eafe01621",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Leviticus",
+      "hebrewBook": "ויקרא",
+      "section": "Torah",
+      "bookPath": "Torah/Leviticus",
+      "file": "Tanakh/Commentaries/chizkuni-munk-english/leviticus.json",
+      "chapterCount": 27,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Chizkuni",
+          "versionTitle": "Chizkuni, translated and annotated by Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Chizkuni/Chizkuni/English/Chizkuni%2C%20translated%20and%20annotated%20by%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Chizkuni · Chizkuni, translated and annotated by Eliyahu Munk · http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained the existing source wording and chapter/verse coordinates in a separate plaintext edition; standalone ellipsis placeholders were excluded. Source formatting is retained. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "0d4409dc206cbd1a977cf6d817df7b022a521db81ed67916934b304a335fa24b",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Chizkuni",
+          "licenseEvidenceRawSha256": "fa2a8489d3341c07fbd12183aad7b1056b6c3f8a3a18387f3e9006df680c2743",
+          "textSha256": "cdef54acc538f2275508754c52bbd7642d1700f29ab5f656109ddcd086800dfb",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Numbers",
+      "hebrewBook": "במדבר",
+      "section": "Torah",
+      "bookPath": "Torah/Numbers",
+      "file": "Tanakh/Commentaries/chizkuni-munk-english/numbers.json",
+      "chapterCount": 36,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Chizkuni",
+          "versionTitle": "Chizkuni, translated and annotated by Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Chizkuni/Chizkuni/English/Chizkuni%2C%20translated%20and%20annotated%20by%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Chizkuni · Chizkuni, translated and annotated by Eliyahu Munk · http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained the existing source wording and chapter/verse coordinates in a separate plaintext edition; standalone ellipsis placeholders were excluded. Source formatting is retained. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "0d4409dc206cbd1a977cf6d817df7b022a521db81ed67916934b304a335fa24b",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Chizkuni",
+          "licenseEvidenceRawSha256": "fa2a8489d3341c07fbd12183aad7b1056b6c3f8a3a18387f3e9006df680c2743",
+          "textSha256": "e4f0794c84c827fdaf4445050517603b6c7832d00ad8f8a0176ca0c6e3df98ad",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Deuteronomy",
+      "hebrewBook": "דברים",
+      "section": "Torah",
+      "bookPath": "Torah/Deuteronomy",
+      "file": "Tanakh/Commentaries/chizkuni-munk-english/deuteronomy.json",
+      "chapterCount": 34,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Chizkuni",
+          "versionTitle": "Chizkuni, translated and annotated by Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Chizkuni/Chizkuni/English/Chizkuni%2C%20translated%20and%20annotated%20by%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Chizkuni · Chizkuni, translated and annotated by Eliyahu Munk · http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=Chizkuni&Category_Code=bd · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained the existing source wording and chapter/verse coordinates in a separate plaintext edition; standalone ellipsis placeholders were excluded. Source formatting is retained. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "0d4409dc206cbd1a977cf6d817df7b022a521db81ed67916934b304a335fa24b",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Chizkuni",
+          "licenseEvidenceRawSha256": "fa2a8489d3341c07fbd12183aad7b1056b6c3f8a3a18387f3e9006df680c2743",
+          "textSha256": "fb5adc5ce88e7d28f3e05ff835a9902c2add14bed3e9abb927f89119be2daf88",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    }
+  ],
+  "coverageStatus": "Source entries at recorded Torah verse positions; source may be partial.",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY 3.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/chizkuni-munk-english/source-manifest.json"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "baseBookPath": "Rabbinic/Guide for the Perplexed",
+  "baseChapter": 35,
+  "translationBookPath": "Rabbinic/Guide for the Perplexed — Feuer Jerusalem Anthology (separate edition)",
+  "method": "Provider coordinate checked against a unique matching local Hebrew paragraph; Feuer passage spans two Hebrew paragraphs. Translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 306,
+      "baseTextSha256": "c24db01ec45b2f6799641bb1a9e7fae726fb1d6a1c0b56253b3a47915f2854f8",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "8ff5ca179407d31c471b91dc188b8c6326e5ae9ece9b7bd22abdd8c8e8ca43cd",
+      "followingBaseTextSha256s": [
+        "45c62c6123eda50bf7cf0022ace55b3294f94440e99d0333a68bdd7c05a5d57c"
+      ]
+    }
+  ]
+}

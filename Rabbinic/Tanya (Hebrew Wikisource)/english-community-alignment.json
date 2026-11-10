@@ -1,0 +1,717 @@
+{
+  "basePath": "Rabbinic/Tanya (Hebrew Wikisource)",
+  "englishSource": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Chabad/Tanya/English/Sefaria Community Translation.json",
+  "englishExportSha256": "633520c8bf17d3cc895056a71ba74758a3233e9e7be8abc0e4057c26a1b0f628",
+  "englishProviderLicense": "CC0",
+  "englishLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "hebrewComparisonSource": "https://storage.googleapis.com/sefaria-export/json/Chasidut/Chabad/Tanya/Hebrew/Kehot%20Publication%20Society.json",
+  "hebrewComparisonSha256": "60e87a07072f3b88f6a89c407d04f6be0defccae9eefc1a3eefb8ba9a80c2118",
+  "hebrewComparisonLicense": "CC-BY-NC",
+  "comparisonUse": "Used only for source-coordinate and text matching. This comparison edition is not included in the app.",
+  "hebrewSourceManifest": "..\\Library\\Rabbinic\\Tanya (Hebrew Wikisource)\\source-manifest.json",
+  "hebrewLicense": "CC BY-SA 4.0",
+  "method": "The same source chapter and segment identify each passage. After removing markup and non-Hebrew characters, at least 98% of the comparison segment must match a unique local reading block, with a 10 percentage point margin over alternatives.",
+  "matches": [
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 1,
+      "sourceEnglishSha256": "8956f97653351f8228a96f4eabc49419076f7cd67cd8ad9c5c34e4f2f4b913e1",
+      "sourceHebrewSha256": "632a8f731ccab1addd111ce3848a02a276a1ce066a280bf56ff4d090da5198b2",
+      "localCoordinate": [
+        2,
+        2
+      ],
+      "localBlockSha256": "20e40f2de72ba8cc4311be3b1faea048ecbd2bda980b9b4790056e93f796d2d8",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.522727
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 3,
+      "sourceEnglishSha256": "70f7610134bd6d5624496fd4b69fe0c79b86a7ac26a6f2132459964c533ad237",
+      "sourceHebrewSha256": "6f3dfeea88ad220338f1b9e8ad34cd984f818d25b8855abaa04a8f218c804c4a",
+      "localCoordinate": [
+        2,
+        3
+      ],
+      "localBlockSha256": "683ab7fed45b847e156a8a02a618705ed74908b415aba12eb22e8b4828c48148",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.475248
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 8,
+      "sourceEnglishSha256": "1ef91386c961a4caa3edb5a41328068fe58f5f314cb9fc56b95bce6e32001a61",
+      "sourceHebrewSha256": "a302ef962de3bfa5ae56a38fab66b8d9eaf8081b10e9d405e5899ce27311392b",
+      "localCoordinate": [
+        2,
+        14
+      ],
+      "localBlockSha256": "b0032b4e20cdde957534e7f815d24f105fc3232a8d1f76f40bfa88a406c7b014",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.410853
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 9,
+      "sourceEnglishSha256": "4e6da4bd8631262f6817915d6b8635e0742cfa1df71fba1f3eaa9aefcb2a5b06",
+      "sourceHebrewSha256": "a3f95f8bfbe8db689d7084e8bfc411af94742489b35c811ba83711d0b5d20514",
+      "localCoordinate": [
+        2,
+        14
+      ],
+      "localBlockSha256": "b0032b4e20cdde957534e7f815d24f105fc3232a8d1f76f40bfa88a406c7b014",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.73913
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 10,
+      "sourceEnglishSha256": "f8aab9df17d5c01e321bea1ce2754fafc051708b1fa793683b57b3709a7340c8",
+      "sourceHebrewSha256": "bd6fe2924bf0368ba5dd2e278da5171791b219e6fa20d96f4d1b85a38bace22a",
+      "localCoordinate": [
+        2,
+        14
+      ],
+      "localBlockSha256": "b0032b4e20cdde957534e7f815d24f105fc3232a8d1f76f40bfa88a406c7b014",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.357143
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 11,
+      "sourceEnglishSha256": "fe53feae6fcd81898d49b4a4461196895ed74838c839760c3dde070d4377de18",
+      "sourceHebrewSha256": "305be43f59c6d1ba088c903cf80d18e5a51b92d614daadc0ad456052f3754503",
+      "localCoordinate": [
+        2,
+        15
+      ],
+      "localBlockSha256": "2052780c5799072fbef9dd765053a3d7c14fb649e2a0e2a5b83adf7baa37b097",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.493151
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 14,
+      "sourceEnglishSha256": "f69ef92d04fb63081deb465742f08728cdff16a38c33ab61afd7760b1b5c4a98",
+      "sourceHebrewSha256": "95ffcb1fee7a9d38dfdfbd8addd0ee64e63fdb30be42470a1a9244ca0fbe5778",
+      "localCoordinate": [
+        2,
+        18
+      ],
+      "localBlockSha256": "9301d3708eb18f6736e7b72d6c0e24d26a119103006401887dc780d78b429935",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.447619
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 16,
+      "sourceEnglishSha256": "5d42d76e032f3dfdf80206b4262ceb640dd52e3c73e76e2dba176e14711443f1",
+      "sourceHebrewSha256": "0d100bb8e4e106e006d93249522bb4de7493fd78a6ee3c16980c79a73f65045f",
+      "localCoordinate": [
+        2,
+        22
+      ],
+      "localBlockSha256": "bfe233e5eded30aafc370424ed4e3862f458aa51f7bfecb516071832a49b4472",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.47541
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 17,
+      "sourceEnglishSha256": "87444e2196906e98777a007167810dee55d966a3f2a8146939c5d846c94472a0",
+      "sourceHebrewSha256": "132f8327b841042bf8c7e40fb0a09231b958180ff3619ddbd64f0e5c9f937f88",
+      "localCoordinate": [
+        2,
+        22
+      ],
+      "localBlockSha256": "bfe233e5eded30aafc370424ed4e3862f458aa51f7bfecb516071832a49b4472",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.546875
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 18,
+      "sourceEnglishSha256": "a14d2761550685dc3a06480b47e8eae8bf3e5b65634d61512d1cac7eee2ad43c",
+      "sourceHebrewSha256": "10d422ca8a81acbc6109e6ca0d0da345609db99d90118ac42bbffb0626a2f279",
+      "localCoordinate": [
+        2,
+        22
+      ],
+      "localBlockSha256": "bfe233e5eded30aafc370424ed4e3862f458aa51f7bfecb516071832a49b4472",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.336957
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 2,
+      "segment": 13,
+      "sourceEnglishSha256": "5c9b362a99b22730f1e0a137a91a58654e2cab71402309669aa36d7c9e65120b",
+      "sourceHebrewSha256": "7817ee98644b085b3ea2b57bcc5c8ec1ef8fed7eafca224b4f53634d6c782670",
+      "localCoordinate": [
+        3,
+        6
+      ],
+      "localBlockSha256": "ad5e15571655d76fbe81ffc90a8afe19c8c74f1a5282e7db5d7d86cebe22935e",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.350746
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 5,
+      "segment": 1,
+      "sourceEnglishSha256": "89681f18b66eb75ff5ba58bcdb5137fe5448548e76fdf32e4d2781269832b116",
+      "sourceHebrewSha256": "71d26214c01d34d370fcf78575aba8a2ed939e0e44d2f261cac24cee566567fb",
+      "localCoordinate": [
+        6,
+        1
+      ],
+      "localBlockSha256": "e0e36d6c74bfb6cd24de7561ea83ef92237153073e46d27b057e8a119da4cc17",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.537037
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 5,
+      "segment": 2,
+      "sourceEnglishSha256": "bd925e67c59c5b82f8a31c5dfa02897ec961cbcc72b8cc2756aa813fa3adfd22",
+      "sourceHebrewSha256": "da22a28409ec6e33a72dd79c5177e18140e7108e6a0ab77319580924c1bc4d13",
+      "localCoordinate": [
+        6,
+        2
+      ],
+      "localBlockSha256": "dc656e79b22c642ce7cf1c97d8f13779f454d8234a60433587bd2eb683ccbf44",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.598131
+    },
+    {
+      "part": "Part III; Iggeret HaTeshuvah",
+      "chapter": 1,
+      "segment": 1,
+      "sourceEnglishSha256": "99d7e3502ecb8a40678f6c800098354b7e202371ce107ff640bd4774265f9e94",
+      "sourceHebrewSha256": "ef4102a3b1903658d36c9264ae2fbc34e713f414ddb4f69d9655c4266ec217a5",
+      "localCoordinate": [
+        68,
+        3
+      ],
+      "localBlockSha256": "f887496f2b1dc88ff151baf851e10e2de61c7f3a0ee41ac91929a0a56a31f99f",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.461538
+    },
+    {
+      "part": "Part III; Iggeret HaTeshuvah",
+      "chapter": 1,
+      "segment": 2,
+      "sourceEnglishSha256": "4fcc565cc431fc452d01fce3d2cbf5eeefb75a6e3dc799334c76359eaafad4f0",
+      "sourceHebrewSha256": "c39c899344da034dcc3b68c601ea72a6571aadffe65309846eb5b48f867a848d",
+      "localCoordinate": [
+        68,
+        5
+      ],
+      "localBlockSha256": "df912d3b27c8c6d9bc879c62057d61e7605c2ccc54e36f00917996c6595655ef",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.340502,
+      "placementCorrection": "English discusses excision and court-imposed death, found in local block 5. Provider version segment indices are not aligned between editions."
+    },
+    {
+      "part": "Part III; Iggeret HaTeshuvah",
+      "chapter": 2,
+      "segment": 1,
+      "sourceEnglishSha256": "f6951bc3007a02e5cbbd6cbe6d1dd9ddad9bf6e9906cfed38877389ff5311563",
+      "sourceHebrewSha256": "d31d2f7427133f531c690b880bbfb9ec5aeab51a8c65e49de344f0963454fb4b",
+      "localCoordinate": [
+        69,
+        1
+      ],
+      "localBlockSha256": "1d86a03136857051cdb1f091d485673a9fb0d777800ed2138bf062925f59eecf",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.285714
+    },
+    {
+      "part": "Part IV; Iggeret HaKodesh",
+      "chapter": 22,
+      "segment": 2,
+      "sourceEnglishSha256": "5995a75b5ab69453e47a8d9d19bcc23803904266f0a37fb84128030381069fc4",
+      "sourceHebrewSha256": "1116d109bf006b86722b9ee8d6fc2bb15863a2face2c29e82188e74d79a79829",
+      "localCoordinate": [
+        101,
+        1
+      ],
+      "localBlockSha256": "575b5b37eaa7260c005a2662991a19873b04acf094dedf150334a77aaab519b7",
+      "hebrewCoverage": 0.994302,
+      "runnerUp": 0.435897
+    }
+  ],
+  "unmatched": [],
+  "languageExclusion": "Part II, chapter 3 of the provider English-labelled export is French. It was not imported into this English edition.",
+  "limitations": "Partial text only. Source license labels and automatic Hebrew placement are evidence, not independent rights certification or proofreading of the English. Source edition segment numbers can be shifted; their correspondence must be checked, not assumed. Six text overlaps are held pending rights reconciliation. Six more segments were placed by contextual review; three other source segments are held for a noncommercial-version overlap.",
+  "spanningMatches": [
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 2,
+      "sourceEnglishSha256": "e8001cf65ca1705e9572a301e7be5b876a6cca35e8dfe64ea5139ebc30b14abb",
+      "sourceHebrewSha256": "8a12d48cc3034914f45ed2f2b226503435eb29c21d2a4b2a7cf0fec58cfd452e",
+      "localCoordinate": [
+        2,
+        2
+      ],
+      "localBlockSha256": "b0032b4e20cdde957534e7f815d24f105fc3232a8d1f76f40bfa88a406c7b014",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.682927,
+      "reason": "Matched the complete source Hebrew segment against adjacent local blocks.",
+      "throughBlock": 3,
+      "localBlockHashes": [
+        "20e40f2de72ba8cc4311be3b1faea048ecbd2bda980b9b4790056e93f796d2d8",
+        "683ab7fed45b847e156a8a02a618705ed74908b415aba12eb22e8b4828c48148"
+      ]
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 4,
+      "sourceEnglishSha256": "48d7395220b70aeb25068d763789318cdfe934286fb1c7f42a11d8cfc53eab74",
+      "sourceHebrewSha256": "7d4dbf4058f269559724dadeca631f1933e8881511c7cf6646d849e6806bdb6c",
+      "localCoordinate": [
+        2,
+        4
+      ],
+      "localBlockSha256": "acf574d1e5e998e7b4eb67f6bb552837ea5cc44b0a05917768a11795a60eda2f",
+      "hebrewCoverage": 0.986111,
+      "runnerUp": 0.486111,
+      "reason": "Matched the complete source Hebrew segment against adjacent local blocks.",
+      "throughBlock": 5,
+      "localBlockHashes": [
+        "2deb7b453efff3ab6641458f4b1cba54242f597090e035b610a2e0f5cb8731d4",
+        "acf574d1e5e998e7b4eb67f6bb552837ea5cc44b0a05917768a11795a60eda2f"
+      ]
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 6,
+      "sourceEnglishSha256": "a30ed5762a6fb5d72103c7b6fcd39b0cc36c7df4f47fb671ad7f3f1b119ba343",
+      "sourceHebrewSha256": "54a57faa5293c1e19bce1c5cd647961a03d118beb52efd33b5e7e233c3d36da6",
+      "localCoordinate": [
+        2,
+        11
+      ],
+      "localBlockSha256": "5013838a89e35c966fb0744c1b3aab04445e57ce706e1e48721a922f460a2695",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.515789,
+      "reason": "Matched the complete source Hebrew segment against adjacent local blocks.",
+      "throughBlock": 12,
+      "localBlockHashes": [
+        "1b23031087c7009d988afebd509f76486d1dd3bcf93efb3d25a50d4a9879754d",
+        "5013838a89e35c966fb0744c1b3aab04445e57ce706e1e48721a922f460a2695"
+      ]
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 7,
+      "sourceEnglishSha256": "6f9735171c4c5e49f10efcc0d5142e656b53ac449f3b8566b31fbecddb3fdbc5",
+      "sourceHebrewSha256": "939acad7c235bc3c9be1bba6876113f7e1a80412201912cd3530a19394be0913",
+      "localCoordinate": [
+        2,
+        13
+      ],
+      "localBlockSha256": "b0032b4e20cdde957534e7f815d24f105fc3232a8d1f76f40bfa88a406c7b014",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.413793,
+      "reason": "Matched the complete source Hebrew segment against adjacent local blocks.",
+      "throughBlock": 14,
+      "localBlockHashes": [
+        "7d675c57e3e809bb5d79bc5ce7fecb251d696e0f1f0ec195a4802e4d97cebad0",
+        "b0032b4e20cdde957534e7f815d24f105fc3232a8d1f76f40bfa88a406c7b014"
+      ]
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 13,
+      "sourceEnglishSha256": "3e8fd0ed6ae68a97f098a32b31caba68823a2abc69741e24ecfd647f5f04007b",
+      "sourceHebrewSha256": "6b8b0e46ed25d5e5eb275002c7095e4c9e25c5dd732d023b38c22d8550d5b09f",
+      "localCoordinate": [
+        2,
+        17
+      ],
+      "localBlockSha256": "62890456ca6d0b695d342e4a5b5655d89fe2ac264fbe2c394770b2f2e23270f4",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.299694,
+      "reason": "Matched the complete source Hebrew segment against adjacent local blocks.",
+      "throughBlock": 18,
+      "localBlockHashes": [
+        "62890456ca6d0b695d342e4a5b5655d89fe2ac264fbe2c394770b2f2e23270f4",
+        "9301d3708eb18f6736e7b72d6c0e24d26a119103006401887dc780d78b429935"
+      ]
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 15,
+      "sourceEnglishSha256": "d1cd5c3172b1cd5eda9629fb09d5fea8913987c0b36fe5034b1a53201c4dfd40",
+      "sourceHebrewSha256": "6dee1af92bc808a6a7b162de64deeec6acd4f5ef6afc1d60273a03ffab40bfe8",
+      "localCoordinate": [
+        2,
+        19
+      ],
+      "localBlockSha256": "70e3a860c84c53d70deca5e1a8b1d24480472a71ab3aaaea85e00beee162bb33",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.346154,
+      "reason": "Matched the complete source Hebrew segment against adjacent local blocks.",
+      "throughBlock": 21,
+      "localBlockHashes": [
+        "70e3a860c84c53d70deca5e1a8b1d24480472a71ab3aaaea85e00beee162bb33",
+        "2e90a0103b6e0e88360b7406e2ed3c4c8cd38904695b7846a1b3b7dfd0affb1a",
+        "17cd8d1b91c2ca2fb71fe754371925ee2edc3a851efbf52b3f2dd7160436d258"
+      ]
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 5,
+      "segment": 3,
+      "sourceEnglishSha256": "37db56f82e38744fbb61920fb3fa1e229398eaf45df6b307062a630f96a45b2c",
+      "sourceHebrewSha256": "afe83f3963479814dc55726651add2d6e356360b56bcf7ff56b7679df0431e67",
+      "localCoordinate": [
+        6,
+        2
+      ],
+      "localBlockSha256": "c8b2ae4fa0353080a61b34c72122768428f5e1c5cb5fe2792ced89a884360f9c",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.328358,
+      "reason": "Matched the complete source Hebrew segment against adjacent local blocks.",
+      "throughBlock": 3,
+      "localBlockHashes": [
+        "dc656e79b22c642ce7cf1c97d8f13779f454d8234a60433587bd2eb683ccbf44",
+        "c8b2ae4fa0353080a61b34c72122768428f5e1c5cb5fe2792ced89a884360f9c"
+      ]
+    }
+  ],
+  "spanningMethod": "For seven previously unmatched passages, at least 98% of the comparison Hebrew segment appears in the matching adjacent blocks. English appears at the first block with a visible range notice.",
+  "heldSourceConflicts": [
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 2,
+      "segment": 1,
+      "sourceEnglishSha256": "5fa698c0c65a3067e7d389c13c01361f8071d11cc6fd7fa15cedfd086d41770d",
+      "sourceHebrewSha256": "2d6a8caad48d5944e4f15b9cff07b6736e6355b468feea80e4b49153ba74c193",
+      "localCoordinate": [
+        3,
+        1
+      ],
+      "localBlockSha256": "10ffa37aff12caeed74c3b7c3fab7e753100b2bee925f0df9f05e9935d20849d",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.371069,
+      "consecutiveMatchingWords": 21,
+      "sourceEnglishWords": 78,
+      "restrictedVersionResponseSha256": "b91d2aec8902321b4ab319dbdaed282cfab36c80c9f559bcefd9528a95892e1a",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%202?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: substantial overlap with separately CC BY-NC-labeled text; relationship and permission are unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 2,
+      "segment": 10,
+      "sourceEnglishSha256": "695bc90aec6961f1b8800963e1068f20c0b9191a60cd2e17e6dd86b2fa9f03c6",
+      "sourceHebrewSha256": "e292c1ee3d8ee94944df48af3d5487f371ba29301835fbc237011eac7f5b73bc",
+      "localCoordinate": [
+        3,
+        4
+      ],
+      "localBlockSha256": "949f6f03644d560a37c941b00eb90b068e7aa2627003a0da96e74e8030bd2dbf",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.616352,
+      "consecutiveMatchingWords": 26,
+      "sourceEnglishWords": 60,
+      "restrictedVersionResponseSha256": "b91d2aec8902321b4ab319dbdaed282cfab36c80c9f559bcefd9528a95892e1a",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%202?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: substantial overlap with separately CC BY-NC-labeled text; relationship and permission are unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 2,
+      "segment": 11,
+      "sourceEnglishSha256": "4a9dbda5cbdf0bd664988c4fb4e08d47dd5b4bbb0571776507c796c3c7d91e7b",
+      "sourceHebrewSha256": "a3e6768112b4fb70d0a22ac3ccf9909b162151f3f3aab4135bdf84931f0d3542",
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "localBlockSha256": "1ac9eda4d43acbca15c88603887ef781b3b7e1b5bf889c3cf6a9b6da7ff9a925",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.381643,
+      "consecutiveMatchingWords": 28,
+      "sourceEnglishWords": 94,
+      "restrictedVersionResponseSha256": "b91d2aec8902321b4ab319dbdaed282cfab36c80c9f559bcefd9528a95892e1a",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%202?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: substantial overlap with separately CC BY-NC-labeled text; relationship and permission are unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 2,
+      "segment": 12,
+      "sourceEnglishSha256": "50d7d0cb6563f26a8c77007b352ebadf9a6954ea22035c5459101c7bfad19e24",
+      "sourceHebrewSha256": "ac4effbf4841fa33de15caa7df2ff73fa1bab7ee3c386b32227aa876a5f69017",
+      "localCoordinate": [
+        3,
+        5
+      ],
+      "localBlockSha256": "1ac9eda4d43acbca15c88603887ef781b3b7e1b5bf889c3cf6a9b6da7ff9a925",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 0.690476,
+      "consecutiveMatchingWords": 21,
+      "sourceEnglishWords": 36,
+      "restrictedVersionResponseSha256": "b91d2aec8902321b4ab319dbdaed282cfab36c80c9f559bcefd9528a95892e1a",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%202?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: substantial overlap with separately CC BY-NC-labeled text; relationship and permission are unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 53,
+      "segment": 1,
+      "sourceEnglishSha256": "778cd53033a14dffa105525a96f3d85e51987d62c084989b4c5e01d28c776064",
+      "sourceHebrewSha256": "ed61dd9aa35c84dfa76f8dd7c241b4d3884727d194d2726e4291e9210f61630c",
+      "localCoordinate": [
+        54,
+        2
+      ],
+      "localBlockSha256": "873e13125af942d4efc150995f1a819aa0a441718989216a03216e8fffa42337",
+      "hebrewCoverage": 0.995122,
+      "runnerUp": 0.44878,
+      "consecutiveMatchingWords": 91,
+      "sourceEnglishWords": 339,
+      "restrictedVersionResponseSha256": "0745f4dcc0ca1143b7962221e27896848bfb3ef7a876e0647e30225ea4c74279",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%2053?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: substantial overlap with separately CC BY-NC-labeled text; relationship and permission are unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 53,
+      "segment": 2,
+      "sourceEnglishSha256": "0c0c896dbf96af82a40398987ea31987c5b401d3af243cd6f3720a11245e3eeb",
+      "sourceHebrewSha256": "04411ccf3ee5b4067e0d600abbcdc02318dcebf2838af56a666885cf9c28ae2d",
+      "localCoordinate": [
+        54,
+        2
+      ],
+      "localBlockSha256": "873e13125af942d4efc150995f1a819aa0a441718989216a03216e8fffa42337",
+      "hebrewCoverage": 0.996485,
+      "runnerUp": 0.351494,
+      "consecutiveMatchingWords": 131,
+      "sourceEnglishWords": 406,
+      "restrictedVersionResponseSha256": "0745f4dcc0ca1143b7962221e27896848bfb3ef7a876e0647e30225ea4c74279",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%2053?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: substantial overlap with separately CC BY-NC-labeled text; relationship and permission are unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 36,
+      "segment": 1,
+      "sourceEnglishSha256": "33ef78571282bb450a725ff8e414d58f6425c3833d73db9585ac059c28235fee",
+      "sourceHebrewSha256": "083aeeeb28ee26b1e0e02bd4be5d5176bdd2dcebf6598570bf59ddb3ca60d2bb",
+      "localCoordinate": [
+        37,
+        1
+      ],
+      "localBlockSha256": "e561f5315c8ecfd722ba3f0a1c1b739b5f4d72e90020fe5c79a6d367b9042015",
+      "hebrewCoverage": 0.75,
+      "runnerUp": 0.597826,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "consecutiveMatchingWords": 59,
+      "restrictedVersionResponseSha256": "70f9664f603be37c9156619c1455904011ac0d63e16af24545a27e541fb07083",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%2036?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: overlap with a CC BY-NC-labeled edition; relationship and authorization remain unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 36,
+      "segment": 2,
+      "sourceEnglishSha256": "58b9a565f71617d6b8e49f761a6014ef61e781ac0a3c4eb682fed20b9a0fe90a",
+      "sourceHebrewSha256": "22c309580965ad16363c4ac0242b602a12bd72fe9557895896bef2c467a3640f",
+      "localCoordinate": [
+        37,
+        2
+      ],
+      "localBlockSha256": "a8ee88167256877da1cec84d3915efed5db3fadd12682753235c1272fbbe6f98",
+      "hebrewCoverage": 0.896552,
+      "runnerUp": 0.655172,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "consecutiveMatchingWords": 91,
+      "restrictedVersionResponseSha256": "70f9664f603be37c9156619c1455904011ac0d63e16af24545a27e541fb07083",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%2036?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: overlap with a CC BY-NC-labeled edition; relationship and authorization remain unverified."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 53,
+      "segment": 3,
+      "sourceEnglishSha256": "84fe5408321d1c9c993bf544583f41e631f73356aa13419960137d45730fce1e",
+      "sourceHebrewSha256": "25ce7c582d3c98a68bbc427eb51dd63c105bf4c8ec686ae60adb194959d35526",
+      "localCoordinate": [
+        54,
+        3
+      ],
+      "localBlockSha256": "c242461c1b96888ebb64ff1c7917e4d7886090579344b0a2c57a2719187e8b3d",
+      "hebrewCoverage": 0.954128,
+      "runnerUp": 0.33578,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "consecutiveMatchingWords": 121,
+      "restrictedVersionResponseSha256": "0745f4dcc0ca1143b7962221e27896848bfb3ef7a876e0647e30225ea4c74279",
+      "restrictedVersionUrl": "https://www.sefaria.org/api/v3/texts/Tanya%2C%20Part%20I%3B%20Likkutei%20Amarim%2053?version=english%7CKehot+Publication+Society+%28English+Translation%29&fill_in_missing_segments=0",
+      "status": "HOLD: overlap with a CC BY-NC-labeled edition; relationship and authorization remain unverified."
+    }
+  ],
+  "placementCorrections": [
+    {
+      "part": "Part III; Iggeret HaTeshuvah",
+      "chapter": 1,
+      "sourceEnglishSegment": 2,
+      "previousLocalCoordinate": [
+        68,
+        3
+      ],
+      "correctedLocalCoordinate": [
+        68,
+        5
+      ],
+      "reason": "English discusses excision and court-imposed death, found in local block 5. Provider version segment indices are not aligned between editions."
+    }
+  ],
+  "manualMatches": [
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 1,
+      "segment": 5,
+      "sourceEnglishSha256": "1a1aaebbd5e045153e3d90ce2ab95f4babb37feebcb9801f6fb89aef77f161f1",
+      "sourceHebrewSha256": "b871f08b182b64e8894f93398427259cf74105001b81a7668cb329302af31d32",
+      "localCoordinate": [
+        2,
+        6
+      ],
+      "localBlockSha256": "d72555768fa66891a6a8275f2fee9a3b30188b7a558e2eba4da687249f423591",
+      "hebrewCoverage": 0.551111,
+      "runnerUp": 0.315556,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "throughBlock": 10,
+      "localBlockHashes": [
+        "edd2efa57a2f9a676bb0c9a6f557e580c8bf205b7aa742363e173a1ffde1c07a",
+        "d7e3c07347a07b9b2c1f313fd418a371c2455cc17461e287d2bb55cbcc19441a",
+        "c9a3ad59072d378e660b00c62003b1b1c214f3d9afb64accafbc8839af8000db",
+        "10015e3d3f87b909df15e60c63b1901799497246c0ce707a9f1d945039238233",
+        "d72555768fa66891a6a8275f2fee9a3b30188b7a558e2eba4da687249f423591"
+      ],
+      "basis": "Reviewed English subject and source passage against the quoted Hebrew topic in the indicated reading block(s); source segment number alone was not used."
+    },
+    {
+      "part": "Part I; Likkutei Amarim",
+      "chapter": 2,
+      "segment": 14,
+      "sourceEnglishSha256": "653c36ef6b6c6f39a337e7c826d5274a483b396b5eb86c9e1459483ca4909288",
+      "sourceHebrewSha256": "9386d56a3fc30e7d1b748322b2e176275e46c9fecbbd7a98bbe7bedc3af7c5cf",
+      "localCoordinate": [
+        3,
+        6
+      ],
+      "localBlockSha256": "ad5e15571655d76fbe81ffc90a8afe19c8c74f1a5282e7db5d7d86cebe22935e",
+      "hebrewCoverage": 0.929688,
+      "runnerUp": 0.382812,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "throughBlock": null,
+      "localBlockHashes": [
+        "ad5e15571655d76fbe81ffc90a8afe19c8c74f1a5282e7db5d7d86cebe22935e"
+      ],
+      "basis": "Reviewed English subject and source passage against the quoted Hebrew topic in the indicated reading block(s); source segment number alone was not used."
+    },
+    {
+      "part": "Part III; Iggeret HaTeshuvah",
+      "chapter": 4,
+      "segment": 1,
+      "sourceEnglishSha256": "b806f67e281f3d7b1008731a5ef96627aa644c620614a737218abc27e64aa992",
+      "sourceHebrewSha256": "37ae50abae3e281e94ef0a8968d4f98e1ca44c141a618e09e2bcfd3395fc4bfd",
+      "localCoordinate": [
+        71,
+        2
+      ],
+      "localBlockSha256": "3796076b72857c6647993b2fe5b69992ae7d98553e4cd51a112e84bc97e9cf0c",
+      "hebrewCoverage": 0.966667,
+      "runnerUp": 0.338889,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "throughBlock": null,
+      "localBlockHashes": [
+        "3796076b72857c6647993b2fe5b69992ae7d98553e4cd51a112e84bc97e9cf0c"
+      ],
+      "basis": "Reviewed English subject and source passage against the quoted Hebrew topic in the indicated reading block(s); source segment number alone was not used."
+    },
+    {
+      "part": "Part IV; Iggeret HaKodesh",
+      "chapter": 22,
+      "segment": 1,
+      "sourceEnglishSha256": "09bf34b8bb692b477069f5fbdc31e87aa0340e31e4d1d7a38457661f27554af5",
+      "sourceHebrewSha256": "b15126f687ac892f765307340bb554d327e327da891cbe0a5ff4416e5b15a1c9",
+      "localCoordinate": [
+        101,
+        1
+      ],
+      "localBlockSha256": "0bbf5a58324cae108ceff1860dcecf2a111bd5b1f637a6f978e3a32b55cffcef",
+      "hebrewCoverage": 1.0,
+      "runnerUp": 1.0,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "throughBlock": null,
+      "localBlockHashes": [
+        "575b5b37eaa7260c005a2662991a19873b04acf094dedf150334a77aaab519b7"
+      ],
+      "basis": "Reviewed English subject and source passage against the quoted Hebrew topic in the indicated reading block(s); source segment number alone was not used."
+    },
+    {
+      "part": "Part IV; Iggeret HaKodesh",
+      "chapter": 22,
+      "segment": 3,
+      "sourceEnglishSha256": "5e7cb0e05f2be2b9287af7aeeca5290f5660bfc0d26c1f3605663c340315046f",
+      "sourceHebrewSha256": "8866162f5c35afe11e921a22a10c76043921eab55ed9a8921bab59020acfd19f",
+      "localCoordinate": [
+        101,
+        1
+      ],
+      "localBlockSha256": "575b5b37eaa7260c005a2662991a19873b04acf094dedf150334a77aaab519b7",
+      "hebrewCoverage": 0.876344,
+      "runnerUp": 0.521505,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "throughBlock": null,
+      "localBlockHashes": [
+        "575b5b37eaa7260c005a2662991a19873b04acf094dedf150334a77aaab519b7"
+      ],
+      "basis": "Reviewed English subject and source passage against the quoted Hebrew topic in the indicated reading block(s); source segment number alone was not used."
+    },
+    {
+      "part": "Part IV; Iggeret HaKodesh",
+      "chapter": 22,
+      "segment": 4,
+      "sourceEnglishSha256": "1e8ea0ac30a4934d67799eab8ce021ca59d9272d22ff48d9bc923dbd2ce74eef",
+      "sourceHebrewSha256": "759d8932ac3082612a116808c97f500222d1d402562ad2fdadba06788daaba6d",
+      "localCoordinate": [
+        101,
+        2
+      ],
+      "localBlockSha256": "575b5b37eaa7260c005a2662991a19873b04acf094dedf150334a77aaab519b7",
+      "hebrewCoverage": 0.75463,
+      "runnerUp": 0.430556,
+      "reason": "Hebrew passage crosses blocks, differs substantially, or has ambiguous placement.",
+      "throughBlock": null,
+      "localBlockHashes": [
+        "fa641367a62af5b6b863e732b5cdb81d654bb2ebcea2ff98caa7404e407ed9c6"
+      ],
+      "basis": "Reviewed English subject and source passage against the quoted Hebrew topic in the indicated reading block(s); source segment number alone was not used."
+    }
+  ]
+}

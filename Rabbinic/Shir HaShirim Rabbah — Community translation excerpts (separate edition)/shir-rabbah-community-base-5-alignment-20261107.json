@@ -1,0 +1,34 @@
+{
+  "baseBookPath": "Rabbinic/Shir HaShirim Rabbah",
+  "baseChapter": 5,
+  "translationBookPath": "Rabbinic/Shir HaShirim Rabbah — Community translation excerpts (separate edition)",
+  "method": "Exact Hebrew and English source positions; unique local Hebrew matches and text fingerprints checked. Translation not independently proofread. Chapter 5 passage 1 uses three English fragments manually matched to the beginning of a longer Hebrew passage; partial translation notice required.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Rabbah/Shir%20HaShirim%20Rabbah/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "0567208c7242627af697e480cf9bba521a367479d61a4dd77d98c9882ea85334",
+      "fragments": [
+        {
+          "translationChapter": 15,
+          "translationPosition": 1,
+          "translationTextSha256": "70672ea6a6d098f8194215d385e19f76bad49736f8d35059b1d1a68417e397b7"
+        },
+        {
+          "translationChapter": 15,
+          "translationPosition": 2,
+          "translationTextSha256": "c101e3b9192084f1ba7e5485393c6c3530520f8fcec418ce489797a5f757c667"
+        },
+        {
+          "translationChapter": 15,
+          "translationPosition": 3,
+          "translationTextSha256": "90cb0716596e6526b6ddff091466988f5527743a56119396139815fec85edf6b"
+        }
+      ],
+      "partialTranslation": true,
+      "meaningWarning": "divine-presence-question"
+    }
+  ]
+}

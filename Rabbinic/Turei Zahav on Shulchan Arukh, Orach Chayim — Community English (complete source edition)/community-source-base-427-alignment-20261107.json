@@ -1,0 +1,28 @@
+{
+  "baseBookPath": "Rabbinic/Turei Zahav on Shulchan Arukh, Orach Chayim",
+  "baseChapter": 427,
+  "translationBookPath": "Rabbinic/Turei Zahav on Shulchan Arukh, Orach Chayim — Community English (complete source edition)",
+  "method": "Exact unique local Hebrew match to corresponding source position; English source positions and fingerprints checked. Translation not independently proofread.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Turei%20Zahav/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "3d62ddc603f4d46d72bfe266b3a069bf2cc3008f4604ed55c1e9681e52c183f2",
+      "translationChapter": 5,
+      "fragments": [
+        {
+          "translationChapter": 5,
+          "translationPosition": 1,
+          "translationTextSha256": "fc4f8b6bb519c0f44ae27b65c4d701e18637117fc20d44f5992ed24c382d7341"
+        },
+        {
+          "translationChapter": 5,
+          "translationPosition": 2,
+          "translationTextSha256": "ae22764dbd010bf7eed9430634dd6746147b624402f72e465760295c905a6183"
+        }
+      ]
+    }
+  ]
+}

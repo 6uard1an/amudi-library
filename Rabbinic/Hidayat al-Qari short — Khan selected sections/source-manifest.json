@@ -1,0 +1,78 @@
+{
+  "title": "Hidayat al-Qari short version: selected sections",
+  "editorTranslator": "Geoffrey Khan",
+  "publisher": "Open Book Publishers",
+  "year": 2020,
+  "publisherBookUrl": "https://www.openbookpublishers.com/books/10.11647/obp.0194",
+  "publisherChapterUrl": "https://doi.org/10.11647/OBP.0194.03",
+  "sourcePdfUrl": "https://zenodo.org/records/19848143/files/0ea95332-4f93-4238-ba37-11c31c63a40c_book.pdf?download=1",
+  "sourcePdfSha256": "e173e8b1d60f7914193c715c0b20ba96f4bc46f14aeca4a881d784c72144aac2",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Geoffrey Khan, The Tiberian Pronunciation Tradition of Biblical Hebrew, Volume 2, Hidāyat al-Qāriʾ (Short Version), Open Book Publishers, 2020, https://doi.org/10.11647/OBP.0194.03, CC BY 4.0.",
+  "changes": "Selected only sections II.S.0.1–II.S.0.2 from publisher’s embedded PDF text; normalized line breaks, removed printed line number 5, moved the S20:1r manuscript reference to the manifest, and rendered footnote 1 inline in the English. No OCR and no new translation. Source and English segments follow the editor’s matching section labels. Added sections II.S.0.4–II.S.0.5: corrected a PDF font extraction of “off”, removed printed line numbers 15 and 20, and moved the S9:1v manuscript reference to this manifest. At that stage, section II.S.0.3 was not included. Added II.S.0.3 from the publisher’s embedded text across facing pages: joined page continuations, removed printed line number 10 and moved S9:1r to this manifest, corrected two font-extracted “first” ligatures, restored quotation placement at five Hebrew/English boundaries, and normalized Unicode compatibility forms. No OCR or new translation. Added II.S.1.5–II.S.1.6 from embedded PDF text, moving extracted combining dots to their printed letters, restoring spaces at Hebrew/English boundaries and removing printed line number 40. No OCR or new translation.",
+  "sections": [
+    {
+      "ref": "II.S.0.1",
+      "translationPdfPage": 207,
+      "judeoArabicPdfPage": 208,
+      "manuscriptReference": "S20:1r",
+      "englishFootnote": "Literally: the book of the lifeblood."
+    },
+    {
+      "ref": "II.S.0.2",
+      "translationPdfPage": 207,
+      "judeoArabicPdfPage": 208,
+      "removedPrintedLineNumber": "5"
+    },
+    {
+      "ref": "II.S.0.3",
+      "translationPdfPages": [
+        207,
+        209
+      ],
+      "judeoArabicPdfPages": [
+        208,
+        210
+      ],
+      "manuscriptReference": "S9:1r",
+      "removedPrintedLineNumber": "10",
+      "editorialCorrections": "Restored PDF-font ligatures in “first”, normalized Unicode, and repaired five Hebrew/English quotation boundaries."
+    },
+    {
+      "ref": "II.S.0.4",
+      "translationPdfPage": 209,
+      "judeoArabicPdfPage": 210,
+      "removedPrintedLineNumbers": [
+        "15",
+        "20"
+      ],
+      "fontCorrection": "PDF extraction “oˤ” visually corrected to “off”."
+    },
+    {
+      "ref": "II.S.0.5",
+      "translationPdfPage": 209,
+      "judeoArabicPdfPage": 210,
+      "manuscriptReference": "S9:1v"
+    },
+    {
+      "ref": "II.S.1.5",
+      "translationPdfPage": 213,
+      "judeoArabicPdfPage": 214,
+      "readerChapter": 2,
+      "readerPosition": 1,
+      "removedPrintedLineNumber": "40",
+      "corrections": "Restored the PDF-extracted combining dot to the last Hebrew letter and restored the space before English."
+    },
+    {
+      "ref": "II.S.1.6",
+      "translationPdfPage": 213,
+      "judeoArabicPdfPage": 214,
+      "readerChapter": 2,
+      "readerPosition": 2,
+      "corrections": "Restored PDF-extracted combining dots to the final Hebrew letters and restored spaces before English."
+    }
+  ],
+  "limitations": "Seven selected sections of the short Judeo-Arabic version with Khan’s English translation: II.S.0.1–II.S.0.5 and II.S.1.5–II.S.1.6. Sections II.S.1.1–II.S.1.4 and the remainder are not included; alignment with the separate medieval Hebrew translation has not been independently checked.",
+  "verification": "Compared the two embedded-text extracts with rendered source pages; no OCR. Source edition is partial and the CC license does not itself verify all distribution conditions."
+}

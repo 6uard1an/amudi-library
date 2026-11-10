@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "work": "Rosh on Pesachim",
+  "parentPath": "Rabbinic/Rosh on Pesachim",
+  "editionName": "Rosh on Pesachim — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rosh/Seder%20Moed/Rosh%20on%20Pesachim/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/708a61ebbff9f52a04c6.json",
+  "sourceRawSha256": "1a9b30ba4f6e869848bb21c67c496f559e68dd7f1d92446d02697524ef8087a3",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Rosh on Pesachim; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Rosh on Pesachim",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Rishonim%20on%20Talmud/Rosh/Seder%20Moed/Rosh%20on%20Pesachim/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/708a61ebbff9f52a04c6.json",
+    "sourceRawSha256": "1a9b30ba4f6e869848bb21c67c496f559e68dd7f1d92446d02697524ef8087a3",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Rosh%20on%20Pesachim",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Rosh%20on%20Pesachim",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/093e3c0aacf2a9960812-versions.json",
+      "rawSha256": "1eed87e115fb9aa8baff4a5e5cd2bec0e4b00053f0c1c6c79c11ffa64408c9f2",
+      "retrievedAt": "2026-10-30T04:25:34.949Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "תרגום קהילת ספריא",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Rosh on Pesachim",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Rosh on Pesachim 2:25"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "2 · 25",
+      "sourcePosition": [
+        2,
+        25
+      ],
+      "payloadSha256": "79d498591459e818e5eef6c58db1a72b4991659e09ecbed58645eee4d9fa03dc",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            2,
+            25,
+            1
+          ],
+          "sourceTextSha256": "659b0e55b368c68df7fe64702de7988d6d1925c3a29e09e03eaeb3fe5c5ba0b7",
+          "retainedTextSha256": "659b0e55b368c68df7fe64702de7988d6d1925c3a29e09e03eaeb3fe5c5ba0b7"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "2 · 26",
+      "sourcePosition": [
+        2,
+        26
+      ],
+      "payloadSha256": "553b24f463371207bb2962043dc9634b0c64bb9367ee6125a54402f880c7253e",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            2,
+            26,
+            1
+          ],
+          "sourceTextSha256": "1d877afabc87277a0b4887dc01d126352681dc53bc754d8297395a4b39de85aa",
+          "retainedTextSha256": "1d877afabc87277a0b4887dc01d126352681dc53bc754d8297395a4b39de85aa"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "2 · 27",
+      "sourcePosition": [
+        2,
+        27
+      ],
+      "payloadSha256": "38f592cf26c6ee0665bbe49d9c6b5169853b84a8822a8c2d44fcc995c5971485",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            2,
+            27,
+            1
+          ],
+          "sourceTextSha256": "802f2c890894cedc464765b723df1a31be57a81f893b77fdb6955444fb074d48",
+          "retainedTextSha256": "802f2c890894cedc464765b723df1a31be57a81f893b77fdb6955444fb074d48"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "10 · 33",
+      "sourcePosition": [
+        10,
+        33
+      ],
+      "payloadSha256": "85f5fe515b6211ba29d8477592ce1fcb5bc352e968796493cc774872fde27341",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            10,
+            33,
+            1
+          ],
+          "sourceTextSha256": "e12e05d614c06686539684dccaf8b6c7f611b389f53c9e967fb86248d2988ee5",
+          "retainedTextSha256": "b9b5db327da72b3887728cff817c5159e4fc3576cfa4070c12f9a91041111c1e"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 4,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:37.123Z"
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "targum-neofiti-english",
+  "title": "Targum Neofiti on Genesis — English excerpts",
+  "hebrewTitle": "תרגום ניאופיטי — קטעים באנגלית",
+  "volumeCount": 1,
+  "languages": [
+    "English"
+  ],
+  "licenses": [
+    "CC0 1.0",
+    "CC BY 4.0 (passage links)"
+  ],
+  "volumes": [
+    {
+      "book": "Genesis",
+      "hebrewBook": "בראשית",
+      "section": "Torah",
+      "bookPath": "Torah/Genesis",
+      "file": "Tanakh/Commentaries/targum-neofiti-english/genesis.json",
+      "chapterCount": 1,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Targum Neofiti",
+          "versionTitle": "Sefaria Community Translation",
+          "language": "English",
+          "actualLanguage": "en",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Targum/Targum%20Neofiti/Targum%20Neofiti/English/Sefaria%20Community%20Translation.json",
+          "license": "CC0 1.0",
+          "licenseAsRecorded": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Targum%20Neofiti",
+          "attribution": "Sefaria community contributors; Sefaria Export. Passage alignment: Sefaria link data, CC BY 4.0; see source manifest.",
+          "changes": "Converted exact source verses to chapter and verse positions; selected only exact corresponding Sefaria links; no text wording changed.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-neofiti-english/source-manifest.json",
+          "coverageStatus": "Partial: Genesis 1:1–8 only. No Aramaic edition included."
+        }
+      ]
+    }
+  ],
+  "unavailableVolumes": [],
+  "coverageStatus": "Partial: Genesis 1:1–8 only. No Aramaic edition included.",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/targum-neofiti-english/source-manifest.json"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Or Torah, five quotations",
+  "sourcePages": [
+    {
+      "url": "https://benyehuda.org/dict/24412/50019",
+      "sha256": "f3979709514b1324695212310820535a246aedfb19d3aa1b65fd9486a1155034",
+      "providerLabel": "Public domain"
+    },
+    {
+      "url": "https://benyehuda.org/dict/24412/51104",
+      "sha256": "719286fff18e7e490f69f942fc3102c251c5d4aa45a71d877816d6608bd994c7",
+      "providerLabel": "Public domain"
+    },
+    {
+      "url": "https://benyehuda.org/dict/24412/50541",
+      "sha256": "555c9b64dc1dac29dae1aa2deda96ce0c3927f97120ae6a010cbe68327283182",
+      "providerLabel": "Public domain",
+      "sourceSnapshotPath": "Amudi/data/rights/or-torah-lonzano-silon-quotation-20261107/source.html",
+      "sourceSnapshotSha256": "555c9b64dc1dac29dae1aa2deda96ce0c3927f97120ae6a010cbe68327283182",
+      "sourceCitation": "Menachem di Lonzano, Or Torah, p. 16",
+      "localChapter": 3,
+      "attributionNote": "A second quotation follows the explicit Or Torah citation and is cited as שם (ibid.); its attribution to the preceding work is contextual."
+    },
+    {
+      "url": "https://benyehuda.org/dict/24412/55764",
+      "sha256": "853bc8a7d2e0cfad883a1bfc36ceec56bc584d0cce68babda0ce7a1f62cf582f",
+      "providerLabel": "Public domain",
+      "sourceSnapshotPath": "Amudi/data/rights/or-torah-lonzano-exodus20-quote-20261107/source.html",
+      "sourceSnapshotSha256": "853bc8a7d2e0cfad883a1bfc36ceec56bc584d0cce68babda0ce7a1f62cf582f",
+      "sourceCitation": "Or Torah, Exodus 20:2, as cited by the dictionary",
+      "localChapter": 4
+    }
+  ],
+  "providerLicenseEvidence": "All four linked dictionary pages display נחלת הכלל (public domain).",
+  "licenseScope": "Host status label for the dictionary; public-domain status can vary by jurisdiction. The original work dates to 1618. No independent full edition or modern editorial history is asserted.",
+  "attribution": "Menachem de Lonzano, Or Torah; quoted in Eliezer Ben-Yehuda, Dictionary of Ancient and Modern Hebrew, Project Ben-Yehuda, entries נקדן, סתם, סילון and רביע.",
+  "changes": "Selected five quotations attributed or contextually referred to Or Torah in the dictionary; normalized whitespace and omitted surrounding unrelated dictionary entries. No OCR or new translation.",
+  "scope": "Five short quotations attributed or contextually referred to Or Torah in the Ben-Yehuda dictionary; not a full edition. The fourth quotation uses an ibid. citation. The fifth is explicitly cited to Exodus 20:2. No English translation is included; the dictionary is a secondary witness and the historical edition has not been collated."
+}

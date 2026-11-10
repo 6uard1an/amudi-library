@@ -1,0 +1,21 @@
+{
+  "baseBookPath": "Rabbinic/Yalkut Shimoni on Nach (Hebrew Wikisource)",
+  "baseChapter": 27,
+  "translationBookPath": "Rabbinic/Yalkut Shimoni on Nach — Feuer Jerusalem Anthology (separate edition)",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Yalkut%20Shimoni%20on%20Nach/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Yalkut Shimoni on Nach; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "scope": "One of 14 source passages matched to a Hebrew paragraph; no whole-work coverage claim.",
+  "method": "Manually compared same remez, opening verse and the linked Shimi ben Geira, Solomon and Rome narrative. Source editions may differ.",
+  "hebrewSourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%99%D7%9C%D7%A7%D7%95%D7%98_%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99/%D7%9E%D7%9C%D7%9B%D7%99%D7%9D_%D7%90/%D7%A8%D7%9E%D7%96_%D7%A7%D7%A2%D7%91&oldid=1115614",
+  "pairs": [
+    {
+      "basePosition": 31,
+      "baseTextSha256": "2462b23b937bc032a83afba19885e9a80e73430b7a84ba1497b84984a4609b6d",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "22110b72e583950c648f24b25672b350e9ae4d13799b41da1ce4b67a0ee5aaf6"
+    }
+  ]
+}

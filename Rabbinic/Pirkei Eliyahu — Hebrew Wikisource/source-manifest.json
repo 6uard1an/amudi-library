@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "work": "Pirkei Eliyahu",
+  "author": "Elijah Levita",
+  "sourceIndex": "https://he.wikisource.org/wiki/פרקי_אליהו_(בחור)",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "termsUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use",
+  "attribution": "Pirkei Eliyahu by Elijah Levita; Hebrew Wikisource contributors: מו יו הו, נדב ס. Revision and contributor history for each section are recorded in source-manifest.json.",
+  "changes": "Converted five revision-pinned Wikisource rendered pages into book sections; removed editing controls, preserved headings and footnotes, escaped markup, and normalized whitespace. No new OCR or translation performed. Shared under CC BY-SA 4.0.",
+  "pages": [
+    {
+      "chapter": 1,
+      "title": "פרקי אליהו (בחור)/הקדמה",
+      "revision": 2965429,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2965429",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%A7%D7%99+%D7%90%D7%9C%D7%99%D7%94%D7%95+%28%D7%91%D7%97%D7%95%D7%A8%29%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history",
+      "contributors": [
+        "מו יו הו",
+        "נדב ס"
+      ],
+      "historySnapshotSha256": "cbe193e4ce5d5d4ba3fbeb6e23f14b01d2dc4e9f24b25f3781455406db19d147",
+      "renderedSnapshotSha256": "ad4a46f50019c7fe3cacad592ae1010e257d1c318cbfd2a936b50454496ea523",
+      "segments": 7,
+      "notes": "Rendered Wikisource page marked unchecked; digitization method not independently established."
+    },
+    {
+      "chapter": 2,
+      "title": "פרקי אליהו (בחור)/פרק שירה",
+      "revision": 3007443,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=3007443",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%A7%D7%99+%D7%90%D7%9C%D7%99%D7%94%D7%95+%28%D7%91%D7%97%D7%95%D7%A8%29%2F%D7%A4%D7%A8%D7%A7+%D7%A9%D7%99%D7%A8%D7%94&action=history",
+      "contributors": [
+        "מו יו הו"
+      ],
+      "historySnapshotSha256": "b6ed821fa9a4cb626dad939906641abe7bf9ca1fd9b2e8e2a546de4e490291fc",
+      "renderedSnapshotSha256": "5c40aaf9dd697c14c86ead917df0da4a47323239d7a108bad81de0b231784b2f",
+      "segments": 180,
+      "notes": "Rendered Wikisource page marked unchecked; digitization method not independently established."
+    },
+    {
+      "chapter": 3,
+      "title": "פרקי אליהו (בחור)/פרק המינים",
+      "revision": 2899654,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2899654",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%A7%D7%99+%D7%90%D7%9C%D7%99%D7%94%D7%95+%28%D7%91%D7%97%D7%95%D7%A8%29%2F%D7%A4%D7%A8%D7%A7+%D7%94%D7%9E%D7%99%D7%A0%D7%99%D7%9D&action=history",
+      "contributors": [
+        "מו יו הו"
+      ],
+      "historySnapshotSha256": "f489afc34321dfc7f09e2bfbf56b81b5c76a3a0a6aaeb741b59d820dbc47fdb5",
+      "renderedSnapshotSha256": "b1e1dae4269ae5bcdda9b11829c9a6e7aada94e5768a9d510637371d2f4eed29",
+      "segments": 44,
+      "notes": "Rendered Wikisource page marked unchecked; digitization method not independently established."
+    },
+    {
+      "chapter": 4,
+      "title": "פרקי אליהו (בחור)/פרק המידות",
+      "revision": 2899656,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2899656",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%A7%D7%99+%D7%90%D7%9C%D7%99%D7%94%D7%95+%28%D7%91%D7%97%D7%95%D7%A8%29%2F%D7%A4%D7%A8%D7%A7+%D7%94%D7%9E%D7%99%D7%93%D7%95%D7%AA&action=history",
+      "contributors": [
+        "מו יו הו"
+      ],
+      "historySnapshotSha256": "84d38c07dc27eabac12535d159bcdd4bcde2e7b69279cb5b8a56fa238842d7d4",
+      "renderedSnapshotSha256": "ad1780b2abed324d788080111473f2eed74fe31ca6500648d9573a1f43fad2be",
+      "segments": 30,
+      "notes": "Rendered Wikisource page marked unchecked; digitization method not independently established."
+    },
+    {
+      "chapter": 5,
+      "title": "פרקי אליהו (בחור)/פרק השימושים",
+      "revision": 2899657,
+      "revisionUrl": "https://he.wikisource.org/w/index.php?oldid=2899657",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%A7%D7%99+%D7%90%D7%9C%D7%99%D7%94%D7%95+%28%D7%91%D7%97%D7%95%D7%A8%29%2F%D7%A4%D7%A8%D7%A7+%D7%94%D7%A9%D7%99%D7%9E%D7%95%D7%A9%D7%99%D7%9D&action=history",
+      "contributors": [
+        "מו יו הו"
+      ],
+      "historySnapshotSha256": "080cec66b4bbff2213f4f3b2fade81c779415f9ee7bc90b33478d1e83af49bae",
+      "renderedSnapshotSha256": "21b51f5e4a973b7a72901385aa85de67f3c5283d4e9987eec40596863e6fd364",
+      "segments": 43,
+      "notes": "Rendered Wikisource page marked unchecked; digitization method not independently established."
+    }
+  ],
+  "limitations": "Five source pages (introduction and four sections); source pages are unchecked, source digitization method is not independently established, and no English translation or independent print collation is provided."
+}

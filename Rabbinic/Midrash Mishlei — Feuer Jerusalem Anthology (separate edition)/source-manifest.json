@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "work": "Midrash Mishlei",
+  "parentPath": "Rabbinic/Midrash Mishlei",
+  "editionName": "Midrash Mishlei — Feuer Jerusalem Anthology (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Mishlei/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+  "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Midrash Mishlei; Rabbi Mike Feuer, Jerusalem Anthology; original publisher/source: https://www.sefaria.org; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/661f5cebcf1c9afb70df.json",
+  "sourceRawSha256": "5b9ace2f1ae483c158beb78a966dfba05dce14f531629869cc45622ed21b5792",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Midrash%20Mishlei",
+    "rawSha256": "3162e128897987d213bff0626514e316b6d1743938dbcf374c99a5f0ed191d71",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-a5f4068e55e553d49372.json",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Midrash Mishlei",
+    "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Midrash Mishlei"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Midrash/Aggadah/Midrash%20Mishlei/English/Rabbi%20Mike%20Feuer%2C%20Jerusalem%20Anthology.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/661f5cebcf1c9afb70df.json",
+    "sourceRawSha256": "5b9ace2f1ae483c158beb78a966dfba05dce14f531629869cc45622ed21b5792",
+    "sourceTextSha256": "8cd03ebe4a3873b594b2132b1d366c9265428e48608079e52bc0306ae7ba5a25",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 2,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Midrash%20Mishlei",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Midrash%20Mishlei",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:55:55.527Z",
+      "rawSha256": "3162e128897987d213bff0626514e316b6d1743938dbcf374c99a5f0ed191d71",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-a5f4068e55e553d493724c.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": "",
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "רבי מייק פוייר, לקט ירושלים",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "Rabbi Mike Feuer",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Midrash Mishlei",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Rabbi Mike Feuer, Jerusalem Anthology",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Midrash Mishlei 19"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "19",
+      "sourcePosition": [
+        19
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            19,
+            1
+          ],
+          "sourceTextSha256": "4501c820f066129ae4d33ca959607e85c8b9aeb7de7e329197c9e307ef05a023",
+          "retainedTextSha256": "4501c820f066129ae4d33ca959607e85c8b9aeb7de7e329197c9e307ef05a023"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            19,
+            3
+          ],
+          "sourceTextSha256": "cb983649da886a56b6487728bbd94904fa09f5e831777c1c33468d29440a63c3",
+          "retainedTextSha256": "cb983649da886a56b6487728bbd94904fa09f5e831777c1c33468d29440a63c3"
+        }
+      ],
+      "payloadSha256": "4871e81bb960fd0af462f3e403a15b9fdb168bf7a2babf749b0714fbce42ea4a"
+    }
+  ],
+  "sourceEntries": 2,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:28.093Z"
+}

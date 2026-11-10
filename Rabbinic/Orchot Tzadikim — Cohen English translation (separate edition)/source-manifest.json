@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "work": "Orchot Tzadikim",
+  "parentPath": "Rabbinic/Orchot Tzadikim",
+  "editionName": "Orchot Tzadikim — Cohen English translation (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Musar/Rishonim/Orchot%20Tzadikim/English/Orchot%20Tzaddikim%2C%20trans.%20Seymour%20J.%20Cohen%20%5Bwith%20corrections%5D.json",
+  "versionTitle": "Orchot Tzaddikim, trans. Seymour J. Cohen [with corrections]",
+  "license": "CC-BY",
+  "licenseDisplay": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "Orchot Tzadikim; Orchot Tzaddikim, trans. Seymour J. Cohen [with corrections]; original publisher/source: http://sefaria.org; Sefaria Export.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/3972759824e7f49e0e6a.json",
+  "sourceRawSha256": "ca8f8c173fce3189b88011097b14a10b4ff8d2b8d38d3575487ba99a345bb72c",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Orchot%20Tzadikim",
+    "rawSha256": "354bba440239bde4fd506398fa2511934a09c8e7a2ce1269729bc9dead27d7f9",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-ec508ba934ac1f8f855b.json",
+    "versionTitle": "Orchot Tzaddikim, trans. Seymour J. Cohen [with corrections]",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC-BY"
+  },
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Orchot Tzadikim",
+    "versionTitle": "Orchot Tzaddikim, trans. Seymour J. Cohen [with corrections]",
+    "scannerVersionTitle": "Orchot Tzaddikim, trans. Seymour J. Cohen [with corrections]",
+    "scannerVersionTitleNormalization": null,
+    "paths": [
+      "Rabbinic/Orchot Tzadikim"
+    ],
+    "alreadyRecorded": false,
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Musar/Rishonim/Orchot%20Tzadikim/English/Orchot%20Tzaddikim%2C%20trans.%20Seymour%20J.%20Cohen%20%5Bwith%20corrections%5D.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/3972759824e7f49e0e6a.json",
+    "sourceRawSha256": "ca8f8c173fce3189b88011097b14a10b4ff8d2b8d38d3575487ba99a345bb72c",
+    "sourceTextSha256": "1b55f9cf774d04278bb00489f1a96c8e13090bcc68116c3983a123e110c7dc88",
+    "sourceLicenseVerbatim": "CC-BY",
+    "versionSource": "http://sefaria.org",
+    "sourceVersionNotes": "",
+    "actualLanguage": "en",
+    "sourceNonemptyLeaves": 1,
+    "sourceLicenseUrl": null,
+    "liveVersionsApi": {
+      "requestedUrl": "https://www.sefaria.org/api/texts/versions/Orchot%20Tzadikim",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Orchot%20Tzadikim",
+      "status": 200,
+      "ok": true,
+      "checkedAt": "2026-10-30T03:55:57.225Z",
+      "rawSha256": "354bba440239bde4fd506398fa2511934a09c8e7a2ce1269729bc9dead27d7f9",
+      "snapshotPath": "Amudi/data/rights/sefaria-ccby-license-review-cache-20261030/versions-ec508ba934ac1f8f855b04.txt"
+    },
+    "liveExactVersion": {
+      "status": "locked",
+      "priority": 1,
+      "license": "CC-BY",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Orchot Tzadikim",
+      "versionSource": "http://sefaria.org",
+      "versionTitle": "Orchot Tzaddikim, trans. Seymour J. Cohen [with corrections]",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Orchot Tzadikim, Introduction"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "actualEnglish": true,
+    "sourceEditionDeclaresMachineAssistance": false,
+    "resolvedLicense": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "licenseVersionBasis": "Sefaria exact edition CC-BY field + official current About-version UI mapping at immutable repository commit.",
+    "providerGrantEvidence": [],
+    "eligibleForCommercialTypedImport": true,
+    "outcome": "Exact English edition current CC-BY record verified and provider-linked version terms resolved; commercial typed redistribution permitted with the listed conditions. Import scope and app compliance must be retained.",
+    "requiredConditions": [
+      "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+      "Link the exact applicable CC BY license and the original source/version.",
+      "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+      "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+      "Do not imply endorsement."
+    ],
+    "sourceAuthorityBasis": "Exact current provider edition rights declaration, interpreted through provider’s actual version-license link mapping; separate publisher permission announcement not independently located for this row.",
+    "finalAppOrReleaseComplianceVerified": false,
+    "holdReasons": []
+  },
+  "licenseProofReport": "Amudi/data/rights/beit-midrash-sefaria-ccby-exact-license-review-20261030.json",
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Introduction",
+      "sourcePosition": [
+        "Introduction"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Introduction",
+            2
+          ],
+          "sourceTextSha256": "f7da0aa3930cae77bb10a77e8c88fc5b0a0bf3a66583738d79983ebfb30ca849",
+          "retainedTextSha256": "f7da0aa3930cae77bb10a77e8c88fc5b0a0bf3a66583738d79983ebfb30ca849"
+        }
+      ],
+      "payloadSha256": "655dbabf153469d8fde0d93a851d26dd2d84d2c509600a74a77f7f782a424986"
+    }
+  ],
+  "sourceEntries": 1,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:04:28.355Z"
+}

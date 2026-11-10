@@ -1,0 +1,27 @@
+{
+  "baseBookPath": "Rabbinic/Kidmat HaEmek — Hebrew source edition",
+  "baseChapter": 22,
+  "translationBookPath": "Rabbinic/Haamek Sheilah on Sheiltot d'Rav Achai Gaon — Greenman 2009 Introduction English (complete source edition)",
+  "sourceCoordinate": [
+    "Kidmat HaEmek",
+    "Part II",
+    4
+  ],
+  "method": "Same provider source coordinates; paragraph-level translation not independently proofread. Translator additions may be included.",
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "e7eae0349d4cfdd2a901483a3fb9ebab2993012d1272560872dcd4f70033802d",
+      "translationChapter": 22,
+      "translationPosition": 1,
+      "translationTextSha256": "0381b253572f6e6a268ab36456d4c638af6ba19afdf38a272aac26d677e52a9c"
+    },
+    {
+      "basePosition": 2,
+      "baseTextSha256": "9e2a4c254e7bf05405263adf560152a8e12a9447544a31ff8436e725ba1c0d65",
+      "translationChapter": 22,
+      "translationPosition": 2,
+      "translationTextSha256": "778e498256f438bfd3e84fc6bef0be6aa14cd06a7ee06f17f206ac9a6cadacda"
+    }
+  ]
+}

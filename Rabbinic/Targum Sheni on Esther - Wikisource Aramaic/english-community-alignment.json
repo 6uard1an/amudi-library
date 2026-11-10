@@ -1,0 +1,97 @@
+{
+  "basePath": "Rabbinic/Targum Sheni on Esther - Wikisource Aramaic",
+  "englishSource": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Targum/Aramaic%20Targum/Writings/Targum%20Sheni%20on%20Esther/English/Sefaria%20Community%20Translation.json",
+  "englishExportSha256": "baa1491a726d43b91ce6c679cb2c9eb9bee104c0654cc27972d8b42254b6e245",
+  "englishProviderLicense": "CC0",
+  "englishLicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "aramaicComparisonSource": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Targum/Aramaic%20Targum/Writings/Targum%20Sheni%20on%20Esther/Hebrew/Berlin%2C%201898.json",
+  "aramaicComparisonSha256": "2027a14f6c370b3b0515c421ee6d5c59717b6bf6ca221242cdace27ee2ce99d2",
+  "aramaicComparisonLicense": "unknown",
+  "comparisonUse": "Used the Berlin 1898 export to establish correspondence only; it is not included. The retained edition is the separately sourced Wikisource Aramaic transcription.",
+  "aramaicSourceManifest": "..\\Library\\Rabbinic\\Targum Sheni on Esther - Wikisource Aramaic\\source-manifest.json",
+  "aramaicLicense": "CC BY-SA 4.0",
+  "historicalTranslationEvidence": {
+    "bibliography": "https://openlibrary.org/books/OL7167611M/An_explanatory_commentary_on_Esther",
+    "providerCasselExample": "https://www.sefaria.org/Targum_Sheni_on_Esther.1.17.1",
+    "translatorEvidence": "https://upload.wikimedia.org/wikipedia/commons/b/b2/THE_OLD_AND_NEW_TESTAMENT_STUDENT_1889-10-_Vol_9_Iss_4_%28IA_sim_biblical-world_1889-10_9_4%29.pdf",
+    "note": "Some passages in the community version match the 1888 Cassel/Bernstein translation; this does not establish that every passage has that origin."
+  },
+  "matches": [
+    {
+      "verse": [
+        1,
+        2
+      ],
+      "sourceSegment": 9,
+      "partialVerse": true,
+      "localAramaicSha256": "f0ef129fa8580444a0a5804dedf26bdecf43a61571594fd1d0ad96e97544544f",
+      "sourceAramaicSha256": "e5d8218eea73964769a5fd1e1dae5a01ebc4c94b2b8abc947d694215a6712de7",
+      "englishSha256": "e6fd60a273eda7459109c6ec25c009f07ced26b076f24be9bc33e8150f4be7e9"
+    },
+    {
+      "verse": [
+        1,
+        9
+      ],
+      "sourceSegment": 1,
+      "partialVerse": false,
+      "localAramaicSha256": "90abd848d93bd47a88af13334ccd9e386cd621e38bc1329783002978dd2449c7",
+      "sourceAramaicSha256": "90abd848d93bd47a88af13334ccd9e386cd621e38bc1329783002978dd2449c7",
+      "englishSha256": "06b20f72f078ea45a5495af14881092e4e5a98eeb151a918b568b211a405db41"
+    },
+    {
+      "verse": [
+        1,
+        10
+      ],
+      "sourceSegment": 1,
+      "partialVerse": false,
+      "localAramaicSha256": "95783e85ccaf45a052e3414a395b782acc1e8f93b389a43d84265e63815d9b5f",
+      "sourceAramaicSha256": "95783e85ccaf45a052e3414a395b782acc1e8f93b389a43d84265e63815d9b5f",
+      "englishSha256": "64a23b26bb171affc784bdf9a4384f4ca911926cba62aeec2ffe6381dac779e7"
+    },
+    {
+      "verse": [
+        1,
+        11
+      ],
+      "sourceSegment": 1,
+      "partialVerse": false,
+      "localAramaicSha256": "6e5c23909993401784d84e718d18514e5ff8b7d161d8da82b07edba03beba7f8",
+      "sourceAramaicSha256": "6e5c23909993401784d84e718d18514e5ff8b7d161d8da82b07edba03beba7f8",
+      "englishSha256": "d4d6e02a5690d85d46b3702ae03907037774a138c80f23984a082e2ee6ac1729"
+    },
+    {
+      "verse": [
+        2,
+        4
+      ],
+      "sourceSegment": 1,
+      "partialVerse": false,
+      "localAramaicSha256": "6f5a113040962ddb17cb38a20851ca7af04ff4f29fee74cf3698ad62c0b4df27",
+      "sourceAramaicSha256": "6f5a113040962ddb17cb38a20851ca7af04ff4f29fee74cf3698ad62c0b4df27",
+      "englishSha256": "12546b75ed2e7310ba2d3e30f983ce13a687f5900b5a608e03179b92217cc9d1"
+    },
+    {
+      "verse": [
+        3,
+        11
+      ],
+      "sourceSegment": 1,
+      "partialVerse": false,
+      "localAramaicSha256": "ba76d2fd23b3541dd221d0cde299a1e4318604290f8739c43afd1ed107a53c1e",
+      "sourceAramaicSha256": "ba76d2fd23b3541dd221d0cde299a1e4318604290f8739c43afd1ed107a53c1e",
+      "englishSha256": "5dedc9e49b8bbf305cde0dc1c0eaf8726ea4ce0e2df6df661f9df1ab3abee43f"
+    }
+  ],
+  "excluded": [
+    {
+      "verse": [
+        5,
+        14
+      ],
+      "reason": "The English source itself says its remainder does not align well with the retained Aramaic; not included in this aligned edition."
+    }
+  ],
+  "limitations": "Six selected verse groups only; 1:2 is a partial verse. Provider license labels and passage correspondence are evidence, not independent legal or translation-quality certification."
+}

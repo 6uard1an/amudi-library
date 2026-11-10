@@ -1,0 +1,18 @@
+{
+  "baseBookPath": "Rabbinic/Shita Mekubetzet on Bava Metzia",
+  "baseChapter": 114,
+  "translationBookPath": "Rabbinic/Shita Mekubetzet on Bava Metzia — Community English (complete source edition)",
+  "method": "Exact selected Hebrew source text, English source fingerprints and manually compared content; provider segment indices can differ.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Talmud/Bavli/Acharonim%20on%20Talmud/Shita%20Mekubetzet/Seder%20Nezikin/Shita%20Mekubetzet%20on%20Bava%20Metzia/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 10,
+      "baseTextSha256": "5f3b77b0c6db68af4499738b244c1c6434af201da4ac98b987c4658d1b662a25",
+      "translationChapter": 3,
+      "translationPosition": 1,
+      "translationTextSha256": "d39a6a4d5063afa999ef480e61696cb01a61a1900896ae9bd5d2d1f77cadb7fe"
+    }
+  ]
+}

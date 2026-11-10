@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "radak-hosea-wikisource",
+  "title": "Radak on Hosea — Wikisource partial edition",
+  "hebrewTitle": "רד״ק על הושע",
+  "authors": [
+    {
+      "name": "David Kimchi (Radak)",
+      "role": "Classical author named on exact source pages"
+    }
+  ],
+  "volumeCount": 1,
+  "languages": [
+    "Hebrew"
+  ],
+  "licenses": [
+    "CC BY-SA4.0"
+  ],
+  "volumes": [
+    {
+      "book": "Hosea",
+      "hebrewBook": "הושע",
+      "section": "Prophets",
+      "bookPath": "Prophets/Hosea",
+      "file": "Tanakh/Commentaries/radak-hosea-wikisource/hosea.json",
+      "chapterCount": 14,
+      "languages": [
+        "Hebrew"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Radak on Hosea — Wikisource partial edition",
+          "workAuthor": "David Kimchi (Radak)",
+          "versionTitle": "Typed Wikisource source revisions recorded individually",
+          "language": "Hebrew",
+          "actualLanguage": "he",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%93%22%D7%A7%20%D7%A2%D7%9C%20%D7%94%D7%95%D7%A9%D7%A2%20%D7%90%20%D7%90&oldid=1307775",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Exact pages display Creative Commons Attribution-ShareAlike4.0 footer",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Kimchi (Radak); Hebrew Wikisource contributors. Each source page, immutable revision and history link is included in source-manifest.json.",
+          "changes": "Extracted existing typed commentary following the separate base verse. Removed page navigation, styles and scripts; collapsed display whitespace. No OCR or translation.",
+          "textSha256": "65f3c95179741e37d6de63f3ad3790ba349e97c5f5230c0168474a2c2332a72d",
+          "sourceManifestPath": "Tanakh/Commentaries/radak-hosea-wikisource/source-manifest.json"
+        }
+      ],
+      "supplementarySectionCount": 0
+    }
+  ],
+  "englishCoverageStatus": "No English translation imported",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "shareAlikeRequired": true,
+    "license": "CC BY-SA4.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/radak-hosea-wikisource/source-manifest.json"
+  ]
+}

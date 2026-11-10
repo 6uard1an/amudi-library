@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "work": "Turei Zahav on Shulchan Arukh, Orach Chayim",
+  "parentPath": "Rabbinic/Turei Zahav on Shulchan Arukh, Orach Chayim",
+  "editionName": "Turei Zahav on Shulchan Arukh, Orach Chayim — Community English (complete source edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Turei%20Zahav/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/English/Sefaria%20Community%20Translation.json",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/3beb24b4c9d98c9ed5b2.json",
+  "sourceRawSha256": "1510c1b647e59652c660cb6d6d29bb7e28b928832d237e4ab2d4b6f1cd55146c",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseDisplay": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Turei Zahav on Shulchan Arukh, Orach Chayim; Sefaria Community Translation; original publisher/source: https://www.sefaria.org; supplied by Sefaria Export.",
+  "changeNotice": "Retained every available nonplaceholder leaf of the existing English source in its original source order; stored original coordinates and text hashes. Removed inline HTML/link wrappers. No OCR or new translation. This separate edition has its own stable chapter IDs; older parent body files/IDs are preserved.",
+  "sourceSpecificLicenseProof": {
+    "workTitle": "Turei Zahav on Shulchan Arukh, Orach Chayim",
+    "versionTitle": "Sefaria Community Translation",
+    "sourceJsonUrl": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Turei%20Zahav/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim/English/Sefaria%20Community%20Translation.json",
+    "sourceSnapshotPath": "Amudi/data/rights/english-candidate-review-20261030/3beb24b4c9d98c9ed5b2.json",
+    "sourceRawSha256": "1510c1b647e59652c660cb6d6d29bb7e28b928832d237e4ab2d4b6f1cd55146c",
+    "sourceLicenseVerbatim": "CC0",
+    "sourceActualLanguage": "en",
+    "versionSource": "https://www.sefaria.org",
+    "sourceVersionNotes": "",
+    "liveVersionsApi": {
+      "url": "https://www.sefaria.org/api/texts/versions/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim",
+      "finalUrl": "https://www.sefaria.org/api/texts/versions/Turei%20Zahav%20on%20Shulchan%20Arukh%2C%20Orach%20Chayim",
+      "status": 200,
+      "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cf398d07603341c9c637-versions.json",
+      "rawSha256": "22d8f1f49aa3d50ab5dd5f19088c7b4f883d1003b885108053ce6e765aec8119",
+      "retrievedAt": "2026-10-30T04:25:35.402Z"
+    },
+    "liveExactVersion": {
+      "status": "",
+      "priority": "",
+      "license": "CC0",
+      "versionNotes": "",
+      "formatAsPoetry": "",
+      "digitizedBySefaria": "",
+      "method": "",
+      "heversionSource": "",
+      "versionUrl": "",
+      "versionTitleInHebrew": "",
+      "versionNotesInHebrew": "",
+      "shortVersionTitle": "",
+      "shortVersionTitleInHebrew": "",
+      "extendedNotes": "",
+      "extendedNotesHebrew": "",
+      "purchaseInformationImage": "",
+      "purchaseInformationURL": "",
+      "hasManuallyWrappedRefs": "",
+      "language": "en",
+      "title": "Turei Zahav on Shulchan Arukh, Orach Chayim",
+      "versionSource": "https://www.sefaria.org",
+      "versionTitle": "Sefaria Community Translation",
+      "actualLanguage": "en",
+      "languageFamilyName": "english",
+      "isSource": false,
+      "isPrimary": false,
+      "direction": "ltr",
+      "firstSectionRef": "Turei Zahav on Shulchan Arukh, Orach Chayim 1"
+    },
+    "exactEditionMetadataMatched": true,
+    "sourceHashAndIdentityMatched": true,
+    "resolvedLicense": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "termsEvidence": [
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-deed.html",
+        "rawSha256": "abb4d48fc8b85de52b377dd105532c6c549f515d492a8e1712bc99e7316a1f12",
+        "retrievedAt": "2026-10-30T04:25:33.361Z"
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "finalUrl": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.en",
+        "status": 200,
+        "snapshotPath": "Amudi/data/rights/retained-generic-cc0-source-cache-20261030/cc0-legalcode.html",
+        "rawSha256": "b43732f4c1463b087cf10d4daf8d8766514b2bf8f21bc5ef50905f95be227726",
+        "retrievedAt": "2026-10-30T04:25:33.391Z"
+      }
+    ],
+    "eligibleForCommercialTypedImport": true,
+    "requiredConditions": [
+      "No author/publisher endorsement implied; retain accurate provenance and disclose formatting changes. Commercial copying and redistribution authorized by exact edition CC0 declaration."
+    ]
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "1",
+      "sourcePosition": [
+        1
+      ],
+      "payloadSha256": "1e281a1a3b8dfafa2ab61ea7b75404907c2b0d186681ef81d1f0ee1224f20aad",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            1,
+            1
+          ],
+          "sourceTextSha256": "7fae83d93f1e2a33cbd9ee097181b7d02853824a8358474e98944e1e7ad04565",
+          "retainedTextSha256": "7fae83d93f1e2a33cbd9ee097181b7d02853824a8358474e98944e1e7ad04565"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            1,
+            2
+          ],
+          "sourceTextSha256": "0b2292fad38793d6d6e35c0cd137cd96e3ffc768a4869512a860f6ce0a3ea8a1",
+          "retainedTextSha256": "0b2292fad38793d6d6e35c0cd137cd96e3ffc768a4869512a860f6ce0a3ea8a1"
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "label": "242",
+      "sourcePosition": [
+        242
+      ],
+      "payloadSha256": "7f66ab01a014675d1ca269277aac012fecdfc9fbad4707a6a9c27624273c13f5",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            242,
+            1
+          ],
+          "sourceTextSha256": "a8655e9c47e6771dc064b81f467acc0e66afb158444289dd51d16820b86997a3",
+          "retainedTextSha256": "a8655e9c47e6771dc064b81f467acc0e66afb158444289dd51d16820b86997a3"
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "label": "271",
+      "sourcePosition": [
+        271
+      ],
+      "payloadSha256": "c26d3fdd15c130a8d4087f0a5a7d718755bc24ff323cea13c569633e90c1dbf9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            271,
+            2
+          ],
+          "sourceTextSha256": "88f586c7efadaab785700e9c32f19d28cab070025c45f0409dd991f27720f303",
+          "retainedTextSha256": "88f586c7efadaab785700e9c32f19d28cab070025c45f0409dd991f27720f303"
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "label": "318",
+      "sourcePosition": [
+        318
+      ],
+      "payloadSha256": "c39a728fee2f9946c96f89d428d9cefc00f9a8f4912489e62a3da2729300a7a9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            318,
+            1
+          ],
+          "sourceTextSha256": "2d019ba2d16fbb0314439f78d9b635c12030b3a0e7c64e2cb39514c0e5b4fd22",
+          "retainedTextSha256": "2d019ba2d16fbb0314439f78d9b635c12030b3a0e7c64e2cb39514c0e5b4fd22"
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "label": "494",
+      "sourcePosition": [
+        494
+      ],
+      "payloadSha256": "871add39018012b37b1c8237c23492c30c0222ae88f13c43f626de416129c9f9",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            494,
+            1
+          ],
+          "sourceTextSha256": "fc4f8b6bb519c0f44ae27b65c4d701e18637117fc20d44f5992ed24c382d7341",
+          "retainedTextSha256": "fc4f8b6bb519c0f44ae27b65c4d701e18637117fc20d44f5992ed24c382d7341"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            494,
+            2
+          ],
+          "sourceTextSha256": "ae22764dbd010bf7eed9430634dd6746147b624402f72e465760295c905a6183",
+          "retainedTextSha256": "ae22764dbd010bf7eed9430634dd6746147b624402f72e465760295c905a6183"
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "label": "623",
+      "sourcePosition": [
+        623
+      ],
+      "payloadSha256": "9ea3fe75e68faf15805db789da5092effb0a2bf5f2dd1f54d09d8d64ccf5722c",
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            623,
+            2
+          ],
+          "sourceTextSha256": "b6f98a825b76afe7adf95e3279c4c4a0286dd8ab774c74b00d01e709c0150121",
+          "retainedTextSha256": "b6f98a825b76afe7adf95e3279c4c4a0286dd8ab774c74b00d01e709c0150121"
+        }
+      ]
+    }
+  ],
+  "sourceEntries": 8,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "parentFilesChanged": false,
+  "parentChapterIdsPreserved": true,
+  "reviewedAt": "2026-10-30T04:25:37.346Z"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Chasdei David on Tosefta Pesachim — Wikisource excerpt",
+  "source": "Hebrew Wikisource",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Chasdei David by Rabbi David Pardo; Hebrew Wikisource contributors H elokeinu h ekad and Nahum; source revision and complete history listed in source-manifest.json; CC BY-SA 4.0.",
+  "changes": "Selected the one labelled passage, removed wiki markup and grouped it under Tosefta Pesachim 8:1. No OCR or new translation was performed by Amudi. Copyrightable adaptations are shared under CC BY-SA 4.0.",
+  "coverageStatus": "One excerpt on Tosefta Pesachim 8:1 only; not the complete commentary.",
+  "page": {
+    "title": "חסדי דוד על תוספתא פסחים פרק ח",
+    "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%97%D7%A1%D7%93%D7%99_%D7%93%D7%95%D7%93_%D7%A2%D7%9C_%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%D7%A4%D7%A1%D7%97%D7%99%D7%9D_%D7%A4%D7%A8%D7%A7_%D7%97&oldid=889260",
+    "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%97%D7%A1%D7%93%D7%99_%D7%93%D7%95%D7%93_%D7%A2%D7%9C_%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%D7%A4%D7%A1%D7%97%D7%99%D7%9D_%D7%A4%D7%A8%D7%A7_%D7%97&action=history",
+    "revisionId": 889260,
+    "url": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&titles=%D7%97%D7%A1%D7%93%D7%99+%D7%93%D7%95%D7%93+%D7%A2%D7%9C+%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90+%D7%A4%D7%A1%D7%97%D7%99%D7%9D+%D7%A4%D7%A8%D7%A7+%D7%97&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=max&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/chasdei-david-pesachim-wikisource-20261030/page-history.json",
+    "sha256": "978ca7a54adf0eac7976b69c8b7b5617ec1f089aa365a4d5fd25f7e618ae8941"
+  },
+  "siteLicenseEvidence": {
+    "url": "https://he.wikisource.org/w/api.php?action=query&meta=siteinfo&siprop=rightsinfo&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/chasdei-david-pesachim-wikisource-20261030/siteinfo.json",
+    "sha256": "dc1e901a698fa8c6188340efd21acafb137226bd857ff1903514808a2471f911",
+    "declared": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    }
+  },
+  "baseSourceEvidence": {
+    "url": "https://storage.googleapis.com/sefaria-export/json/Tosefta/Vilna%20Edition/Seder%20Moed/Tosefta%20Pesachim/Hebrew/Tosefta%20Pesachim.json",
+    "snapshot": "Amudi/data/rights/chasdei-david-pesachim-wikisource-20261030/base-source.json",
+    "sha256": "352748d675fc6033316fbd8e80c3bd1d4d48db21ce3bccdb4915eee219c576fb"
+  },
+  "baseVersionsEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Tosefta%20Pesachim",
+    "snapshot": "Amudi/data/rights/chasdei-david-pesachim-wikisource-20261030/base-versions.json",
+    "sha256": "f9a9de1bcb5f26cb1c51b18f03406e88271d07cfaa19c28d4af5dddc78757358"
+  },
+  "alignment": "The source page explicitly labels this halakhah 1 of chapter 8. Its quotation about Rabbi Eliezer and Rabbi Yose bar Yehudah corresponds to the installed base text in Tosefta Pesachim 8:1."
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Magen Avraham on Tosefta Sanhedrin — Wikisource excerpt",
+  "sectionHeading": "מגן אברהם",
+  "source": "Hebrew Wikisource",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "מגן אברהם, as attributed on Hebrew Wikisource; Wikisource contributors Nahum, ננוש, שילוני; page revision and contributor history in source-manifest.json. CC BY-SA 4.0.",
+  "changes": "Selected the source section under its commentary heading, removed navigation, link and tooltip markup, and separated source line breaks. Linked to the corresponding Tosefta 11:4 passage. No OCR or new translation was performed by Amudi. Copyrightable adaptations are shared under CC BY-SA 4.0.",
+  "coverageStatus": "Source-labelled excerpts on Tosefta Sanhedrin 11:4 only; not the complete commentary.",
+  "page": {
+    "title": "תוספתא (וילנא)/סנהדרין/יא/ד",
+    "revisionId": 1285024,
+    "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%90/%D7%93&oldid=1285024",
+    "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90_%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29/%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F/%D7%99%D7%90/%D7%93&action=history",
+    "historyEvidence": {
+      "url": "https://he.wikisource.org/w/api.php?action=query&prop=revisions&titles=%D7%AA%D7%95%D7%A1%D7%A4%D7%AA%D7%90+%28%D7%95%D7%99%D7%9C%D7%A0%D7%90%29%2F%D7%A1%D7%A0%D7%94%D7%93%D7%A8%D7%99%D7%9F%2F%D7%99%D7%90%2F%D7%93&rvprop=ids%7Ctimestamp%7Cuser%7Ccomment%7Ccontent&rvslots=main&rvlimit=max&format=json&formatversion=2",
+      "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-4-wikisource-20261030/page-history.json",
+      "sha256": "a63b82095d1840ba430d4484349822993f01bf8b4b3565fb4a71829a3baaa086"
+    },
+    "renderedEvidence": {
+      "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=1285024&prop=text&format=json&formatversion=2",
+      "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-4-wikisource-20261030/rendered.json",
+      "sha256": "f870c52b67850b381e8328c74052232b5bfca41fbd6bfb8e7114742f65dde462"
+    }
+  },
+  "siteLicenseEvidence": {
+    "url": "https://he.wikisource.org/w/api.php?action=query&meta=siteinfo&siprop=rightsinfo&format=json&formatversion=2",
+    "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-4-wikisource-20261030/siteinfo.json",
+    "sha256": "dc1e901a698fa8c6188340efd21acafb137226bd857ff1903514808a2471f911",
+    "declared": {
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "text": "Creative Commons Attribution-Share Alike 4.0"
+    }
+  },
+  "baseSourceEvidence": {
+    "url": "https://storage.googleapis.com/sefaria-export/json/Tosefta/Vilna%20Edition/Seder%20Nezikin/Tosefta%20Sanhedrin/Hebrew/Tosefta%20Sanhedrin%20-%20Machon%20Mamre.json",
+    "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-4-wikisource-20261030/base-source.json",
+    "sha256": "cfead5759ab5fef45f62aa2b97cd2ad35a1b180d2e2345e2bed949b77cf149b4"
+  },
+  "baseVersionsEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Tosefta%20Sanhedrin",
+    "snapshot": "Amudi/data/rights/tosefta-sanhedrin-11-4-wikisource-20261030/base-versions.json",
+    "sha256": "314d46996c124c24e756565087733740e8be91ebd951e335fce8e0aa8504543b"
+  },
+  "alignment": "The source page identifies Tosefta Sanhedrin 11:4, and the installed base passage has the same starting words and discussion. All excerpts are linked at passage level, not to a more precise clause."
+}

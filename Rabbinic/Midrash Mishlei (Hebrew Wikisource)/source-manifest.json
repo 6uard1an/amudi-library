@@ -1,0 +1,1701 @@
+{
+  "createdAt": "2026-10-30T04:48:49.836583+00:00",
+  "title": "Midrash Mishlei — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Midrash Mishlei (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Midrash Mishlei",
+  "bibliographySourceLines": [
+    680
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Midrash Mishlei. Hebrew Wikisource contributors, typed digital edition and editorial notes. Exact source-page revision permalinks and contributor histories are recorded in source-manifest.json. CC BY-SA4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "Buber recension: all actual chapter and front-matter pages linked by its contents. The source’s /להורדה page was inspected and rejected as an index rather than book text. Full parsed typed bodies are preserved in source order. The contents page explicitly states that Buber’s editorial notes are not yet complete, even though the base text is complete; this limitation remains.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מדרש משלי (בובר) מבוא",
+      "canonicalTitle": "מדרש משלי (בובר) מבוא",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-a5c250be8ca450e1.json",
+      "sourceSnapshotSha256": "094de656d3c8d524ca87415a8b7eb180b249ff61780048e4626fd753fd68ab74",
+      "sourceRevision": {
+        "id": 750727,
+        "timestamp": "2017-02-21T11:41:13Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9E%D7%91%D7%95%D7%90&oldid=750727",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9E%D7%91%D7%95%D7%90&action=history",
+      "sourcePageId": 228498,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=750727&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-a5c250be8ca450e1.json",
+        "sha256": "566d5499397b480cc9635a59e0bb2284708caea4337ae21cba557e2d88c44880"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 679,
+      "readingBlocks": 2,
+      "convertedChapters": [
+        1
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) פתח דבר",
+      "canonicalTitle": "מדרש משלי (בובר) פתח דבר",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-0fe02a861abd86e3.json",
+      "sourceSnapshotSha256": "0b0ba9d779a7a5cfe73d1dd2272ab6c254a03a13a1c35576d7c1e0eb60ac1e24",
+      "sourceRevision": {
+        "id": 1296829,
+        "timestamp": "2021-12-30T18:39:38Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%A4%D7%AA%D7%97_%D7%93%D7%91%D7%A8&oldid=1296829",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%A4%D7%AA%D7%97_%D7%93%D7%91%D7%A8&action=history",
+      "sourcePageId": 228500,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=1296829&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-0fe02a861abd86e3.json",
+        "sha256": "86c8730a0d1b7f8d0c0936831a52f906a71f962326042c92a1e098e0f9f2075d"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 1181,
+      "readingBlocks": 9,
+      "convertedChapters": [
+        2
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) א",
+      "canonicalTitle": "מדרש משלי (בובר) א",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-7d44dbafc0a91396.json",
+      "sourceSnapshotSha256": "7bc09fa760217df82e74d8b4112549a831b80cde6ec9b314e732f48182ec1ed3",
+      "sourceRevision": {
+        "id": 388021,
+        "timestamp": "2010-12-19T07:42:28Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%90&oldid=388021",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%90&action=history",
+      "sourcePageId": 229498,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388021&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-7d44dbafc0a91396.json",
+        "sha256": "207f2aa543ffbddac57fae15e306cf42a267de03867f431afc0d28f648ac4729"
+      },
+      "sourceHeadings": [
+        "הערות שוליים"
+      ],
+      "readingCharacters": 17051,
+      "readingBlocks": 89,
+      "convertedChapters": [
+        3,
+        4
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ב",
+      "canonicalTitle": "מדרש משלי (בובר) ב",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-1c5a35cb3f4bc3d1.json",
+      "sourceSnapshotSha256": "f658216f68ad68b1c9ab89160a1022d0559e41cd18817f72ff269f06afb05a35",
+      "sourceRevision": {
+        "id": 388194,
+        "timestamp": "2010-12-22T20:40:46Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%91&oldid=388194",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%91&action=history",
+      "sourcePageId": 229546,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388194&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-1c5a35cb3f4bc3d1.json",
+        "sha256": "1d3e78c5f94d2aa75d038bb13e93e0b872f012406f1338833c4a708e445e4c3b"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 4254,
+      "readingBlocks": 28,
+      "convertedChapters": [
+        5
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ג",
+      "canonicalTitle": "מדרש משלי (בובר) ג",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-9c410154cb065eec.json",
+      "sourceSnapshotSha256": "a6b259e22be2703fd2b953df41f132578160475446eea5428790f28f109261a2",
+      "sourceRevision": {
+        "id": 388170,
+        "timestamp": "2010-12-22T09:14:44Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%92&oldid=388170",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%92&action=history",
+      "sourcePageId": 229558,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388170&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-9c410154cb065eec.json",
+        "sha256": "8160a4da3bbebfb9ba05f4cc8655c5e4411e537f5f630156cfd7fef06e57196f"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 30,
+      "readingBlocks": 1,
+      "convertedChapters": [
+        6
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ד",
+      "canonicalTitle": "מדרש משלי (בובר) ד",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-7920a5dd03d99484.json",
+      "sourceSnapshotSha256": "e790dc20672491cb2ccffafa3ed9fabe0fdbc4827a83abff37f1bfb3f3303659",
+      "sourceRevision": {
+        "id": 388193,
+        "timestamp": "2010-12-22T20:40:32Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%93&oldid=388193",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%93&action=history",
+      "sourcePageId": 229568,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388193&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-7920a5dd03d99484.json",
+        "sha256": "b94e54a8a01ae463b9c4d2dcde392da575a7a310209e80bc4ee2419f81a24724"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 831,
+      "readingBlocks": 6,
+      "convertedChapters": [
+        7
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ה",
+      "canonicalTitle": "מדרש משלי (בובר) ה",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-78b5a58c9e036cbe.json",
+      "sourceSnapshotSha256": "3dfac7c6fc97ae79bed735978902af78f614359ef97090d726eb069259c403be",
+      "sourceRevision": {
+        "id": 388239,
+        "timestamp": "2010-12-23T07:12:09Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%94&oldid=388239",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%94&action=history",
+      "sourcePageId": 229578,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388239&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-78b5a58c9e036cbe.json",
+        "sha256": "3122bb216165540451156fa18fd5f2ec5e79f6cba88814a4c0b26b0da59f1f8a"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 3794,
+      "readingBlocks": 32,
+      "convertedChapters": [
+        8
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ו",
+      "canonicalTitle": "מדרש משלי (בובר) ו",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-9bcefc329091619f.json",
+      "sourceSnapshotSha256": "d6e5f0c5c7ac9f1bf0f26c54602e58cf6480f6bf2911c057c4a7c84b1e3cf95a",
+      "sourceRevision": {
+        "id": 388300,
+        "timestamp": "2010-12-26T09:19:46Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%95&oldid=388300",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%95&action=history",
+      "sourcePageId": 229601,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388300&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-9bcefc329091619f.json",
+        "sha256": "e5977916443ab7318a706d44df4923dbe6ab5bac4bc5cf024bea36b031ab79a6"
+      },
+      "sourceHeadings": [
+        "הערות ותקונים"
+      ],
+      "readingCharacters": 10606,
+      "readingBlocks": 52,
+      "convertedChapters": [
+        9
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ז",
+      "canonicalTitle": "מדרש משלי (בובר) ז",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-fef9ed334ca03e5e.json",
+      "sourceSnapshotSha256": "787e518dcf53345a8d6b71a094fb5c2a246f4b21c514b1b89aa7e5358d7c5d25",
+      "sourceRevision": {
+        "id": 388301,
+        "timestamp": "2010-12-26T09:20:17Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%96&oldid=388301",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%96&action=history",
+      "sourcePageId": 229602,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388301&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-fef9ed334ca03e5e.json",
+        "sha256": "90b1f9f9bddcc37398cba2b7f8d2e1f416c849976a69877a0a83c8ef227a2e90"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 319,
+      "readingBlocks": 3,
+      "convertedChapters": [
+        10
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ח",
+      "canonicalTitle": "מדרש משלי (בובר) ח",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-d466ddff2431882f.json",
+      "sourceSnapshotSha256": "b6b2a527221d53a2c3b003ae58c765e64a6934ee6855c831c3201d8a886617bd",
+      "sourceRevision": {
+        "id": 388341,
+        "timestamp": "2010-12-27T05:47:51Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%97&oldid=388341",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%97&action=history",
+      "sourcePageId": 229612,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388341&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-d466ddff2431882f.json",
+        "sha256": "3290ab4835b7c424a48a48dbf4a0b038a5692a6a22633a7650dfb02953d623df"
+      },
+      "sourceHeadings": [
+        "הערות ותיקונים"
+      ],
+      "readingCharacters": 7075,
+      "readingBlocks": 32,
+      "convertedChapters": [
+        11
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ט",
+      "canonicalTitle": "מדרש משלי (בובר) ט",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-3b557231f7645031.json",
+      "sourceSnapshotSha256": "ecd7ca0eff80352e580138a7cf1aa213cd7205793f215776695bd0e86be168f9",
+      "sourceRevision": {
+        "id": 387557,
+        "timestamp": "2010-12-08T06:48:37Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98&oldid=387557",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98&action=history",
+      "sourcePageId": 229385,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387557&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-3b557231f7645031.json",
+        "sha256": "6534c8539240a96e8b3f423af5d193e91001cb7e938edef1b5db7d7764eae4ad"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 6954,
+      "readingBlocks": 27,
+      "convertedChapters": [
+        12
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) י",
+      "canonicalTitle": "מדרש משלי (בובר) י",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-619318e0e3f78884.json",
+      "sourceSnapshotSha256": "4bdb12b216135742924aa530e90690b8ea3290e9e1d5680efb5e63221978afb6",
+      "sourceRevision": {
+        "id": 388356,
+        "timestamp": "2010-12-28T13:14:35Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99&oldid=388356",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99&action=history",
+      "sourcePageId": 228439,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388356&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-619318e0e3f78884.json",
+        "sha256": "bc99c1819908f1e32ef425d028dc3d6ef829288e1565544fa4e381b822e7239d"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 6841,
+      "readingBlocks": 21,
+      "convertedChapters": [
+        13
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) יא",
+      "canonicalTitle": "מדרש משלי (בובר) יא",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-77b08f199cbecfc5.json",
+      "sourceSnapshotSha256": "d559af2a6a0987ce166567446ad54e0334ca11638491848dccae62c5978a8393",
+      "sourceRevision": {
+        "id": 387028,
+        "timestamp": "2010-11-27T18:22:31Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%90&oldid=387028",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%90&action=history",
+      "sourcePageId": 228447,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387028&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-77b08f199cbecfc5.json",
+        "sha256": "d69db0062f3ca626fbac816ed2d673624f683b16898a79052b4510ae0336d2c1"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 8381,
+      "readingBlocks": 34,
+      "convertedChapters": [
+        14
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) יב",
+      "canonicalTitle": "מדרש משלי (בובר) יב",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-bedf40e5ccf62244.json",
+      "sourceSnapshotSha256": "f4ee6facd569fa9a07136b0a00a83056b0a70484d1845231b5e691f6ea02d598",
+      "sourceRevision": {
+        "id": 388362,
+        "timestamp": "2010-12-28T13:18:59Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%91&oldid=388362",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%91&action=history",
+      "sourcePageId": 228492,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388362&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-bedf40e5ccf62244.json",
+        "sha256": "05c68294dac304843804c50c9f3fdacfe818203c723a920d9c1d1c74d89436bd"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 1459,
+      "readingBlocks": 7,
+      "convertedChapters": [
+        15
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) יג",
+      "canonicalTitle": "מדרש משלי (בובר) יג",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-fede7a209b981c60.json",
+      "sourceSnapshotSha256": "62c4cf48cf836cd0690358700c42fc068659e265064542f2beff5837a615c887",
+      "sourceRevision": {
+        "id": 388371,
+        "timestamp": "2010-12-28T13:26:18Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%92&oldid=388371",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%92&action=history",
+      "sourcePageId": 228493,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388371&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-fede7a209b981c60.json",
+        "sha256": "20e0cdb00b4743fd427a4f15de6d558138edeccdf8c3b095dc2ef09e2f21291c"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 4830,
+      "readingBlocks": 18,
+      "convertedChapters": [
+        16
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) יד",
+      "canonicalTitle": "מדרש משלי (בובר) יד",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-bbbbbbfd97e71bc4.json",
+      "sourceSnapshotSha256": "6d513abe9eb4f405cf0c4e2e323c9da31d79f3f22b39dc51b044221a9f25c838",
+      "sourceRevision": {
+        "id": 386369,
+        "timestamp": "2010-11-12T07:18:58Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%93&oldid=386369",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%93&action=history",
+      "sourcePageId": 228506,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%93%D7%A2%D7%AA+%D7%AA%D7%91%D7%95%D7%A0%D7%95%D7%AA+%D7%A9%D7%9C%D7%9D%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%90%D7%99%D7%A1%D7%95%D7%A8%D7%99+%D7%91%D7%99%D7%90%D7%94%7C%D7%9B%D7%A1%D7%A3+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%A9%D7%91%D7%AA%7C%D7%9E%D7%92%D7%99%D7%93+%D7%9E%D7%A9%D7%A0%D7%94%2F%D7%94%D7%9C%D7%9B%D7%95%D7%AA+%D7%96%D7%9B%D7%99%D7%99%D7%94+%D7%95%D7%9E%D7%AA%D7%A0%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9E%D7%91%D7%95%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%A4%D7%AA%D7%97+%D7%93%D7%91%D7%A8%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-78b4bbdbb61b8078.json",
+        "sha256": "ea1c0c67ac354a3784665bbacef25409e4dd4e4e3d106f0d66d3aa59e7c49779"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=386369&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-bbbbbbfd97e71bc4.json",
+        "sha256": "93ba14ff0a83be94d3f8c71b50e198a513439daffa35c7b1dd54ab7543506086"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 8151,
+      "readingBlocks": 26,
+      "convertedChapters": [
+        17
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) טו",
+      "canonicalTitle": "מדרש משלי (בובר) טו",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-4de4d0f458a18609.json",
+      "sourceSnapshotSha256": "2761622fea38a0c10d9bebe6cd4cc09eec55c8f8caf544d88b871d689c851298",
+      "sourceRevision": {
+        "id": 386373,
+        "timestamp": "2010-11-12T07:19:08Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98%D7%95&oldid=386373",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98%D7%95&action=history",
+      "sourcePageId": 228620,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=386373&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-4de4d0f458a18609.json",
+        "sha256": "62327d94ea7eab011511048153b058ca93bfe1c4894b35ec175ebd6788fc9ef0"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 5726,
+      "readingBlocks": 18,
+      "convertedChapters": [
+        18
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) טז",
+      "canonicalTitle": "מדרש משלי (בובר) טז",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-c75237c50da655c8.json",
+      "sourceSnapshotSha256": "661bc4f1e9af144b5aff73ce434a08094b9bb76c0f77220ee6e852599651ecbc",
+      "sourceRevision": {
+        "id": 387021,
+        "timestamp": "2010-11-27T18:13:00Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98%D7%96&oldid=387021",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98%D7%96&action=history",
+      "sourcePageId": 229219,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387021&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-c75237c50da655c8.json",
+        "sha256": "23f1301b603b90c61ec7ea374b2f2a4673ed6fbf27189d2892b752384821ebde"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 4418,
+      "readingBlocks": 20,
+      "convertedChapters": [
+        19
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) יז",
+      "canonicalTitle": "מדרש משלי (בובר) יז",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-f00ec9448541209f.json",
+      "sourceSnapshotSha256": "0aacfd094844b284b77902d28b22d4e733d29e9cad46447458e836ddae342801",
+      "sourceRevision": {
+        "id": 388390,
+        "timestamp": "2010-12-28T13:36:25Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%96&oldid=388390",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%96&action=history",
+      "sourcePageId": 229246,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388390&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-f00ec9448541209f.json",
+        "sha256": "64daf763b648d3fd8ea46e1ee64387d14bd82412f5e6a0d167767999fe8e5f7b"
+      },
+      "sourceHeadings": [
+        "הערות ותיקונים"
+      ],
+      "readingCharacters": 1726,
+      "readingBlocks": 9,
+      "convertedChapters": [
+        20
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) יח",
+      "canonicalTitle": "מדרש משלי (בובר) יח",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-5fd925fba204b9dd.json",
+      "sourceSnapshotSha256": "ea31e5b4d36b3267118bd18fff3faad52c8536bf0ade44f3d534ce31ab2b1a59",
+      "sourceRevision": {
+        "id": 387981,
+        "timestamp": "2010-12-18T18:28:20Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%97&oldid=387981",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%97&action=history",
+      "sourcePageId": 229489,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387981&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-5fd925fba204b9dd.json",
+        "sha256": "e6129ec604889f851d3083ad7d1be473944835d38372da8b59282485ae606c4d"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 30,
+      "readingBlocks": 1,
+      "convertedChapters": [
+        21
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) יט",
+      "canonicalTitle": "מדרש משלי (בובר) יט",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-d0f067d3b2b12b56.json",
+      "sourceSnapshotSha256": "1250b1517751f0f98ffedf51fdceef127e6adcf3d635d88846a9c8872287d585",
+      "sourceRevision": {
+        "id": 387226,
+        "timestamp": "2010-11-30T04:30:14Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%98&oldid=387226",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%98&action=history",
+      "sourcePageId": 229250,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387226&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-d0f067d3b2b12b56.json",
+        "sha256": "5032a0529ae2c44f62b338d7810115f4e00457a7cc084a1c0680827bc9e5eac0"
+      },
+      "sourceHeadings": [
+        "הערות שוליים"
+      ],
+      "readingCharacters": 5510,
+      "readingBlocks": 23,
+      "convertedChapters": [
+        22
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כ",
+      "canonicalTitle": "מדרש משלי (בובר) כ",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-770b2221a33cbad9.json",
+      "sourceSnapshotSha256": "fa2c6e25012791ec99663d58b70b91c3455c1c295e508bfb3848e2c50af06a88",
+      "sourceRevision": {
+        "id": 387439,
+        "timestamp": "2010-12-05T12:42:53Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B&oldid=387439",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B&action=history",
+      "sourcePageId": 229346,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387439&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-770b2221a33cbad9.json",
+        "sha256": "cf41ce96dd9f1f93318e6321b7d566448bd1b0ad133e380d6e4e8ff53814c501"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 3349,
+      "readingBlocks": 17,
+      "convertedChapters": [
+        23
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כא",
+      "canonicalTitle": "מדרש משלי (בובר) כא",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-b3d854af4aa10f6b.json",
+      "sourceSnapshotSha256": "eeccf32b1088add9a00f93652c09c9c61f5a6c0ec6b607a1263a083bf751c978",
+      "sourceRevision": {
+        "id": 387855,
+        "timestamp": "2010-12-15T05:30:05Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%90&oldid=387855",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%90&action=history",
+      "sourcePageId": 229408,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387855&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-b3d854af4aa10f6b.json",
+        "sha256": "0a95018888c5bbc04fd32ea8d88770be19cb22007d54fe3d5f570a4a7cb0a1e4"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 3369,
+      "readingBlocks": 12,
+      "convertedChapters": [
+        24
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כב",
+      "canonicalTitle": "מדרש משלי (בובר) כב",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-0655b2dbb8499680.json",
+      "sourceSnapshotSha256": "47b19d851b9836e3d01ffb5006fc7658cd40ab2d1e16f3685ac88ed326eab501",
+      "sourceRevision": {
+        "id": 387864,
+        "timestamp": "2010-12-15T06:23:48Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%91&oldid=387864",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%91&action=history",
+      "sourcePageId": 229463,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387864&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-0655b2dbb8499680.json",
+        "sha256": "3d443a652e3431b0c35ac7affef5bd5278fb9b16db6106160931203c7252a6a5"
+      },
+      "sourceHeadings": [
+        "הערות שוליים"
+      ],
+      "readingCharacters": 6215,
+      "readingBlocks": 31,
+      "convertedChapters": [
+        25
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כג",
+      "canonicalTitle": "מדרש משלי (בובר) כג",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-217ea7dc9d15221b.json",
+      "sourceSnapshotSha256": "af3f519e44d5f02841465570b729d50839c6bb9ca1cff66ccad1c1f4f3599eb7",
+      "sourceRevision": {
+        "id": 387980,
+        "timestamp": "2010-12-18T18:25:03Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%92&oldid=387980",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%92&action=history",
+      "sourcePageId": 229486,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387980&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-217ea7dc9d15221b.json",
+        "sha256": "217186663966b6382179f7f2a474ad3e42b75c889cc824e48ad0d499617db020"
+      },
+      "sourceHeadings": [
+        "הערות שוליים"
+      ],
+      "readingCharacters": 4714,
+      "readingBlocks": 23,
+      "convertedChapters": [
+        26
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כד",
+      "canonicalTitle": "מדרש משלי (בובר) כד",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-d5f5e8a336b96655.json",
+      "sourceSnapshotSha256": "7ed71bbeaa4cdfac3a86725015322a7987cbd295ff3bce4a1964506338e76d7f",
+      "sourceRevision": {
+        "id": 388038,
+        "timestamp": "2010-12-19T14:25:16Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%93&oldid=388038",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%93&action=history",
+      "sourcePageId": 229514,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388038&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-d5f5e8a336b96655.json",
+        "sha256": "16134c5550c9e7ac929e1ae369df66b520ab69bdb165d1a50c14083064c0371e"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 1600,
+      "readingBlocks": 10,
+      "convertedChapters": [
+        27
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כה",
+      "canonicalTitle": "מדרש משלי (בובר) כה",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-7789f98f39963fae.json",
+      "sourceSnapshotSha256": "a02c7d2b32d9b91bd6c514643878c489e915b655fb111224f3a339aeaa691477",
+      "sourceRevision": {
+        "id": 388050,
+        "timestamp": "2010-12-19T16:17:55Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%94&oldid=388050",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%94&action=history",
+      "sourcePageId": 229521,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388050&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-7789f98f39963fae.json",
+        "sha256": "0d0ea6c807b92d75c4e3229b4bb1b7c1a71820af1813bd764f22ffd20e7e1db3"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 2845,
+      "readingBlocks": 20,
+      "convertedChapters": [
+        28
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כו",
+      "canonicalTitle": "מדרש משלי (בובר) כו",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-0ff696b1e8442b32.json",
+      "sourceSnapshotSha256": "a456808db8750a35c77f0828422c6bcf1cb42c205328cfd7b92210b6cc15972d",
+      "sourceRevision": {
+        "id": 388056,
+        "timestamp": "2010-12-19T17:25:22Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%95&oldid=388056",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%95&action=history",
+      "sourcePageId": 229526,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388056&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-0ff696b1e8442b32.json",
+        "sha256": "c168d383a3e7dc93bb1523c7505ac50337b00df3b4671b005b160172f03bbee6"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 3789,
+      "readingBlocks": 14,
+      "convertedChapters": [
+        29
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כז",
+      "canonicalTitle": "מדרש משלי (בובר) כז",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-f8b93e8a9b125b48.json",
+      "sourceSnapshotSha256": "7c02245dabffd907f69d0e7444f988929e6013f9d56ffbcd3763a2899b2e0c07",
+      "sourceRevision": {
+        "id": 388128,
+        "timestamp": "2010-12-21T14:09:35Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%96&oldid=388128",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%96&action=history",
+      "sourcePageId": 229536,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388128&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-f8b93e8a9b125b48.json",
+        "sha256": "e26c7f500e0bded2c02005ff7a11cc760f6440f2f0da44b30bcc4177d8d9e893"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 3119,
+      "readingBlocks": 11,
+      "convertedChapters": [
+        30
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כח",
+      "canonicalTitle": "מדרש משלי (בובר) כח",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-b0abb7008198efa7.json",
+      "sourceSnapshotSha256": "55af87984b6f8dbd90e3ccf1e12ca9be7f713151eae3b9a4d3692d9d44a63d39",
+      "sourceRevision": {
+        "id": 388156,
+        "timestamp": "2010-12-22T07:32:47Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%97&oldid=388156",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%97&action=history",
+      "sourcePageId": 229545,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388156&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-b0abb7008198efa7.json",
+        "sha256": "38ff27c9199f81ea85a5e51cbad0b77130714fef0de9654adf11901659d3fbc6"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 1766,
+      "readingBlocks": 13,
+      "convertedChapters": [
+        31
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) כט",
+      "canonicalTitle": "מדרש משלי (בובר) כט",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-d4f8f8294bee6f39.json",
+      "sourceSnapshotSha256": "c6aedfddf2aaf15c4a79a9954a17c714c20509fe27e5f1719061b1830a8e9510",
+      "sourceRevision": {
+        "id": 387994,
+        "timestamp": "2010-12-18T18:39:34Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%98&oldid=387994",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%98&action=history",
+      "sourcePageId": 229501,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=387994&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-d4f8f8294bee6f39.json",
+        "sha256": "902da3fb7e73d602f2f7753f6916727bfb0eea2b491ac57bdb294b5e0e30810d"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 182,
+      "readingBlocks": 2,
+      "convertedChapters": [
+        32
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) ל",
+      "canonicalTitle": "מדרש משלי (בובר) ל",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-90801f999954b554.json",
+      "sourceSnapshotSha256": "edffdb8a67f2c1c11ef35fab3f6a28d1972a79ef6b8a1d228d39fd5310a86152",
+      "sourceRevision": {
+        "id": 388547,
+        "timestamp": "2010-12-29T07:45:20Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9C&oldid=388547",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9C&action=history",
+      "sourcePageId": 229626,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388547&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-90801f999954b554.json",
+        "sha256": "2939374dce3d0fc8bce8c0228fae0ccf3c83efc86cfd31c5793251c9be5e2be4"
+      },
+      "sourceHeadings": [
+        "הערות ותקונים"
+      ],
+      "readingCharacters": 7231,
+      "readingBlocks": 42,
+      "convertedChapters": [
+        33
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) לא",
+      "canonicalTitle": "מדרש משלי (בובר) לא",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-368b9d0e9e87859e.json",
+      "sourceSnapshotSha256": "626a0e4cdc007897066512731802f9f3e59a0ef95a71494c79fb98f161175593",
+      "sourceRevision": {
+        "id": 388588,
+        "timestamp": "2010-12-30T16:19:35Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9C%D7%90&oldid=388588",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9C%D7%90&action=history",
+      "sourcePageId": 229734,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%98%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%99%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%90%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%91%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%92%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%93%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%94%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%95%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%96%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%97%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9B%D7%98%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%7C%D7%9E%D7%93%D7%A8%D7%A9+%D7%9E%D7%A9%D7%9C%D7%99+%28%D7%91%D7%95%D7%91%D7%A8%29+%D7%9C%D7%90%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%91%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%92%7C%D7%9E%D7%9B%D7%99%D7%9C%D7%AA%D7%90+%D7%A2%D7%9C+%D7%A9%D7%9E%D7%95%D7%AA+%D7%99%D7%93&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-01beaa81f15ba748.json",
+        "sha256": "d23fc4cc8079cae0ec7ce899fbb0a9e5a22b1a274271c0b800fd7ca4362e5d28"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=388588&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-368b9d0e9e87859e.json",
+        "sha256": "a0261936a8c75fa95f95fa26e50cfa6877fd54b1d7d02c11d83c01f7ad06d384"
+      },
+      "sourceHeadings": [
+        "הערות ותקונים"
+      ],
+      "readingCharacters": 10488,
+      "readingBlocks": 60,
+      "convertedChapters": [
+        34
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [
+    {
+      "sourceTitle": "מדרש משלי (בובר) פתח דבר",
+      "notice": "העריכה בעיצומה",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%A4%D7%AA%D7%97_%D7%93%D7%91%D7%A8&oldid=1296829"
+    },
+    {
+      "sourceTitle": "מדרש משלי (בובר) פתח דבר",
+      "notice": "שימו לב! דף זה (או קטע זה) עדיין לא גמור והוא לא מציג את היצירה בשלמותה",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%A4%D7%AA%D7%97_%D7%93%D7%91%D7%A8&oldid=1296829"
+    }
+  ],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מדרש משלי (בובר) מבוא",
+      "sourceTitle": "מדרש משלי (בובר) מבוא",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 750727,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9E%D7%91%D7%95%D7%90&oldid=750727",
+      "paragraphs": 2,
+      "plainCharacters": 669,
+      "outputFile": "Original/1.json",
+      "outputSha256": "7a6f73adbbee0ce62008fcb14c5405a8b825a99d89f35ea25ebb8d0c52b78967",
+      "normalizedTextSha256": "1184f0e58a613b48afe5ae05e4d66f6b8ed83134a2aa29bb19fdcb12fbbcdad3"
+    },
+    {
+      "chapter": 2,
+      "title": "מדרש משלי (בובר) פתח דבר",
+      "sourceTitle": "מדרש משלי (בובר) פתח דבר",
+      "sourceIndex": 2,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 1296829,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%A4%D7%AA%D7%97_%D7%93%D7%91%D7%A8&oldid=1296829",
+      "paragraphs": 9,
+      "plainCharacters": 1169,
+      "outputFile": "Original/2.json",
+      "outputSha256": "be9bd375e764682e863511f1c815c887f93b5c9ba66397a03fd51940e97568bd",
+      "normalizedTextSha256": "9abc539f5c67f860325ec87ce56a0731b27669eebe5d24ab1b89995298cd89f5"
+    },
+    {
+      "chapter": 3,
+      "title": "מדרש משלי (בובר) א · reading section 1",
+      "sourceTitle": "מדרש משלי (בובר) א",
+      "sourceIndex": 3,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388021,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%90&oldid=388021",
+      "paragraphs": 83,
+      "plainCharacters": 15994,
+      "outputFile": "Original/3.json",
+      "outputSha256": "71cb76a0cba7109fbe9e351b0e230c9a6c8691dc4a4f231076c5848bd6b7ef87",
+      "normalizedTextSha256": "5d73ba4a5b15ed10c626adb3f001114526ceb989d4b6cf3701739db0f3c8de4e"
+    },
+    {
+      "chapter": 4,
+      "title": "מדרש משלי (בובר) א · reading section 2",
+      "sourceTitle": "מדרש משלי (בובר) א",
+      "sourceIndex": 3,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 388021,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%90&oldid=388021",
+      "paragraphs": 6,
+      "plainCharacters": 997,
+      "outputFile": "Original/4.json",
+      "outputSha256": "dd135b447ef9d61c800dcc2f2a6c023fef03a0aee778611085ce7656fbdb7a10",
+      "normalizedTextSha256": "c57bba9d28e5a3775fe220624de86d837f6218b6e443cdcc0a839481bde85e48"
+    },
+    {
+      "chapter": 5,
+      "title": "מדרש משלי (בובר) ב",
+      "sourceTitle": "מדרש משלי (בובר) ב",
+      "sourceIndex": 4,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388194,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%91&oldid=388194",
+      "paragraphs": 28,
+      "plainCharacters": 4228,
+      "outputFile": "Original/5.json",
+      "outputSha256": "8a358da557caf0fba5de27937c1c77ee69ce4e1a71be26063db62afb7b5e86d0",
+      "normalizedTextSha256": "f3e4913cdb6e6cfcc4c36e892d13892ee81520d678f297d48359db9201e111c7"
+    },
+    {
+      "chapter": 6,
+      "title": "מדרש משלי (בובר) ג",
+      "sourceTitle": "מדרש משלי (בובר) ג",
+      "sourceIndex": 5,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388170,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%92&oldid=388170",
+      "paragraphs": 1,
+      "plainCharacters": 23,
+      "outputFile": "Original/6.json",
+      "outputSha256": "e5dd1b07e5a5965b7b42c57c244cdc5d6b14ff4d8dd0f43dab839274634d2df1",
+      "normalizedTextSha256": "a1d347d7136c8cf6d3f4d2fa53579ccff7c71d62b9f100b967d2c57840a68f34"
+    },
+    {
+      "chapter": 7,
+      "title": "מדרש משלי (בובר) ד",
+      "sourceTitle": "מדרש משלי (בובר) ד",
+      "sourceIndex": 6,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388193,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%93&oldid=388193",
+      "paragraphs": 6,
+      "plainCharacters": 814,
+      "outputFile": "Original/7.json",
+      "outputSha256": "4cc56671d3ca050b41fe8a7612d7f74a3849d76c768d43ea8802a96e76ee6c4c",
+      "normalizedTextSha256": "62cfebb7a61d2d556d5d138e8d5e6aec39497412f140849de530b6d2a2fb4f5b"
+    },
+    {
+      "chapter": 8,
+      "title": "מדרש משלי (בובר) ה",
+      "sourceTitle": "מדרש משלי (בובר) ה",
+      "sourceIndex": 7,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388239,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%94&oldid=388239",
+      "paragraphs": 32,
+      "plainCharacters": 3761,
+      "outputFile": "Original/8.json",
+      "outputSha256": "509208996d0b4d161083395d830393bf43e3e8b1b4108cb20dab2b16796cba25",
+      "normalizedTextSha256": "097ecd18dea4f15e5b7824e7e20c448f6cdbb30403135bcb9e088eb837f29070"
+    },
+    {
+      "chapter": 9,
+      "title": "מדרש משלי (בובר) ו",
+      "sourceTitle": "מדרש משלי (בובר) ו",
+      "sourceIndex": 8,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388300,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%95&oldid=388300",
+      "paragraphs": 52,
+      "plainCharacters": 10570,
+      "outputFile": "Original/9.json",
+      "outputSha256": "fe56aaea85bb1032971b1a95cd25f04c479adbddafcaeed2ba2aa4fb68b4a434",
+      "normalizedTextSha256": "449cb0c0122e77a531fb1a366e61c10acd45679615dcd55f35de257867ee8421"
+    },
+    {
+      "chapter": 10,
+      "title": "מדרש משלי (בובר) ז",
+      "sourceTitle": "מדרש משלי (בובר) ז",
+      "sourceIndex": 9,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388301,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%96&oldid=388301",
+      "paragraphs": 3,
+      "plainCharacters": 311,
+      "outputFile": "Original/10.json",
+      "outputSha256": "97845df8787b9660dd1590069da54f132efc5e7d8a9687cebfc2d450663211b0",
+      "normalizedTextSha256": "479704e09ce3fa9a3d48704b496f005d86d22dfbc006a326b8a5c05f21b1659b"
+    },
+    {
+      "chapter": 11,
+      "title": "מדרש משלי (בובר) ח",
+      "sourceTitle": "מדרש משלי (בובר) ח",
+      "sourceIndex": 10,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388341,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%97&oldid=388341",
+      "paragraphs": 32,
+      "plainCharacters": 7042,
+      "outputFile": "Original/11.json",
+      "outputSha256": "95d079054a48e3458a353f24ef0a3800af010260fe4bc5e3cdb036b8d407b890",
+      "normalizedTextSha256": "c2fba8dc143370b25e6ccff96ec833931de0d731a9987cddd4accc0cb6eb0e5f"
+    },
+    {
+      "chapter": 12,
+      "title": "מדרש משלי (בובר) ט",
+      "sourceTitle": "מדרש משלי (בובר) ט",
+      "sourceIndex": 11,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387557,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98&oldid=387557",
+      "paragraphs": 27,
+      "plainCharacters": 6939,
+      "outputFile": "Original/12.json",
+      "outputSha256": "c0cf3379019ad9b8f0f47e2a81e28233992a5d839f3368e71875c65b86d49e5d",
+      "normalizedTextSha256": "456ffa65f8dfa73109b6a73f8d18f6c4c556f83bd25424ad25d7e5af4785505f"
+    },
+    {
+      "chapter": 13,
+      "title": "מדרש משלי (בובר) י",
+      "sourceTitle": "מדרש משלי (בובר) י",
+      "sourceIndex": 12,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388356,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99&oldid=388356",
+      "paragraphs": 21,
+      "plainCharacters": 6833,
+      "outputFile": "Original/13.json",
+      "outputSha256": "ab96a60611cc9d9c076b4e584c5c5420e81ecc348c7af84c7cb628220e85ae3b",
+      "normalizedTextSha256": "ac76fbf4ad94c9bcf0f480fa284066c9cfc9b45a592db8b71a9703b0381c343f"
+    },
+    {
+      "chapter": 14,
+      "title": "מדרש משלי (בובר) יא",
+      "sourceTitle": "מדרש משלי (בובר) יא",
+      "sourceIndex": 13,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387028,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%90&oldid=387028",
+      "paragraphs": 34,
+      "plainCharacters": 8361,
+      "outputFile": "Original/14.json",
+      "outputSha256": "20ac496adddaad56f066e71364b27c99a7108fb3885b7485fdee3ec027830f5c",
+      "normalizedTextSha256": "bd8855908f020698db3592c6b80fd9f241a6750e7c4ca062213232d4322874fc"
+    },
+    {
+      "chapter": 15,
+      "title": "מדרש משלי (בובר) יב",
+      "sourceTitle": "מדרש משלי (בובר) יב",
+      "sourceIndex": 14,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388362,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%91&oldid=388362",
+      "paragraphs": 7,
+      "plainCharacters": 1447,
+      "outputFile": "Original/15.json",
+      "outputSha256": "cf0c1678dd1472bd6da7d7ed981a58bec6f391f212ce6d66f70102077a8b7a31",
+      "normalizedTextSha256": "567e61f80fac1ddf4e84ebc3e3ec75346852accde20cb48cd70e214b3cad39af"
+    },
+    {
+      "chapter": 16,
+      "title": "מדרש משלי (בובר) יג",
+      "sourceTitle": "מדרש משלי (בובר) יג",
+      "sourceIndex": 15,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388371,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%92&oldid=388371",
+      "paragraphs": 18,
+      "plainCharacters": 4806,
+      "outputFile": "Original/16.json",
+      "outputSha256": "67e48b78961fd649f8d8d838b6aada8a7e262eaf068d3bd2d83690a857f8db05",
+      "normalizedTextSha256": "b5de225cb3efdc6fe0d49220015f731a366920d62ed9b24256703261c97e6aaa"
+    },
+    {
+      "chapter": 17,
+      "title": "מדרש משלי (בובר) יד",
+      "sourceTitle": "מדרש משלי (בובר) יד",
+      "sourceIndex": 16,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 386369,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%93&oldid=386369",
+      "paragraphs": 26,
+      "plainCharacters": 8130,
+      "outputFile": "Original/17.json",
+      "outputSha256": "33cfc692319d60bcb61b5c469cb65a6111609d07cbc89df3c48fc4b00368f2d3",
+      "normalizedTextSha256": "bfc5978471d0ff763b484c8dd276a52c5b08545e92532bb6f1b6e86cf7558568"
+    },
+    {
+      "chapter": 18,
+      "title": "מדרש משלי (בובר) טו",
+      "sourceTitle": "מדרש משלי (בובר) טו",
+      "sourceIndex": 17,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 386373,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98%D7%95&oldid=386373",
+      "paragraphs": 18,
+      "plainCharacters": 5699,
+      "outputFile": "Original/18.json",
+      "outputSha256": "fbfd1fdb09baf446069080decade8c8436835cdce8fcc01b2ae33bfb55a9b7ce",
+      "normalizedTextSha256": "282d60b056cb71861dfdf6903d4af6564922b68371007d8f97f2f4e9a6de3cf8"
+    },
+    {
+      "chapter": 19,
+      "title": "מדרש משלי (בובר) טז",
+      "sourceTitle": "מדרש משלי (בובר) טז",
+      "sourceIndex": 18,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387021,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%98%D7%96&oldid=387021",
+      "paragraphs": 20,
+      "plainCharacters": 4394,
+      "outputFile": "Original/19.json",
+      "outputSha256": "195128ea55cc5cad707ab4a7425dde96682d024e166c79f4042f041ae48804f8",
+      "normalizedTextSha256": "8cf606153541564c3947ac978c7d039435a237a1448ec29effd1e69135bd75b7"
+    },
+    {
+      "chapter": 20,
+      "title": "מדרש משלי (בובר) יז",
+      "sourceTitle": "מדרש משלי (בובר) יז",
+      "sourceIndex": 19,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388390,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%96&oldid=388390",
+      "paragraphs": 9,
+      "plainCharacters": 1714,
+      "outputFile": "Original/20.json",
+      "outputSha256": "0a4e632a8266d57e1d3276b87d4d9ab60bc20403f7f5761ad5203c43cf6cbd9c",
+      "normalizedTextSha256": "ab21eb6e8f9e87831c649e3bfef756d1e6710054b04a48cfc7a84a96714cc0bd"
+    },
+    {
+      "chapter": 21,
+      "title": "מדרש משלי (בובר) יח",
+      "sourceTitle": "מדרש משלי (בובר) יח",
+      "sourceIndex": 20,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387981,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%97&oldid=387981",
+      "paragraphs": 1,
+      "plainCharacters": 23,
+      "outputFile": "Original/21.json",
+      "outputSha256": "f707f907249ba00df167ad695ef5dfd8807dd302ca6732b21e8329e34e991125",
+      "normalizedTextSha256": "a1d347d7136c8cf6d3f4d2fa53579ccff7c71d62b9f100b967d2c57840a68f34"
+    },
+    {
+      "chapter": 22,
+      "title": "מדרש משלי (בובר) יט",
+      "sourceTitle": "מדרש משלי (בובר) יט",
+      "sourceIndex": 21,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387226,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%99%D7%98&oldid=387226",
+      "paragraphs": 23,
+      "plainCharacters": 5481,
+      "outputFile": "Original/22.json",
+      "outputSha256": "ecf4fd8fe83ea785f087dd8c929b3e279742e65829086744fad6cbdefe40c1b3",
+      "normalizedTextSha256": "8e502dc4e063bc5a9f92a7e95d27421980fea114db39d9c66eb60dce39baa821"
+    },
+    {
+      "chapter": 23,
+      "title": "מדרש משלי (בובר) כ",
+      "sourceTitle": "מדרש משלי (בובר) כ",
+      "sourceIndex": 22,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387439,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B&oldid=387439",
+      "paragraphs": 17,
+      "plainCharacters": 3324,
+      "outputFile": "Original/23.json",
+      "outputSha256": "da4b434b1c7edb81e71d97eeaeb1a2818388aa6cf83fdc73e84d965bf3a855c9",
+      "normalizedTextSha256": "e0882dd0007cf7347d632b836b299040a24c85dca6327553d80db41e72fa8a56"
+    },
+    {
+      "chapter": 24,
+      "title": "מדרש משלי (בובר) כא",
+      "sourceTitle": "מדרש משלי (בובר) כא",
+      "sourceIndex": 23,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387855,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%90&oldid=387855",
+      "paragraphs": 12,
+      "plainCharacters": 3351,
+      "outputFile": "Original/24.json",
+      "outputSha256": "05de77bd1838ebd7b01776742cce8aea546193a922ad084ae023d8fd31ff5bca",
+      "normalizedTextSha256": "dc1588359e8ed35ae34e71f2f3021bc0ba9a4ef3444bb86c6d9247397fda7400"
+    },
+    {
+      "chapter": 25,
+      "title": "מדרש משלי (בובר) כב",
+      "sourceTitle": "מדרש משלי (בובר) כב",
+      "sourceIndex": 24,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387864,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%91&oldid=387864",
+      "paragraphs": 31,
+      "plainCharacters": 6176,
+      "outputFile": "Original/25.json",
+      "outputSha256": "1664dd46437c82f0b3623e92d4e6ac116af6addb0f0c2f433469c67dbe188fe7",
+      "normalizedTextSha256": "e8e893b02402748d1e5d4b4794cdfa2f88b3c415fcc4518d4d57e85cf4cf5b69"
+    },
+    {
+      "chapter": 26,
+      "title": "מדרש משלי (בובר) כג",
+      "sourceTitle": "מדרש משלי (בובר) כג",
+      "sourceIndex": 25,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387980,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%92&oldid=387980",
+      "paragraphs": 23,
+      "plainCharacters": 4691,
+      "outputFile": "Original/26.json",
+      "outputSha256": "4cc58426f79bf1187e692c746914a279956cd16cc824433fc3acacf17fdd5eb9",
+      "normalizedTextSha256": "04cbd24742b38a2a5ebf50027252306c8ef27bfca7c83226d9672d57f6402d2c"
+    },
+    {
+      "chapter": 27,
+      "title": "מדרש משלי (בובר) כד",
+      "sourceTitle": "מדרש משלי (בובר) כד",
+      "sourceIndex": 26,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388038,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%93&oldid=388038",
+      "paragraphs": 10,
+      "plainCharacters": 1586,
+      "outputFile": "Original/27.json",
+      "outputSha256": "be1861ca7a4d58c2e9fbeafb5d61d904ce1ae3d85de8a872f77af25a87697bd0",
+      "normalizedTextSha256": "0608b09bcc793634d7c04ca767940e26da6849da6d09a276b53d28f9eb09c088"
+    },
+    {
+      "chapter": 28,
+      "title": "מדרש משלי (בובר) כה",
+      "sourceTitle": "מדרש משלי (בובר) כה",
+      "sourceIndex": 27,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388050,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%94&oldid=388050",
+      "paragraphs": 20,
+      "plainCharacters": 2821,
+      "outputFile": "Original/28.json",
+      "outputSha256": "55e7860197ed3c5026b45792ea51e4fccb6b53d97933c02c9a21e3a8c3a687a0",
+      "normalizedTextSha256": "8089707e60b8c10d95e98ce9fbbf3c4cd7a467f5888f47a5f7c8aef3fff98161"
+    },
+    {
+      "chapter": 29,
+      "title": "מדרש משלי (בובר) כו",
+      "sourceTitle": "מדרש משלי (בובר) כו",
+      "sourceIndex": 28,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388056,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%95&oldid=388056",
+      "paragraphs": 14,
+      "plainCharacters": 3768,
+      "outputFile": "Original/29.json",
+      "outputSha256": "b5e904378399a065bebe2229c2342225e4ef9fc73e36475146624ca2d8526111",
+      "normalizedTextSha256": "fd0aadc1f2e410124e3ed96411d143761be53a1fdd38d291b6876f85075f5ca7"
+    },
+    {
+      "chapter": 30,
+      "title": "מדרש משלי (בובר) כז",
+      "sourceTitle": "מדרש משלי (בובר) כז",
+      "sourceIndex": 29,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388128,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%96&oldid=388128",
+      "paragraphs": 11,
+      "plainCharacters": 3093,
+      "outputFile": "Original/30.json",
+      "outputSha256": "fa18c166cc756ff4b7c1e0a0e281dcea57f049d5c95b6a136be7b659257e2b2f",
+      "normalizedTextSha256": "ac5a058aa1bd32c17b72913723afcad4162ccd8ab8255ab8b66725d63fa59d53"
+    },
+    {
+      "chapter": 31,
+      "title": "מדרש משלי (בובר) כח",
+      "sourceTitle": "מדרש משלי (בובר) כח",
+      "sourceIndex": 30,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388156,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%97&oldid=388156",
+      "paragraphs": 13,
+      "plainCharacters": 1736,
+      "outputFile": "Original/31.json",
+      "outputSha256": "ffe91942319d069b450572291f4b09dfc97fbbec0045ab2310c2ec39016b3a75",
+      "normalizedTextSha256": "38baf24d88a0fad0493d2f030c777f44161cd6ba4ef9562ecc0b146e2847ef59"
+    },
+    {
+      "chapter": 32,
+      "title": "מדרש משלי (בובר) כט",
+      "sourceTitle": "מדרש משלי (בובר) כט",
+      "sourceIndex": 31,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 387994,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9B%D7%98&oldid=387994",
+      "paragraphs": 2,
+      "plainCharacters": 174,
+      "outputFile": "Original/32.json",
+      "outputSha256": "9e1f72af559dd1716d98511ab2689253cf4175f1b2bee23db423263edf0d6232",
+      "normalizedTextSha256": "0c07b16c731bef3311bc3497e5e32e48aaee77ffe262a77f68ead72d40d647f4"
+    },
+    {
+      "chapter": 33,
+      "title": "מדרש משלי (בובר) ל",
+      "sourceTitle": "מדרש משלי (בובר) ל",
+      "sourceIndex": 32,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388547,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9C&oldid=388547",
+      "paragraphs": 42,
+      "plainCharacters": 7194,
+      "outputFile": "Original/33.json",
+      "outputSha256": "e0f687dbcfce4925f262a7838d5cd26fb6a0635045c6d40145d195bc51fb4902",
+      "normalizedTextSha256": "97a0ba45a282a5f2bc71e6f84ef82343fa87a77bc2b4d2d0188d56c3521f1651"
+    },
+    {
+      "chapter": 34,
+      "title": "מדרש משלי (בובר) לא",
+      "sourceTitle": "מדרש משלי (בובר) לא",
+      "sourceIndex": 33,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 388588,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%93%D7%A8%D7%A9_%D7%9E%D7%A9%D7%9C%D7%99_%28%D7%91%D7%95%D7%91%D7%A8%29_%D7%9C%D7%90&oldid=388588",
+      "paragraphs": 60,
+      "plainCharacters": 10447,
+      "outputFile": "Original/34.json",
+      "outputSha256": "96a9db1e0117be292af76f909998f1053e1a0e6571210548ca76191938c16b99",
+      "normalizedTextSha256": "ae0bf9aa262f5a4685b53e56aaee8d74cc2802dbae4aa45583b1e7b604e1b873"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Midrash Mishlei/Original/1.json": "f96d7553bb07232e677718e4721dd7a78d227122752db7d36ff0dc99d21b9508",
+    "Library/Rabbinic/Midrash Mishlei/Original/2.json": "e5ba68b070efc45abd165a7150d3084fe617d5ad40b639bb08a264604b7f8314",
+    "Library/Rabbinic/Midrash Mishlei/Original/3.json": "e2092cf570ed6723601a2c405464883f7a25b63d6a2c9980fb2c20d1fe8a4e3a",
+    "Library/Rabbinic/Midrash Mishlei/Original/4.json": "2dc03e44fb5fdaca4c67e23bbecd436c7f6bbfe6569d691a2e26d778561141ba",
+    "Library/Rabbinic/Midrash Mishlei/Original/5.json": "8c5bb2d3c8d69ef5ecbc2c40d1fcc13b60240342c7013f641ea3e5a7d3596a77",
+    "Library/Rabbinic/Midrash Mishlei/Original/6.json": "3d25fef11fea1a380ec1700ab6e6c776daa3250a0c01db5f24c759e5c995ae30",
+    "Library/Rabbinic/Midrash Mishlei/Original/7.json": "8c55872b146f1f44df0b1de19bf4235c4ac52915edc0b66f733c612cb1d90ac7"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "e0950c91e6bd8c484e87497160a76a442245fed3255e8611b13ad86dfb4ddd79",
+    "retainedNormalizedTextSha256": "e0950c91e6bd8c484e87497160a76a442245fed3255e8611b13ad86dfb4ddd79",
+    "existingEnglishBodyFilesUnchanged": 7,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  }
+}

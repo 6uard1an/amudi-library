@@ -1,0 +1,92 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 240,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "d0e1e3d2c1300c638f6839de2d9e7bf8b03fe8bf5e5285dd89b39723ce9073a9",
+      "translationChapter": 245,
+      "translationPosition": 1,
+      "translationTextSha256": "1d07c8f9003af183b5d57cb8cb182daa5c8ae78289a8b99b8b6563f2ad3b7253",
+      "followingBaseTextSha256s": [
+        "4b229ae4d078eabcdf3dc7a832e6a42dca30e0832c28423458909cfda54944f4"
+      ]
+    },
+    {
+      "basePosition": 4,
+      "baseTextSha256": "77d4a3498d5d07e29dd5cf339cb01c643377ce877045c2983b01647f781189ef",
+      "translationChapter": 245,
+      "translationPosition": 2,
+      "translationTextSha256": "bcb0fdc797eb9f309b456c2abb2dd45fc235db2d19abe949590df83bbe8bb27d"
+    },
+    {
+      "basePosition": 5,
+      "baseTextSha256": "6aad1e2c8f4df6037681b084783a8615b3ef9fa628e679276dbd488f817526c4",
+      "translationChapter": 245,
+      "translationPosition": 3,
+      "translationTextSha256": "81c689b29a0958997f49b661baf9b5123633293a950cb3725243f6cbf38fbf25"
+    },
+    {
+      "basePosition": 6,
+      "baseTextSha256": "5ab4c2c6e4fcd8c21a7c1a39a0bf4c29933302d1acfdbad3b84b9593626a1827",
+      "translationChapter": 245,
+      "translationPosition": 4,
+      "translationTextSha256": "a73016e96956dd70327eab430770268ce5c0dacd2dd9af47cef805ed2f456ddd"
+    },
+    {
+      "basePosition": 7,
+      "baseTextSha256": "9172e05ea218e4a2b84d8e11d75b4adbe0175488bc5d21bf71e8a9ee4552d9f7",
+      "translationChapter": 245,
+      "translationPosition": 5,
+      "translationTextSha256": "667a052976ab58b352d58c3d79a16ffa70d3e0a980393f0e0452209a1332b362"
+    },
+    {
+      "basePosition": 8,
+      "baseTextSha256": "5b8861b82e5e7e2f9a895df66f28ef0f9c09ce49a98e77b60ebcd479a06e2f0e",
+      "translationChapter": 245,
+      "translationPosition": 6,
+      "translationTextSha256": "536b75a0d82402cdb938a35f7862c8f5ea2d38356ff0cfede64b46bdcf876db5"
+    },
+    {
+      "basePosition": 9,
+      "baseTextSha256": "e976e1672a6eea20e8d443bb3b42400d4fe3a8a73f81eb5ea9b350c480b86499",
+      "translationChapter": 245,
+      "translationPosition": 7,
+      "translationTextSha256": "6b620b1c74202adc12c421365dd63540ff7459bd76e3feee3f4cc07df410d5a4"
+    },
+    {
+      "basePosition": 10,
+      "baseTextSha256": "a8c7c1d82499e975ec25ec83847ee41ec837bba693478517f35f786be66e05ee",
+      "translationChapter": 245,
+      "translationPosition": 8,
+      "translationTextSha256": "7be17725765b977d99cb1f634117f089c708845c0f4d6ee7f82f81d88367aa8d",
+      "followingBaseTextSha256s": [
+        "8b8f61d4e3c08fc4d2dccef602c540e8dc0a8f3dca885a096ff8fc321869e7b0",
+        "c19297be6a2f86976636d8e917ecc600b71aa38afcc8f2351dfcda18b14532eb"
+      ]
+    },
+    {
+      "basePosition": 13,
+      "baseTextSha256": "0caf0fe1542d2ebd5cd46fb92a08a8c871047b69712c020b37cec118c8d09787",
+      "translationChapter": 245,
+      "translationPosition": 9,
+      "translationTextSha256": "84402e429f6bba2b9f73b9a298a74345114da6a2cf0985d27cfb99257a75cc02"
+    },
+    {
+      "basePosition": 14,
+      "baseTextSha256": "b21633f009ace792a293e0d199edc7a4c767b09a204d0d75d7fd3e83760e910a",
+      "translationChapter": 245,
+      "translationPosition": 10,
+      "translationTextSha256": "cf929f60f78728ca88badd343adcb0102f9cd45374ea498ab31648485699965f",
+      "followingBaseTextSha256s": [
+        "e4a3e14c79358470a290942cd1bb627c9a47eed639ed0d0676a537e1cfd38a41",
+        "4324ccd4be551caa50827ff9c08836b65e4f45adcd06657f247a9d0fcee2666a"
+      ]
+    }
+  ]
+}

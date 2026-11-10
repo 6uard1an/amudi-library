@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "yosef-kara-lamentations",
+  "title": "Rabbi Yosef Kara on Lamentations",
+  "hebrewTitle": "רבי יוסף קרא על איכה",
+  "aliases": [
+    "R. Yosef Kara",
+    "Yosef Kara on Lamentations",
+    "פירוש ר׳ יוסף קרא על איכה"
+  ],
+  "volumeCount": 1,
+  "languages": [
+    "Hebrew"
+  ],
+  "licenses": [
+    "CC BY-SA 4.0"
+  ],
+  "volumes": [
+    {
+      "book": "Lamentations",
+      "hebrewBook": "איכה",
+      "section": "Writings",
+      "bookPath": "Writings/Lamentations",
+      "file": "Tanakh/Commentaries/yosef-kara-lamentations/lamentations.json",
+      "chapterCount": 5,
+      "languages": [
+        "Hebrew"
+      ],
+      "coverageStatus": "Partial: 15 verse entries; other verses intentionally empty.",
+      "sourcePages": 15,
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Rabbi Yosef Kara on Lamentations",
+          "versionTitle": "Hebrew Wikisource page revisions; verse-level coverage only",
+          "language": "Hebrew",
+          "originalSourceUrl": "https://he.wikisource.org/wiki/רבי_יוסף_קרא_על_איכה",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%97&oldid=1209513",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "CC BY-SA 4.0 (shown in the footer of each source page)",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "Rabbi Yosef Kara; Hebrew Wikisource contributors. Exact page revisions and contributor histories are in source-manifest.json.",
+          "changes": "Imported only existing verse pages, with per-page revision, attribution, and text hash recorded. Markup was normalized for Amudi display. The source currently provides a partial selection of verses, not a complete commentary on Lamentations. Amudi compared the stored text with captured source revisions and added open-license delivery metadata; no OCR or translation performed by Amudi.",
+          "sourcePages": [
+            {
+              "title": "רבי יוסף קרא על איכה א ח",
+              "chapter": 1,
+              "verse": 8,
+              "revisionId": 1209513,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%97&oldid=1209513",
+              "sha256": "d0a70ef5bf2be9a378ead326004ceed080bf63a17ba0ef89de69b95d163181b0",
+              "characters": 208
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א ט",
+              "chapter": 1,
+              "verse": 9,
+              "revisionId": 1209515,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%98&oldid=1209515",
+              "sha256": "5a0afa90f2d5b441f4b54d896e56e5c7087b520e0f5fd143670d69e41050820f",
+              "characters": 544
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א טו",
+              "chapter": 1,
+              "verse": 15,
+              "revisionId": 1209517,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%98%D7%95&oldid=1209517",
+              "sha256": "c3dafeda285608330bc4d42c4939e1b7eb44a89225597b4ab6760a90b82103f2",
+              "characters": 443
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א טז",
+              "chapter": 1,
+              "verse": 16,
+              "revisionId": 1209519,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%98%D7%96&oldid=1209519",
+              "sha256": "b1df66a3da277ed716aaf379eae1f8a220639773941376ad255171b380d9e38b",
+              "characters": 73
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א י",
+              "chapter": 1,
+              "verse": 10,
+              "revisionId": 1209521,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%99&oldid=1209521",
+              "sha256": "61c5218a11d7df1abaaa1639d052fa7c17059445d364eb37e5dd9e61d2700238",
+              "characters": 352
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א יא",
+              "chapter": 1,
+              "verse": 11,
+              "revisionId": 1209523,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%99%D7%90&oldid=1209523",
+              "sha256": "2431d26c845faa2707428b3a02204e6cfcba59dbb3b4de0e848582bce0bf7b62",
+              "characters": 376
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א יב",
+              "chapter": 1,
+              "verse": 12,
+              "revisionId": 1209525,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%99%D7%91&oldid=1209525",
+              "sha256": "e5eab7b1ee3fffc71767cb46f7c00e78b9cb7227d1d826ca73939ae16be2a0a5",
+              "characters": 268
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א יג",
+              "chapter": 1,
+              "verse": 13,
+              "revisionId": 1209527,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%99%D7%92&oldid=1209527",
+              "sha256": "394c12aa0b4552906b1ffb904355b95c3da0de73552fc652acf4ac9c751abb87",
+              "characters": 336
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א יד",
+              "chapter": 1,
+              "verse": 14,
+              "revisionId": 1209529,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%99%D7%93&oldid=1209529",
+              "sha256": "7db9211550c253df68b5c64844c57ab6020782fcc56a7670e51692ad1489ae7f",
+              "characters": 318
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א יז",
+              "chapter": 1,
+              "verse": 17,
+              "revisionId": 1209531,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%99%D7%96&oldid=1209531",
+              "sha256": "f84c8f9f89ccae3f748a53e96a7cf4010b075d5d39cbb901ada3d69f0fcb1a2c",
+              "characters": 198
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א יט",
+              "chapter": 1,
+              "verse": 19,
+              "revisionId": 1209533,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%99%D7%98&oldid=1209533",
+              "sha256": "e7406c74e20d351cc88f016ef303961d5298f7b7478abf6fc3da76a1229b4b1f",
+              "characters": 174
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א כ",
+              "chapter": 1,
+              "verse": 20,
+              "revisionId": 1209535,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%9B&oldid=1209535",
+              "sha256": "40324e2c43273a9b465cb4dde5dd29e75191f66ff7708c36ff4a259dbc03df15",
+              "characters": 71
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א כא",
+              "chapter": 1,
+              "verse": 21,
+              "revisionId": 1209537,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%9B%D7%90&oldid=1209537",
+              "sha256": "9950ec173fe1cb63898d22ccc7ce6872414dfb0dfd0ba548004c49e13279735d",
+              "characters": 638
+            },
+            {
+              "title": "רבי יוסף קרא על איכה א כב",
+              "chapter": 1,
+              "verse": 22,
+              "revisionId": 1209539,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%90_%D7%9B%D7%91&oldid=1209539",
+              "sha256": "8c8e48c740322e759202640e1e09cf689bd0335985041f345f1fcff99b59f27e",
+              "characters": 103
+            },
+            {
+              "title": "רבי יוסף קרא על איכה ב א",
+              "chapter": 2,
+              "verse": 1,
+              "revisionId": 1209541,
+              "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99_%D7%99%D7%95%D7%A1%D7%A3_%D7%A7%D7%A8%D7%90_%D7%A2%D7%9C_%D7%90%D7%99%D7%9B%D7%94_%D7%91_%D7%90&oldid=1209541",
+              "sha256": "ac34b72d3f33de80d2176c90b31e95b178719046a660a6eb8fd8fc4790c2aa34",
+              "characters": 354
+            }
+          ],
+          "sourcePagesSha256": "0f0d833bcf88417b223e68283d03f5f315ce8833702f443af87efd18b0cba68d",
+          "sourceManifestPath": "Tanakh/Commentaries/yosef-kara-lamentations/source-manifest.json"
+        }
+      ]
+    }
+  ],
+  "rosterEvidence": {
+    "provider": "Attached Beit Midrash master bibliography",
+    "file": "beit_midrash_master_mefarshim.md",
+    "matchingTitle": "R. Yosef Kara"
+  },
+  "rightsAndAttribution": {
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attributionRequired": true,
+    "shareAlikeRequiredForAdaptations": true,
+    "attributionAndRevisionRecordedPerVerse": true
+  },
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "shareAlikeRequired": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY-SA 4.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/yosef-kara-lamentations/source-manifest.json",
+    "Tanakh/Commentaries/yosef-kara-lamentations/source-originals.json"
+  ]
+}

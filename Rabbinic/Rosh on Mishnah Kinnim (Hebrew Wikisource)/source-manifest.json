@@ -1,0 +1,1201 @@
+{
+  "schemaVersion": 1,
+  "work": "Rosh on Mishnah Kinnim",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "termsUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/en#7._Licensing_of_Content",
+  "attribution": "Asher ben Jehiel (Rosh), commentary on Mishnah Kinnim; Hebrew Wikisource contributors. CC BY-SA 4.0. Pinned revisions and contributor-history links are included in source-manifest.json.",
+  "changes": "Amudi removed website navigation and editing controls, preserved source text and bold commentary openings, and separated commentary entries without changing word order. Existing digitized text reviewed; Amudi performed no OCR or translation. Copyrightable text adaptations remain CC BY-SA 4.0.",
+  "coverageStatus": "All 3 supplied source chapters, covering 15 Mishnah headings. Source-origin OCR may contain errors; Amudi checked the chapter/Mishnah headings and all passage openings, not every word against print. No English translation is included.",
+  "pages": [
+    {
+      "work": "Kinnim",
+      "chapter": 1,
+      "sourceSnapshot": "kinnim-1.json",
+      "sourceSnapshotSha256": "3cd8810f7fe7b26e390685b51e089bae5787c41018d7626b4dbbdbb2db26ad58",
+      "revision": 3007354,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה קינים/פרק א",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=3007354",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%A7%D7%99%D7%A0%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 1,
+            "position": 1
+          },
+          {
+            "chapter": 1,
+            "position": 2
+          },
+          {
+            "chapter": 1,
+            "position": 3
+          },
+          {
+            "chapter": 1,
+            "position": 4
+          },
+          {
+            "chapter": 1,
+            "position": 5
+          },
+          {
+            "chapter": 1,
+            "position": 6
+          },
+          {
+            "chapter": 1,
+            "position": 7
+          },
+          {
+            "chapter": 1,
+            "position": 8
+          },
+          {
+            "chapter": 1,
+            "position": 9
+          },
+          {
+            "chapter": 1,
+            "position": 10
+          }
+        ],
+        "2": [
+          {
+            "chapter": 1,
+            "position": 11
+          },
+          {
+            "chapter": 1,
+            "position": 12
+          },
+          {
+            "chapter": 1,
+            "position": 13
+          },
+          {
+            "chapter": 1,
+            "position": 14
+          },
+          {
+            "chapter": 1,
+            "position": 15
+          },
+          {
+            "chapter": 1,
+            "position": 16
+          },
+          {
+            "chapter": 1,
+            "position": 17
+          }
+        ],
+        "3": [
+          {
+            "chapter": 1,
+            "position": 18
+          },
+          {
+            "chapter": 1,
+            "position": 19
+          }
+        ],
+        "4": [
+          {
+            "chapter": 1,
+            "position": 20
+          },
+          {
+            "chapter": 1,
+            "position": 21
+          },
+          {
+            "chapter": 1,
+            "position": 22
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "חטאת העוף נעשית למטה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 3,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 160
+        },
+        {
+          "position": 2,
+          "mishnah": 1,
+          "opening": "וחטאת בהמה למעלה.",
+          "anchor": {
+            "startWord": 4,
+            "endWord": 6,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 7
+        },
+        {
+          "position": 3,
+          "mishnah": 1,
+          "opening": "עולת העוף למעלה.",
+          "anchor": null,
+          "words": 127
+        },
+        {
+          "position": 4,
+          "mishnah": 1,
+          "opening": "עולת בהמה למטה.",
+          "anchor": null,
+          "words": 32
+        },
+        {
+          "position": 5,
+          "mishnah": 1,
+          "opening": "ואם שינה בזה ובזה פסול.",
+          "anchor": {
+            "startWord": 15,
+            "endWord": 18,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 95
+        },
+        {
+          "position": 6,
+          "mishnah": 1,
+          "opening": "כך הוא החובה.",
+          "anchor": {
+            "startWord": 21,
+            "endWord": 23,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 108
+        },
+        {
+          "position": 7,
+          "mishnah": 1,
+          "opening": "בנדרים ונדבות כולן עולות.",
+          "anchor": {
+            "startWord": 28,
+            "endWord": 31,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 54
+        },
+        {
+          "position": 8,
+          "mishnah": 1,
+          "opening": "איזה נדר האומר הרי עלי.",
+          "anchor": {
+            "startWord": 33,
+            "endWord": 36,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 15
+        },
+        {
+          "position": 9,
+          "mishnah": 1,
+          "opening": "ונדבה האומר הרי זו.",
+          "anchor": {
+            "startWord": 39,
+            "endWord": 42,
+            "basis": "unique opening with one vav/yod spelling difference in verified source passage"
+          },
+          "words": 27
+        },
+        {
+          "position": 10,
+          "mishnah": 1,
+          "opening": "שהנדרים חייבין באחריותן.",
+          "anchor": null,
+          "words": 294
+        },
+        {
+          "position": 11,
+          "mishnah": 2,
+          "opening": "חטאת שנתערבה.",
+          "anchor": null,
+          "words": 58
+        },
+        {
+          "position": 12,
+          "mishnah": 2,
+          "opening": "חטאת שנתערבה.",
+          "anchor": null,
+          "words": 101
+        },
+        {
+          "position": 13,
+          "mishnah": 2,
+          "opening": "וכן עולה שנתערבה בקן חובה.",
+          "anchor": {
+            "startWord": 19,
+            "endWord": 21,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 39
+        },
+        {
+          "position": 14,
+          "mishnah": 2,
+          "opening": "ודין זה שאמרנו שאין כשר אלא כמנין עולות שבחובה הוא נוהג בין שהחובה מרובה והנדבה מועטת.",
+          "anchor": {
+            "startWord": 24,
+            "endWord": 28,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 98
+        },
+        {
+          "position": 15,
+          "mishnah": 2,
+          "opening": "בין שהנדבה מרובה.",
+          "anchor": {
+            "startWord": 34,
+            "endWord": 36,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 11
+        },
+        {
+          "position": 16,
+          "mishnah": 2,
+          "opening": "בין שתיהן שוות.",
+          "anchor": null,
+          "words": 67
+        },
+        {
+          "position": 17,
+          "mishnah": 2,
+          "opening": "בין שהנדבה מרובה.",
+          "anchor": {
+            "startWord": 34,
+            "endWord": 36,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 20
+        },
+        {
+          "position": 18,
+          "mishnah": 3,
+          "opening": "בד\"א בחובה ובנדבה אבל חובה שנתערבה זו בזו אחת לזו ואחת לזו.",
+          "anchor": {
+            "startWord": 7,
+            "endWord": 13,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 23
+        },
+        {
+          "position": 19,
+          "mishnah": 3,
+          "opening": "מחצה כשר.",
+          "anchor": {
+            "startWord": 22,
+            "endWord": 23,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 265
+        },
+        {
+          "position": 20,
+          "mishnah": 4,
+          "opening": "כיצד משם אחד.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 2,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 113
+        },
+        {
+          "position": 21,
+          "mishnah": 4,
+          "opening": "ר’ יוסי אומר ב’ נשים שלקחו קיניהן.",
+          "anchor": null,
+          "words": 139
+        },
+        {
+          "position": 22,
+          "mishnah": 4,
+          "opening": "הדרן עלך חטאת העוף",
+          "anchor": null,
+          "words": 4
+        }
+      ],
+      "illustrations": [],
+      "baseFingerprint": "79ba6c361947ddaa7f4d11c0c9e686e855f5fbb827198fe17793c57378d744b9",
+      "commentaryFingerprint": "c46bd333bc05e0f174deedbda4f8d7ddffd95eb7ccd45f3b1a6b5a64e0425e1a",
+      "sourceWords": 1857,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 4
+    },
+    {
+      "work": "Kinnim",
+      "chapter": 2,
+      "sourceSnapshot": "kinnim-2.json",
+      "sourceSnapshotSha256": "7906608e3a30f187049ff895d4f239b2fa0418f09e4c3578f7a061ba683056a2",
+      "revision": 3007355,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה קינים/פרק ב",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=3007355",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%A7%D7%99%D7%A0%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%91&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 2,
+            "position": 1
+          },
+          {
+            "chapter": 2,
+            "position": 2
+          },
+          {
+            "chapter": 2,
+            "position": 3
+          },
+          {
+            "chapter": 2,
+            "position": 4
+          },
+          {
+            "chapter": 2,
+            "position": 5
+          }
+        ],
+        "2": [
+          {
+            "chapter": 2,
+            "position": 6
+          },
+          {
+            "chapter": 2,
+            "position": 7
+          },
+          {
+            "chapter": 2,
+            "position": 8
+          },
+          {
+            "chapter": 2,
+            "position": 9
+          }
+        ],
+        "3": [
+          {
+            "chapter": 2,
+            "position": 10
+          },
+          {
+            "chapter": 2,
+            "position": 11
+          },
+          {
+            "chapter": 2,
+            "position": 12
+          },
+          {
+            "chapter": 2,
+            "position": 13
+          }
+        ],
+        "4": [
+          {
+            "chapter": 2,
+            "position": 14
+          },
+          {
+            "chapter": 2,
+            "position": 15
+          },
+          {
+            "chapter": 2,
+            "position": 16
+          },
+          {
+            "chapter": 2,
+            "position": 17
+          }
+        ],
+        "5": [
+          {
+            "chapter": 2,
+            "position": 18
+          },
+          {
+            "chapter": 2,
+            "position": 19
+          },
+          {
+            "chapter": 2,
+            "position": 20
+          },
+          {
+            "chapter": 2,
+            "position": 21
+          },
+          {
+            "chapter": 2,
+            "position": 22
+          },
+          {
+            "chapter": 2,
+            "position": 23
+          },
+          {
+            "chapter": 2,
+            "position": 24
+          },
+          {
+            "chapter": 2,
+            "position": 25
+          },
+          {
+            "chapter": 2,
+            "position": 26
+          },
+          {
+            "chapter": 2,
+            "position": 27
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "קן סתומה שפרח ממנה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 3,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 16
+        },
+        {
+          "position": 2,
+          "mishnah": 1,
+          "opening": "בין המתות.",
+          "anchor": {
+            "startWord": 8,
+            "endWord": 9,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 172
+        },
+        {
+          "position": 3,
+          "mishnah": 1,
+          "opening": "פרח לבין הקריבות.",
+          "anchor": {
+            "startWord": 17,
+            "endWord": 19,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 8
+        },
+        {
+          "position": 4,
+          "mishnah": 1,
+          "opening": "פסול.",
+          "anchor": null,
+          "words": 24
+        },
+        {
+          "position": 5,
+          "mishnah": 1,
+          "opening": "ופוסל אחד כנגדו.",
+          "anchor": null,
+          "words": 6
+        },
+        {
+          "position": 6,
+          "mishnah": 2,
+          "opening": "כיצד שתי נשים לזו שתי קינים ולזו שתי קינים.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 4,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 356
+        },
+        {
+          "position": 7,
+          "mishnah": 2,
+          "opening": "חזר פסל אחד בחזירתו.",
+          "anchor": {
+            "startWord": 15,
+            "endWord": 18,
+            "basis": "unique opening with one vav/yod spelling difference in verified source passage"
+          },
+          "words": 99
+        },
+        {
+          "position": 8,
+          "mishnah": 2,
+          "opening": "חזר ופרח וחזר ופרח.",
+          "anchor": null,
+          "words": 11
+        },
+        {
+          "position": 9,
+          "mishnah": 2,
+          "opening": "שאפילו כולן מעורבות יחד אין פחות משנים.",
+          "anchor": null,
+          "words": 20
+        },
+        {
+          "position": 10,
+          "mishnah": 3,
+          "opening": "לזו א’ פרח מן [כו’].",
+          "anchor": null,
+          "words": 793
+        },
+        {
+          "position": 11,
+          "mishnah": 3,
+          "opening": "השלישית והרביעית אין להם כלום.",
+          "anchor": {
+            "startWord": 61,
+            "endWord": 65,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 36
+        },
+        {
+          "position": 12,
+          "mishnah": 3,
+          "opening": "החמישית יש לה אחת והששית יש לה ב’.",
+          "anchor": {
+            "startWord": 66,
+            "endWord": 69,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 107
+        },
+        {
+          "position": 13,
+          "mishnah": 3,
+          "opening": "ואם פרח מבין המתות לכולן ימותו.",
+          "anchor": {
+            "startWord": 100,
+            "endWord": 103,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 62
+        },
+        {
+          "position": 14,
+          "mishnah": 4,
+          "opening": "קן סתומה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 1,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 37
+        },
+        {
+          "position": 15,
+          "mishnah": 4,
+          "opening": "יקח זוג לשני.",
+          "anchor": {
+            "startWord": 8,
+            "endWord": 10,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 17
+        },
+        {
+          "position": 16,
+          "mishnah": 4,
+          "opening": "או שפרח מן המפורש ראשון לסתומה ואינו מכיר הנשאר.",
+          "anchor": null,
+          "words": 14
+        },
+        {
+          "position": 17,
+          "mishnah": 4,
+          "opening": "כולן ימותו.",
+          "anchor": {
+            "startWord": 18,
+            "endWord": 19,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 14
+        },
+        {
+          "position": 18,
+          "mishnah": 5,
+          "opening": "חטאת מכאן.",
+          "anchor": null,
+          "words": 21
+        },
+        {
+          "position": 19,
+          "mishnah": 5,
+          "opening": "לא הפסידה כלום באותן התערובות.",
+          "anchor": null,
+          "words": 18
+        },
+        {
+          "position": 20,
+          "mishnah": 5,
+          "opening": "חזר לאמצע.",
+          "anchor": {
+            "startWord": 29,
+            "endWord": 30,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 21
+        },
+        {
+          "position": 21,
+          "mishnah": 5,
+          "opening": "ימותו.",
+          "anchor": null,
+          "words": 3
+        },
+        {
+          "position": 22,
+          "mishnah": 5,
+          "opening": "חזר ופרח מן האמצע לצדדין.",
+          "anchor": null,
+          "words": 44
+        },
+        {
+          "position": 23,
+          "mishnah": 5,
+          "opening": "אין מביאין.",
+          "anchor": {
+            "startWord": 48,
+            "endWord": 49,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 29
+        },
+        {
+          "position": 24,
+          "mishnah": 5,
+          "opening": "תכפול ותביא עולתה תור.",
+          "anchor": {
+            "startWord": 67,
+            "endWord": 70,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 137
+        },
+        {
+          "position": 25,
+          "mishnah": 5,
+          "opening": "אשה שהביאה חטאתה ומתה יביאו יורשים עולתה.",
+          "anchor": {
+            "startWord": 88,
+            "endWord": 91,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 63
+        },
+        {
+          "position": 26,
+          "mishnah": 5,
+          "opening": "לא יביאו יורשים חטאתה.",
+          "anchor": null,
+          "words": 275
+        },
+        {
+          "position": 27,
+          "mishnah": 5,
+          "opening": "הדרן עלך קן סתומה",
+          "anchor": null,
+          "words": 4
+        }
+      ],
+      "illustrations": [],
+      "baseFingerprint": "6a77de07f32bcd51204aa0ff37d9c5c0a1640d0a9531cb25fd912fecaced860a",
+      "commentaryFingerprint": "b477c1a6825e3c711f17500e80ccf6c410a9d60c1f2d38eb032fee607ec73527",
+      "sourceWords": 2407,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 5
+    },
+    {
+      "work": "Kinnim",
+      "chapter": 3,
+      "sourceSnapshot": "kinnim-3.json",
+      "sourceSnapshotSha256": "2e9fe7e7b4685ad18ae2fd45248d68cb9ff12e357bbc5ce84f492df8a5293d26",
+      "revision": 3007356,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה קינים/פרק ג",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=3007356",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%A7%D7%99%D7%A0%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%92&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 3,
+            "position": 1
+          },
+          {
+            "chapter": 3,
+            "position": 2
+          },
+          {
+            "chapter": 3,
+            "position": 3
+          }
+        ],
+        "2": [
+          {
+            "chapter": 3,
+            "position": 4
+          },
+          {
+            "chapter": 3,
+            "position": 5
+          }
+        ],
+        "3": [
+          {
+            "chapter": 3,
+            "position": 6
+          }
+        ],
+        "4": [
+          {
+            "chapter": 3,
+            "position": 7
+          },
+          {
+            "chapter": 3,
+            "position": 8
+          },
+          {
+            "chapter": 3,
+            "position": 9
+          }
+        ],
+        "5": [
+          {
+            "chapter": 3,
+            "position": 10
+          },
+          {
+            "chapter": 3,
+            "position": 11
+          },
+          {
+            "chapter": 3,
+            "position": 12
+          },
+          {
+            "chapter": 3,
+            "position": 13
+          }
+        ],
+        "6": [
+          {
+            "chapter": 3,
+            "position": 14
+          },
+          {
+            "chapter": 3,
+            "position": 15
+          },
+          {
+            "chapter": 3,
+            "position": 16
+          },
+          {
+            "chapter": 3,
+            "position": 17
+          },
+          {
+            "chapter": 3,
+            "position": 18
+          },
+          {
+            "chapter": 3,
+            "position": 19
+          },
+          {
+            "chapter": 3,
+            "position": 20
+          },
+          {
+            "chapter": 3,
+            "position": 21
+          },
+          {
+            "chapter": 3,
+            "position": 22
+          },
+          {
+            "chapter": 3,
+            "position": 23
+          },
+          {
+            "chapter": 3,
+            "position": 24
+          },
+          {
+            "chapter": 3,
+            "position": 25
+          },
+          {
+            "chapter": 3,
+            "position": 26
+          },
+          {
+            "chapter": 3,
+            "position": 27
+          },
+          {
+            "chapter": 3,
+            "position": 28
+          },
+          {
+            "chapter": 3,
+            "position": 29
+          },
+          {
+            "chapter": 3,
+            "position": 30
+          },
+          {
+            "chapter": 3,
+            "position": 31
+          },
+          {
+            "chapter": 3,
+            "position": 32
+          },
+          {
+            "chapter": 3,
+            "position": 33
+          },
+          {
+            "chapter": 3,
+            "position": 34
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "בד\"א.",
+          "anchor": null,
+          "words": 26
+        },
+        {
+          "position": 2,
+          "mishnah": 1,
+          "opening": "אחד לזו ואחד לזו.",
+          "anchor": null,
+          "words": 30
+        },
+        {
+          "position": 3,
+          "mishnah": 1,
+          "opening": "חציו למעלה וחציו למטה.",
+          "anchor": null,
+          "words": 151
+        },
+        {
+          "position": 4,
+          "mishnah": 2,
+          "opening": "אחת לזו [כו’] המרובה כשר.",
+          "anchor": null,
+          "words": 184
+        },
+        {
+          "position": 5,
+          "mishnah": 2,
+          "opening": "זה הכלל כל מקום שאתה יכול לחלוק את הקינין.",
+          "anchor": {
+            "startWord": 29,
+            "endWord": 36,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 51
+        },
+        {
+          "position": 6,
+          "mishnah": 3,
+          "opening": "חטאת לזו.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 1,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 67
+        },
+        {
+          "position": 7,
+          "mishnah": 4,
+          "opening": "חטאת ועולה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 1,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 37
+        },
+        {
+          "position": 8,
+          "mishnah": 4,
+          "opening": "אין כשר אלא סתומה.",
+          "anchor": {
+            "startWord": 21,
+            "endWord": 24,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 36
+        },
+        {
+          "position": 9,
+          "mishnah": 4,
+          "opening": "והיא מתחלקת ביניהם.",
+          "anchor": null,
+          "words": 8
+        },
+        {
+          "position": 10,
+          "mishnah": 5,
+          "opening": "חטאת שנתערבה בחובה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 2,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 51
+        },
+        {
+          "position": 11,
+          "mishnah": 5,
+          "opening": "אין כשר אלא מנין חטאות שבחובה.",
+          "anchor": {
+            "startWord": 3,
+            "endWord": 8,
+            "basis": "unique opening with one vav/yod spelling difference in verified source passage"
+          },
+          "words": 31
+        },
+        {
+          "position": 12,
+          "mishnah": 5,
+          "opening": "חובה שנים בחטאת.",
+          "anchor": {
+            "startWord": 9,
+            "endWord": 11,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 39
+        },
+        {
+          "position": 13,
+          "mishnah": 5,
+          "opening": "ואם החטאת פי שנים בחובה.",
+          "anchor": null,
+          "words": 33
+        },
+        {
+          "position": 14,
+          "mishnah": 6,
+          "opening": "האשה שאמרה הרי עלי קן כשאלד זכר.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 6,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 13
+        },
+        {
+          "position": 15,
+          "mishnah": 6,
+          "opening": "ג’ פרידין למעלה.",
+          "anchor": null,
+          "words": 7
+        },
+        {
+          "position": 16,
+          "mishnah": 6,
+          "opening": "אלא עשה שתים למעלה.",
+          "anchor": null,
+          "words": 13
+        },
+        {
+          "position": 17,
+          "mishnah": 6,
+          "opening": "ולא נמלך.",
+          "anchor": {
+            "startWord": 35,
+            "endWord": 36,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 28
+        },
+        {
+          "position": 18,
+          "mishnah": 6,
+          "opening": "ממין א’.",
+          "anchor": null,
+          "words": 14
+        },
+        {
+          "position": 19,
+          "mishnah": 6,
+          "opening": "משני מינין תביא שתים.",
+          "anchor": {
+            "startWord": 46,
+            "endWord": 49,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 64
+        },
+        {
+          "position": 20,
+          "mishnah": 6,
+          "opening": "פרשה נדרה.",
+          "anchor": null,
+          "words": 44
+        },
+        {
+          "position": 21,
+          "mishnah": 6,
+          "opening": "ממין א’.",
+          "anchor": null,
+          "words": 52
+        },
+        {
+          "position": 22,
+          "mishnah": 6,
+          "opening": "משני המינים תביא (שתים).",
+          "anchor": null,
+          "words": 41
+        },
+        {
+          "position": 23,
+          "mishnah": 6,
+          "opening": "קבעה נדרה.",
+          "anchor": {
+            "startWord": 63,
+            "endWord": 64,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 41
+        },
+        {
+          "position": 24,
+          "mishnah": 6,
+          "opening": "צריכה להביא עוד ה’ פרידין.",
+          "anchor": null,
+          "words": 77
+        },
+        {
+          "position": 25,
+          "mishnah": 6,
+          "opening": "נתנתן לכהן.",
+          "anchor": null,
+          "words": 5
+        },
+        {
+          "position": 26,
+          "mishnah": 6,
+          "opening": "ואינה יודעת מה נתנה.",
+          "anchor": null,
+          "words": 13
+        },
+        {
+          "position": 27,
+          "mishnah": 6,
+          "opening": "ואין ידוע מה עשה.",
+          "anchor": {
+            "startWord": 85,
+            "endWord": 88,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 77
+        },
+        {
+          "position": 28,
+          "mishnah": 6,
+          "opening": "וחטאת א’.",
+          "anchor": null,
+          "words": 63
+        },
+        {
+          "position": 29,
+          "mishnah": 6,
+          "opening": "בן עזאי אומר ב’ חטאות.",
+          "anchor": null,
+          "words": 104
+        },
+        {
+          "position": 30,
+          "mishnah": 6,
+          "opening": "שתי קרניו שתי חצוצרות.",
+          "anchor": {
+            "startWord": 121,
+            "endWord": 124,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 71
+        },
+        {
+          "position": 31,
+          "mishnah": 6,
+          "opening": "רבי שמעון בן (מנסיא) [עקשיא]",
+          "anchor": null,
+          "words": 46
+        },
+        {
+          "position": 32,
+          "mishnah": 6,
+          "opening": "מסיר שפה לנאמנים כו’.",
+          "anchor": {
+            "startWord": 159,
+            "endWord": 161,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 16
+        },
+        {
+          "position": 33,
+          "mishnah": 6,
+          "opening": "בישישים חכמה.",
+          "anchor": {
+            "startWord": 181,
+            "endWord": 182,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 50
+        },
+        {
+          "position": 34,
+          "mishnah": 6,
+          "opening": "נשלמה מסכת קנים",
+          "anchor": null,
+          "words": 3
+        }
+      ],
+      "illustrations": [],
+      "baseFingerprint": "432b0d306b7db456076ce8f9e26b51cab46668387e091cf530c306ef1561b319",
+      "commentaryFingerprint": "ae4f53b7ae14127deada1bd6ebc0f0c91f32e58dfcaddb9c279eb5efa396b869",
+      "sourceWords": 1586,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 6
+    }
+  ],
+  "sourceOriginalsSha256": "8debc1960f60535d0e344e67aa36e2f9b9b9cbf72b5963507460e35b6bf8d316",
+  "userPreferenceEvidence": "Amudi/data/rights/dicta-available-text-review-20261105/user-preference.json",
+  "reviewFile": "Amudi/data/rights/rosh-mishnah-digital-review-20261105/review.json",
+  "priorWithdrawal": "The previous editions were withdrawn under the former no-OCR-origin preference. That preference is superseded; earlier evidence is preserved."
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "work": "Pri Chadash on Shulchan Arukh, Orach Chayim",
+  "author": "R. Hezekiah da Silva",
+  "sourceIndex": "https://he.wikisource.org/wiki/%D7%A4%D7%A8%D7%99%20%D7%97%D7%93%D7%A9%20%D7%A2%D7%9C%20%D7%90%D7%95%D7%A8%D7%97%20%D7%97%D7%99%D7%99%D7%9D",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "R. Hezekiah da Silva (חזקיה די סילוה), original work; Hebrew Wikisource contributors, typed transcription. Exact source-page and revision links are retained in source-manifest.json.",
+  "changeNotice": "Source wikitext navigation/status templates and formatting markup were removed; commentator-marker templates render their existing Hebrew letter and dibbur text. Existing words retained and each available source siman stored as one reader chapter. No OCR or translation was performed. This is an incomplete source transcription, not a complete Pri Chadash edition.",
+  "shareAlikeNotice": "Adapted text distributed under CC BY-SA 4.0",
+  "deliveryMode": "open-licensed; free plaintext; no encryption, purchase gate or DRM",
+  "coverage": {
+    "status": "partial",
+    "sourcePagesImported": 3,
+    "simanim": [
+      67,
+      418,
+      671
+    ],
+    "missing": "All simanim not listed; individual pages may also be marked incomplete. No full English translation with compatible terms identified in this check."
+  },
+  "pages": [
+    {
+      "chapter": 1,
+      "siman": 67,
+      "hebrewSiman": "סז",
+      "sourceTitle": "פרי חדש על אורח חיים סז",
+      "pageId": 1724669,
+      "revisionId": 2899416,
+      "revisionTimestamp": "2025-01-07T18:50:38Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A4%D7%A8%D7%99%20%D7%97%D7%93%D7%A9%20%D7%A2%D7%9C%20%D7%90%D7%95%D7%A8%D7%97%20%D7%97%D7%99%D7%99%D7%9D%20%D7%A1%D7%96",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%99%20%D7%97%D7%93%D7%A9%20%D7%A2%D7%9C%20%D7%90%D7%95%D7%A8%D7%97%20%D7%97%D7%99%D7%99%D7%9D%20%D7%A1%D7%96&oldid=2899416",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "wikitextSha256": "ed74295c48a6580afc08b7e733d5fe5256c725c19749f33e61697a3b025c2e57",
+      "retainedTextSha256": "ed74295c48a6580afc08b7e733d5fe5256c725c19749f33e61697a3b025c2e57",
+      "textCharacters": 22325,
+      "sourceMarkedIncomplete": false
+    },
+    {
+      "chapter": 2,
+      "siman": 418,
+      "hebrewSiman": "תיח",
+      "sourceTitle": "פרי חדש על אורח חיים תיח",
+      "pageId": 469589,
+      "revisionId": 1415003,
+      "revisionTimestamp": "2022-07-25T22:17:55Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A4%D7%A8%D7%99%20%D7%97%D7%93%D7%A9%20%D7%A2%D7%9C%20%D7%90%D7%95%D7%A8%D7%97%20%D7%97%D7%99%D7%99%D7%9D%20%D7%AA%D7%99%D7%97",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%99%20%D7%97%D7%93%D7%A9%20%D7%A2%D7%9C%20%D7%90%D7%95%D7%A8%D7%97%20%D7%97%D7%99%D7%99%D7%9D%20%D7%AA%D7%99%D7%97&oldid=1415003",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "wikitextSha256": "e8f59cf770285df32c76f267b74cdb56beac5e71cf987e5225c0312311011657",
+      "retainedTextSha256": "e8f59cf770285df32c76f267b74cdb56beac5e71cf987e5225c0312311011657",
+      "textCharacters": 3655,
+      "sourceMarkedIncomplete": false
+    },
+    {
+      "chapter": 3,
+      "siman": 671,
+      "hebrewSiman": "תרעא",
+      "sourceTitle": "פרי חדש על אורח חיים תרעא",
+      "pageId": 360045,
+      "revisionId": 965922,
+      "revisionTimestamp": "2020-07-02T08:50:16Z",
+      "sourceUrl": "https://he.wikisource.org/wiki/%D7%A4%D7%A8%D7%99%20%D7%97%D7%93%D7%A9%20%D7%A2%D7%9C%20%D7%90%D7%95%D7%A8%D7%97%20%D7%97%D7%99%D7%99%D7%9D%20%D7%AA%D7%A8%D7%A2%D7%90",
+      "revisionUrl": "https://he.wikisource.org/w/index.php?title=%D7%A4%D7%A8%D7%99%20%D7%97%D7%93%D7%A9%20%D7%A2%D7%9C%20%D7%90%D7%95%D7%A8%D7%97%20%D7%97%D7%99%D7%99%D7%9D%20%D7%AA%D7%A8%D7%A2%D7%90&oldid=965922",
+      "license": "Creative Commons Attribution-Share Alike 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+      "wikitextSha256": "b9065aa0ea841e4517d7073831ed450e08e158a469df65f6e2133df08ce33081",
+      "retainedTextSha256": "c7371d7378ec9846060315a10df5eddc39103aa0cdcc5ae337100d257a16297d",
+      "textCharacters": 1510,
+      "sourceMarkedIncomplete": true
+    }
+  ],
+  "reviewedAt": "2026-10-30T03:14:23.209Z"
+}

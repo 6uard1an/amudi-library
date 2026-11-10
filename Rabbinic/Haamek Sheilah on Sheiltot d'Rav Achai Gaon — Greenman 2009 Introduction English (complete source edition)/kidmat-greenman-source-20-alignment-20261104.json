@@ -1,0 +1,83 @@
+{
+  "baseBookPath": "Rabbinic/Kidmat HaEmek — Hebrew source edition",
+  "baseChapter": 20,
+  "translationBookPath": "Rabbinic/Haamek Sheilah on Sheiltot d'Rav Achai Gaon — Greenman 2009 Introduction English (complete source edition)",
+  "sourceCoordinate": [
+    "Kidmat HaEmek",
+    "Part II",
+    2
+  ],
+  "method": "Same provider source coordinates; paragraph-level translation not independently proofread. Translator additions may be included.",
+  "pairs": [
+    {
+      "basePosition": 1,
+      "baseTextSha256": "3f6ab1510954252bf43c458947dd332c2577cb82ef9d03b779d304cd57cb8b90",
+      "translationChapter": 20,
+      "translationPosition": 1,
+      "translationTextSha256": "55d70c9f68d0a229152323f0c6c8739ea1843f14011e10143067389854fb17f6"
+    },
+    {
+      "basePosition": 2,
+      "baseTextSha256": "84b2862c14e1802f7d1eb74ede01a60616c7ba4f5a5770678eef6b800c8892b6",
+      "translationChapter": 20,
+      "translationPosition": 2,
+      "translationTextSha256": "9eb83a56920e7d8d88b7a5aa7a5ba6f696e1cee93d313da2479456413dd21f7d"
+    },
+    {
+      "basePosition": 3,
+      "baseTextSha256": "f58146874a162d5da38a76c1d09b5986c73f315bff2103127858513f816de119",
+      "translationChapter": 20,
+      "translationPosition": 3,
+      "translationTextSha256": "35738baecfb65bf8584d05185b87ae4f0ed4bbc0c10b31d4ca002008205b3bfe"
+    },
+    {
+      "basePosition": 4,
+      "baseTextSha256": "2044ffde0fe07139745c8ac213a0c055c6e31ebd108c50dfeee278e4a36ecfdf",
+      "translationChapter": 20,
+      "translationPosition": 4,
+      "translationTextSha256": "45f4b652382391e3fd4f4f807f7a1ed0a23feedb5908566503fc6876ce72a1d3"
+    },
+    {
+      "basePosition": 5,
+      "baseTextSha256": "3ebb61ab0cc2344e6a0c8a6c75457f86ac8e0882aca7c9e5c2c3e445d8c69263",
+      "translationChapter": 20,
+      "translationPosition": 5,
+      "translationTextSha256": "2cdddfae7e5cec28e9ccefeff470a34353f902da1df2ad23f659473e4685c229"
+    },
+    {
+      "basePosition": 6,
+      "baseTextSha256": "cf434020d7766988da043c47982ddb7257dffe16bdfdf9df248907b85cae6cd4",
+      "translationChapter": 20,
+      "translationPosition": 6,
+      "translationTextSha256": "b2eeed6e7224d88b932f53514983e1c7678fffdc65d80683efdd10a4df27a8c7"
+    },
+    {
+      "basePosition": 7,
+      "baseTextSha256": "cefac03ef58b0751d35b8c15c3a82facc0837274f7d7a09a46f8d539a10b9859",
+      "translationChapter": 20,
+      "translationPosition": 7,
+      "translationTextSha256": "833a5375bae9b423d1d3a7086e7ad0cd2ac8723159353b78291eaf97ec59bce2"
+    },
+    {
+      "basePosition": 8,
+      "baseTextSha256": "49dd845e3bd2de8beb04d243968aabbfd26f2018630ff7cb9774840bde53b81c",
+      "translationChapter": 20,
+      "translationPosition": 8,
+      "translationTextSha256": "80b33f4d5a7191113116b71b09871e6d9e808e0f70a490373869430649aa257c"
+    },
+    {
+      "basePosition": 9,
+      "baseTextSha256": "caee7505ef92d5fb655ffcee5f0fb4933404f6f360f9905c8adaa083a5607815",
+      "translationChapter": 20,
+      "translationPosition": 9,
+      "translationTextSha256": "57927e25d983423866860ac0dabc18042c381d17a76203f937cc37f09fa4890e"
+    },
+    {
+      "basePosition": 10,
+      "baseTextSha256": "371f478124b7bb5411772a0f964819864e495ad44e204f720070018da68e5399",
+      "translationChapter": 20,
+      "translationPosition": 10,
+      "translationTextSha256": "88e7f26ca6bc464adce36dd9b90a1197941bfaf86571518559a2bd79e59e7c23"
+    }
+  ]
+}

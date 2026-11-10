@@ -1,0 +1,521 @@
+{
+  "createdAt": "2026-10-30T05:16:51.837933+00:00",
+  "title": "Meiri on Makkot — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Makkot (Hebrew Wikisource)",
+  "bibliographySourceLines": [
+    1749,
+    2276,
+    2496
+  ],
+  "sourceSeriesAuthorEvidence": {
+    "url": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1&oldid=3083958",
+    "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-cfaafcd23d7bef60.json",
+    "sourceSnapshotSha256": "fc395fc563d7fb56aa9cef6f5b719106228673e70bec7b86ddf7434cb553d373",
+    "finding": "The selected series identifies BeitHaBechira as Menachem benShlomo of theMeir family. The Ketubot/BavaBatra/Avot introductions explicitly name the author. No contrary authorship attribution was found in the inspected selected pages; this is not a survey of disputes beyond those source pages."
+  },
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Makkot, Menachem Meiri (Menachem benShlomo HaMeiri). Typed digital edition and editorial notes by Hebrew Wikisource contributors, CC BY-SA4.0. Individual source revisions, source-page permalinks and contributor histories are recorded in source-manifest.json.",
+  "changes": "Amudi removed only source navigation and parser edit controls, image/style/script tags and parser attributes, and made source/reference links absolute. Ordinary reader chapters contain flat text/HTML strings and are bounded to16000plain characters /32000markup characters per group. Exceptionally long HTML blocks are converted to escaped plain-text chunks at whitespace boundaries; all selected reading text, notes, variants and explicit source gaps remain conserved in source order. No OCR or new translation. Copyrightable Amudi adaptations remain CC BY-SA4.0.",
+  "coverageScope": "All three chapter reading pages of the selected typed Makkot edition; source-specific omission notices remain recorded. Not a collation against every print. Explicit source omission/editorial notices retained:1.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק א",
+      "canonicalTitle": "מאירי על הש\"ס/מכות/פרק א",
+      "requestedAliases": [
+        "מאירי על הש\"ס/מכות/פרק א"
+      ],
+      "sourcePageId": 394610,
+      "sourceRevision": {
+        "id": 1072569,
+        "timestamp": "2021-04-01T13:07:46Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=1072569",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-5eab91fc8dbb4b01.json",
+      "sourceSnapshotSha256": "fcb2eeb59967c6ddc0b650bb5415da9d06dd4255b93b01e8fccfb3b211ad9379",
+      "sourceHtmlSha256": "61a101247fd0006defa7d75bf8579293fabb3fd21b300e5cd2992dbcfa3da906",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-1-60cb4377867b.request.json",
+        "requestSha256": "29e9aa2865fd935ef0063badc5a9395995d2791c71812fc986c27d46d45c082f",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-1-60cb4377867b.json",
+        "responseSha256": "de6f7165d6cbf20f02f447c2ba1b80f8c5cf48c422c38330950343696aecfa67",
+        "sourceWrapperId": "amudi-meiri-source-0"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 57780,
+      "sourceHeadings": [
+        "הקדמה",
+        "דף ב עמוד א",
+        "דף ב עמוד ב",
+        "דף ג עמוד א",
+        "דף ג עמוד ב",
+        "דף ד עמוד א",
+        "דף ד עמוד ב",
+        "דף ו עמוד א",
+        "דף ה עמוד ב",
+        "דף ו עמוד א",
+        "דף ו עמוד ב",
+        "דף ז עמוד א"
+      ],
+      "convertedChapters": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "sourceNormalizedTextSha256": "677692b5efbbfdc93ab4f2e658a31fed6725a0759da7d5e6ee8ccf62342ae204",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ב",
+      "canonicalTitle": "מאירי על הש\"ס/מכות/פרק ב",
+      "requestedAliases": [
+        "מאירי על הש\"ס/מכות/פרק ב"
+      ],
+      "sourcePageId": 398722,
+      "sourceRevision": {
+        "id": 1074793,
+        "timestamp": "2021-04-07T19:58:26Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=1074793",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-879c74881712a7e8.json",
+      "sourceSnapshotSha256": "e20380285b2c1bf4ad5deb90c3edfe44466f3a472f945066a180d635ad58dffb",
+      "sourceHtmlSha256": "d4ffa4d748c3e3a7cdac2d288418218670fbffe6addd38c38eab3ba84691766d",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-1-60cb4377867b.request.json",
+        "requestSha256": "29e9aa2865fd935ef0063badc5a9395995d2791c71812fc986c27d46d45c082f",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-1-60cb4377867b.json",
+        "responseSha256": "de6f7165d6cbf20f02f447c2ba1b80f8c5cf48c422c38330950343696aecfa67",
+        "sourceWrapperId": "amudi-meiri-source-1"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 40248,
+      "sourceHeadings": [
+        "דף ז עמוד א",
+        "דף ז עמוד ב",
+        "דף ח עמוד א",
+        "דף ח עמוד ב",
+        "דף ט עמוד א",
+        "דף ט עמוד ב",
+        "דף י עמוד א",
+        "דף י עמוד ב",
+        "דף יא עמוד א",
+        "דף יא עמוד ב",
+        "דף יב עמוד א",
+        "דף יב עמוד ב",
+        "דף יג עמוד א"
+      ],
+      "convertedChapters": [
+        6,
+        7,
+        8
+      ],
+      "sourceNormalizedTextSha256": "a5a773e9634fdd615e1bd5836ff5910404f6b05d94c7ccd696787498dc4890eb",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    },
+    {
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "canonicalTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "requestedAliases": [
+        "מאירי על הש\"ס/מכות/פרק ג"
+      ],
+      "sourcePageId": 399912,
+      "sourceRevision": {
+        "id": 1083544,
+        "timestamp": "2021-05-11T21:47:08Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&action=history",
+      "sourceSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/page-6fd9ecbe3c17643b.json",
+      "sourceSnapshotSha256": "db52a2a559d9216d060f3c89565f4825f0b8bdae2f07efd26819940d7db2c5d5",
+      "sourceHtmlSha256": "5ba05e3c91f8aff49210ab1dcd111f634d35486cf0cd4df09ea234dd83ab694e",
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.request.json",
+        "requestSha256": "1dd18f0ef5a046691e69763eccf6e736b7d02bf9575138b4e2b66ec0993004bc",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-before-1-8e1539a67c9c.json",
+        "responseSha256": "b13ba77c291c3df58e76da787a707e022678e30b16f68e82a9e96276ad39f6db"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php",
+        "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-1-60cb4377867b.request.json",
+        "requestSha256": "29e9aa2865fd935ef0063badc5a9395995d2791c71812fc986c27d46d45c082f",
+        "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/render-1-60cb4377867b.json",
+        "responseSha256": "de6f7165d6cbf20f02f447c2ba1b80f8c5cf48c422c38330950343696aecfa67",
+        "sourceWrapperId": "amudi-meiri-source-2"
+      },
+      "primaryMetadataAfterEvidence": [
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.request.json",
+          "requestSha256": "b9356fb71f8d111d8a8b75e4008f71a3f115a287d8394050f81df154ac54a083",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-1-cb4ab399dc48.json",
+          "responseSha256": "a9f1df2f9c6106f2a341a4c678003aa62675c23ff6bdb13df165d6795d3ae770"
+        },
+        {
+          "url": "https://he.wikisource.org/w/api.php",
+          "requestSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.request.json",
+          "requestSha256": "8588d10cb833a82ee83a20156ae5e816d27f6488bf337f62463936c6b3666c4d",
+          "responseSnapshotPath": "Amudi/data/rights/additional-meiri-wiki-source-cache-20261030/metadata-after-2-3cce5706da32.json",
+          "responseSha256": "9ad1314a2a57375c4fbf0cba581293a1008c9c76d474536d949a9cd3926756e1"
+        }
+      ],
+      "sourceRevisionStableBeforeAfter": true,
+      "sourceReadingCharacters": 88614,
+      "sourceHeadings": [
+        "דף יג עמוד א",
+        "דף יג עמוד ב",
+        "דף יד עמוד א",
+        "דף יד עמוד ב",
+        "דף טו עמוד א",
+        "דף טו עמוד ב",
+        "דף טז עמוד א",
+        "דף טז עמוד ב",
+        "דף יז עמוד א",
+        "דף יז עמוד ב",
+        "דף יח עמוד א",
+        "דף יח עמוד ב",
+        "דף יט עמוד א",
+        "דף יט עמוד ב",
+        "דף כ עמוד א",
+        "דף כ עמוד ב",
+        "דף כא עמוד א",
+        "דף כא עמוד ב",
+        "דף כב עמוד א",
+        "דף כב עמוד ב",
+        "דף כג עמוד א",
+        "דף כג עמוד ב",
+        "דף כד עמוד א"
+      ],
+      "convertedChapters": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "sourceNormalizedTextSha256": "4f7f85b4c444794ddc953227256398da8dd20ec8f805371075018f7c018cb4fa",
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/מכות/פרק א · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 1072569,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=1072569",
+      "paragraphs": 9,
+      "plainCharacters": 9979,
+      "outputFile": "Original/1.json",
+      "outputSha256": "ce62a5cf18c9201f8580e365e9cd4277b09ab2d8f7d010fbdbcedecf48ee9314",
+      "normalizedTextSha256": "bef6fbf225a42ee152cbcf409cff6daf13d086d0ad84ae48f069d058977c5ec9",
+      "payloadBytes": 18781
+    },
+    {
+      "chapter": 2,
+      "title": "מאירי על הש\"ס/מכות/פרק א · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 1072569,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=1072569",
+      "paragraphs": 6,
+      "plainCharacters": 15154,
+      "outputFile": "Original/2.json",
+      "outputSha256": "458c3646a0941cc648647ed3db38741ed20904f0fa88b4f026a838b89e187a03",
+      "normalizedTextSha256": "b6f250d5e3e7cd07ec762723b00a44683cda3f5a994f0199956d6f1060654ede",
+      "payloadBytes": 28010
+    },
+    {
+      "chapter": 3,
+      "title": "מאירי על הש\"ס/מכות/פרק א · reading section3",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 1072569,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=1072569",
+      "paragraphs": 6,
+      "plainCharacters": 15861,
+      "outputFile": "Original/3.json",
+      "outputSha256": "7b588c6044e3e498a21cf87884f6088ee91dde6bc1f20145fa0a75d2ae06246a",
+      "normalizedTextSha256": "93dc37a4dc773a36d0adf6d615c2e5ef110a55f3625ecf4b4b4ba72dab0b0586",
+      "payloadBytes": 29209
+    },
+    {
+      "chapter": 4,
+      "title": "מאירי על הש\"ס/מכות/פרק א · reading section4",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 1072569,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=1072569",
+      "paragraphs": 5,
+      "plainCharacters": 13484,
+      "outputFile": "Original/4.json",
+      "outputSha256": "b188f161b99054927e85bea2d8749b7cac5f01055edb18201ac69c146863df5f",
+      "normalizedTextSha256": "c0049311189b8b95840927b207bdac8a759b86a22628c43b009d226f83eb1389",
+      "payloadBytes": 24987
+    },
+    {
+      "chapter": 5,
+      "title": "מאירי על הש\"ס/מכות/פרק א · reading section5",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק א",
+      "sourceIndex": 1,
+      "sourceReadingSection": 5,
+      "sourceRevisionId": 1072569,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%90&oldid=1072569",
+      "paragraphs": 2,
+      "plainCharacters": 3285,
+      "outputFile": "Original/5.json",
+      "outputSha256": "fa8ac9d249e6c56c188ade1bdbfcd5da4cb97d3cb11f2324537ef8cdc067b5df",
+      "normalizedTextSha256": "05d0002a82e667fc83580215fa212a93571339122ad6d30ec8009f4c9a76e003",
+      "payloadBytes": 6034
+    },
+    {
+      "chapter": 6,
+      "title": "מאירי על הש\"ס/מכות/פרק ב · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ב",
+      "sourceIndex": 2,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 1074793,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=1074793",
+      "paragraphs": 7,
+      "plainCharacters": 11825,
+      "outputFile": "Original/6.json",
+      "outputSha256": "e712a7f651adaa8e6b82484c9e034d8485eaf7d7efc837cca08c19c572cd17a0",
+      "normalizedTextSha256": "5e92506b6052d79d6b4eb22cbe1209e35f9529ef938c2d430d14d49f1dfa9445",
+      "payloadBytes": 22036
+    },
+    {
+      "chapter": 7,
+      "title": "מאירי על הש\"ס/מכות/פרק ב · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ב",
+      "sourceIndex": 2,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 1074793,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=1074793",
+      "paragraphs": 8,
+      "plainCharacters": 14939,
+      "outputFile": "Original/7.json",
+      "outputSha256": "368f11aa9e1eeed87c639c51f42042e643d3535ddb02ec4fceab434ff96cf6e5",
+      "normalizedTextSha256": "7b45bedb93392162c7924c1179a118616fb2594609d5b1a4d290faf77a741c98",
+      "payloadBytes": 27678
+    },
+    {
+      "chapter": 8,
+      "title": "מאירי על הש\"ס/מכות/פרק ב · reading section3",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ב",
+      "sourceIndex": 2,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 1074793,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%91&oldid=1074793",
+      "paragraphs": 12,
+      "plainCharacters": 13466,
+      "outputFile": "Original/8.json",
+      "outputSha256": "7b7393b6c616ee75d0f524b544ee9382b5eb7ef01e4d06980697d1778647a500",
+      "normalizedTextSha256": "a1cbf842f6bcd7b681fd5010916a86d2cdc3933256b0f2ebf4e22d41bf70cf8b",
+      "payloadBytes": 25343
+    },
+    {
+      "chapter": 9,
+      "title": "מאירי על הש\"ס/מכות/פרק ג · reading section1",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 1083544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "paragraphs": 3,
+      "plainCharacters": 12006,
+      "outputFile": "Original/9.json",
+      "outputSha256": "c4edec6a3097926681ad7558bfe6fcfd34256608f047a3c2cac807c3ee371a49",
+      "normalizedTextSha256": "b569a977b257af2dd5d66b4d6fac68e7131653eb8daa943ce33627dad6b43fc7",
+      "payloadBytes": 22049
+    },
+    {
+      "chapter": 10,
+      "title": "מאירי על הש\"ס/מכות/פרק ג · reading section2",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 2,
+      "sourceRevisionId": 1083544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "paragraphs": 9,
+      "plainCharacters": 14113,
+      "outputFile": "Original/10.json",
+      "outputSha256": "4996c4e4b797fc242df5264c38abb7648cfe8f3acfbad5b3ec8ae832eaacb517",
+      "normalizedTextSha256": "390410bcb0b9747a56dcbee1a7f412f03bd4e073ece9bee6684cc4c000fd64e8",
+      "payloadBytes": 25960
+    },
+    {
+      "chapter": 11,
+      "title": "מאירי על הש\"ס/מכות/פרק ג · reading section3",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 3,
+      "sourceRevisionId": 1083544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "paragraphs": 7,
+      "plainCharacters": 15033,
+      "outputFile": "Original/11.json",
+      "outputSha256": "e81623e44f61ec3a559860479aa08cc0e8f3bab8138ab7e2ce57f1f1b89f8d4d",
+      "normalizedTextSha256": "266d715905700cbca8b6d2565dc5c9aea670b949bdcf1bdb718014b73534d143",
+      "payloadBytes": 27566
+    },
+    {
+      "chapter": 12,
+      "title": "מאירי על הש\"ס/מכות/פרק ג · reading section4",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 4,
+      "sourceRevisionId": 1083544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "paragraphs": 11,
+      "plainCharacters": 13928,
+      "outputFile": "Original/12.json",
+      "outputSha256": "fb259a3c141e08c20e1652430b231fde37f71d16d1f11b126569919932243103",
+      "normalizedTextSha256": "48242c37f1d5c8b454c6d4b6b4dace23656796e57132df0024dc6e702af6cb4f",
+      "payloadBytes": 26113
+    },
+    {
+      "chapter": 13,
+      "title": "מאירי על הש\"ס/מכות/פרק ג · reading section5",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 5,
+      "sourceRevisionId": 1083544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "paragraphs": 8,
+      "plainCharacters": 14377,
+      "outputFile": "Original/13.json",
+      "outputSha256": "19dc6df0c33bdb70f42d796c888cdab18bea5b33848ddf1f43fb3eb0416d318c",
+      "normalizedTextSha256": "85124124bacd06a2add274c55407f9edd4ba804c89a362854c03f161639c9628",
+      "payloadBytes": 26863
+    },
+    {
+      "chapter": 14,
+      "title": "מאירי על הש\"ס/מכות/פרק ג · reading section6",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 6,
+      "sourceRevisionId": 1083544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "paragraphs": 11,
+      "plainCharacters": 15439,
+      "outputFile": "Original/14.json",
+      "outputSha256": "ad8c044962b8a9bb8399e8b51ae1fb61c24bdc41c8f2375a067f3e135767e03b",
+      "normalizedTextSha256": "f2a487bf18acda3bb2e889f00336f9a074580c5a33df20acf20d347c18461e22",
+      "payloadBytes": 28900
+    },
+    {
+      "chapter": 15,
+      "title": "מאירי על הש\"ס/מכות/פרק ג · reading section7",
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "sourceIndex": 3,
+      "sourceReadingSection": 7,
+      "sourceRevisionId": 1083544,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "paragraphs": 6,
+      "plainCharacters": 3690,
+      "outputFile": "Original/15.json",
+      "outputSha256": "4c9d130b20e24117db4251c0503b0992d138ed542a80b28eafdc61cab9eaaf5e",
+      "normalizedTextSha256": "28cff76f8128b58f4f48c296cb0aa8a41266f3c788f776ced80c75fcb36a61c2",
+      "payloadBytes": 7132
+    }
+  ],
+  "sourceWarnings": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/מכות/פרק ג",
+      "notice": "[נראה שחסר כאן בספר, ור\"ל שהז' המנויים כולל חמשת הלאוין של שקצים ורמשים הרי יב. המעתיק]",
+      "context": "חברים יש להם בזו שיטה אחרת כמו שיתבאר בגמ', ה. תולעים של פירות שפרשו ויצאו, יב. [נראה שחסר כאן בספר, ור\"ל שהז' המנויים כולל חמשת הלאוין של שקצים ורמשים הרי יב. המעתיק]  יג. הקדש שלא נפדה ר\"ל שנהנה מן ההקדש במזיד ונמצא עד כאן במנין זה י\"ג וחוזר עכשיו למנינו, יד. האוכל",
+      "permalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%9E%D7%9B%D7%95%D7%AA/%D7%A4%D7%A8%D7%A7_%D7%92&oldid=1083544",
+      "scope": "Source omission/editorial notice retained; no independent whole-historical-work collation claim."
+    }
+  ],
+  "longSourceBlocksConvertedToBoundedPlainStrings": 3,
+  "verification": {
+    "currentPrimaryCC4LicenseVerified": true,
+    "beforeAfterSourceRevisionStable": true,
+    "canonicalPageIdsUnique": true,
+    "selectedSourceOrderAndTextConserved": true,
+    "sourceNormalizedTextSha256": "dc6266d3ec051bf0c8966cb8eb8611ad3f767e68cac9d9db20aae117215b4b31",
+    "retainedNormalizedTextSha256": "dc6266d3ec051bf0c8966cb8eb8611ad3f767e68cac9d9db20aae117215b4b31",
+    "chapterParagraphsFlatStrings": true,
+    "chapterPayloadsBounded": true,
+    "noOcrPerformed": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false,
+    "existingBooksOrCatalogsChanged": false
+  }
+}

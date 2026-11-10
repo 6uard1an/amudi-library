@@ -1,0 +1,2466 @@
+{
+  "schemaVersion": 1,
+  "work": "Rosh on Mishnah Middot",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "termsUrl": "https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/en#7._Licensing_of_Content",
+  "attribution": "Asher ben Jehiel (Rosh), commentary on Mishnah Middot; Hebrew Wikisource contributors. CC BY-SA 4.0. Pinned revisions and contributor-history links are included in source-manifest.json. Four modern explanatory diagrams by Wikimedia Commons contributor יממל, CC0 1.0, are separately credited in source-illustrations.json.",
+  "changes": "Amudi removed website navigation and editing controls, preserved source text and bold commentary openings, and separated commentary entries without changing word order. Existing digitized text reviewed; Amudi performed no OCR or translation. Copyrightable text adaptations remain CC BY-SA 4.0.",
+  "coverageStatus": "All 5 supplied source chapters, covering 34 Mishnah headings. Source-origin OCR may contain errors; Amudi checked the chapter/Mishnah headings and all passage openings, not every word against print. No English translation is included.",
+  "pages": [
+    {
+      "work": "Middot",
+      "chapter": 1,
+      "sourceSnapshot": "middot-1.json",
+      "sourceSnapshotSha256": "2b4574d239ffc04c14f7b4de83ee2ef5339d7a8b4c6081eb7e72c2461cf03d5d",
+      "revision": 2999821,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה מידות/פרק א",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=2999821",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%9E%D7%99%D7%93%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 1,
+            "position": 1
+          },
+          {
+            "chapter": 1,
+            "position": 2
+          },
+          {
+            "chapter": 1,
+            "position": 3
+          },
+          {
+            "chapter": 1,
+            "position": 4
+          },
+          {
+            "chapter": 1,
+            "position": 5
+          },
+          {
+            "chapter": 1,
+            "position": 6
+          }
+        ],
+        "2": [
+          {
+            "chapter": 1,
+            "position": 7
+          },
+          {
+            "chapter": 1,
+            "position": 8
+          },
+          {
+            "chapter": 1,
+            "position": 9
+          }
+        ],
+        "3": [
+          {
+            "chapter": 1,
+            "position": 10
+          },
+          {
+            "chapter": 1,
+            "position": 11
+          },
+          {
+            "chapter": 1,
+            "position": 12
+          },
+          {
+            "chapter": 1,
+            "position": 13
+          },
+          {
+            "chapter": 1,
+            "position": 14
+          },
+          {
+            "chapter": 1,
+            "position": 15
+          },
+          {
+            "chapter": 1,
+            "position": 16
+          }
+        ],
+        "4": [
+          {
+            "chapter": 1,
+            "position": 17
+          },
+          {
+            "chapter": 1,
+            "position": 18
+          },
+          {
+            "chapter": 1,
+            "position": 19
+          },
+          {
+            "chapter": 1,
+            "position": 20
+          },
+          {
+            "chapter": 1,
+            "position": 21
+          },
+          {
+            "chapter": 1,
+            "position": 22
+          }
+        ],
+        "5": [
+          {
+            "chapter": 1,
+            "position": 23
+          },
+          {
+            "chapter": 1,
+            "position": 24
+          },
+          {
+            "chapter": 1,
+            "position": 25
+          }
+        ],
+        "6": [
+          {
+            "chapter": 1,
+            "position": 26
+          },
+          {
+            "chapter": 1,
+            "position": 27
+          },
+          {
+            "chapter": 1,
+            "position": 28
+          },
+          {
+            "chapter": 1,
+            "position": 29
+          }
+        ],
+        "7": [
+          {
+            "chapter": 1,
+            "position": 30
+          },
+          {
+            "chapter": 1,
+            "position": 31
+          }
+        ],
+        "8": [
+          {
+            "chapter": 1,
+            "position": 32
+          },
+          {
+            "chapter": 1,
+            "position": 33
+          }
+        ],
+        "9": [
+          {
+            "chapter": 1,
+            "position": 34
+          },
+          {
+            "chapter": 1,
+            "position": 35
+          },
+          {
+            "chapter": 1,
+            "position": 36
+          },
+          {
+            "chapter": 1,
+            "position": 37
+          },
+          {
+            "chapter": 1,
+            "position": 38
+          },
+          {
+            "chapter": 1,
+            "position": 39
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "בשלשה מקומות הכהנים שומרים.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 3,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 7
+        },
+        {
+          "position": 2,
+          "mishnah": 1,
+          "opening": "והלוים בכ\"א מקומות.",
+          "anchor": null,
+          "words": 42
+        },
+        {
+          "position": 3,
+          "mishnah": 1,
+          "opening": "על ד’ פנותיה בחוץ.",
+          "anchor": null,
+          "words": 37
+        },
+        {
+          "position": 4,
+          "mishnah": 1,
+          "opening": "לשכת הקרבן.",
+          "anchor": null,
+          "words": 13
+        },
+        {
+          "position": 5,
+          "mishnah": 1,
+          "opening": "לשכת הפרוכת.",
+          "anchor": null,
+          "words": 6
+        },
+        {
+          "position": 6,
+          "mishnah": 1,
+          "opening": "אחורי בית הכפורת.",
+          "anchor": null,
+          "words": 40
+        },
+        {
+          "position": 7,
+          "mishnah": 2,
+          "opening": "איש הר הבית.",
+          "anchor": null,
+          "words": 8
+        },
+        {
+          "position": 8,
+          "mishnah": 2,
+          "opening": "לשרוף כסותו.",
+          "anchor": null,
+          "words": 12
+        },
+        {
+          "position": 9,
+          "mishnah": 2,
+          "opening": "אמר ר’ אלעזר ב\"י כו’.",
+          "anchor": null,
+          "words": 17
+        },
+        {
+          "position": 10,
+          "mishnah": 3,
+          "opening": "ב’ שערי חולדה מן הדרום.",
+          "anchor": {
+            "startWord": 6,
+            "endWord": 9,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 77
+        },
+        {
+          "position": 11,
+          "mishnah": 3,
+          "opening": "משמשים כניסה ויציאה.",
+          "anchor": null,
+          "words": 12
+        },
+        {
+          "position": 12,
+          "mishnah": 3,
+          "opening": "וקפונוס מן המערב.",
+          "anchor": null,
+          "words": 20
+        },
+        {
+          "position": 13,
+          "mishnah": 3,
+          "opening": "טדי מן הצפון.",
+          "anchor": {
+            "startWord": 19,
+            "endWord": 21,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 69
+        },
+        {
+          "position": 14,
+          "mishnah": 3,
+          "opening": "לא היה משמש כלום.",
+          "anchor": {
+            "startWord": 22,
+            "endWord": 25,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 9
+        },
+        {
+          "position": 15,
+          "mishnah": 3,
+          "opening": "שושן הבירה צורה.",
+          "anchor": {
+            "startWord": 29,
+            "endWord": 31,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 32
+        },
+        {
+          "position": 16,
+          "mishnah": 3,
+          "opening": "וכל מסעדיה.",
+          "anchor": {
+            "startWord": 39,
+            "endWord": 40,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 23
+        },
+        {
+          "position": 17,
+          "mishnah": 4,
+          "opening": "שבדרום שער הדלק.",
+          "anchor": {
+            "startWord": 10,
+            "endWord": 12,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 10
+        },
+        {
+          "position": 18,
+          "mishnah": 4,
+          "opening": "שער הקרבן.",
+          "anchor": null,
+          "words": 22
+        },
+        {
+          "position": 19,
+          "mishnah": 4,
+          "opening": "שער המים.",
+          "anchor": {
+            "startWord": 19,
+            "endWord": 20,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 14
+        },
+        {
+          "position": 20,
+          "mishnah": 4,
+          "opening": "שער נקנור.",
+          "anchor": {
+            "startWord": 22,
+            "endWord": 23,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 45
+        },
+        {
+          "position": 21,
+          "mishnah": 4,
+          "opening": "פנחס המלביש.",
+          "anchor": {
+            "startWord": 34,
+            "endWord": 35,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 18
+        },
+        {
+          "position": 22,
+          "mishnah": 4,
+          "opening": "לשכת בית עושה חביתין.",
+          "anchor": null,
+          "words": 15
+        },
+        {
+          "position": 23,
+          "mishnah": 5,
+          "opening": "וכמין אכסדרה היה.",
+          "anchor": {
+            "startWord": 3,
+            "endWord": 5,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 18
+        },
+        {
+          "position": 24,
+          "mishnah": 5,
+          "opening": "שהכהנים שומרים מלמעלה.",
+          "anchor": null,
+          "words": 10
+        },
+        {
+          "position": 25,
+          "mishnah": 5,
+          "opening": "ופתח היה לו לחיל.",
+          "anchor": {
+            "startWord": 15,
+            "endWord": 18,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 50
+        },
+        {
+          "position": 26,
+          "mishnah": 6,
+          "opening": "ב’ בקודש וב’ בחול.",
+          "anchor": null,
+          "words": 9
+        },
+        {
+          "position": 27,
+          "mishnah": 6,
+          "opening": "וראשי פספסין.",
+          "anchor": null,
+          "words": 4
+        },
+        {
+          "position": 28,
+          "mishnah": 6,
+          "opening": "מערבית דרומית היתה לשכת הטלאים.",
+          "anchor": null,
+          "words": 129
+        },
+        {
+          "position": 29,
+          "mishnah": 6,
+          "opening": "",
+          "anchor": null,
+          "words": 247
+        },
+        {
+          "position": 30,
+          "mishnah": 7,
+          "opening": "פשפש.",
+          "anchor": {
+            "startWord": 18,
+            "endWord": 18,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 8
+        },
+        {
+          "position": 31,
+          "mishnah": 7,
+          "opening": "לבלוש את העזרה.",
+          "anchor": {
+            "startWord": 24,
+            "endWord": 26,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 12
+        },
+        {
+          "position": 32,
+          "mishnah": 8,
+          "opening": "רובדין של אבן.",
+          "anchor": {
+            "startWord": 7,
+            "endWord": 9,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 28
+        },
+        {
+          "position": 33,
+          "mishnah": 8,
+          "opening": "ומפתחות העזרה בידם.",
+          "anchor": {
+            "startWord": 15,
+            "endWord": 17,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 6
+        },
+        {
+          "position": 34,
+          "mishnah": 9,
+          "opening": "ומקום היה שם אמה על אמה וטבלה של שיש.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 5,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 56
+        },
+        {
+          "position": 35,
+          "mishnah": 9,
+          "opening": "הגביה הטבלא בטבעת.",
+          "anchor": null,
+          "words": 8
+        },
+        {
+          "position": 36,
+          "mishnah": 9,
+          "opening": "ובן לוי ישן לו מבחוץ.",
+          "anchor": {
+            "startWord": 33,
+            "endWord": 37,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 9
+        },
+        {
+          "position": 37,
+          "mishnah": 9,
+          "opening": "במסיבה.",
+          "anchor": null,
+          "words": 4
+        },
+        {
+          "position": 38,
+          "mishnah": 9,
+          "opening": "תחת הבירה.",
+          "anchor": {
+            "startWord": 61,
+            "endWord": 62,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 27
+        },
+        {
+          "position": 39,
+          "mishnah": 9,
+          "opening": "תחת החיל.",
+          "anchor": {
+            "startWord": 79,
+            "endWord": 80,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 26
+        }
+      ],
+      "illustrations": [
+        {
+          "file": "Rosh_beis_hamoked.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosh_beis_hamoked.png",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Rosh_beis_hamoked.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sha256": "e051c859cb11155c8c6e82bc7ea9c7ef0201223026357c9e0f79baf0c341a882",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "author": "יממל",
+          "bytes": 16081,
+          "mishnah": 6,
+          "caption": "מפת בית המוקד לפירוש הראש"
+        }
+      ],
+      "baseFingerprint": "3aa50767ab8446cef6b38c010dfa1ade34cefd414415b2a9cab5ea14d03994b8",
+      "commentaryFingerprint": "1bdf8a30fa20bc34232c8ed36df6139e6d4a15254aaef6b05d1fab2b92350c5f",
+      "sourceWords": 1199,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 9
+    },
+    {
+      "work": "Middot",
+      "chapter": 2,
+      "sourceSnapshot": "middot-2.json",
+      "sourceSnapshotSha256": "bbda47077ca414c26aa386718075f290dc0abddfd94cae8e3b7178b498828915",
+      "revision": 2969509,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה מידות/פרק ב",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=2969509",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%9E%D7%99%D7%93%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 2,
+            "position": 1
+          },
+          {
+            "chapter": 2,
+            "position": 2
+          },
+          {
+            "chapter": 2,
+            "position": 3
+          },
+          {
+            "chapter": 2,
+            "position": 4
+          }
+        ],
+        "2": [
+          {
+            "chapter": 2,
+            "position": 5
+          },
+          {
+            "chapter": 2,
+            "position": 6
+          },
+          {
+            "chapter": 2,
+            "position": 7
+          }
+        ],
+        "3": [
+          {
+            "chapter": 2,
+            "position": 8
+          },
+          {
+            "chapter": 2,
+            "position": 9
+          },
+          {
+            "chapter": 2,
+            "position": 10
+          },
+          {
+            "chapter": 2,
+            "position": 11
+          },
+          {
+            "chapter": 2,
+            "position": 12
+          },
+          {
+            "chapter": 2,
+            "position": 13
+          },
+          {
+            "chapter": 2,
+            "position": 14
+          },
+          {
+            "chapter": 2,
+            "position": 15
+          },
+          {
+            "chapter": 2,
+            "position": 16
+          },
+          {
+            "chapter": 2,
+            "position": 17
+          }
+        ],
+        "4": [
+          {
+            "chapter": 2,
+            "position": 18
+          },
+          {
+            "chapter": 2,
+            "position": 19
+          }
+        ],
+        "5": [
+          {
+            "chapter": 2,
+            "position": 20
+          },
+          {
+            "chapter": 2,
+            "position": 21
+          },
+          {
+            "chapter": 2,
+            "position": 22
+          },
+          {
+            "chapter": 2,
+            "position": 23
+          },
+          {
+            "chapter": 2,
+            "position": 24
+          },
+          {
+            "chapter": 2,
+            "position": 25
+          },
+          {
+            "chapter": 2,
+            "position": 26
+          },
+          {
+            "chapter": 2,
+            "position": 27
+          },
+          {
+            "chapter": 2,
+            "position": 28
+          },
+          {
+            "chapter": 2,
+            "position": 29
+          },
+          {
+            "chapter": 2,
+            "position": 30
+          },
+          {
+            "chapter": 2,
+            "position": 31
+          },
+          {
+            "chapter": 2,
+            "position": 32
+          },
+          {
+            "chapter": 2,
+            "position": 33
+          }
+        ],
+        "6": [
+          {
+            "chapter": 2,
+            "position": 34
+          },
+          {
+            "chapter": 2,
+            "position": 35
+          },
+          {
+            "chapter": 2,
+            "position": 36
+          },
+          {
+            "chapter": 2,
+            "position": 37
+          },
+          {
+            "chapter": 2,
+            "position": 38
+          },
+          {
+            "chapter": 2,
+            "position": 39
+          },
+          {
+            "chapter": 2,
+            "position": 40
+          },
+          {
+            "chapter": 2,
+            "position": 41
+          },
+          {
+            "chapter": 2,
+            "position": 42
+          },
+          {
+            "chapter": 2,
+            "position": 43
+          },
+          {
+            "chapter": 2,
+            "position": 44
+          },
+          {
+            "chapter": 2,
+            "position": 45
+          },
+          {
+            "chapter": 2,
+            "position": 46
+          },
+          {
+            "chapter": 2,
+            "position": 47
+          },
+          {
+            "chapter": 2,
+            "position": 48
+          },
+          {
+            "chapter": 2,
+            "position": 49
+          },
+          {
+            "chapter": 2,
+            "position": 50
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "הר הבית היה ת\"ק אמה על ת\"ק אמה.",
+          "anchor": null,
+          "words": 81
+        },
+        {
+          "position": 2,
+          "mishnah": 1,
+          "opening": "ורובו מן הדרום.",
+          "anchor": {
+            "startWord": 10,
+            "endWord": 12,
+            "basis": "unique opening with one vav/yod spelling difference in verified source passage"
+          },
+          "words": 65
+        },
+        {
+          "position": 3,
+          "mishnah": 1,
+          "opening": "שני לו מן המזרח.",
+          "anchor": {
+            "startWord": 13,
+            "endWord": 16,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 25
+        },
+        {
+          "position": 4,
+          "mishnah": 1,
+          "opening": "שם היה רוב תשמישו.",
+          "anchor": {
+            "startWord": 28,
+            "endWord": 31,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 9
+        },
+        {
+          "position": 5,
+          "mishnah": 2,
+          "opening": "כל הנכנסין להר הבית נכנסין דרך ימין.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 6,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 92
+        },
+        {
+          "position": 6,
+          "mishnah": 2,
+          "opening": "שהוא מקיף לשמאל.",
+          "anchor": {
+            "startWord": 15,
+            "endWord": 17,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 18
+        },
+        {
+          "position": 7,
+          "mishnah": 2,
+          "opening": "עשיתן כאילו עברו עליו את הדין.",
+          "anchor": {
+            "startWord": 43,
+            "endWord": 48,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 40
+        },
+        {
+          "position": 8,
+          "mishnah": 3,
+          "opening": "לפנים ממנו.",
+          "anchor": null,
+          "words": 5
+        },
+        {
+          "position": 9,
+          "mishnah": 3,
+          "opening": "סורג.",
+          "anchor": {
+            "startWord": 2,
+            "endWord": 2,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 110
+        },
+        {
+          "position": 10,
+          "mishnah": 3,
+          "opening": "לפנים ממנו החיל עשר אמות.",
+          "anchor": {
+            "startWord": 21,
+            "endWord": 25,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 31
+        },
+        {
+          "position": 11,
+          "mishnah": 3,
+          "opening": "וי\"ב מעלות היו.",
+          "anchor": null,
+          "words": 9
+        },
+        {
+          "position": 12,
+          "mishnah": 3,
+          "opening": "ושלחה.",
+          "anchor": null,
+          "words": 17
+        },
+        {
+          "position": 13,
+          "mishnah": 3,
+          "opening": "כל המעלות היו.",
+          "anchor": null,
+          "words": 5
+        },
+        {
+          "position": 14,
+          "mishnah": 3,
+          "opening": "חוץ משל אולם.",
+          "anchor": null,
+          "words": 11
+        },
+        {
+          "position": 15,
+          "mishnah": 3,
+          "opening": "חוץ משל אולם.",
+          "anchor": null,
+          "words": 9
+        },
+        {
+          "position": 16,
+          "mishnah": 3,
+          "opening": "היו להן שקופות.",
+          "anchor": {
+            "startWord": 80,
+            "endWord": 82,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 26
+        },
+        {
+          "position": 17,
+          "mishnah": 3,
+          "opening": "שנעשה בהן נס.",
+          "anchor": {
+            "startWord": 107,
+            "endWord": 109,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 7
+        },
+        {
+          "position": 18,
+          "mishnah": 4,
+          "opening": "כל הכתלים שהיו שם היו גבוהין היו.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 4,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 21
+        },
+        {
+          "position": 19,
+          "mishnah": 4,
+          "opening": "חוץ מכותל המזרחי.",
+          "anchor": {
+            "startWord": 6,
+            "endWord": 8,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 100
+        },
+        {
+          "position": 20,
+          "mishnah": 5,
+          "opening": "עזרת נשים היתה אורך קל\"ה.",
+          "anchor": null,
+          "words": 8
+        },
+        {
+          "position": 21,
+          "mishnah": 5,
+          "opening": "על רוחב קל\"ה.",
+          "anchor": null,
+          "words": 22
+        },
+        {
+          "position": 22,
+          "mishnah": 5,
+          "opening": "ד’ לשכות בד’ מקצעות.",
+          "anchor": null,
+          "words": 11
+        },
+        {
+          "position": 23,
+          "mishnah": 5,
+          "opening": "",
+          "anchor": null,
+          "words": 10
+        },
+        {
+          "position": 24,
+          "mishnah": 5,
+          "opening": "ואין קטורות אלא שאינן מקורות.",
+          "anchor": {
+            "startWord": 53,
+            "endWord": 57,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 12
+        },
+        {
+          "position": 25,
+          "mishnah": 5,
+          "opening": "ששם נזירים מבשלים שלמיהם.",
+          "anchor": null,
+          "words": 20
+        },
+        {
+          "position": 26,
+          "mishnah": 5,
+          "opening": "ומגלחים את שערם.",
+          "anchor": null,
+          "words": 57
+        },
+        {
+          "position": 27,
+          "mishnah": 5,
+          "opening": "ומשלחין תחת הדוד.",
+          "anchor": null,
+          "words": 17
+        },
+        {
+          "position": 28,
+          "mishnah": 5,
+          "opening": "כהנים בעלי מומין.",
+          "anchor": null,
+          "words": 22
+        },
+        {
+          "position": 29,
+          "mishnah": 5,
+          "opening": "לשכת מצורעים.",
+          "anchor": {
+            "startWord": 103,
+            "endWord": 104,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 23
+        },
+        {
+          "position": 30,
+          "mishnah": 5,
+          "opening": "וחלקה היתה.",
+          "anchor": {
+            "startWord": 130,
+            "endWord": 131,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 10
+        },
+        {
+          "position": 31,
+          "mishnah": 5,
+          "opening": "והקיפוה גזוזטרא.",
+          "anchor": null,
+          "words": 35
+        },
+        {
+          "position": 32,
+          "mishnah": 5,
+          "opening": "שעליהן הלוים אומרים בשיר.",
+          "anchor": {
+            "startWord": 156,
+            "endWord": 159,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 20
+        },
+        {
+          "position": 33,
+          "mishnah": 5,
+          "opening": "אלא מוקפות כחצי גורן עגולה.",
+          "anchor": {
+            "startWord": 163,
+            "endWord": 167,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 11
+        },
+        {
+          "position": 34,
+          "mishnah": 6,
+          "opening": "ופתוחות לעזרת נשים.",
+          "anchor": null,
+          "words": 15
+        },
+        {
+          "position": 35,
+          "mishnah": 6,
+          "opening": "אורך קל\"ה אמה.",
+          "anchor": null,
+          "words": 22
+        },
+        {
+          "position": 36,
+          "mishnah": 6,
+          "opening": "וראשי פספסין.",
+          "anchor": {
+            "startWord": 41,
+            "endWord": 42,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 3
+        },
+        {
+          "position": 37,
+          "mishnah": 6,
+          "opening": "מעלה היתה גבוהה אמה.",
+          "anchor": {
+            "startWord": 54,
+            "endWord": 57,
+            "basis": "unique opening with one vav/yod spelling difference in verified source passage"
+          },
+          "words": 10
+        },
+        {
+          "position": 38,
+          "mishnah": 6,
+          "opening": "והדוכן נתון עליה.",
+          "anchor": {
+            "startWord": 58,
+            "endWord": 60,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 27
+        },
+        {
+          "position": 39,
+          "mishnah": 6,
+          "opening": "היתה ארוך קפ\"ז.",
+          "anchor": null,
+          "words": 5
+        },
+        {
+          "position": 40,
+          "mishnah": 6,
+          "opening": "על רוחב קל\"ה.",
+          "anchor": null,
+          "words": 5
+        },
+        {
+          "position": 41,
+          "mishnah": 6,
+          "opening": "ושלש עשרה [השתחויות] היו שם.",
+          "anchor": {
+            "startWord": 89,
+            "endWord": 93,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 33
+        },
+        {
+          "position": 42,
+          "mishnah": 6,
+          "opening": "שער הדלק.",
+          "anchor": {
+            "startWord": 109,
+            "endWord": 110,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 8
+        },
+        {
+          "position": 43,
+          "mishnah": 6,
+          "opening": "שער הבכורות.",
+          "anchor": {
+            "startWord": 111,
+            "endWord": 112,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 6
+        },
+        {
+          "position": 44,
+          "mishnah": 6,
+          "opening": "שבו המים מפכין.",
+          "anchor": null,
+          "words": 8
+        },
+        {
+          "position": 45,
+          "mishnah": 6,
+          "opening": "שער הקרבן.",
+          "anchor": {
+            "startWord": 148,
+            "endWord": 149,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 7
+        },
+        {
+          "position": 46,
+          "mishnah": 6,
+          "opening": "שער הנשים.",
+          "anchor": {
+            "startWord": 150,
+            "endWord": 151,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 15
+        },
+        {
+          "position": 47,
+          "mishnah": 6,
+          "opening": "שער השיר.",
+          "anchor": {
+            "startWord": 152,
+            "endWord": 153,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 20
+        },
+        {
+          "position": 48,
+          "mishnah": 6,
+          "opening": "שבו יצא יכניה.",
+          "anchor": {
+            "startWord": 159,
+            "endWord": 161,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 26
+        },
+        {
+          "position": 49,
+          "mishnah": 6,
+          "opening": "ושני פשפשין היו לו.",
+          "anchor": null,
+          "words": 31
+        },
+        {
+          "position": 50,
+          "mishnah": 6,
+          "opening": "הדרן עלך הר הבית",
+          "anchor": null,
+          "words": 4
+        }
+      ],
+      "illustrations": [
+        {
+          "file": "Rosh_ezras_nashim.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosh_ezras_nashim.png",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Rosh_ezras_nashim.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sha256": "c9d79c6738bcb508cd5736c787d9d8cd440834ea26ac93f0c8e0b32e8e9b2985",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "author": "יממל",
+          "bytes": 8355,
+          "mishnah": 5,
+          "caption": "מפת עזרת נשים לפי הרא\"ש"
+        },
+        {
+          "file": "Rosh_mukafos_steps.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosh_mukafos_steps.png",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rosh_mukafos_steps.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sha256": "7e4351311208fbfd21f3808464f2b170b38d3c7b7bdf22b4ec04a2b39c22f02a",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "author": "יממל",
+          "bytes": 6257,
+          "mishnah": 5,
+          "caption": "מעלות שערי נקנור לפירוש הרא\"ש"
+        }
+      ],
+      "baseFingerprint": "84e4c41a219fc04a9f10d2d4430adc60469474e5536d4b7a3f535c281087e78e",
+      "commentaryFingerprint": "a3efd6dbe13c792dd0cdccc4b99146aff3964dae55e60947a8fe91dcb8d8d1ca",
+      "sourceWords": 1204,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 6
+    },
+    {
+      "work": "Middot",
+      "chapter": 3,
+      "sourceSnapshot": "middot-3.json",
+      "sourceSnapshotSha256": "ce8d5e0bce995948c0452b94967c688150810da5d0f3bd87aec0e06f3a8f960f",
+      "revision": 2969510,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה מידות/פרק ג",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=2969510",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%9E%D7%99%D7%93%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 3,
+            "position": 1
+          },
+          {
+            "chapter": 3,
+            "position": 2
+          },
+          {
+            "chapter": 3,
+            "position": 3
+          },
+          {
+            "chapter": 3,
+            "position": 4
+          },
+          {
+            "chapter": 3,
+            "position": 5
+          },
+          {
+            "chapter": 3,
+            "position": 6
+          },
+          {
+            "chapter": 3,
+            "position": 7
+          },
+          {
+            "chapter": 3,
+            "position": 8
+          },
+          {
+            "chapter": 3,
+            "position": 9
+          },
+          {
+            "chapter": 3,
+            "position": 10
+          },
+          {
+            "chapter": 3,
+            "position": 11
+          }
+        ],
+        "2": [
+          {
+            "chapter": 3,
+            "position": 12
+          }
+        ],
+        "3": [
+          {
+            "chapter": 3,
+            "position": 13
+          },
+          {
+            "chapter": 3,
+            "position": 14
+          },
+          {
+            "chapter": 3,
+            "position": 15
+          },
+          {
+            "chapter": 3,
+            "position": 16
+          }
+        ],
+        "4": [
+          {
+            "chapter": 3,
+            "position": 17
+          },
+          {
+            "chapter": 3,
+            "position": 18
+          },
+          {
+            "chapter": 3,
+            "position": 19
+          },
+          {
+            "chapter": 3,
+            "position": 20
+          },
+          {
+            "chapter": 3,
+            "position": 21
+          },
+          {
+            "chapter": 3,
+            "position": 22
+          },
+          {
+            "chapter": 3,
+            "position": 23
+          },
+          {
+            "chapter": 3,
+            "position": 24
+          },
+          {
+            "chapter": 3,
+            "position": 25
+          },
+          {
+            "chapter": 3,
+            "position": 26
+          }
+        ],
+        "5": [
+          {
+            "chapter": 3,
+            "position": 27
+          },
+          {
+            "chapter": 3,
+            "position": 28
+          },
+          {
+            "chapter": 3,
+            "position": 29
+          },
+          {
+            "chapter": 3,
+            "position": 30
+          },
+          {
+            "chapter": 3,
+            "position": 31
+          },
+          {
+            "chapter": 3,
+            "position": 32
+          }
+        ],
+        "6": [
+          {
+            "chapter": 3,
+            "position": 33
+          },
+          {
+            "chapter": 3,
+            "position": 34
+          },
+          {
+            "chapter": 3,
+            "position": 35
+          },
+          {
+            "chapter": 3,
+            "position": 36
+          }
+        ],
+        "7": [
+          {
+            "chapter": 3,
+            "position": 37
+          },
+          {
+            "chapter": 3,
+            "position": 38
+          }
+        ],
+        "8": [
+          {
+            "chapter": 3,
+            "position": 39
+          },
+          {
+            "chapter": 3,
+            "position": 40
+          },
+          {
+            "chapter": 3,
+            "position": 41
+          },
+          {
+            "chapter": 3,
+            "position": 42
+          },
+          {
+            "chapter": 3,
+            "position": 43
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "המזבח היה שלשים ושתים על ל\"ב.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 4,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 33
+        },
+        {
+          "position": 2,
+          "mishnah": 1,
+          "opening": "כנס אמה.",
+          "anchor": null,
+          "words": 85
+        },
+        {
+          "position": 3,
+          "mishnah": 1,
+          "opening": "מקום הילוך רגלי הכהנים.",
+          "anchor": {
+            "startWord": 41,
+            "endWord": 44,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 26
+        },
+        {
+          "position": 4,
+          "mishnah": 1,
+          "opening": "נמצא כ\"ד על כ\"ד מקום המערכה.",
+          "anchor": null,
+          "words": 42
+        },
+        {
+          "position": 5,
+          "mishnah": 1,
+          "opening": "אמר רבי יוסי מתחילה.",
+          "anchor": {
+            "startWord": 57,
+            "endWord": 60,
+            "basis": "unique opening with one vav/yod spelling difference in verified source passage"
+          },
+          "words": 165
+        },
+        {
+          "position": 6,
+          "mishnah": 1,
+          "opening": "וחוט הסקרא.",
+          "anchor": null,
+          "words": 4
+        },
+        {
+          "position": 7,
+          "mishnah": 1,
+          "opening": "חוגרו באמצע.",
+          "anchor": {
+            "startWord": 133,
+            "endWord": 134,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 10
+        },
+        {
+          "position": 8,
+          "mishnah": 1,
+          "opening": "להבדיל בין דמים העליונים.",
+          "anchor": null,
+          "words": 8
+        },
+        {
+          "position": 9,
+          "mishnah": 1,
+          "opening": "לדמים התחתונים.",
+          "anchor": {
+            "startWord": 139,
+            "endWord": 140,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 32
+        },
+        {
+          "position": 10,
+          "mishnah": 1,
+          "opening": "והיסוד.",
+          "anchor": {
+            "startWord": 141,
+            "endWord": 141,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 26
+        },
+        {
+          "position": 11,
+          "mishnah": 1,
+          "opening": "",
+          "anchor": null,
+          "words": 133
+        },
+        {
+          "position": 12,
+          "mishnah": 2,
+          "opening": "היו שני נקבים.",
+          "anchor": {
+            "startWord": 3,
+            "endWord": 5,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 45
+        },
+        {
+          "position": 13,
+          "mishnah": 3,
+          "opening": "וטבעת היתה קבועה.",
+          "anchor": {
+            "startWord": 13,
+            "endWord": 15,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 8
+        },
+        {
+          "position": 14,
+          "mishnah": 3,
+          "opening": "ויורדין לשית ומנקין אותן.",
+          "anchor": null,
+          "words": 42
+        },
+        {
+          "position": 15,
+          "mishnah": 3,
+          "opening": "כבש היה בדרומו של מזבח.",
+          "anchor": null,
+          "words": 25
+        },
+        {
+          "position": 16,
+          "mishnah": 3,
+          "opening": "ורבובה היתה במערבו.",
+          "anchor": null,
+          "words": 53
+        },
+        {
+          "position": 17,
+          "mishnah": 4,
+          "opening": "מבקעת בית הכרם.",
+          "anchor": null,
+          "words": 17
+        },
+        {
+          "position": 18,
+          "mishnah": 4,
+          "opening": "וחופרין.",
+          "anchor": {
+            "startWord": 9,
+            "endWord": 9,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 3
+        },
+        {
+          "position": 19,
+          "mishnah": 4,
+          "opening": "מן הבתולה.",
+          "anchor": null,
+          "words": 9
+        },
+        {
+          "position": 20,
+          "mishnah": 4,
+          "opening": "שהברזל פוסל בנגיעה.",
+          "anchor": {
+            "startWord": 20,
+            "endWord": 22,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 13
+        },
+        {
+          "position": 21,
+          "mishnah": 4,
+          "opening": "ובפגימה בכל דבר.",
+          "anchor": null,
+          "words": 30
+        },
+        {
+          "position": 22,
+          "mishnah": 4,
+          "opening": "היא פסולה כו’.",
+          "anchor": {
+            "startWord": 29,
+            "endWord": 30,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 58
+        },
+        {
+          "position": 23,
+          "mishnah": 4,
+          "opening": "מלבנים אותו פעמים בשנה.",
+          "anchor": null,
+          "words": 97
+        },
+        {
+          "position": 24,
+          "mishnah": 4,
+          "opening": "ורבי סבר דבכל ע\"ש היו מלבנין אותו.",
+          "anchor": null,
+          "words": 13
+        },
+        {
+          "position": 25,
+          "mishnah": 4,
+          "opening": "ולא היו סדין אותו בכפיס.",
+          "anchor": null,
+          "words": 9
+        },
+        {
+          "position": 26,
+          "mishnah": 4,
+          "opening": "כף ברזל.",
+          "anchor": null,
+          "words": 16
+        },
+        {
+          "position": 27,
+          "mishnah": 5,
+          "opening": "וטבעות היו לצפונו של מזבח.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 4,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 32
+        },
+        {
+          "position": 28,
+          "mishnah": 5,
+          "opening": "ו’ סדרים.",
+          "anchor": null,
+          "words": 20
+        },
+        {
+          "position": 29,
+          "mishnah": 5,
+          "opening": "וי\"א ד’ סדרים.",
+          "anchor": null,
+          "words": 7
+        },
+        {
+          "position": 30,
+          "mishnah": 5,
+          "opening": "שעליהן שוחטים את הקדשים.",
+          "anchor": {
+            "startWord": 16,
+            "endWord": 19,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 7
+        },
+        {
+          "position": 31,
+          "mishnah": 5,
+          "opening": "בית המטבחים.",
+          "anchor": null,
+          "words": 10
+        },
+        {
+          "position": 32,
+          "mishnah": 5,
+          "opening": "ועליהן ח’ עמודי ננסין.",
+          "anchor": null,
+          "words": 13
+        },
+        {
+          "position": 33,
+          "mishnah": 6,
+          "opening": "הכיור היה בין האולם ולמזבח משוך כלפי דרום.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 4,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 34
+        },
+        {
+          "position": 34,
+          "mishnah": 6,
+          "opening": "משוך כלפי דרום.",
+          "anchor": null,
+          "words": 83
+        },
+        {
+          "position": 35,
+          "mishnah": 6,
+          "opening": "וי\"ב מעלו’ היו שם גרסי’.",
+          "anchor": null,
+          "words": 28
+        },
+        {
+          "position": 36,
+          "mishnah": 6,
+          "opening": "ה\"ג רום מעלה חצי אמה ושלחה אמה.",
+          "anchor": {
+            "startWord": 19,
+            "endWord": 24,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 330
+        },
+        {
+          "position": 37,
+          "mishnah": 7,
+          "opening": "וחמש אמלתראות של מילא.",
+          "anchor": null,
+          "words": 68
+        },
+        {
+          "position": 38,
+          "mishnah": 7,
+          "opening": "ונדבך.",
+          "anchor": {
+            "startWord": 36,
+            "endWord": 36,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 9
+        },
+        {
+          "position": 39,
+          "mishnah": 8,
+          "opening": "כדי שלא יבעט.",
+          "anchor": {
+            "startWord": 11,
+            "endWord": 13,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 28
+        },
+        {
+          "position": 40,
+          "mishnah": 8,
+          "opening": "היו קבועים בתקרות [האולם].",
+          "anchor": null,
+          "words": 59
+        },
+        {
+          "position": 41,
+          "mishnah": 8,
+          "opening": "שנאמר והעטרות תהיה.",
+          "anchor": null,
+          "words": 65
+        },
+        {
+          "position": 42,
+          "mishnah": 8,
+          "opening": "גפן של זהב.",
+          "anchor": {
+            "startWord": 43,
+            "endWord": 45,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 13
+        },
+        {
+          "position": 43,
+          "mishnah": 8,
+          "opening": "הדרן עלך המזבח",
+          "anchor": null,
+          "words": 3
+        }
+      ],
+      "illustrations": [
+        {
+          "file": "Rosh_mizbeach.png",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosh_mizbeach.png",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Rosh_mizbeach.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "sha256": "bebd3aea079c6b5b08be720bdb93c2776b2bacaf4806417609ab37393eeb05cb",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "author": "יממל",
+          "bytes": 17215,
+          "mishnah": 1,
+          "caption": "ציור המזבח פירוש הרא\"ש"
+        }
+      ],
+      "baseFingerprint": "8c6964123324303bed669dd62a1a4654c6c532c73c462524dbff4d8aac45970a",
+      "commentaryFingerprint": "f0945767ac7177c9ba10d0326aa6bae6e42b2c7be7cc1b298b66b4cfa7783352",
+      "sourceWords": 1811,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 8
+    },
+    {
+      "work": "Middot",
+      "chapter": 4,
+      "sourceSnapshot": "middot-4.json",
+      "sourceSnapshotSha256": "9a836141e005a5ac2689b5439fcc554b7de2d5e55a6410ca36f5888340528822",
+      "revision": 2969511,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה מידות/פרק ד",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=2969511",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%9E%D7%99%D7%93%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 4,
+            "position": 1
+          },
+          {
+            "chapter": 4,
+            "position": 2
+          },
+          {
+            "chapter": 4,
+            "position": 3
+          },
+          {
+            "chapter": 4,
+            "position": 4
+          },
+          {
+            "chapter": 4,
+            "position": 5
+          },
+          {
+            "chapter": 4,
+            "position": 6
+          },
+          {
+            "chapter": 4,
+            "position": 7
+          }
+        ],
+        "2": [
+          {
+            "chapter": 4,
+            "position": 8
+          },
+          {
+            "chapter": 4,
+            "position": 9
+          },
+          {
+            "chapter": 4,
+            "position": 10
+          }
+        ],
+        "3": [
+          {
+            "chapter": 4,
+            "position": 11
+          },
+          {
+            "chapter": 4,
+            "position": 12
+          },
+          {
+            "chapter": 4,
+            "position": 13
+          }
+        ],
+        "4": [
+          {
+            "chapter": 4,
+            "position": 14
+          },
+          {
+            "chapter": 4,
+            "position": 15
+          }
+        ],
+        "5": [
+          {
+            "chapter": 4,
+            "position": 16
+          },
+          {
+            "chapter": 4,
+            "position": 17
+          },
+          {
+            "chapter": 4,
+            "position": 18
+          },
+          {
+            "chapter": 4,
+            "position": 19
+          }
+        ],
+        "6": [
+          {
+            "chapter": 4,
+            "position": 20
+          },
+          {
+            "chapter": 4,
+            "position": 21
+          },
+          {
+            "chapter": 4,
+            "position": 22
+          },
+          {
+            "chapter": 4,
+            "position": 23
+          },
+          {
+            "chapter": 4,
+            "position": 24
+          },
+          {
+            "chapter": 4,
+            "position": 25
+          }
+        ],
+        "7": [
+          {
+            "chapter": 4,
+            "position": 26
+          },
+          {
+            "chapter": 4,
+            "position": 27
+          },
+          {
+            "chapter": 4,
+            "position": 28
+          },
+          {
+            "chapter": 4,
+            "position": 29
+          },
+          {
+            "chapter": 4,
+            "position": 30
+          },
+          {
+            "chapter": 4,
+            "position": 31
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "פתחו של היכל כו' שתים מבפנים ושתים מבחוץ.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 2,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 19
+        },
+        {
+          "position": 2,
+          "mishnah": 1,
+          "opening": "שנאמר שתים דלתות להיכל ולקדש.",
+          "anchor": {
+            "startWord": 21,
+            "endWord": 24,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 13
+        },
+        {
+          "position": 3,
+          "mishnah": 1,
+          "opening": "החיצונות נפתחות לתוך הפתח.",
+          "anchor": {
+            "startWord": 25,
+            "endWord": 28,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 14
+        },
+        {
+          "position": 4,
+          "mishnah": 1,
+          "opening": "בתוך הפתח היו עומדות.",
+          "anchor": {
+            "startWord": 50,
+            "endWord": 53,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 34
+        },
+        {
+          "position": 5,
+          "mishnah": 1,
+          "opening": "כמין איצטרופומא היו.",
+          "anchor": null,
+          "words": 22
+        },
+        {
+          "position": 6,
+          "mishnah": 1,
+          "opening": "אלו ב’ אמות ומחצה.",
+          "anchor": null,
+          "words": 12
+        },
+        {
+          "position": 7,
+          "mishnah": 1,
+          "opening": "שתים מוסבות.",
+          "anchor": {
+            "startWord": 82,
+            "endWord": 83,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 29
+        },
+        {
+          "position": 8,
+          "mishnah": 2,
+          "opening": "נטל את המפתח ופתח את הפשפש.",
+          "anchor": {
+            "startWord": 47,
+            "endWord": 52,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 22
+        },
+        {
+          "position": 9,
+          "mishnah": 2,
+          "opening": "ר’ יהודה אומר בתוך עביו של כותל היה מהלך.",
+          "anchor": {
+            "startWord": 62,
+            "endWord": 65,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 17
+        },
+        {
+          "position": 10,
+          "mishnah": 2,
+          "opening": "ופתח את החיצונות מבפנים.",
+          "anchor": {
+            "startWord": 72,
+            "endWord": 75,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 9
+        },
+        {
+          "position": 11,
+          "mishnah": 3,
+          "opening": "לתא.",
+          "anchor": null,
+          "words": 10
+        },
+        {
+          "position": 12,
+          "mishnah": 3,
+          "opening": "ואחד למסיבה.",
+          "anchor": {
+            "startWord": 62,
+            "endWord": 63,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 4
+        },
+        {
+          "position": 13,
+          "mishnah": 3,
+          "opening": "ואחד לפשפש וא’ להיכל.",
+          "anchor": null,
+          "words": 14
+        },
+        {
+          "position": 14,
+          "mishnah": 4,
+          "opening": "התחתונה חמשה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 1,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 8
+        },
+        {
+          "position": 15,
+          "mishnah": 4,
+          "opening": "ורובד שש.",
+          "anchor": null,
+          "words": 57
+        },
+        {
+          "position": 16,
+          "mishnah": 5,
+          "opening": "ומסבה היתה עולה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 2,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 43
+        },
+        {
+          "position": 17,
+          "mishnah": 5,
+          "opening": "הגיע לדרום הפך פניו למזרח והיה מהלך בדרום עד שמגיע לפתחה של עליה.",
+          "anchor": null,
+          "words": 35
+        },
+        {
+          "position": 18,
+          "mishnah": 5,
+          "opening": "ובפתחה של עלייה מחוץ היו כלונסאות.",
+          "anchor": null,
+          "words": 15
+        },
+        {
+          "position": 19,
+          "mishnah": 5,
+          "opening": "ולולין היו פתוחין.",
+          "anchor": {
+            "startWord": 83,
+            "endWord": 85,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 29
+        },
+        {
+          "position": 20,
+          "mishnah": 6,
+          "opening": "והיכל ק’ על ק’.",
+          "anchor": null,
+          "words": 18
+        },
+        {
+          "position": 21,
+          "mishnah": 6,
+          "opening": "האוטם ו’ אמות.",
+          "anchor": null,
+          "words": 60
+        },
+        {
+          "position": 22,
+          "mishnah": 6,
+          "opening": "אמה כיור.",
+          "anchor": {
+            "startWord": 13,
+            "endWord": 14,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 26
+        },
+        {
+          "position": 23,
+          "mishnah": 6,
+          "opening": "ואמה תקרה.",
+          "anchor": null,
+          "words": 6
+        },
+        {
+          "position": 24,
+          "mishnah": 6,
+          "opening": "ואמה מעזיבה.",
+          "anchor": null,
+          "words": 4
+        },
+        {
+          "position": 25,
+          "mishnah": 6,
+          "opening": "ואמה כלה עורב.",
+          "anchor": {
+            "startWord": 39,
+            "endWord": 41,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 35
+        },
+        {
+          "position": 26,
+          "mishnah": 7,
+          "opening": "אמה טרקסין.",
+          "anchor": {
+            "startWord": 16,
+            "endWord": 17,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 51
+        },
+        {
+          "position": 27,
+          "mishnah": 7,
+          "opening": "מן הצפון לדרום.",
+          "anchor": {
+            "startWord": 31,
+            "endWord": 33,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 20
+        },
+        {
+          "position": 28,
+          "mishnah": 7,
+          "opening": "ובית הורדת מים ג’.",
+          "anchor": null,
+          "words": 19
+        },
+        {
+          "position": 29,
+          "mishnah": 7,
+          "opening": "בית החליפות.",
+          "anchor": {
+            "startWord": 84,
+            "endWord": 85,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 6
+        },
+        {
+          "position": 30,
+          "mishnah": 7,
+          "opening": "מאחוריו.",
+          "anchor": null,
+          "words": 25
+        },
+        {
+          "position": 31,
+          "mishnah": 7,
+          "opening": "הדרן עלך פתחו של היכל",
+          "anchor": null,
+          "words": 5
+        }
+      ],
+      "illustrations": [],
+      "baseFingerprint": "c7249f0f1719846850330247d215e631fe03b0b637b52f2d7df2695f79833cbf",
+      "commentaryFingerprint": "22aa3fef9612368934ea058791db0ce132ed2834ba2eb8d7111f46a4a750676f",
+      "sourceWords": 681,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 7
+    },
+    {
+      "work": "Middot",
+      "chapter": 5,
+      "sourceSnapshot": "middot-5.json",
+      "sourceSnapshotSha256": "c7636dd6d681d04d7d0ea15ef1412d9ee992d2c31fa105d94dcb6e69e5499541",
+      "revision": 2969512,
+      "sourceTitle": "רבינו אשר על הש\"ס/משנה מידות/פרק ה",
+      "sourceUrl": "https://he.wikisource.org/w/index.php?oldid=2969512",
+      "historyUrl": "https://he.wikisource.org/w/index.php?title=%D7%A8%D7%91%D7%99%D7%A0%D7%95+%D7%90%D7%A9%D7%A8+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%9E%D7%A9%D7%A0%D7%94+%D7%9E%D7%99%D7%93%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94&action=history",
+      "links": {
+        "1": [
+          {
+            "chapter": 5,
+            "position": 1
+          }
+        ],
+        "2": [
+          {
+            "chapter": 5,
+            "position": 2
+          },
+          {
+            "chapter": 5,
+            "position": 3
+          },
+          {
+            "chapter": 5,
+            "position": 4
+          }
+        ],
+        "3": [
+          {
+            "chapter": 5,
+            "position": 5
+          }
+        ],
+        "4": [
+          {
+            "chapter": 5,
+            "position": 6
+          },
+          {
+            "chapter": 5,
+            "position": 7
+          },
+          {
+            "chapter": 5,
+            "position": 8
+          }
+        ]
+      },
+      "openingRecords": [
+        {
+          "position": 1,
+          "mishnah": 1,
+          "opening": "כל העזרה.",
+          "anchor": {
+            "startWord": 0,
+            "endWord": 1,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 9
+        },
+        {
+          "position": 2,
+          "mishnah": 2,
+          "opening": "הכבש והמזבח ס\"ב.",
+          "anchor": null,
+          "words": 30
+        },
+        {
+          "position": 3,
+          "mishnah": 2,
+          "opening": "מן השולחנות לננסין הן ד’.",
+          "anchor": null,
+          "words": 126
+        },
+        {
+          "position": 4,
+          "mishnah": 2,
+          "opening": "והנותר.",
+          "anchor": null,
+          "words": 28
+        },
+        {
+          "position": 5,
+          "mishnah": 3,
+          "opening": "לשכות בית הפרוה.",
+          "anchor": null,
+          "words": 53
+        },
+        {
+          "position": 6,
+          "mishnah": 4,
+          "opening": "אבא שאול אומר לשכת כה\"ג כו’.",
+          "anchor": {
+            "startWord": 18,
+            "endWord": 21,
+            "basis": "unique contiguous quotation within opening in verified source passage"
+          },
+          "words": 16
+        },
+        {
+          "position": 7,
+          "mishnah": 4,
+          "opening": "בור הגולה.",
+          "anchor": null,
+          "words": 6
+        },
+        {
+          "position": 8,
+          "mishnah": 4,
+          "opening": "לובש לבנים.",
+          "anchor": {
+            "startWord": 72,
+            "endWord": 73,
+            "basis": "unique opening in verified source passage"
+          },
+          "words": 4
+        }
+      ],
+      "illustrations": [],
+      "baseFingerprint": "11285ad12751ed62b6f301c343754355078b0bacbddaea69e30a23890ae5461b",
+      "commentaryFingerprint": "c60d1eaf8ea5f394435e57879d4c4018785eae6fda3da16ebdc4a008781d5e22",
+      "sourceWords": 272,
+      "sourceWarnings": [
+        "Provider-origin OCR; not proofread word by word by Amudi"
+      ],
+      "mishnahCount": 4
+    }
+  ],
+  "sourceOriginalsSha256": "0cfbe3aab3439e29cc0bd75ec98fdc7c2477a1dd3aff4df4a8ac1307a9675208",
+  "userPreferenceEvidence": "Amudi/data/rights/dicta-available-text-review-20261105/user-preference.json",
+  "reviewFile": "Amudi/data/rights/rosh-mishnah-digital-review-20261105/review.json",
+  "priorWithdrawal": "The previous editions were withdrawn under the former no-OCR-origin preference. That preference is superseded; earlier evidence is preserved."
+}

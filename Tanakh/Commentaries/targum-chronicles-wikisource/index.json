@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "targum-chronicles-wikisource",
+  "title": "Targum to Chronicles — Wikisource edition",
+  "hebrewTitle": "תרגום דברי הימים — מהדורת ויקיטקסט",
+  "authors": [
+    {
+      "name": "Traditional Targum to Chronicles",
+      "role": "Traditional text; authorship uncertain"
+    },
+    {
+      "name": "David Wiscot and Hebrew Wikisource contributors",
+      "role": "Digitization and transcription"
+    }
+  ],
+  "volumeCount": 2,
+  "languages": [
+    "Aramaic",
+    "English"
+  ],
+  "licenses": [
+    "CC BY-SA 4.0",
+    "CC0 1.0"
+  ],
+  "volumes": [
+    {
+      "book": "I Chronicles",
+      "hebrewBook": "דברי הימים א",
+      "section": "Writings",
+      "bookPath": "Writings/I Chronicles",
+      "file": "Tanakh/Commentaries/targum-chronicles-wikisource/i-chronicles.json",
+      "chapterCount": 29,
+      "languages": [
+        "Aramaic",
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Targum to Chronicles",
+          "versionTitle": "Typed Wikisource revision 728465",
+          "language": "Aramaic",
+          "actualLanguage": "arc",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?oldid=728465",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Wikisource source page displays CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Wiscot identified on source page as provider of typed and vocalized text; Hebrew Wikisource contributors. Exact source revision and contributor history are in the source manifest.",
+          "changes": "Extracted numbered source passages into book/chapter/verse arrays; removed source numbering and category links; normalized whitespace. One run of source numeric labels was aligned using source headings and the indexed edition. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-chronicles-wikisource/source-manifest.json",
+          "textSha256": "b1f7e188f3b11494fe598cd22e14308dafefacb4a3d150f13ca79b9035dcb7c4"
+        },
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Targum of I Chronicles",
+          "versionTitle": "Sefaria Community Translation",
+          "language": "English",
+          "originalSourceUrl": "https://www.sefaria.org",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Targum/Targum%20Jerusalem/Targum%20of%20I%20Chronicles/English/Sefaria%20Community%20Translation.json",
+          "license": "CC0 1.0",
+          "licenseAsRecorded": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "attribution": "Sefaria Export; Sefaria Community Translation",
+          "changes": "Retained the exact Sefaria Community Translation at its source chapter and verse positions; its 50 translated passages match the independent Wikisource base text at those locations.",
+          "textSha256": "9c3795badee6e3fe7e54b2616056f1177c6044767f0d295a9948d49c8067488b",
+          "coverageStatus": "Partial: 50 source verses; independent Sefaria text edition."
+        }
+      ],
+      "supplementarySectionCount": 0
+    },
+    {
+      "book": "II Chronicles",
+      "hebrewBook": "דברי הימים ב",
+      "section": "Writings",
+      "bookPath": "Writings/II Chronicles",
+      "file": "Tanakh/Commentaries/targum-chronicles-wikisource/ii-chronicles.json",
+      "chapterCount": 36,
+      "languages": [
+        "Aramaic"
+      ],
+      "sources": [
+        {
+          "provider": "Hebrew Wikisource",
+          "workTitle": "Targum to Chronicles",
+          "versionTitle": "Typed Wikisource revision 728465",
+          "language": "Aramaic",
+          "actualLanguage": "arc",
+          "evidenceUrl": "https://he.wikisource.org/w/index.php?oldid=728465",
+          "license": "CC BY-SA 4.0",
+          "licenseAsRecorded": "Wikisource source page displays CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "attribution": "David Wiscot identified on source page as provider of typed and vocalized text; Hebrew Wikisource contributors. Exact source revision and contributor history are in the source manifest.",
+          "changes": "Extracted numbered source passages into book/chapter/verse arrays; removed source numbering and category links; normalized whitespace. One run of source numeric labels was aligned using source headings and the indexed edition. No OCR or translation.",
+          "sourceManifestPath": "Tanakh/Commentaries/targum-chronicles-wikisource/source-manifest.json",
+          "textSha256": "9beda6cd5a7b6e25fca2c8e27d94c6e1ac4f442a4029ba7ac0a6ae91f03ca730"
+        }
+      ],
+      "supplementarySectionCount": 0
+    }
+  ],
+  "coverageStatus": "All verse segments in the selected Wikisource source, including recorded variant readings. Independent CC0 English translation is partial and covers I Chronicles only.",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "shareAlikeRequired": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY-SA 4.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/targum-chronicles-wikisource/source-manifest.json"
+  ]
+}

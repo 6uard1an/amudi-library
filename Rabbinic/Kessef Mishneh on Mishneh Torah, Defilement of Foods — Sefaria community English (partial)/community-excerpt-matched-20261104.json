@@ -1,0 +1,20 @@
+{
+  "baseBookPath": "Rabbinic/Kessef Mishneh on Mishneh Torah, Defilement of Foods",
+  "baseChapter": 16,
+  "translationBookPath": "Rabbinic/Kessef Mishneh on Mishneh Torah, Defilement of Foods — Sefaria community English (partial)",
+  "sourceCoordinate": [
+    16,
+    8,
+    1
+  ],
+  "method": "Unique normalized local match to Hebrew source and comparison of English opening and ending; translation not independently proofread.",
+  "pairs": [
+    {
+      "basePosition": 15,
+      "baseTextSha256": "db15d8b16b128a81025dc2fffe3f2a23c8a76e2d44697a211e9a906f9d72919e",
+      "translationChapter": 1,
+      "translationPosition": 1,
+      "translationTextSha256": "a86fc60823c02e814f6b51eed6bf359f2cbeded3aa2885f88b327e8758652380"
+    }
+  ]
+}

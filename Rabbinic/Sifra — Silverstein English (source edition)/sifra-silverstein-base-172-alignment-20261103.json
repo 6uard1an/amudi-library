@@ -1,0 +1,65 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 172,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "1afe41647e7a13731ea9a19cdbc8a5ffba7416228d94ab3bcbbad4a0e5558e85",
+      "translationChapter": 177,
+      "translationPosition": 1,
+      "translationTextSha256": "d5853f654b1ccbf6a98f04b278afa5b0a63e74d275c1c50b4dee88763be4361a",
+      "followingBaseTextSha256s": [
+        "8ce79ed5acead7eab6fec606ecfa95ca63eabf848863070d865709dc21ba393f"
+      ]
+    },
+    {
+      "basePosition": 4,
+      "baseTextSha256": "6763111600a47d6711dc76832c1c68cac09e0dad9b7ab777c0e9a15be11afe93",
+      "followingBaseTextSha256s": [
+        "4cc10c945789574ae6ca683754ca47f1549898a6482945fe4e3a26aeb0f85bbf",
+        "88980601efabbb45a65a9d3955bd1278694fc1124025a316351d3dd44b670684"
+      ],
+      "fragments": [
+        {
+          "translationChapter": 177,
+          "translationPosition": 2,
+          "translationTextSha256": "d5e24b47c05e7afaef78b7cd0d194d08ca0c0ef890097e7069c20dca39c6592d"
+        },
+        {
+          "translationChapter": 177,
+          "translationPosition": 3,
+          "translationTextSha256": "84d54c6094fee7031df5a36548d99f35d0bd9adc64c1fade1bc1d5c6476674af"
+        }
+      ]
+    },
+    {
+      "basePosition": 7,
+      "baseTextSha256": "adc89473779e6b2850d0974f0224f046fceb09eff4e6c26a6c2b7fba05a36e9f",
+      "followingBaseTextSha256s": [
+        "3b334cc0f6ef53c955e9fafed16ed6a6ef7df99709f22b47d0b108537970b42f"
+      ],
+      "fragments": [
+        {
+          "translationChapter": 177,
+          "translationPosition": 4,
+          "translationTextSha256": "ba2d3029ba8853603615ed314a754e6489e8a15385ff41af560b3274696cf43b"
+        },
+        {
+          "translationChapter": 177,
+          "translationPosition": 5,
+          "translationTextSha256": "4eb6fc4de604cca5dd0f182775593e347dee8a5f921b2c5c24bb77f70d1a1743"
+        },
+        {
+          "translationChapter": 177,
+          "translationPosition": 6,
+          "translationTextSha256": "030150598bcdb465d962b9d451aaf23c1336ce2e763bedca3709ae677b3e0cfa"
+        }
+      ]
+    }
+  ]
+}

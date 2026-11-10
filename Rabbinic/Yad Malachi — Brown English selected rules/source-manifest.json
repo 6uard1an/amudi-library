@@ -1,0 +1,39 @@
+{
+  "work": "Yad Malachi, selected rules",
+  "sourceUrl": "https://www.languageandlaw.eu/jll/article/download/14/16/44",
+  "articleUrl": "https://www.languageandlaw.eu/jll/article/view/14",
+  "articleDoi": "https://doi.org/10.14762/jll.2014.001",
+  "sourcePdfSha256": "e6a6de274cfbf04e947ffd42a0f2940ed755a1ad665079e970b2213b828b7ee8",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Benjamin Brown, “Some say this, some say that”: Pragmatics and discourse markers in Yad Malachi’s interpretation rules, International Journal of Language & Law 3 (2014), 1–19, https://doi.org/10.14762/jll.2014.001, CC BY 4.0. Original work: Malachi ben Jacob HaKohen, Yad Malachi.",
+  "changes": "Selected seven Hebrew quotations and their English translations from the journal article; normalized PDF whitespace, repaired displaced punctuation at line breaks, removed running page headers and article footnote markers, and grouped each source rule as a separate chapter. The article’s ellipses and editorial brackets are retained. No OCR or new translation.",
+  "coverage": "Hebrew and English selections of rules 10, 12, 13, 14, 16, 17 and 18 on the Shulchan Arukh and Rema, as quoted in Brown’s article. Some rules contain source omissions or ellipses; this is not the complete work. Hebrew and English are paired by source rule, not sentence by sentence.",
+  "rules": [
+    10,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18
+  ],
+  "englishChapterSha256": {
+    "1": "01d744cf96ae9c6267be9f13e1bfe65f502d4265668cc2588c22e96b0dc92363",
+    "2": "c3829df15ad9e6421b515e23a37d3c554b1db2f2c60a6ab4978db2020e4577cf",
+    "3": "99485153df18410356dc08a5a29f985d2a82fe1dbe779c93f8cad66f91e81b74",
+    "4": "aa24977b076210ee6592e92ef6d1d4a72a6ba5b164484ebcf74a4b9499d46c73",
+    "5": "0224f4c03c4a5cac9a6b91b3e61fee69667416ee1cb4b46556d3294ea7482843",
+    "6": "ea9f6e1d9ca13fe897e8b531561af13ee0cbb29129c2541f736b2f321693a2d6",
+    "7": "884831fc4e5972395c38f6ec6c1e16a7878e2d9a9c8a579eb85358263b5b4f1b"
+  },
+  "hebrewChapterSha256": {
+    "1": "690ee0db3ca4bfc173f8c8c3dc2ab19a030dd7e68be73c0b18ddce1b230de01a",
+    "2": "90d5976e6655604b4e198bb9b0fecc11aa3c7dedf027a80b1f166477f092ecc1",
+    "3": "40195015add0e1a19e8a2235b8cd507d31b2ab02cfc9e54e279cf3b1d82b7027",
+    "4": "e45f12adfd33454d020b725b39a965e926e7d3d8e13940d7f96dba8a4cd0defd",
+    "5": "759f75ba99f702e28ebf4ffdc1f0607db069169475d75039b42766e129d4c7c2",
+    "6": "b1e22a4173133e442665d304e381a3c2d72d66e97c3c6b1cce00a1da5e046223",
+    "7": "04784741aa995316b14c5d7c34a12e4891e31fccd809a50417d2815e1615ca8c"
+  }
+}

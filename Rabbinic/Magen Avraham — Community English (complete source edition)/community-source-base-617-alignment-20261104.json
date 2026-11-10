@@ -1,0 +1,18 @@
+{
+  "baseBookPath": "Rabbinic/Magen Avraham",
+  "baseChapter": 617,
+  "translationBookPath": "Rabbinic/Magen Avraham — Community English (complete source edition)",
+  "method": "Matched Hebrew and English source coordinates and checked textual content and fingerprints.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Halakhah/Shulchan%20Arukh/Commentary/Magen%20Avraham/Magen%20Avraham/English/Sefaria%20Community%20Translation.json",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "pairs": [
+    {
+      "basePosition": 8,
+      "baseTextSha256": "07850b9520429648b6176c3f11d78a0f3fa48cfc73136489fbc9296fec6170c1",
+      "translationChapter": 26,
+      "translationPosition": 1,
+      "translationTextSha256": "d429f6814cdb80568fe6e6e275e8f2e6c261c6e2e4c851491a2d68d72d4b3143"
+    }
+  ]
+}

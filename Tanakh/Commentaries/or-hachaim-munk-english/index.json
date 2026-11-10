@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "kind": "tanakh-commentary",
+  "id": "or-hachaim-munk-english",
+  "title": "Or HaChaim — Eliyahu Munk English",
+  "hebrewTitle": "אור החיים — תרגום אליהו מונק לאנגלית",
+  "authors": [
+    {
+      "name": "Or HaChaim",
+      "hebrewName": "Or HaChaim",
+      "role": "Commentator / work attribution",
+      "roleHebrew": "מפרש / ייחוס החיבור"
+    },
+    {
+      "name": "Eliyahu Munk",
+      "role": "English translator"
+    }
+  ],
+  "volumeCount": 5,
+  "languages": [
+    "English"
+  ],
+  "licenses": [
+    "CC BY 3.0"
+  ],
+  "volumes": [
+    {
+      "book": "Genesis",
+      "hebrewBook": "בראשית",
+      "section": "Torah",
+      "bookPath": "Torah/Genesis",
+      "file": "Tanakh/Commentaries/or-hachaim-munk-english/genesis.json",
+      "chapterCount": 50,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Or HaChaim on Genesis",
+          "versionTitle": "Or Hachayim, trans. Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=or",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Or%20HaChaim/Torah/Or%20HaChaim%20on%20Genesis/English/Or%20Hachayim%2C%20trans.%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Or HaChaim on Genesis · Or Hachayim, trans. Eliyahu Munk · http://www.urimpublications.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=UP&Product_Code=or · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained existing source wording and book/chapter/verse coordinates in a separate plaintext edition. An out-of-range duplicate, if present, was excluded and is recorded in the source manifest. No OCR or new translation performed by Amudi. Restored specific altered quotations or citations to match the selected source; locations are documented in the source review.",
+          "rawSourceSha256": "e8686a92a1a5de4667018d660a29da0f49238a5fe0e8dcf931da1680c45e3cd0",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Or%20HaChaim%20on%20Genesis",
+          "licenseEvidenceRawSha256": "1b7462c1405f4268ce71aa83800fcc53d46b9963659b5d33010b3b7d35d737b0",
+          "textSha256": "a996a9182f0e55c9b374c5358231e50a18c8e11bad3792c5b0b9b2148dd2b9fa",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Exodus",
+      "hebrewBook": "שמות",
+      "section": "Torah",
+      "bookPath": "Torah/Exodus",
+      "file": "Tanakh/Commentaries/or-hachaim-munk-english/exodus.json",
+      "chapterCount": 40,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Or HaChaim on Exodus",
+          "versionTitle": "Or Hachayim, trans. Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Or%20HaChaim/Torah/Or%20HaChaim%20on%20Exodus/English/Or%20Hachayim%2C%20trans.%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Or HaChaim on Exodus · Or Hachayim, trans. Eliyahu Munk · http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained existing source wording and book/chapter/verse coordinates in a separate plaintext edition. An out-of-range duplicate, if present, was excluded and is recorded in the source manifest. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "a0aa65fcd2852d33a1ff19f3b6554d6591c2de949381b26485585d6a1d411267",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Or%20HaChaim%20on%20Exodus",
+          "licenseEvidenceRawSha256": "03a3ec9042e548083890d12186d506daf6910f22da9575d9412731f26dbec0af",
+          "textSha256": "6d5d9bbed65b2abf97905eb21ac6ee9da0b1d6c907891918d2b378e255e3cfb1",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Leviticus",
+      "hebrewBook": "ויקרא",
+      "section": "Torah",
+      "bookPath": "Torah/Leviticus",
+      "file": "Tanakh/Commentaries/or-hachaim-munk-english/leviticus.json",
+      "chapterCount": 27,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Or HaChaim on Leviticus",
+          "versionTitle": "Or Hachayim, trans. Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Or%20HaChaim/Torah/Or%20HaChaim%20on%20Leviticus/English/Or%20Hachayim%2C%20trans.%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Or HaChaim on Leviticus · Or Hachayim, trans. Eliyahu Munk · http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained existing source wording and book/chapter/verse coordinates in a separate plaintext edition. An out-of-range duplicate, if present, was excluded and is recorded in the source manifest. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "9846d963d73f08bc367a1ab664aa7192769d390b49599bd6d884e1cda6ecbf34",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Or%20HaChaim%20on%20Leviticus",
+          "licenseEvidenceRawSha256": "ca5a7d89d3eacae96cd2abe7e9efaf0a22311c451d1a46607a64b724f79196f3",
+          "textSha256": "7c31eff506df442fbdd45fb6d6c37fcb7fcfe27f6f89f693589bea78cfd886b2",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Numbers",
+      "hebrewBook": "במדבר",
+      "section": "Torah",
+      "bookPath": "Torah/Numbers",
+      "file": "Tanakh/Commentaries/or-hachaim-munk-english/numbers.json",
+      "chapterCount": 36,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Or HaChaim on Numbers",
+          "versionTitle": "Or Hachayim, trans. Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Or%20HaChaim/Torah/Or%20HaChaim%20on%20Numbers/English/Or%20Hachayim%2C%20trans.%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Or HaChaim on Numbers · Or Hachayim, trans. Eliyahu Munk · http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained existing source wording and book/chapter/verse coordinates in a separate plaintext edition. An out-of-range duplicate, if present, was excluded and is recorded in the source manifest. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "1287cfaa3f50dd21c68fc4c1c7fa1b4f1acba7bccd029e198b6fb31d1313a930",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Or%20HaChaim%20on%20Numbers",
+          "licenseEvidenceRawSha256": "3ea193cba9c0d5ce0e3acf2b125b6897db8ef05aea05deeff0f1f020b0136986",
+          "textSha256": "cf28af6e38bd2ef2173f8c0c7c0bf36130cda67378f8360231d93f40110fcfc7",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    },
+    {
+      "book": "Deuteronomy",
+      "hebrewBook": "דברים",
+      "section": "Torah",
+      "bookPath": "Torah/Deuteronomy",
+      "file": "Tanakh/Commentaries/or-hachaim-munk-english/deuteronomy.json",
+      "chapterCount": 34,
+      "languages": [
+        "English"
+      ],
+      "sources": [
+        {
+          "provider": "Sefaria Export",
+          "workTitle": "Or HaChaim on Deuteronomy",
+          "versionTitle": "Or Hachayim, trans. Eliyahu Munk",
+          "language": "English",
+          "actualLanguage": "en",
+          "originalSourceUrl": "http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html",
+          "evidenceUrl": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Acharonim%20on%20Tanakh/Or%20HaChaim/Torah/Or%20HaChaim%20on%20Deuteronomy/English/Or%20Hachayim%2C%20trans.%20Eliyahu%20Munk.json",
+          "license": "CC BY 3.0",
+          "licenseAsRecorded": "CC-BY",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "attribution": "Or HaChaim on Deuteronomy · Or Hachayim, trans. Eliyahu Munk · http://www.urimpublications.com/or-hachayim-commentary-on-the-torah-5-vols.html · To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "changes": "Retained existing source wording and book/chapter/verse coordinates in a separate plaintext edition. An out-of-range duplicate, if present, was excluded and is recorded in the source manifest. No OCR or new translation performed by Amudi.",
+          "rawSourceSha256": "04718401a9cae38739bc9eb8a07a4c93f9b29bf2bee81cdb7f43ffaaac101bc4",
+          "licenseEvidenceUrl": "https://www.sefaria.org/api/texts/versions/Or%20HaChaim%20on%20Deuteronomy",
+          "licenseEvidenceRawSha256": "921231b44c67dd17f93eca18de0a7c233857c2b0ce6f5306ab54bf5278cae7be",
+          "textSha256": "33d12e7c1574f996bdc7bf77a623e224689eb0710b428d133bcd9956469f62b6",
+          "providerLicenseVersionEvidence": {
+            "repositoryCommit": "3e09776f4033f9c41c7cd9ec39051911b679934d",
+            "componentUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/VersionBlock/VersionInformation.jsx",
+            "sourceCodeUrl": "https://raw.githubusercontent.com/Sefaria/Sefaria-Project/3e09776f4033f9c41c7cd9ec39051911b679934d/static/js/sefaria/sefaria.js",
+            "genericLicenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+            "fullReview": "beit-midrash-sefaria-ccby-exact-license-review-20261030.json"
+          },
+          "providerGrantEvidence": [],
+          "previousProviderModifications": "To enhance the quality of this text, obvious translation errors were corrected in accordance with the Hebrew source",
+          "reuseConditions": [
+            "Credit original translator, work title and supplied publisher/attribution parties; retain copyright/license/disclaimer notices.",
+            "Link the exact applicable CC BY license and the original source/version.",
+            "Disclose Amudi modifications and retain the provider’s existing modification notice.",
+            "Do not impose effective technological measures or additional legal restrictions on recipients’ licensed reuse; provide accessible plaintext reuse/export.",
+            "Do not imply endorsement."
+          ],
+          "supplementarySourcePaths": [],
+          "sourceEditionDeclaresMachineAssistance": false
+        }
+      ]
+    }
+  ],
+  "coverageStatus": "Source entries at recorded Torah verse positions; source may be partial.",
+  "distributionRequirements": {
+    "plaintextAccessRequired": true,
+    "unrestrictedExportRequired": true,
+    "noTechnicalRestrictionsOnReuse": true,
+    "nativeEncryptionAllowed": false,
+    "license": "CC BY 3.0"
+  },
+  "deliveryMode": "open-licensed",
+  "access": "free",
+  "additionalDeclaredFiles": [
+    "Tanakh/Commentaries/or-hachaim-munk-english/source-manifest.json"
+  ]
+}

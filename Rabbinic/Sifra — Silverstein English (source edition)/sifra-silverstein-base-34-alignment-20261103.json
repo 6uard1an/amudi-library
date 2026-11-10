@@ -1,0 +1,87 @@
+{
+  "baseBookPath": "Rabbinic/Sifra — Hebrew Wikisource (Malbim edition)",
+  "baseChapter": 34,
+  "translationBookPath": "Rabbinic/Sifra — Silverstein English (source edition)",
+  "method": "Unique normalized Hebrew matches; overlapping consecutive source passages are grouped in source order and partial ranges are labeled.",
+  "source": "https://storage.googleapis.com/sefaria-export/json/Midrash/Halakhah/Sifra/English/Sifra%20by%20Rabbi%20Shraga%20Silverstein.json",
+  "license": "CC BY 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+  "pairs": [
+    {
+      "basePosition": 2,
+      "baseTextSha256": "437ec996bc0ce98868262a2381ea9f69ee9ea7271d5ce2f05b1eb660dce5f449",
+      "translationChapter": 37,
+      "translationPosition": 1,
+      "translationTextSha256": "0dc8885c7a1f65e70de43b19c124f14693315916762e95a4be19754c3a3ae4cb"
+    },
+    {
+      "basePosition": 3,
+      "baseTextSha256": "02a468fbb2a7ba5a02757d82a8df2976d2a0f34c799b6add15a6f133e4d25fe9",
+      "translationChapter": 37,
+      "translationPosition": 2,
+      "translationTextSha256": "f7e79ea98c76b38a953e7c307ed807e56dc7d17959e8594a173b692c64c67df7",
+      "followingBaseTextSha256s": [
+        "52c674be573d5cb0156819bb501da0de3c0b28aff043074b803e4ffd3e3748bd",
+        "3936633e3daf2f1ac2c39c19769a2c93b8c943e92dd9787f15521a2ccdae07cd"
+      ]
+    },
+    {
+      "basePosition": 6,
+      "baseTextSha256": "0676b790ceb3ade03b25a2fe741f5e88af110f9f9d4a219f498fec6ef9fd6e0d",
+      "translationChapter": 37,
+      "translationPosition": 3,
+      "translationTextSha256": "96548233c1d1ab7dd5882d58bf38f78a526f339c4ffe648afecd226e80a40550",
+      "followingBaseTextSha256s": [
+        "6d1d3f1839851ca9c7c2498de988bed6921cd860268f1e8cd40e5990d3662813"
+      ]
+    },
+    {
+      "basePosition": 8,
+      "baseTextSha256": "2574846f1c3f76ee6e9407434c3e274deec8acb37598dff1922beb3277773cb9",
+      "translationChapter": 37,
+      "translationPosition": 4,
+      "translationTextSha256": "d44de4d57e60823968ec0d67a1e7cbf9950002b381b8856ce9064eaa4ad94da0",
+      "followingBaseTextSha256s": [
+        "963153cdb5e0713bb8936ec9307d7b83a1de08d43638b353e65a910e3a01931f",
+        "255ee2fae56dd8c7334d17e6848aebb1b16cc115cbdae0397a288fea3b569b07",
+        "5f889c2883d6ad68c8feab67c2701ea517cd33f0d847dce7ec30633a07d34b10"
+      ]
+    },
+    {
+      "basePosition": 12,
+      "baseTextSha256": "c035cf0c0a2a2c28b54955bd39e8375589a7aada20ecda54a356e23da000a9ae",
+      "translationChapter": 37,
+      "translationPosition": 5,
+      "translationTextSha256": "a95e07b35731bc076576501d5ed8b01d0e22a2c8e43ee321fc6904bd191259c9",
+      "followingBaseTextSha256s": [
+        "4e698dce1c39df664ae59f7eeeed3b2fc6ee8642710ac3d0d99caf714a18fca6",
+        "de36588544fbb31b2954893a4ed971df864eaebaef5101b560610b2157ff76d5",
+        "2fdd15d25a07c56a342dfbcb8096cb01700cc92ce083f157412009ae81f191b7"
+      ]
+    },
+    {
+      "basePosition": 16,
+      "baseTextSha256": "ddcba46e213f2248a65fc3645debe54b9aa3932a85d75ca27cac0df71e120dd9",
+      "translationChapter": 37,
+      "translationPosition": 6,
+      "translationTextSha256": "1f8049250d2dbb24891065fd15b6807648f44249f50be95e204397685d9a4420",
+      "followingBaseTextSha256s": [
+        "c9696e8ee5e5f87c6751eee7820f12fd80fc4b26ee1ae70e53e8b836fe135bd6",
+        "f1275dbebc13e6fdac1348e99d538e869569ad40bd4f7278b0b5b9f434d01013",
+        "580762b1d8247996462b6dd7e9cf217b9b7bb4903179d514c96436baedef4c03",
+        "7bdb30ead53a476f18c31c18f59c837bae60635dcadbcbb06130fa5b36424363",
+        "11f1974a0b6fcdaa641623170f3d31f761d38882c0dfc20ed25b1e3de5a197f8"
+      ]
+    },
+    {
+      "basePosition": 22,
+      "baseTextSha256": "a68dbae94c8c023f35b9289e17ae8a381a7dff73d03fd3a8c61ae9f36038a823",
+      "translationChapter": 37,
+      "translationPosition": 7,
+      "translationTextSha256": "a1dc52bb228ff0b687b761d2937c174af64ad5329b822aeffd924b4a19f5bb44",
+      "followingBaseTextSha256s": [
+        "b69879400a584c2cb5980695adfa5242a08f4f39496a4a99d7772cba581c98d7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4933 @@
+{
+  "schemaVersion": 1,
+  "work": "Duties of the Heart",
+  "parentPath": "Rabbinic/Duties of the Heart",
+  "editionName": "Duties of the Heart — Hyamson 1925 English (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Jewish%20Thought/Rishonim/Duties%20of%20the%20Heart/Duties%20of%20the%20Heart/English/Duties%20of%20the%20Heart%2C%20trans.%20by%20Rabbi%20Moses%20Hyamson%2C%20New%20York%2C%201925.json",
+  "versionTitle": "Duties of the Heart, trans. by Rabbi Moses Hyamson, New York, 1925",
+  "license": "Public Domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "attribution": "Duties of the Heart, original work; Duties of the Heart, trans. by Rabbi Moses Hyamson, New York, 1925; Sefaria Export. Translator/contributor credit as supplied by the exact source edition.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/080cacd0c4339dde9f82.json",
+  "sourceRawSha256": "06a70d264beaedd712ddefca828c0ad523dfb3b11499df3ce959901af3668f73",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Duties%20of%20the%20Heart",
+    "rawSha256": "da6dae2a89dd8c441b1d2e87cb23247aeaa6eaccf96ec7daceff4785a1b5574e",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-dcec3e442d922a3647c9.json",
+    "versionTitle": "Duties of the Heart, trans. by Rabbi Moses Hyamson, New York, 1925",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "Public Domain"
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Second Treatise on Examination · Introduction",
+      "sourcePosition": [
+        "Second Treatise on Examination",
+        "Introduction"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            1
+          ],
+          "sourceTextSha256": "8059056a7ccc40b2fda91395f1938468f3925a30c2bf8f6d67df6e0bd6560b83",
+          "retainedTextSha256": "8059056a7ccc40b2fda91395f1938468f3925a30c2bf8f6d67df6e0bd6560b83"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            2
+          ],
+          "sourceTextSha256": "2cab0beebbd41ea142fce181d0b0bc0fa6587021ce4cf2061682756fa1db07b1",
+          "retainedTextSha256": "2cab0beebbd41ea142fce181d0b0bc0fa6587021ce4cf2061682756fa1db07b1"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            3
+          ],
+          "sourceTextSha256": "e5408bc9d8c33c6aa09ba3930cd7778889a241dd1a9109cb67a02a08780d159f",
+          "retainedTextSha256": "e5408bc9d8c33c6aa09ba3930cd7778889a241dd1a9109cb67a02a08780d159f"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            4
+          ],
+          "sourceTextSha256": "5ada6816049ae70d250598aac8b20336961c3b741320b6ccbcfe372ae93fc78d",
+          "retainedTextSha256": "5ada6816049ae70d250598aac8b20336961c3b741320b6ccbcfe372ae93fc78d"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            5
+          ],
+          "sourceTextSha256": "78fc57f668ff132e649d6bd1d94f4038c42a21644c03432c2439de876fb302a6",
+          "retainedTextSha256": "78fc57f668ff132e649d6bd1d94f4038c42a21644c03432c2439de876fb302a6"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            6
+          ],
+          "sourceTextSha256": "477c4c33854adcabd5056b416732f621ce3f7897f75d8a289e1bcdf2f746ff30",
+          "retainedTextSha256": "477c4c33854adcabd5056b416732f621ce3f7897f75d8a289e1bcdf2f746ff30"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            7
+          ],
+          "sourceTextSha256": "c76e09df126b30a11cb617329ad402697c21bf95512edd105c1a5cc5eaab0119",
+          "retainedTextSha256": "c76e09df126b30a11cb617329ad402697c21bf95512edd105c1a5cc5eaab0119"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            8
+          ],
+          "sourceTextSha256": "e30de168cf8a0ce15865e9e6892f2ebbfcd6fcdfacd3d31b9f54e7976a557fe3",
+          "retainedTextSha256": "e30de168cf8a0ce15865e9e6892f2ebbfcd6fcdfacd3d31b9f54e7976a557fe3"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            9
+          ],
+          "sourceTextSha256": "ee9172f6686943d6f63cd424fc422812cc60c97cfde9a079c246a9e933a8c48d",
+          "retainedTextSha256": "ee9172f6686943d6f63cd424fc422812cc60c97cfde9a079c246a9e933a8c48d"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            10
+          ],
+          "sourceTextSha256": "3c200f6e356645b5dac45fba13ff1e484b34671659ae5109e6de6bb622f7b13d",
+          "retainedTextSha256": "3c200f6e356645b5dac45fba13ff1e484b34671659ae5109e6de6bb622f7b13d"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            11
+          ],
+          "sourceTextSha256": "0e9a3c590cf52f33219f34e6b148b01c2747fea2351d0c9b1aa33426c81dac6a",
+          "retainedTextSha256": "0e9a3c590cf52f33219f34e6b148b01c2747fea2351d0c9b1aa33426c81dac6a"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            12
+          ],
+          "sourceTextSha256": "059e886d510397f9ace5ea1d18c2f538a3d14a4c515e50cab46e2475ee28dfa7",
+          "retainedTextSha256": "059e886d510397f9ace5ea1d18c2f538a3d14a4c515e50cab46e2475ee28dfa7"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            13
+          ],
+          "sourceTextSha256": "c739fcb505a8bb181a1f092daca75e39f8e9aaf5ea55584200d74b401c46daf4",
+          "retainedTextSha256": "c739fcb505a8bb181a1f092daca75e39f8e9aaf5ea55584200d74b401c46daf4"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            14
+          ],
+          "sourceTextSha256": "d200a3a9b87e50607f838ec350a7d91e38bf75b29472d9a42a834838501fe725",
+          "retainedTextSha256": "d200a3a9b87e50607f838ec350a7d91e38bf75b29472d9a42a834838501fe725"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            15
+          ],
+          "sourceTextSha256": "6a8291c99a0eb6001244a3d266eacb746089e79e6b75d0cd93d277089ce6155a",
+          "retainedTextSha256": "6a8291c99a0eb6001244a3d266eacb746089e79e6b75d0cd93d277089ce6155a"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            16
+          ],
+          "sourceTextSha256": "735f76ae1df3fbd702850eaf21b62c3cce75803a1dcfb962bf749a55b3a47e2c",
+          "retainedTextSha256": "735f76ae1df3fbd702850eaf21b62c3cce75803a1dcfb962bf749a55b3a47e2c"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            17
+          ],
+          "sourceTextSha256": "2c42b43fb94f94f0803750225b68abdeedbebbbaee17224274c1103e1b81b8b9",
+          "retainedTextSha256": "2c42b43fb94f94f0803750225b68abdeedbebbbaee17224274c1103e1b81b8b9"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            18
+          ],
+          "sourceTextSha256": "f438d1425d9a941f43360718d20882d1a04f9ffe5ea85d58256269b006ace6cf",
+          "retainedTextSha256": "f438d1425d9a941f43360718d20882d1a04f9ffe5ea85d58256269b006ace6cf"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            19
+          ],
+          "sourceTextSha256": "0f165a311b1c58ab8e86e7e1f8bfd1b7b4088f8f2bc58036ef737eacf49a5e1d",
+          "retainedTextSha256": "0f165a311b1c58ab8e86e7e1f8bfd1b7b4088f8f2bc58036ef737eacf49a5e1d"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            20
+          ],
+          "sourceTextSha256": "38aef389885bd9967ec4a819e50413b474ad35605cae17064e7e1c992c98578f",
+          "retainedTextSha256": "38aef389885bd9967ec4a819e50413b474ad35605cae17064e7e1c992c98578f"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            21
+          ],
+          "sourceTextSha256": "276f284edf4de3b290e6b00f979577a2351a5334341c85b9b7b85e5d1df1d1e7",
+          "retainedTextSha256": "276f284edf4de3b290e6b00f979577a2351a5334341c85b9b7b85e5d1df1d1e7"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            22
+          ],
+          "sourceTextSha256": "f7f55ffb401da5d904255eff0ce53c457e08915d554ab2ab4a259c4348cb9189",
+          "retainedTextSha256": "f7f55ffb401da5d904255eff0ce53c457e08915d554ab2ab4a259c4348cb9189"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "Introduction",
+            23
+          ],
+          "sourceTextSha256": "9858c41172dbd7f1d4d33a6166e94e3c78e2ff9812ba3470841fcdaad4202ba1",
+          "retainedTextSha256": "9858c41172dbd7f1d4d33a6166e94e3c78e2ff9812ba3470841fcdaad4202ba1"
+        }
+      ],
+      "payloadSha256": "c9b2521e045e04d38d18c75630231bdf6015055f48c533639a7dd6bd17e12a01"
+    },
+    {
+      "chapter": 2,
+      "label": "Second Treatise on Examination · 1",
+      "sourcePosition": [
+        "Second Treatise on Examination",
+        "",
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            1,
+            1
+          ],
+          "sourceTextSha256": "9489f90bc6bd9480487e325da6213bf766a05847900659409df40b857d1f10d2",
+          "retainedTextSha256": "9489f90bc6bd9480487e325da6213bf766a05847900659409df40b857d1f10d2"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            1,
+            2
+          ],
+          "sourceTextSha256": "5c6fabd17bb365ce2fed1577def4f4f651a106fe4c49a73ab6854624951d993c",
+          "retainedTextSha256": "5c6fabd17bb365ce2fed1577def4f4f651a106fe4c49a73ab6854624951d993c"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            1,
+            3
+          ],
+          "sourceTextSha256": "ba81a998be05c6f6ee8ecc7b5f6a26c0ff3e85091ffabdb84761aab98499479d",
+          "retainedTextSha256": "ba81a998be05c6f6ee8ecc7b5f6a26c0ff3e85091ffabdb84761aab98499479d"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            1,
+            4
+          ],
+          "sourceTextSha256": "e416d3c953f4f4661789099a2616715de962736a827ec328578262320b1ef94f",
+          "retainedTextSha256": "e416d3c953f4f4661789099a2616715de962736a827ec328578262320b1ef94f"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            1,
+            5
+          ],
+          "sourceTextSha256": "572ace555538bdf59b8369b8e6096b0e20d58c2b50224065f610d2b5c7e1846c",
+          "retainedTextSha256": "572ace555538bdf59b8369b8e6096b0e20d58c2b50224065f610d2b5c7e1846c"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            1,
+            6
+          ],
+          "sourceTextSha256": "e6b69f3d4184ec5e953b720e48f30db74499067e97b2b698687a934c74422383",
+          "retainedTextSha256": "e6b69f3d4184ec5e953b720e48f30db74499067e97b2b698687a934c74422383"
+        }
+      ],
+      "payloadSha256": "80b67e5f35df066dc5433c774baa9b70b83ae8a7263ed1ea491142d6012dcd48"
+    },
+    {
+      "chapter": 3,
+      "label": "Second Treatise on Examination · 2",
+      "sourcePosition": [
+        "Second Treatise on Examination",
+        "",
+        2
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            1
+          ],
+          "sourceTextSha256": "511ee536eed544dfae059d34b29f8e2402a4150ba7b13250c77eab754a81e05b",
+          "retainedTextSha256": "511ee536eed544dfae059d34b29f8e2402a4150ba7b13250c77eab754a81e05b"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            2
+          ],
+          "sourceTextSha256": "b36f8b1338aafdec48d6776ce237133077b1d29ce9d28ccc30d969292dcdd1e0",
+          "retainedTextSha256": "b36f8b1338aafdec48d6776ce237133077b1d29ce9d28ccc30d969292dcdd1e0"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            3
+          ],
+          "sourceTextSha256": "1f0b9af77c70515a0da32936c9cd7122ca755761cc961f4ba4f990f45c8444c1",
+          "retainedTextSha256": "1f0b9af77c70515a0da32936c9cd7122ca755761cc961f4ba4f990f45c8444c1"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            4
+          ],
+          "sourceTextSha256": "f947b8f30d8ac87a55867e970dca5a12c849ee79a7c5a85f85109a96ec865ade",
+          "retainedTextSha256": "f947b8f30d8ac87a55867e970dca5a12c849ee79a7c5a85f85109a96ec865ade"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            5
+          ],
+          "sourceTextSha256": "c43c1279aa42ff87b685f3f0860677e6ad61983b1cda847ab24324e0c7983d93",
+          "retainedTextSha256": "c43c1279aa42ff87b685f3f0860677e6ad61983b1cda847ab24324e0c7983d93"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            6
+          ],
+          "sourceTextSha256": "f62fe73271fa8183e68bad047048c500fe42c04763a58b6798b3265124e476dd",
+          "retainedTextSha256": "f62fe73271fa8183e68bad047048c500fe42c04763a58b6798b3265124e476dd"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            7
+          ],
+          "sourceTextSha256": "ac6cdcf74256b2c5f6b0e4f516da8a084aff16cb49cd85639daaa31b5c6828e0",
+          "retainedTextSha256": "ac6cdcf74256b2c5f6b0e4f516da8a084aff16cb49cd85639daaa31b5c6828e0"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            2,
+            8
+          ],
+          "sourceTextSha256": "815459b79530c29e8a9933cf51eff0f570b13be515ebd2a372f1c1a90e0d970b",
+          "retainedTextSha256": "815459b79530c29e8a9933cf51eff0f570b13be515ebd2a372f1c1a90e0d970b"
+        }
+      ],
+      "payloadSha256": "0fe9bf5d8474057e3ce16c9b6655c92aae85fb304a557738e6ef1c502ffda193"
+    },
+    {
+      "chapter": 4,
+      "label": "Second Treatise on Examination · 3",
+      "sourcePosition": [
+        "Second Treatise on Examination",
+        "",
+        3
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            1
+          ],
+          "sourceTextSha256": "2edafc76b095b3d67da92e479a3e1b5028376932ce076c921d2f6149ff4778ea",
+          "retainedTextSha256": "2edafc76b095b3d67da92e479a3e1b5028376932ce076c921d2f6149ff4778ea"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            2
+          ],
+          "sourceTextSha256": "9c27351d325cdeca3d7558cd75293abdc709ac5c96575b46359895fa8ee4f3ef",
+          "retainedTextSha256": "9c27351d325cdeca3d7558cd75293abdc709ac5c96575b46359895fa8ee4f3ef"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            3
+          ],
+          "sourceTextSha256": "bcc638bad4ba07c8eb955916034a83633f6ea85e31878c095c1a1f3f78c41cce",
+          "retainedTextSha256": "bcc638bad4ba07c8eb955916034a83633f6ea85e31878c095c1a1f3f78c41cce"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            4
+          ],
+          "sourceTextSha256": "5d5126b6f3b38c8f788544c0eb446c37723c6fad1d368f7785da2fdc1ebdfe70",
+          "retainedTextSha256": "5d5126b6f3b38c8f788544c0eb446c37723c6fad1d368f7785da2fdc1ebdfe70"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            5
+          ],
+          "sourceTextSha256": "648b719d2e94deed53e06e7b0a0be624a381eb5384c9070897c0a492482ae7dd",
+          "retainedTextSha256": "648b719d2e94deed53e06e7b0a0be624a381eb5384c9070897c0a492482ae7dd"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            6
+          ],
+          "sourceTextSha256": "48866fa55ddd2c5505579b29cd05f1d326bd9dfe6c74d3f5de5863bfc33b4a22",
+          "retainedTextSha256": "48866fa55ddd2c5505579b29cd05f1d326bd9dfe6c74d3f5de5863bfc33b4a22"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            7
+          ],
+          "sourceTextSha256": "bf8ba0399e37b4668202634777ae74a6ea455c0e5394845a9c6f71866a43f9b6",
+          "retainedTextSha256": "bf8ba0399e37b4668202634777ae74a6ea455c0e5394845a9c6f71866a43f9b6"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            8
+          ],
+          "sourceTextSha256": "19435a0aa0f7235e0de78ac54badd9024515e9508c633f035591fd4b97c69ffe",
+          "retainedTextSha256": "19435a0aa0f7235e0de78ac54badd9024515e9508c633f035591fd4b97c69ffe"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            9
+          ],
+          "sourceTextSha256": "38ec4b2cd6ac313a0edec5f51bc6180bb52719f631735607952a58c22dca8713",
+          "retainedTextSha256": "38ec4b2cd6ac313a0edec5f51bc6180bb52719f631735607952a58c22dca8713"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            10
+          ],
+          "sourceTextSha256": "64eee72e28a7971b7ac17dc2b61fc4a308848d7b7429e0dadd967dcbf5c5f228",
+          "retainedTextSha256": "64eee72e28a7971b7ac17dc2b61fc4a308848d7b7429e0dadd967dcbf5c5f228"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            11
+          ],
+          "sourceTextSha256": "d0fdb89a57e58764d1ed819896f5cc37292cb9f9063eec6c7c3872758c9d5f8e",
+          "retainedTextSha256": "d0fdb89a57e58764d1ed819896f5cc37292cb9f9063eec6c7c3872758c9d5f8e"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            12
+          ],
+          "sourceTextSha256": "fa5248f7162e2f61236aed110f101792da945601d7d9da43b73e93967ab6f94f",
+          "retainedTextSha256": "fa5248f7162e2f61236aed110f101792da945601d7d9da43b73e93967ab6f94f"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            13
+          ],
+          "sourceTextSha256": "ab3640bb0f438fae696bd42ba3d8d49bafc0c4113ee40c19ec250a9c86abfa09",
+          "retainedTextSha256": "ab3640bb0f438fae696bd42ba3d8d49bafc0c4113ee40c19ec250a9c86abfa09"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            3,
+            14
+          ],
+          "sourceTextSha256": "1b927f4d2d8b8e65634d0d8212191ceb3d9df458642def80bf8c5b114cb058fb",
+          "retainedTextSha256": "1b927f4d2d8b8e65634d0d8212191ceb3d9df458642def80bf8c5b114cb058fb"
+        }
+      ],
+      "payloadSha256": "4e674e580f6b18735e78358e382aedc8ce3bddc42ce5047e1e6e3e6a0e0a912f"
+    },
+    {
+      "chapter": 5,
+      "label": "Second Treatise on Examination · 4",
+      "sourcePosition": [
+        "Second Treatise on Examination",
+        "",
+        4
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            1
+          ],
+          "sourceTextSha256": "f2e1717a1bd494d626a41f7b1ec44d593f664f41dc4105898fda8a0d7cd28e21",
+          "retainedTextSha256": "f2e1717a1bd494d626a41f7b1ec44d593f664f41dc4105898fda8a0d7cd28e21"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            2
+          ],
+          "sourceTextSha256": "ecfaf558ab0a3485fdec70d34de737fff81d7b9b4c6ea436e834567532dc40b1",
+          "retainedTextSha256": "ecfaf558ab0a3485fdec70d34de737fff81d7b9b4c6ea436e834567532dc40b1"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            3
+          ],
+          "sourceTextSha256": "803f3974b467262e03b3acdfeff4ac3a904aed46569ff290825191681119b117",
+          "retainedTextSha256": "803f3974b467262e03b3acdfeff4ac3a904aed46569ff290825191681119b117"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            4
+          ],
+          "sourceTextSha256": "d4097825b5f04b04ed5b03316a542e31c3a70621f4d870a51ee64568a99511df",
+          "retainedTextSha256": "d4097825b5f04b04ed5b03316a542e31c3a70621f4d870a51ee64568a99511df"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            5
+          ],
+          "sourceTextSha256": "c1cbd626515f93b95ff847f17bbe256d7912f541b24f75c5ecd1d49d3686fec5",
+          "retainedTextSha256": "c1cbd626515f93b95ff847f17bbe256d7912f541b24f75c5ecd1d49d3686fec5"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            6
+          ],
+          "sourceTextSha256": "9a9534f2eb1f0d224cb6d6b9bd9548b33f38751f176ad228810b2d6495d8dbd4",
+          "retainedTextSha256": "9a9534f2eb1f0d224cb6d6b9bd9548b33f38751f176ad228810b2d6495d8dbd4"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            7
+          ],
+          "sourceTextSha256": "55a08000b77b9a21794a138c34580e51617dbe3ea48409e5abd3e26f8d65a7e6",
+          "retainedTextSha256": "55a08000b77b9a21794a138c34580e51617dbe3ea48409e5abd3e26f8d65a7e6"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            8
+          ],
+          "sourceTextSha256": "3a9e51ea29d4f66686855acc1c33cdf5e19a881ad50045135147d0195b3795e6",
+          "retainedTextSha256": "3a9e51ea29d4f66686855acc1c33cdf5e19a881ad50045135147d0195b3795e6"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            9
+          ],
+          "sourceTextSha256": "ad60573f26f0eb0cf66b54b64934e1a98aad8be0af04eff659dfe648802c9492",
+          "retainedTextSha256": "ad60573f26f0eb0cf66b54b64934e1a98aad8be0af04eff659dfe648802c9492"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            10
+          ],
+          "sourceTextSha256": "ff3983ff61fa8f4dd75ad72669c13c6511d3fe736026b701268298f83240d70c",
+          "retainedTextSha256": "ff3983ff61fa8f4dd75ad72669c13c6511d3fe736026b701268298f83240d70c"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            11
+          ],
+          "sourceTextSha256": "85ddbbcf721f7841d8dd6381ddfe425375b94ba4d2f86645a4a4cecc76bb3d20",
+          "retainedTextSha256": "85ddbbcf721f7841d8dd6381ddfe425375b94ba4d2f86645a4a4cecc76bb3d20"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            12
+          ],
+          "sourceTextSha256": "18df64a8b693e2ca5f2cba9818504374229ebd7d4bef59e9e3d959a313030a7e",
+          "retainedTextSha256": "18df64a8b693e2ca5f2cba9818504374229ebd7d4bef59e9e3d959a313030a7e"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            4,
+            13
+          ],
+          "sourceTextSha256": "5aa09fb369f0e98387f2d84dfc02cbf0021a57bbed23de03f23746dea0affd3b",
+          "retainedTextSha256": "5aa09fb369f0e98387f2d84dfc02cbf0021a57bbed23de03f23746dea0affd3b"
+        }
+      ],
+      "payloadSha256": "2a99099b20f36e2f90e3debb74c2c53edccc3ef50221d1c394101a40c2360d58"
+    },
+    {
+      "chapter": 6,
+      "label": "Second Treatise on Examination · 5",
+      "sourcePosition": [
+        "Second Treatise on Examination",
+        "",
+        5
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            1
+          ],
+          "sourceTextSha256": "83ac9f30078d093de2cf2c63e745ae994ee9b1c02783556885f9bdfbf18d85de",
+          "retainedTextSha256": "83ac9f30078d093de2cf2c63e745ae994ee9b1c02783556885f9bdfbf18d85de"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            2
+          ],
+          "sourceTextSha256": "11cac9efe17244c63f3b3d751297e43f1732b1c663fc8ae6815462f37b195cfa",
+          "retainedTextSha256": "11cac9efe17244c63f3b3d751297e43f1732b1c663fc8ae6815462f37b195cfa"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            3
+          ],
+          "sourceTextSha256": "0107872b291aab5a8393c816ced764056066cf511092637376a7a2869e52791c",
+          "retainedTextSha256": "0107872b291aab5a8393c816ced764056066cf511092637376a7a2869e52791c"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            4
+          ],
+          "sourceTextSha256": "c8b48a96105512d0f3c6fdd3db729064021ef040136cab78bd8ec9b4b48fa1ff",
+          "retainedTextSha256": "c8b48a96105512d0f3c6fdd3db729064021ef040136cab78bd8ec9b4b48fa1ff"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            5
+          ],
+          "sourceTextSha256": "dec9143b83f9b8f78cb0218609880c8360fe2c2feb7147c802cf532c816a9106",
+          "retainedTextSha256": "dec9143b83f9b8f78cb0218609880c8360fe2c2feb7147c802cf532c816a9106"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            6
+          ],
+          "sourceTextSha256": "3ed3e68544d366049e20fac75c4f7a282635d7020e4e290228d1b383e92890e5",
+          "retainedTextSha256": "3ed3e68544d366049e20fac75c4f7a282635d7020e4e290228d1b383e92890e5"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            7
+          ],
+          "sourceTextSha256": "b99dbed77f21026f8ac2ec8e07a888b6d859d4e96dbc7d76682e8b9cad04998b",
+          "retainedTextSha256": "b99dbed77f21026f8ac2ec8e07a888b6d859d4e96dbc7d76682e8b9cad04998b"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            8
+          ],
+          "sourceTextSha256": "ae8ed91fbb86bf7df9570c1d851bc092a52957db7bb16d56cbf429bd77cb0f84",
+          "retainedTextSha256": "ae8ed91fbb86bf7df9570c1d851bc092a52957db7bb16d56cbf429bd77cb0f84"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            9
+          ],
+          "sourceTextSha256": "1947bcebe44c0c6e3a4ef4f08e5cc30be940e9f39941eafdbe212ce7e6248f26",
+          "retainedTextSha256": "1947bcebe44c0c6e3a4ef4f08e5cc30be940e9f39941eafdbe212ce7e6248f26"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            10
+          ],
+          "sourceTextSha256": "4df6ea3f1ffc77d7b6d40ba3a6dbe6438bc7b34c9ac356eeb663ab17e539db71",
+          "retainedTextSha256": "4df6ea3f1ffc77d7b6d40ba3a6dbe6438bc7b34c9ac356eeb663ab17e539db71"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            11
+          ],
+          "sourceTextSha256": "eefbbe88cb16da248ce09e1d6f7c9067a931f43177655e1ff99af189eaed8d8c",
+          "retainedTextSha256": "eefbbe88cb16da248ce09e1d6f7c9067a931f43177655e1ff99af189eaed8d8c"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            12
+          ],
+          "sourceTextSha256": "debec9ca5d5ec52a0a6e90b29487cc326b0f4bd362c03b6bdb572241f6ecd168",
+          "retainedTextSha256": "debec9ca5d5ec52a0a6e90b29487cc326b0f4bd362c03b6bdb572241f6ecd168"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            13
+          ],
+          "sourceTextSha256": "cefa94d99c934c159276f613cdaa81a22eb0174df6ea6f3c3fa311e1e8317c04",
+          "retainedTextSha256": "cefa94d99c934c159276f613cdaa81a22eb0174df6ea6f3c3fa311e1e8317c04"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            14
+          ],
+          "sourceTextSha256": "900904ede806f5429c0296976d307333492ab9a44a5dc38718f517dd4ada6dbe",
+          "retainedTextSha256": "900904ede806f5429c0296976d307333492ab9a44a5dc38718f517dd4ada6dbe"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            15
+          ],
+          "sourceTextSha256": "52b6cbad7b53ceb20576d98937a063bbddbbe0b0278cd80b08c2cc2995a4a489",
+          "retainedTextSha256": "52b6cbad7b53ceb20576d98937a063bbddbbe0b0278cd80b08c2cc2995a4a489"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            16
+          ],
+          "sourceTextSha256": "f4a364fb976b78b33121af7716f6b2ae3feadbfa0a2ba43588070e9023793097",
+          "retainedTextSha256": "f4a364fb976b78b33121af7716f6b2ae3feadbfa0a2ba43588070e9023793097"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            17
+          ],
+          "sourceTextSha256": "a6f29e99c3e34258fe2d67bd2b5ee904bd91178caa14a9c5f700ae9cb2b099a6",
+          "retainedTextSha256": "a6f29e99c3e34258fe2d67bd2b5ee904bd91178caa14a9c5f700ae9cb2b099a6"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            18
+          ],
+          "sourceTextSha256": "757cb11a3561e3739d61c8ebab9d40285774d07be03859a35bd6ef9c725af04a",
+          "retainedTextSha256": "757cb11a3561e3739d61c8ebab9d40285774d07be03859a35bd6ef9c725af04a"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            19
+          ],
+          "sourceTextSha256": "f4feb68753fed9aa01fdb78e11e4f5a448b542440e8800dc4b1d7f4e1edd41e6",
+          "retainedTextSha256": "f4feb68753fed9aa01fdb78e11e4f5a448b542440e8800dc4b1d7f4e1edd41e6"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            20
+          ],
+          "sourceTextSha256": "157ef6acad04c38876f7bf6d9c7e496731e3538fbe4dba6bb6a65c5408f18ad3",
+          "retainedTextSha256": "157ef6acad04c38876f7bf6d9c7e496731e3538fbe4dba6bb6a65c5408f18ad3"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            21
+          ],
+          "sourceTextSha256": "ace9ceaf8b102cd698cd1c627807a362d70c6dbdcff6ebc6f5eb40f33ada3c0e",
+          "retainedTextSha256": "ace9ceaf8b102cd698cd1c627807a362d70c6dbdcff6ebc6f5eb40f33ada3c0e"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            22
+          ],
+          "sourceTextSha256": "fdd5e0727c4c781617268dc150e66ac966ec828bd2aaeb4620f79d918bcc6a8e",
+          "retainedTextSha256": "fdd5e0727c4c781617268dc150e66ac966ec828bd2aaeb4620f79d918bcc6a8e"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            23
+          ],
+          "sourceTextSha256": "6d656c988410431357677319e22db5f99069f1128e67745b92ae8dfa5a054e8e",
+          "retainedTextSha256": "6d656c988410431357677319e22db5f99069f1128e67745b92ae8dfa5a054e8e"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            24
+          ],
+          "sourceTextSha256": "d7c89bdc94665b1725080a15afd1c463a1fc300868e8671463a9ab4c35cb1d76",
+          "retainedTextSha256": "d7c89bdc94665b1725080a15afd1c463a1fc300868e8671463a9ab4c35cb1d76"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            25
+          ],
+          "sourceTextSha256": "bbbe81c49642470c96175e7fd918988cdedd4cc7804058a87862792f70b5fe92",
+          "retainedTextSha256": "bbbe81c49642470c96175e7fd918988cdedd4cc7804058a87862792f70b5fe92"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            26
+          ],
+          "sourceTextSha256": "50b822b489d274ee0e480481e7ab61fae158c39209e5a9af4e4d0eab68992b55",
+          "retainedTextSha256": "50b822b489d274ee0e480481e7ab61fae158c39209e5a9af4e4d0eab68992b55"
+        },
+        {
+          "paragraph": 27,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            27
+          ],
+          "sourceTextSha256": "c3a5a7db08fce508f3b91e89624a63f60a83e386ba4a2d3e5aefbc628f80e5d6",
+          "retainedTextSha256": "c3a5a7db08fce508f3b91e89624a63f60a83e386ba4a2d3e5aefbc628f80e5d6"
+        },
+        {
+          "paragraph": 28,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            28
+          ],
+          "sourceTextSha256": "98bbf05b261437afe6ffb0a4e3d109de911e058ea5a527a4fcc979121b1f8486",
+          "retainedTextSha256": "98bbf05b261437afe6ffb0a4e3d109de911e058ea5a527a4fcc979121b1f8486"
+        },
+        {
+          "paragraph": 29,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            29
+          ],
+          "sourceTextSha256": "ba6a949dd7a2444e6cff23644ffe009859e0ed53987fde9e723608cbfd025d29",
+          "retainedTextSha256": "ba6a949dd7a2444e6cff23644ffe009859e0ed53987fde9e723608cbfd025d29"
+        },
+        {
+          "paragraph": 30,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            30
+          ],
+          "sourceTextSha256": "2863f88c8ecb7785d25e32b4847b0c21e4cb2e5e2e78b3ae998b2b52e9160a32",
+          "retainedTextSha256": "2863f88c8ecb7785d25e32b4847b0c21e4cb2e5e2e78b3ae998b2b52e9160a32"
+        },
+        {
+          "paragraph": 31,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            31
+          ],
+          "sourceTextSha256": "b3e61794510e190870fa07a1ecb5329f78b60d5f24e45530511bd3094bbb643e",
+          "retainedTextSha256": "b3e61794510e190870fa07a1ecb5329f78b60d5f24e45530511bd3094bbb643e"
+        },
+        {
+          "paragraph": 32,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            32
+          ],
+          "sourceTextSha256": "5f7c28c1869acfa409e85c8ffcdb9aca3cdd95be2ce0f2cc9ddbeb00a9b9021f",
+          "retainedTextSha256": "5f7c28c1869acfa409e85c8ffcdb9aca3cdd95be2ce0f2cc9ddbeb00a9b9021f"
+        },
+        {
+          "paragraph": 33,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            33
+          ],
+          "sourceTextSha256": "0601b44b0ad359cb320bd0e37a238119ecdb47220f0a251797aa05fcb9ed1623",
+          "retainedTextSha256": "0601b44b0ad359cb320bd0e37a238119ecdb47220f0a251797aa05fcb9ed1623"
+        },
+        {
+          "paragraph": 34,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            34
+          ],
+          "sourceTextSha256": "c672e3ad8b8e9835186295557a50c6ac1fdde0a2ceb963eb61a51462c19498f7",
+          "retainedTextSha256": "c672e3ad8b8e9835186295557a50c6ac1fdde0a2ceb963eb61a51462c19498f7"
+        },
+        {
+          "paragraph": 35,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            35
+          ],
+          "sourceTextSha256": "2297b73d4832511df75ae6e6aa5b806b1815fe4f121f668ffb0942c5afad7434",
+          "retainedTextSha256": "2297b73d4832511df75ae6e6aa5b806b1815fe4f121f668ffb0942c5afad7434"
+        },
+        {
+          "paragraph": 36,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            36
+          ],
+          "sourceTextSha256": "67c6a96d6839905187a190c072c3232ccf3e3d80f3b075aae67b6716e9526891",
+          "retainedTextSha256": "67c6a96d6839905187a190c072c3232ccf3e3d80f3b075aae67b6716e9526891"
+        },
+        {
+          "paragraph": 37,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            37
+          ],
+          "sourceTextSha256": "fe9bc2157690e28cbe53dd0f7b9bf10f606a54ede8f416ba8ab021c078d6e97a",
+          "retainedTextSha256": "fe9bc2157690e28cbe53dd0f7b9bf10f606a54ede8f416ba8ab021c078d6e97a"
+        },
+        {
+          "paragraph": 38,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            38
+          ],
+          "sourceTextSha256": "60f6b0ef21de2ec4343e559c44dc6499f76176fdaf89e9f6367c41f561fe80c8",
+          "retainedTextSha256": "60f6b0ef21de2ec4343e559c44dc6499f76176fdaf89e9f6367c41f561fe80c8"
+        },
+        {
+          "paragraph": 39,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            39
+          ],
+          "sourceTextSha256": "90d53cd4f104e1a81ea159fc68572183c36f0d9d85d8be0b40b7aff754f2cc14",
+          "retainedTextSha256": "90d53cd4f104e1a81ea159fc68572183c36f0d9d85d8be0b40b7aff754f2cc14"
+        },
+        {
+          "paragraph": 40,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            40
+          ],
+          "sourceTextSha256": "88d344804d4732cda37cd7bbee4b657d7f2fc0425ae4cbb93683258f84b84462",
+          "retainedTextSha256": "88d344804d4732cda37cd7bbee4b657d7f2fc0425ae4cbb93683258f84b84462"
+        },
+        {
+          "paragraph": 41,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            41
+          ],
+          "sourceTextSha256": "73dcf9d325307d38a308b1c6c66a9b7d7f6f29fcefbdef6c52afe3e47f04ab8d",
+          "retainedTextSha256": "73dcf9d325307d38a308b1c6c66a9b7d7f6f29fcefbdef6c52afe3e47f04ab8d"
+        },
+        {
+          "paragraph": 42,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            42
+          ],
+          "sourceTextSha256": "aa1382c3d693537dd167f8b81ec5eccbfe7b6ec249e7bd816b94c25ca70c1c8c",
+          "retainedTextSha256": "aa1382c3d693537dd167f8b81ec5eccbfe7b6ec249e7bd816b94c25ca70c1c8c"
+        },
+        {
+          "paragraph": 43,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            43
+          ],
+          "sourceTextSha256": "e8dd054f2aec9f810e7ed9f3e3e3bc13650bc9e47a82869436678cd078a8434a",
+          "retainedTextSha256": "e8dd054f2aec9f810e7ed9f3e3e3bc13650bc9e47a82869436678cd078a8434a"
+        },
+        {
+          "paragraph": 44,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            44
+          ],
+          "sourceTextSha256": "59f6244ce005ca77459895bd1762eecc3dbfed99595f397dc4f203845132ab2d",
+          "retainedTextSha256": "59f6244ce005ca77459895bd1762eecc3dbfed99595f397dc4f203845132ab2d"
+        },
+        {
+          "paragraph": 45,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            45
+          ],
+          "sourceTextSha256": "39fbdb1b1976b227810df9fa0428b0ca453d8962c37e9ec3f31a90a061e19112",
+          "retainedTextSha256": "39fbdb1b1976b227810df9fa0428b0ca453d8962c37e9ec3f31a90a061e19112"
+        },
+        {
+          "paragraph": 46,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            46
+          ],
+          "sourceTextSha256": "82f252070e1865c61c9bd4a49ac5c84532aee68dad09d390a61a5a1d3282f42f",
+          "retainedTextSha256": "82f252070e1865c61c9bd4a49ac5c84532aee68dad09d390a61a5a1d3282f42f"
+        },
+        {
+          "paragraph": 47,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            47
+          ],
+          "sourceTextSha256": "b5ddb302821b9069e3680e923eb64ff8e84676d8aa2e49cf2c0c000e44426b29",
+          "retainedTextSha256": "b5ddb302821b9069e3680e923eb64ff8e84676d8aa2e49cf2c0c000e44426b29"
+        },
+        {
+          "paragraph": 48,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            48
+          ],
+          "sourceTextSha256": "ddb15e7de0606da3cfb75dd9151369c33855f2d9853f987d4ae9522ce1001f10",
+          "retainedTextSha256": "ddb15e7de0606da3cfb75dd9151369c33855f2d9853f987d4ae9522ce1001f10"
+        },
+        {
+          "paragraph": 49,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            49
+          ],
+          "sourceTextSha256": "fb580c83d1d5ded59674b6e432044568b443e23a221aeb6a695dcce60cd45490",
+          "retainedTextSha256": "fb580c83d1d5ded59674b6e432044568b443e23a221aeb6a695dcce60cd45490"
+        },
+        {
+          "paragraph": 50,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            50
+          ],
+          "sourceTextSha256": "abe93820f6c1c6055c41df8868297d5d1d5e6e638d72446522e0ca30fae0d17e",
+          "retainedTextSha256": "abe93820f6c1c6055c41df8868297d5d1d5e6e638d72446522e0ca30fae0d17e"
+        },
+        {
+          "paragraph": 51,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            51
+          ],
+          "sourceTextSha256": "79c62a7ff15c33790dbb683d3a4254077fc64b0eb7c005b9f5ddda68e8529500",
+          "retainedTextSha256": "79c62a7ff15c33790dbb683d3a4254077fc64b0eb7c005b9f5ddda68e8529500"
+        },
+        {
+          "paragraph": 52,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            52
+          ],
+          "sourceTextSha256": "17088f667eb12de3dbfcc58445560a8eb945f972658d25ffd4ee62d344825529",
+          "retainedTextSha256": "17088f667eb12de3dbfcc58445560a8eb945f972658d25ffd4ee62d344825529"
+        },
+        {
+          "paragraph": 53,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            53
+          ],
+          "sourceTextSha256": "1b3f8ec26c31a15c0307b1962017f02a6a41ee08a7c8abc2835217b00df501cc",
+          "retainedTextSha256": "1b3f8ec26c31a15c0307b1962017f02a6a41ee08a7c8abc2835217b00df501cc"
+        },
+        {
+          "paragraph": 54,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            54
+          ],
+          "sourceTextSha256": "3bae05d5a0787884a8602709da04064fb1fc64ca264ca88a74c3542206b13846",
+          "retainedTextSha256": "3bae05d5a0787884a8602709da04064fb1fc64ca264ca88a74c3542206b13846"
+        },
+        {
+          "paragraph": 55,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            55
+          ],
+          "sourceTextSha256": "ab87afb4f774d686484483da29d850f6f057cea7c9b35ec0b1f3bccc18373da2",
+          "retainedTextSha256": "ab87afb4f774d686484483da29d850f6f057cea7c9b35ec0b1f3bccc18373da2"
+        },
+        {
+          "paragraph": 56,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            56
+          ],
+          "sourceTextSha256": "5e7df8d30c10424693aa8b0d074750559d68d76b1ad00321bddaf011e18e77d7",
+          "retainedTextSha256": "5e7df8d30c10424693aa8b0d074750559d68d76b1ad00321bddaf011e18e77d7"
+        },
+        {
+          "paragraph": 57,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            57
+          ],
+          "sourceTextSha256": "09806762760d5de2591523d989970c9e704196d3d5c3cbc4eaa08b0202c9ce7e",
+          "retainedTextSha256": "09806762760d5de2591523d989970c9e704196d3d5c3cbc4eaa08b0202c9ce7e"
+        },
+        {
+          "paragraph": 58,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            58
+          ],
+          "sourceTextSha256": "c6ebacc1bce2537d37bd68291982fc8bf93368b629686c1daaa31b87977cd835",
+          "retainedTextSha256": "c6ebacc1bce2537d37bd68291982fc8bf93368b629686c1daaa31b87977cd835"
+        },
+        {
+          "paragraph": 59,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            59
+          ],
+          "sourceTextSha256": "5b4c199c51dc66e0c04cb4c9cbc05be4a94d9aa6303f07942703c7d02b92a392",
+          "retainedTextSha256": "5b4c199c51dc66e0c04cb4c9cbc05be4a94d9aa6303f07942703c7d02b92a392"
+        },
+        {
+          "paragraph": 60,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            60
+          ],
+          "sourceTextSha256": "b58375e23e65ba9eb436b30996ab361934c407e51276c2701b4849b80946671c",
+          "retainedTextSha256": "b58375e23e65ba9eb436b30996ab361934c407e51276c2701b4849b80946671c"
+        },
+        {
+          "paragraph": 61,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            61
+          ],
+          "sourceTextSha256": "082deb3be017c47b415671d06a81d10a271b95acf72d6d3183af4fd756e03b42",
+          "retainedTextSha256": "082deb3be017c47b415671d06a81d10a271b95acf72d6d3183af4fd756e03b42"
+        },
+        {
+          "paragraph": 62,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            62
+          ],
+          "sourceTextSha256": "5dbf4489a404471a4b84aae936d29a1a718055f14d64bafebf7af0090461bb5c",
+          "retainedTextSha256": "5dbf4489a404471a4b84aae936d29a1a718055f14d64bafebf7af0090461bb5c"
+        },
+        {
+          "paragraph": 63,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            63
+          ],
+          "sourceTextSha256": "78afde5ca454ad4de4a082c7b69e885036cb8d3276223f9cf560c4ff36a4c6f0",
+          "retainedTextSha256": "78afde5ca454ad4de4a082c7b69e885036cb8d3276223f9cf560c4ff36a4c6f0"
+        },
+        {
+          "paragraph": 64,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            64
+          ],
+          "sourceTextSha256": "d78eae57c6e12c1d42bbcdd5d6e7ed40a46402d9b97118769d2a97b9ca850fdb",
+          "retainedTextSha256": "d78eae57c6e12c1d42bbcdd5d6e7ed40a46402d9b97118769d2a97b9ca850fdb"
+        },
+        {
+          "paragraph": 65,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            65
+          ],
+          "sourceTextSha256": "92f6dd444608d423311f0d5df9cc5e15c32c38e0044ab704ead3684758996a4f",
+          "retainedTextSha256": "92f6dd444608d423311f0d5df9cc5e15c32c38e0044ab704ead3684758996a4f"
+        },
+        {
+          "paragraph": 66,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            66
+          ],
+          "sourceTextSha256": "14516bbf279983925b35cc673a6b50f4b37bba6cb45089246775915c8ed612ea",
+          "retainedTextSha256": "14516bbf279983925b35cc673a6b50f4b37bba6cb45089246775915c8ed612ea"
+        },
+        {
+          "paragraph": 67,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            5,
+            67
+          ],
+          "sourceTextSha256": "ed7b14793af994312f3bad9186188efda1b2aa2e7ff1258cd5a8f33fd1c7275f",
+          "retainedTextSha256": "ed7b14793af994312f3bad9186188efda1b2aa2e7ff1258cd5a8f33fd1c7275f"
+        }
+      ],
+      "payloadSha256": "80f804ac779eb9fe5afac080d1423501c87b49a5be88d2a43715da4bdddc9fdb"
+    },
+    {
+      "chapter": 7,
+      "label": "Second Treatise on Examination · 6",
+      "sourcePosition": [
+        "Second Treatise on Examination",
+        "",
+        6
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Second Treatise on Examination",
+            "",
+            6,
+            1
+          ],
+          "sourceTextSha256": "e0fe8220e1699f2e40ecc9cc3fb73545c3bef2e0a7492e9a9c2f33b53054b119",
+          "retainedTextSha256": "e0fe8220e1699f2e40ecc9cc3fb73545c3bef2e0a7492e9a9c2f33b53054b119"
+        }
+      ],
+      "payloadSha256": "e9c7935bdf768a44398c744c3a1ab77884dc09c95bd9f9304777c584d633b7a8"
+    },
+    {
+      "chapter": 8,
+      "label": "Third Treatise on Service of God · Introduction",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "Introduction"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            1
+          ],
+          "sourceTextSha256": "04f93e31348a4be205c03f38ea3e5d3753bba04669ed6e3d96e189324778bed6",
+          "retainedTextSha256": "04f93e31348a4be205c03f38ea3e5d3753bba04669ed6e3d96e189324778bed6"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            2
+          ],
+          "sourceTextSha256": "ba9dbe2410cf8c2830464581e496e19b86d67cc75d68c14ab8ea7c77c4a06f57",
+          "retainedTextSha256": "ba9dbe2410cf8c2830464581e496e19b86d67cc75d68c14ab8ea7c77c4a06f57"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            3
+          ],
+          "sourceTextSha256": "787132f96d6e966a5f92a38361e5b336900062c2de9f7feb5c1aa4deacffc652",
+          "retainedTextSha256": "787132f96d6e966a5f92a38361e5b336900062c2de9f7feb5c1aa4deacffc652"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            4
+          ],
+          "sourceTextSha256": "61b8714b2885d5eb55c909f7fd6d327998af309317ebed27f5f33e16d63a7c13",
+          "retainedTextSha256": "61b8714b2885d5eb55c909f7fd6d327998af309317ebed27f5f33e16d63a7c13"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            5
+          ],
+          "sourceTextSha256": "a451bfebfeb23319152b1b8caa475034bd26aafd587d5511137f9dcbad0240da",
+          "retainedTextSha256": "a451bfebfeb23319152b1b8caa475034bd26aafd587d5511137f9dcbad0240da"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            6
+          ],
+          "sourceTextSha256": "be44773e97ca1db5f52d39b88b7b7d14310780dd0bd31c9c5fa2608502faa555",
+          "retainedTextSha256": "be44773e97ca1db5f52d39b88b7b7d14310780dd0bd31c9c5fa2608502faa555"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            7
+          ],
+          "sourceTextSha256": "57c4abc562eabe3c4f57e52f0be35792969f1d3b028126cb340d709a1fe9dfe7",
+          "retainedTextSha256": "57c4abc562eabe3c4f57e52f0be35792969f1d3b028126cb340d709a1fe9dfe7"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            8
+          ],
+          "sourceTextSha256": "a16f2f1045cb0b88cc7cfaf7e70ba8e65fe7b325df51fa5b5cf12f29a3ca575d",
+          "retainedTextSha256": "a16f2f1045cb0b88cc7cfaf7e70ba8e65fe7b325df51fa5b5cf12f29a3ca575d"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            9
+          ],
+          "sourceTextSha256": "a02d3b2ad298e2b93b2c5cf0a62d9a2516a564a54a74a0228e788e84c81a7a23",
+          "retainedTextSha256": "a02d3b2ad298e2b93b2c5cf0a62d9a2516a564a54a74a0228e788e84c81a7a23"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            10
+          ],
+          "sourceTextSha256": "19e07cfcf61377e533d39bf1ce3a1befe6248d9ca681ef62e47d1e6b8b8343b7",
+          "retainedTextSha256": "19e07cfcf61377e533d39bf1ce3a1befe6248d9ca681ef62e47d1e6b8b8343b7"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            11
+          ],
+          "sourceTextSha256": "f984a4fad4b59e1aa8912186a675102c5911186eba55f4452f71bc3742265407",
+          "retainedTextSha256": "f984a4fad4b59e1aa8912186a675102c5911186eba55f4452f71bc3742265407"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            12
+          ],
+          "sourceTextSha256": "2972512983a6deeac2cf33941853d7c3b39a430664c94d9c2d03ed9fce6af41d",
+          "retainedTextSha256": "2972512983a6deeac2cf33941853d7c3b39a430664c94d9c2d03ed9fce6af41d"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            13
+          ],
+          "sourceTextSha256": "ca26d1e1478a754b4fa481f7eab894e27520456ca75d686fdda6ae9b3070c407",
+          "retainedTextSha256": "ca26d1e1478a754b4fa481f7eab894e27520456ca75d686fdda6ae9b3070c407"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            14
+          ],
+          "sourceTextSha256": "9e074e82d7d7fdecc9ccf94ecb5fe87787b9f7447ce4697c125df39b08f11288",
+          "retainedTextSha256": "9e074e82d7d7fdecc9ccf94ecb5fe87787b9f7447ce4697c125df39b08f11288"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            15
+          ],
+          "sourceTextSha256": "9c2bf54cb301968ecba9f7bd0c5f927a935cf80442fc125f951b5987980204c0",
+          "retainedTextSha256": "9c2bf54cb301968ecba9f7bd0c5f927a935cf80442fc125f951b5987980204c0"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            16
+          ],
+          "sourceTextSha256": "416cd3849c55bde69cc88c895d073449e9eebdcabe3c8e18e3dcbd64e82b6554",
+          "retainedTextSha256": "416cd3849c55bde69cc88c895d073449e9eebdcabe3c8e18e3dcbd64e82b6554"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            17
+          ],
+          "sourceTextSha256": "0782d7b9288cd17f3cde660f21b4af9e588ecffd3715c599aabe0404fa6f2805",
+          "retainedTextSha256": "0782d7b9288cd17f3cde660f21b4af9e588ecffd3715c599aabe0404fa6f2805"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            18
+          ],
+          "sourceTextSha256": "9db4fcca6c97bc7cd2d9e98f599ff59a592aa97ca88e0685bf845ee5c12a9269",
+          "retainedTextSha256": "9db4fcca6c97bc7cd2d9e98f599ff59a592aa97ca88e0685bf845ee5c12a9269"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            19
+          ],
+          "sourceTextSha256": "1edc5cca7e0dc46fd5a38bc87529bb9c16c88db2c769c4d763d481369571d07e",
+          "retainedTextSha256": "1edc5cca7e0dc46fd5a38bc87529bb9c16c88db2c769c4d763d481369571d07e"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            20
+          ],
+          "sourceTextSha256": "92a2a6ea5381b79ca6ab14d82158108af72b8fa8c7701682e51b4052f0af47cf",
+          "retainedTextSha256": "92a2a6ea5381b79ca6ab14d82158108af72b8fa8c7701682e51b4052f0af47cf"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            21
+          ],
+          "sourceTextSha256": "902dd42304d8897a84f9703ef2f337ef7479dd3392fa02489fd22e2f0708ce22",
+          "retainedTextSha256": "902dd42304d8897a84f9703ef2f337ef7479dd3392fa02489fd22e2f0708ce22"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            22
+          ],
+          "sourceTextSha256": "cf1a5d013eeadd4c53e1fd19bbef1d018caefa1d598b607a7e7225392e74f801",
+          "retainedTextSha256": "cf1a5d013eeadd4c53e1fd19bbef1d018caefa1d598b607a7e7225392e74f801"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            23
+          ],
+          "sourceTextSha256": "243579f33e5fdd1f28e5c93ffdbcbf87026b8c5b90382b73d099a221504d9c91",
+          "retainedTextSha256": "243579f33e5fdd1f28e5c93ffdbcbf87026b8c5b90382b73d099a221504d9c91"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            24
+          ],
+          "sourceTextSha256": "d9432688444fa86ab481216d74b2fcba08c93eb54e5112f37c6b2347fe52a13c",
+          "retainedTextSha256": "d9432688444fa86ab481216d74b2fcba08c93eb54e5112f37c6b2347fe52a13c"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            25
+          ],
+          "sourceTextSha256": "690ccb905ce85cc58c8e92ac3a5ea30a7d5bee2b7e100f6a0d8a5c332f88da15",
+          "retainedTextSha256": "690ccb905ce85cc58c8e92ac3a5ea30a7d5bee2b7e100f6a0d8a5c332f88da15"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            26
+          ],
+          "sourceTextSha256": "5aff4b83a17ff45a7e994200622a86d22ae07b7e0b5f9c0e75d5c42868f3b763",
+          "retainedTextSha256": "5aff4b83a17ff45a7e994200622a86d22ae07b7e0b5f9c0e75d5c42868f3b763"
+        },
+        {
+          "paragraph": 27,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            27
+          ],
+          "sourceTextSha256": "cd6ddba7421db1590768efb4cce160def4260a857f68a0a662293d2a3f904e52",
+          "retainedTextSha256": "cd6ddba7421db1590768efb4cce160def4260a857f68a0a662293d2a3f904e52"
+        },
+        {
+          "paragraph": 28,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            28
+          ],
+          "sourceTextSha256": "4c4062cc60acf00aca26867db61fc6c35b36f72c91dc35c30abf938e4d6cd754",
+          "retainedTextSha256": "4c4062cc60acf00aca26867db61fc6c35b36f72c91dc35c30abf938e4d6cd754"
+        },
+        {
+          "paragraph": 29,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            29
+          ],
+          "sourceTextSha256": "12ff6c74427a7eba1fc664ae262b394357c7b806812737ea26dcc54998a4122c",
+          "retainedTextSha256": "12ff6c74427a7eba1fc664ae262b394357c7b806812737ea26dcc54998a4122c"
+        },
+        {
+          "paragraph": 30,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            30
+          ],
+          "sourceTextSha256": "c3d08df4f35b8a1cd4e4396cc1326d9e6a99568338328102ae4d35cf661ab0a1",
+          "retainedTextSha256": "c3d08df4f35b8a1cd4e4396cc1326d9e6a99568338328102ae4d35cf661ab0a1"
+        },
+        {
+          "paragraph": 31,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            31
+          ],
+          "sourceTextSha256": "322734fda2b0e28f2912be26fb006290c1ed0639b75f3cfb4639b965734632bd",
+          "retainedTextSha256": "322734fda2b0e28f2912be26fb006290c1ed0639b75f3cfb4639b965734632bd"
+        },
+        {
+          "paragraph": 32,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            32
+          ],
+          "sourceTextSha256": "b8b5ba536b11541c671a8240ff87da7b1f41644836f88634d9e71af448499c6f",
+          "retainedTextSha256": "b8b5ba536b11541c671a8240ff87da7b1f41644836f88634d9e71af448499c6f"
+        },
+        {
+          "paragraph": 33,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            33
+          ],
+          "sourceTextSha256": "766af9b45e689d2d2141c1d42270b59ead0bcc9e6e9b725a072e4d8a33e97b98",
+          "retainedTextSha256": "766af9b45e689d2d2141c1d42270b59ead0bcc9e6e9b725a072e4d8a33e97b98"
+        },
+        {
+          "paragraph": 34,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            34
+          ],
+          "sourceTextSha256": "7916aafdae4a213b1110f118356be557e5c4ca4c0f400312eb70b9b87ce131f6",
+          "retainedTextSha256": "7916aafdae4a213b1110f118356be557e5c4ca4c0f400312eb70b9b87ce131f6"
+        },
+        {
+          "paragraph": 35,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            35
+          ],
+          "sourceTextSha256": "2eeca288bc4f237aadfaaff170de9446d45605c0ed13631f4e65e2933c4da3a8",
+          "retainedTextSha256": "2eeca288bc4f237aadfaaff170de9446d45605c0ed13631f4e65e2933c4da3a8"
+        },
+        {
+          "paragraph": 36,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            36
+          ],
+          "sourceTextSha256": "59eca846ea4dde06e2a222f631e2506099555c648ec298f7355ee7e9c0ed14f1",
+          "retainedTextSha256": "59eca846ea4dde06e2a222f631e2506099555c648ec298f7355ee7e9c0ed14f1"
+        },
+        {
+          "paragraph": 37,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            37
+          ],
+          "sourceTextSha256": "bc9d2c69df3c287e5f42a15e4e550e8f499e4fa2ed7556a6f984194d8995c074",
+          "retainedTextSha256": "bc9d2c69df3c287e5f42a15e4e550e8f499e4fa2ed7556a6f984194d8995c074"
+        },
+        {
+          "paragraph": 38,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            38
+          ],
+          "sourceTextSha256": "93f28915a72b53f31b488fcbb19a128c65f08e47311df973cbf8a81810500c27",
+          "retainedTextSha256": "93f28915a72b53f31b488fcbb19a128c65f08e47311df973cbf8a81810500c27"
+        },
+        {
+          "paragraph": 39,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            39
+          ],
+          "sourceTextSha256": "7ac72249834c6eff5df85f3d9233dd743dcec60be76d3f924f24a02a19a59a46",
+          "retainedTextSha256": "7ac72249834c6eff5df85f3d9233dd743dcec60be76d3f924f24a02a19a59a46"
+        },
+        {
+          "paragraph": 40,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "Introduction",
+            40
+          ],
+          "sourceTextSha256": "29da081da9a62df43277d4a9d51c339eb3703c11d502a629a379d7ae65d6f90a",
+          "retainedTextSha256": "29da081da9a62df43277d4a9d51c339eb3703c11d502a629a379d7ae65d6f90a"
+        }
+      ],
+      "payloadSha256": "babe9ad3aba1a2290be16ca0dc3ae0958585d0e72f89dccd71ef114d743d0268"
+    },
+    {
+      "chapter": 9,
+      "label": "Third Treatise on Service of God · 1",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        1
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            1,
+            1
+          ],
+          "sourceTextSha256": "92273f72ad6e5770c4893dedc8e01fd8cb6b335835f43111e9ddf35044bcbf6d",
+          "retainedTextSha256": "92273f72ad6e5770c4893dedc8e01fd8cb6b335835f43111e9ddf35044bcbf6d"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            1,
+            2
+          ],
+          "sourceTextSha256": "4cde04811c0e6d6e64c6e6f62761b27ac78e278487881e4df9631d137761b701",
+          "retainedTextSha256": "2646c5a5661370e40bcf9a7250c3547f464fb429eed190459aab2ba7f24b2728"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            1,
+            3
+          ],
+          "sourceTextSha256": "276496fe474545fa59c174498ec7788a58839bebe5c6f6bb79cf43ace68970df",
+          "retainedTextSha256": "276496fe474545fa59c174498ec7788a58839bebe5c6f6bb79cf43ace68970df"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            1,
+            4
+          ],
+          "sourceTextSha256": "e35011374e246a9e54891556ac668de194bdbb27611ab8a2bc01dee761143c4f",
+          "retainedTextSha256": "e35011374e246a9e54891556ac668de194bdbb27611ab8a2bc01dee761143c4f"
+        }
+      ],
+      "payloadSha256": "ebdc7dc757ff5f19236e4cc3587c479fe2d65d35b7cdd0734850fd2950c8ccda"
+    },
+    {
+      "chapter": 10,
+      "label": "Third Treatise on Service of God · 2",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        2
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            1
+          ],
+          "sourceTextSha256": "f647c7658b1aa1505500e3a572f212fab8f1917d09066b3515fdfa5d90002326",
+          "retainedTextSha256": "f647c7658b1aa1505500e3a572f212fab8f1917d09066b3515fdfa5d90002326"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            2
+          ],
+          "sourceTextSha256": "b37f1eba60dbd2b3330393235e08398b75c143bef11f4031db1bd38f29194360",
+          "retainedTextSha256": "b37f1eba60dbd2b3330393235e08398b75c143bef11f4031db1bd38f29194360"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            3
+          ],
+          "sourceTextSha256": "9d7768796d69c2972a136b6c227f4845d68815ffa05d0148e1174e767f87c1b3",
+          "retainedTextSha256": "9d7768796d69c2972a136b6c227f4845d68815ffa05d0148e1174e767f87c1b3"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            4
+          ],
+          "sourceTextSha256": "6d2ca9181eee9877ec722b317438546097d43ba0ea8990af26293aa922b81c86",
+          "retainedTextSha256": "6d2ca9181eee9877ec722b317438546097d43ba0ea8990af26293aa922b81c86"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            5
+          ],
+          "sourceTextSha256": "c64bea18c3291f53bad79ec239f3cea9f86356e402c21af54a3a920548f878da",
+          "retainedTextSha256": "c64bea18c3291f53bad79ec239f3cea9f86356e402c21af54a3a920548f878da"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            6
+          ],
+          "sourceTextSha256": "6d15c16a249d6e4f6d7d42ae612680dbfa90b3bc7b62a5535ede9e3ecd69f2bf",
+          "retainedTextSha256": "6d15c16a249d6e4f6d7d42ae612680dbfa90b3bc7b62a5535ede9e3ecd69f2bf"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            7
+          ],
+          "sourceTextSha256": "8f4e5e5ff5af8555681ff23a52557a37e4cff36ff812dde7c97215bf6648e8cd",
+          "retainedTextSha256": "8f4e5e5ff5af8555681ff23a52557a37e4cff36ff812dde7c97215bf6648e8cd"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            8
+          ],
+          "sourceTextSha256": "8d4b3f7fc683961c414486c9a677db77e9a3351ebb68eded205d15e7c0c0f7dc",
+          "retainedTextSha256": "8d4b3f7fc683961c414486c9a677db77e9a3351ebb68eded205d15e7c0c0f7dc"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            9
+          ],
+          "sourceTextSha256": "5e2ebabdc49822095f967baf9cd328b8c6c4afd34130a69f4e8dd67539bd6d7c",
+          "retainedTextSha256": "5e2ebabdc49822095f967baf9cd328b8c6c4afd34130a69f4e8dd67539bd6d7c"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            10
+          ],
+          "sourceTextSha256": "da26f11e5691dabb4c92ce22da217553c45e223c6fb000d18373ffea7c069fbb",
+          "retainedTextSha256": "da26f11e5691dabb4c92ce22da217553c45e223c6fb000d18373ffea7c069fbb"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            2,
+            11
+          ],
+          "sourceTextSha256": "ac02eb3b9bf166f0453130b25e68ab78fc4eefd8397ee758ec82e4fdf12a9927",
+          "retainedTextSha256": "ac02eb3b9bf166f0453130b25e68ab78fc4eefd8397ee758ec82e4fdf12a9927"
+        }
+      ],
+      "payloadSha256": "9150eb709c99eed6af43e458c14dafc777058e624b6de09a2aabc81ef1d4b32d"
+    },
+    {
+      "chapter": 11,
+      "label": "Third Treatise on Service of God · 3",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        3
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            1
+          ],
+          "sourceTextSha256": "65c3d3fbc8bced7c594316fa12d2f49733812cee3ab1f22bd4e2aed084d9a9b6",
+          "retainedTextSha256": "65c3d3fbc8bced7c594316fa12d2f49733812cee3ab1f22bd4e2aed084d9a9b6"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            2
+          ],
+          "sourceTextSha256": "04708525fc3b6bdf2231a14a6e5dda2cbbe36a264cb1a52128e19c3b35db574b",
+          "retainedTextSha256": "04708525fc3b6bdf2231a14a6e5dda2cbbe36a264cb1a52128e19c3b35db574b"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            3
+          ],
+          "sourceTextSha256": "85e806edede3ea2811b25b26fec861aab58083439ca213b9f9332553e7879713",
+          "retainedTextSha256": "85e806edede3ea2811b25b26fec861aab58083439ca213b9f9332553e7879713"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            4
+          ],
+          "sourceTextSha256": "21de55bee4beb742b14acc2a6cfeda5e3d4f5f546312d8e2ffa47005e75cf30f",
+          "retainedTextSha256": "21de55bee4beb742b14acc2a6cfeda5e3d4f5f546312d8e2ffa47005e75cf30f"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            5
+          ],
+          "sourceTextSha256": "4036346f4966794740ec82ff50c5e6320a0818161aa0f22e7b5561e098a9ab11",
+          "retainedTextSha256": "4036346f4966794740ec82ff50c5e6320a0818161aa0f22e7b5561e098a9ab11"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            6
+          ],
+          "sourceTextSha256": "cfd6d6217a1cd3868e7e1214faaa45408e5b082ff4fb379e0486442c8230a8f2",
+          "retainedTextSha256": "cfd6d6217a1cd3868e7e1214faaa45408e5b082ff4fb379e0486442c8230a8f2"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            7
+          ],
+          "sourceTextSha256": "c3feca153fe3c9c9d303ee116129c727f327bfce3e2ab98014c515ca2f9a6b7e",
+          "retainedTextSha256": "c3feca153fe3c9c9d303ee116129c727f327bfce3e2ab98014c515ca2f9a6b7e"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            8
+          ],
+          "sourceTextSha256": "fb708933bca9ad5abcc2273d5026adfe3a2f578ee9bdf3665d274b6d795ba634",
+          "retainedTextSha256": "fb708933bca9ad5abcc2273d5026adfe3a2f578ee9bdf3665d274b6d795ba634"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            9
+          ],
+          "sourceTextSha256": "88b737ae8d6d56e1d194be29c15dfc7078d8d1ebc9aabfd71091d1a5c111d3df",
+          "retainedTextSha256": "88b737ae8d6d56e1d194be29c15dfc7078d8d1ebc9aabfd71091d1a5c111d3df"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            10
+          ],
+          "sourceTextSha256": "9adda4fd789decb87ce68aa1740b606cfb0199241aa04640ffb76a81064f422d",
+          "retainedTextSha256": "9adda4fd789decb87ce68aa1740b606cfb0199241aa04640ffb76a81064f422d"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            11
+          ],
+          "sourceTextSha256": "2f6c4677da59afa612d5cbccb06b3f32a400529668131cb902cdbca9310d60d9",
+          "retainedTextSha256": "2f6c4677da59afa612d5cbccb06b3f32a400529668131cb902cdbca9310d60d9"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            12
+          ],
+          "sourceTextSha256": "35b713bac28e402957ba2da0692faa71e6c3e809aaea54ac7c80a3e4a675bf01",
+          "retainedTextSha256": "35b713bac28e402957ba2da0692faa71e6c3e809aaea54ac7c80a3e4a675bf01"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            13
+          ],
+          "sourceTextSha256": "c8fc670af6674a4831cbbdc281fcc87852c3e82ae5f6878e68e07783d5a128b2",
+          "retainedTextSha256": "c8fc670af6674a4831cbbdc281fcc87852c3e82ae5f6878e68e07783d5a128b2"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            14
+          ],
+          "sourceTextSha256": "016d5036a2027978b59be7de1a3867aa65159a2bd8994d143ab29324e20bc38e",
+          "retainedTextSha256": "016d5036a2027978b59be7de1a3867aa65159a2bd8994d143ab29324e20bc38e"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            15
+          ],
+          "sourceTextSha256": "71bc4e467b271d9e2d660aacec17fbd17d50557ec012adcd673f1652aa71fa83",
+          "retainedTextSha256": "71bc4e467b271d9e2d660aacec17fbd17d50557ec012adcd673f1652aa71fa83"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            16
+          ],
+          "sourceTextSha256": "5ea2b23178f15296ac04385d96e364a758e77474cb68035840c98fdca92150e8",
+          "retainedTextSha256": "5ea2b23178f15296ac04385d96e364a758e77474cb68035840c98fdca92150e8"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            17
+          ],
+          "sourceTextSha256": "71c0d01898c37855f6a4a433383b2a9c9d18b6ffa21670e27e34a8579e78630b",
+          "retainedTextSha256": "71c0d01898c37855f6a4a433383b2a9c9d18b6ffa21670e27e34a8579e78630b"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            18
+          ],
+          "sourceTextSha256": "4b44431cf49dfffa3242917ac07435052fe0eb7903a0dedd4f31c54efee9a1eb",
+          "retainedTextSha256": "4b44431cf49dfffa3242917ac07435052fe0eb7903a0dedd4f31c54efee9a1eb"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            19
+          ],
+          "sourceTextSha256": "9f7fe82e90c2e9259d479b0c779843092bf303e3a85b77654666a607991b49fe",
+          "retainedTextSha256": "9f7fe82e90c2e9259d479b0c779843092bf303e3a85b77654666a607991b49fe"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            20
+          ],
+          "sourceTextSha256": "fd57f2fe073f0aeb3dbf744951cc856ec8c772753550226eaa2cca3bb4674171",
+          "retainedTextSha256": "fd57f2fe073f0aeb3dbf744951cc856ec8c772753550226eaa2cca3bb4674171"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            21
+          ],
+          "sourceTextSha256": "b5a231bc7e12053fb3e88bb4cb8990fd17b928d08c145f3e93cf919e902a8b38",
+          "retainedTextSha256": "b5a231bc7e12053fb3e88bb4cb8990fd17b928d08c145f3e93cf919e902a8b38"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            22
+          ],
+          "sourceTextSha256": "5fb656d93569f9696c6a363cbaf950ce18cef76a5a311d0c279e34763bc18b65",
+          "retainedTextSha256": "5fb656d93569f9696c6a363cbaf950ce18cef76a5a311d0c279e34763bc18b65"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            23
+          ],
+          "sourceTextSha256": "cc7e627b0831cc9b32e0c67dfcb234bc57b76a0cb65bb55b0aa20d473b2b3791",
+          "retainedTextSha256": "cc7e627b0831cc9b32e0c67dfcb234bc57b76a0cb65bb55b0aa20d473b2b3791"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            24
+          ],
+          "sourceTextSha256": "ca1ed9ea7a4bc34a6a116123d682d8f5d6e86c4b0275a93b78a7bcfed99c86d0",
+          "retainedTextSha256": "ca1ed9ea7a4bc34a6a116123d682d8f5d6e86c4b0275a93b78a7bcfed99c86d0"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            25
+          ],
+          "sourceTextSha256": "04d219244c82248cf49fe396c1ca0cfab6661135dc6a6af17d7ae000061e64e2",
+          "retainedTextSha256": "04d219244c82248cf49fe396c1ca0cfab6661135dc6a6af17d7ae000061e64e2"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            26
+          ],
+          "sourceTextSha256": "0dfd3ba02e23f12874a1dc144692980e7dca4540999809e3ee74670e6d596261",
+          "retainedTextSha256": "0dfd3ba02e23f12874a1dc144692980e7dca4540999809e3ee74670e6d596261"
+        },
+        {
+          "paragraph": 27,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            27
+          ],
+          "sourceTextSha256": "8f67f1907db55e1c6be9f52898c9747d664690154b2bccf5876b98f84273d301",
+          "retainedTextSha256": "8f67f1907db55e1c6be9f52898c9747d664690154b2bccf5876b98f84273d301"
+        },
+        {
+          "paragraph": 28,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            3,
+            28
+          ],
+          "sourceTextSha256": "6568c6494570aea196dcd5d6a7c75e2633ee3b7e932e21ba2b62bba952d5ea67",
+          "retainedTextSha256": "6568c6494570aea196dcd5d6a7c75e2633ee3b7e932e21ba2b62bba952d5ea67"
+        }
+      ],
+      "payloadSha256": "0607ea68108c3586f6a7e8210c855846b3c2401988b6ea8692d5cf2403a77854"
+    },
+    {
+      "chapter": 12,
+      "label": "Third Treatise on Service of God · 4",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        4
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            1
+          ],
+          "sourceTextSha256": "40ee642975d0f7000f62bc1f492f78ac5b6e51911695c92712c5ac07ab58907f",
+          "retainedTextSha256": "40ee642975d0f7000f62bc1f492f78ac5b6e51911695c92712c5ac07ab58907f"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            2
+          ],
+          "sourceTextSha256": "ce659083e70a1be47ef1f195adab475b4392234cbf4ea13fb4f2942de91983ad",
+          "retainedTextSha256": "ce659083e70a1be47ef1f195adab475b4392234cbf4ea13fb4f2942de91983ad"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            3
+          ],
+          "sourceTextSha256": "8f460c47be8ac684d675ee3e7f8170137bcc86632c5d9f278507d0a531b24e02",
+          "retainedTextSha256": "8f460c47be8ac684d675ee3e7f8170137bcc86632c5d9f278507d0a531b24e02"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            4
+          ],
+          "sourceTextSha256": "cfbd18a3d2ba725683653bfa8f9bd8de64236eee8fc71d38b2edc85e4afbbb65",
+          "retainedTextSha256": "cfbd18a3d2ba725683653bfa8f9bd8de64236eee8fc71d38b2edc85e4afbbb65"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            5
+          ],
+          "sourceTextSha256": "cc0ef5e69da31ae375796265121a745ddfde462ebab79e1aaa09aeb8740c1761",
+          "retainedTextSha256": "cc0ef5e69da31ae375796265121a745ddfde462ebab79e1aaa09aeb8740c1761"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            6
+          ],
+          "sourceTextSha256": "66386350c795606cb767d628959f48183c5db0ad2393a454b05379d4bc72dc1a",
+          "retainedTextSha256": "66386350c795606cb767d628959f48183c5db0ad2393a454b05379d4bc72dc1a"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            7
+          ],
+          "sourceTextSha256": "ce4a17855c220e3439705f269e72c3f82da7b7506485fb5c2015b94192422c03",
+          "retainedTextSha256": "ce4a17855c220e3439705f269e72c3f82da7b7506485fb5c2015b94192422c03"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            8
+          ],
+          "sourceTextSha256": "fad80a1360fc20ab2739046b34f73d604f443e1c9f59a0dd8aa5ecfa80a94b1b",
+          "retainedTextSha256": "fad80a1360fc20ab2739046b34f73d604f443e1c9f59a0dd8aa5ecfa80a94b1b"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            9
+          ],
+          "sourceTextSha256": "238f55be9982c3118d7647d1c8b415d78c7f118dfe6c967718eac69ab7fd8b4f",
+          "retainedTextSha256": "238f55be9982c3118d7647d1c8b415d78c7f118dfe6c967718eac69ab7fd8b4f"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            10
+          ],
+          "sourceTextSha256": "51d6bc3e9bf4726d67e19b8c072750a43a799c9a5aa09fed86897cb92f2cf48a",
+          "retainedTextSha256": "51d6bc3e9bf4726d67e19b8c072750a43a799c9a5aa09fed86897cb92f2cf48a"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            11
+          ],
+          "sourceTextSha256": "35c163dd9cd3bd09b480ac50de8abb8f257488c21541bc9321a6bc2a3a335779",
+          "retainedTextSha256": "35c163dd9cd3bd09b480ac50de8abb8f257488c21541bc9321a6bc2a3a335779"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            12
+          ],
+          "sourceTextSha256": "780819c1e96cd379cd4372d067867df8c54356adf1a1838b7e4a33228e85c49f",
+          "retainedTextSha256": "780819c1e96cd379cd4372d067867df8c54356adf1a1838b7e4a33228e85c49f"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            13
+          ],
+          "sourceTextSha256": "f0dd414b79dda0201986e4a1a9ae1d39e55931310e706ee8c84ce00fc0a79dbf",
+          "retainedTextSha256": "f0dd414b79dda0201986e4a1a9ae1d39e55931310e706ee8c84ce00fc0a79dbf"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            14
+          ],
+          "sourceTextSha256": "42d7027380d39ad0b17a119cb8b8436a747d8d7a27560620e5bc320a724b792b",
+          "retainedTextSha256": "42d7027380d39ad0b17a119cb8b8436a747d8d7a27560620e5bc320a724b792b"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            15
+          ],
+          "sourceTextSha256": "3af27643aaac2e80cb7a14dd3c96dee6bb51ffc637e4e2fc6fd277f2b3d7ea34",
+          "retainedTextSha256": "3af27643aaac2e80cb7a14dd3c96dee6bb51ffc637e4e2fc6fd277f2b3d7ea34"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            16
+          ],
+          "sourceTextSha256": "2afb051e529f0798dc0180b132e185bff60e27ebf7bf42e0d3a717c65a1c3e71",
+          "retainedTextSha256": "2afb051e529f0798dc0180b132e185bff60e27ebf7bf42e0d3a717c65a1c3e71"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            17
+          ],
+          "sourceTextSha256": "a4826f906912ccc93f825822bebb8fc008bc2b46cc8e27035ce40690111868fd",
+          "retainedTextSha256": "a4826f906912ccc93f825822bebb8fc008bc2b46cc8e27035ce40690111868fd"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            18
+          ],
+          "sourceTextSha256": "ed41fc336edce3b0d5d91e56136154e1f9b29c34c42e663ac8538b791e2eaec5",
+          "retainedTextSha256": "ed41fc336edce3b0d5d91e56136154e1f9b29c34c42e663ac8538b791e2eaec5"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            19
+          ],
+          "sourceTextSha256": "b57486ff6f1c81acda122923adad86becbf19b1c169fcc5228514815b31a9058",
+          "retainedTextSha256": "b57486ff6f1c81acda122923adad86becbf19b1c169fcc5228514815b31a9058"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            20
+          ],
+          "sourceTextSha256": "e0a363bf03700617939418f5efe20e751400bc25f3e1c0b34cb94d033871459d",
+          "retainedTextSha256": "e0a363bf03700617939418f5efe20e751400bc25f3e1c0b34cb94d033871459d"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            21
+          ],
+          "sourceTextSha256": "438c2f49f28db21a2b14024029d81b23d7ab742f4aebe1920c63a7382e6c2ca4",
+          "retainedTextSha256": "438c2f49f28db21a2b14024029d81b23d7ab742f4aebe1920c63a7382e6c2ca4"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            22
+          ],
+          "sourceTextSha256": "e4cbe861091882aaf433867e8d3a47f50311da1300baab767478be5d2ef318de",
+          "retainedTextSha256": "e4cbe861091882aaf433867e8d3a47f50311da1300baab767478be5d2ef318de"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            23
+          ],
+          "sourceTextSha256": "8eae411bd7d5ad5136b05136a677f1ca5ae7150524619cd04bb1b37e5e1ea3ed",
+          "retainedTextSha256": "8eae411bd7d5ad5136b05136a677f1ca5ae7150524619cd04bb1b37e5e1ea3ed"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            24
+          ],
+          "sourceTextSha256": "404741c42716bfaff460b191f552787b04c6e7d4267b1484f0686758ffc535d5",
+          "retainedTextSha256": "404741c42716bfaff460b191f552787b04c6e7d4267b1484f0686758ffc535d5"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            25
+          ],
+          "sourceTextSha256": "66dff079981c72f40029cdb75138a34f7e5d20ecd48bbd7f4a0bcfcef2f304e3",
+          "retainedTextSha256": "66dff079981c72f40029cdb75138a34f7e5d20ecd48bbd7f4a0bcfcef2f304e3"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            26
+          ],
+          "sourceTextSha256": "d2eb6b0ec9eb4fc707c898723925753ddde296b9cdcb98e96fd50678dce3d0aa",
+          "retainedTextSha256": "d2eb6b0ec9eb4fc707c898723925753ddde296b9cdcb98e96fd50678dce3d0aa"
+        },
+        {
+          "paragraph": 27,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            27
+          ],
+          "sourceTextSha256": "b11b2df2c04456ea17069c31d83ef5bf5a9059ea884e22ff0901b6da8d4f3cfb",
+          "retainedTextSha256": "b11b2df2c04456ea17069c31d83ef5bf5a9059ea884e22ff0901b6da8d4f3cfb"
+        },
+        {
+          "paragraph": 28,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            28
+          ],
+          "sourceTextSha256": "c151962388011738c7d0143a51a9f69e9f349c22ae543cf83963cfa240b6729c",
+          "retainedTextSha256": "c151962388011738c7d0143a51a9f69e9f349c22ae543cf83963cfa240b6729c"
+        },
+        {
+          "paragraph": 29,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            29
+          ],
+          "sourceTextSha256": "2d9ed9afc1100f174f1864c746db60971fa08b3ac0cd80fe65c3227beb3bf8f8",
+          "retainedTextSha256": "2d9ed9afc1100f174f1864c746db60971fa08b3ac0cd80fe65c3227beb3bf8f8"
+        },
+        {
+          "paragraph": 30,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            30
+          ],
+          "sourceTextSha256": "b1219d7acd6cb6a59f9f67585800ac216fd02dcf3c84efdb34c35b073be41279",
+          "retainedTextSha256": "b1219d7acd6cb6a59f9f67585800ac216fd02dcf3c84efdb34c35b073be41279"
+        },
+        {
+          "paragraph": 31,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            31
+          ],
+          "sourceTextSha256": "68f2659eb2fc6a571f3d66d233dda462f1e3e13f487f7948a49ffc5570c1457e",
+          "retainedTextSha256": "68f2659eb2fc6a571f3d66d233dda462f1e3e13f487f7948a49ffc5570c1457e"
+        },
+        {
+          "paragraph": 32,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            32
+          ],
+          "sourceTextSha256": "28408c43842e5b6a269a6429970ec86645dd1b414cd92e488edd0dc2b1553b97",
+          "retainedTextSha256": "28408c43842e5b6a269a6429970ec86645dd1b414cd92e488edd0dc2b1553b97"
+        },
+        {
+          "paragraph": 33,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            33
+          ],
+          "sourceTextSha256": "40f73655547bd08cb3c7b84320b432840ea25351617a06f2d332d2a2e894440a",
+          "retainedTextSha256": "40f73655547bd08cb3c7b84320b432840ea25351617a06f2d332d2a2e894440a"
+        },
+        {
+          "paragraph": 34,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            34
+          ],
+          "sourceTextSha256": "40723db26c5fee41a65f0e84f95e3bc72cf6588367671dc8468bd54240ac26b6",
+          "retainedTextSha256": "40723db26c5fee41a65f0e84f95e3bc72cf6588367671dc8468bd54240ac26b6"
+        },
+        {
+          "paragraph": 35,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            35
+          ],
+          "sourceTextSha256": "9bf95ecaddbdf42b2a7bab27538250f2e0953bca3d70d5715c4377ce2fb11bfd",
+          "retainedTextSha256": "9bf95ecaddbdf42b2a7bab27538250f2e0953bca3d70d5715c4377ce2fb11bfd"
+        },
+        {
+          "paragraph": 36,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            36
+          ],
+          "sourceTextSha256": "d6bbe8f075cccdd60c7e4461f28fd412811056b5464497beae2f1c601c8e7753",
+          "retainedTextSha256": "d6bbe8f075cccdd60c7e4461f28fd412811056b5464497beae2f1c601c8e7753"
+        },
+        {
+          "paragraph": 37,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            37
+          ],
+          "sourceTextSha256": "a94bc1bbe57a9be840ec4af041293d117837e49574bb2acf9d366fe00eff6653",
+          "retainedTextSha256": "a94bc1bbe57a9be840ec4af041293d117837e49574bb2acf9d366fe00eff6653"
+        },
+        {
+          "paragraph": 38,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            38
+          ],
+          "sourceTextSha256": "1b76206ce5f949e191ba9ec3518cd9011cea1a881006c9e91bd5adfe770b72c7",
+          "retainedTextSha256": "1b76206ce5f949e191ba9ec3518cd9011cea1a881006c9e91bd5adfe770b72c7"
+        },
+        {
+          "paragraph": 39,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            39
+          ],
+          "sourceTextSha256": "408511e6580ce8d41d4c086ff319db37b1fa1b62db35f7c3b6d3bd1eb708168a",
+          "retainedTextSha256": "408511e6580ce8d41d4c086ff319db37b1fa1b62db35f7c3b6d3bd1eb708168a"
+        },
+        {
+          "paragraph": 40,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            40
+          ],
+          "sourceTextSha256": "58771b7d97066ad962a5faf3bfe335b4e75fc434a6a44d6df402857559aaa226",
+          "retainedTextSha256": "58771b7d97066ad962a5faf3bfe335b4e75fc434a6a44d6df402857559aaa226"
+        },
+        {
+          "paragraph": 41,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            41
+          ],
+          "sourceTextSha256": "c0d34e4cdec5cfebde1328cee4685be54339440087578af475ad12d85ec447c9",
+          "retainedTextSha256": "c0d34e4cdec5cfebde1328cee4685be54339440087578af475ad12d85ec447c9"
+        },
+        {
+          "paragraph": 42,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            42
+          ],
+          "sourceTextSha256": "9a53477d537096811a79f7ffea3025896bf5627cf0ab9ca22dbbbaa532885a9a",
+          "retainedTextSha256": "9a53477d537096811a79f7ffea3025896bf5627cf0ab9ca22dbbbaa532885a9a"
+        },
+        {
+          "paragraph": 43,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            43
+          ],
+          "sourceTextSha256": "eaef6fbe930af2476444f264edee9bfa8b32d1ae897700317790bc93c1b9cbf6",
+          "retainedTextSha256": "eaef6fbe930af2476444f264edee9bfa8b32d1ae897700317790bc93c1b9cbf6"
+        },
+        {
+          "paragraph": 44,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            44
+          ],
+          "sourceTextSha256": "31b9480894680f3ceeabbc87b3e8d229f1030b8e637511ae434f68cb7c686a4e",
+          "retainedTextSha256": "31b9480894680f3ceeabbc87b3e8d229f1030b8e637511ae434f68cb7c686a4e"
+        },
+        {
+          "paragraph": 45,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            45
+          ],
+          "sourceTextSha256": "7a05d1ade21eb7066636621785542aeb10f8b2556d6bd0cc0842d661647b8609",
+          "retainedTextSha256": "7a05d1ade21eb7066636621785542aeb10f8b2556d6bd0cc0842d661647b8609"
+        },
+        {
+          "paragraph": 46,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            46
+          ],
+          "sourceTextSha256": "be483d87c1f566784df3821b7933727fa59ca5223806a15397f9877acfa2eca2",
+          "retainedTextSha256": "be483d87c1f566784df3821b7933727fa59ca5223806a15397f9877acfa2eca2"
+        },
+        {
+          "paragraph": 47,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            47
+          ],
+          "sourceTextSha256": "702b1db7832af189ddea492e62eae8c8eb48cc53123b915dab6b41cefaf50292",
+          "retainedTextSha256": "702b1db7832af189ddea492e62eae8c8eb48cc53123b915dab6b41cefaf50292"
+        },
+        {
+          "paragraph": 48,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            48
+          ],
+          "sourceTextSha256": "d0b148dd494321f50a302ec4203f5e8f2ca1c00f489a7e203acf10e6f86fcb98",
+          "retainedTextSha256": "d0b148dd494321f50a302ec4203f5e8f2ca1c00f489a7e203acf10e6f86fcb98"
+        },
+        {
+          "paragraph": 49,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            49
+          ],
+          "sourceTextSha256": "222e4c4ea538f8e2da9239141c6f91ac5446a0cd2b8636f778f00e512a1ecd76",
+          "retainedTextSha256": "222e4c4ea538f8e2da9239141c6f91ac5446a0cd2b8636f778f00e512a1ecd76"
+        },
+        {
+          "paragraph": 50,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            50
+          ],
+          "sourceTextSha256": "2bb82f7b147dd98ed7a6acbf95ac69bf91d5d18b3afa55be02da8770d8582056",
+          "retainedTextSha256": "2bb82f7b147dd98ed7a6acbf95ac69bf91d5d18b3afa55be02da8770d8582056"
+        },
+        {
+          "paragraph": 51,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            51
+          ],
+          "sourceTextSha256": "357a948ac1c224e819529bf08d3d2dcd4173d6407ca6dce826778d07882547cc",
+          "retainedTextSha256": "357a948ac1c224e819529bf08d3d2dcd4173d6407ca6dce826778d07882547cc"
+        },
+        {
+          "paragraph": 52,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            52
+          ],
+          "sourceTextSha256": "4b9cc2d7694de0539e556c52c3015188ecd7b61f0c2454f8298c87ad5563d676",
+          "retainedTextSha256": "4b9cc2d7694de0539e556c52c3015188ecd7b61f0c2454f8298c87ad5563d676"
+        },
+        {
+          "paragraph": 53,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            53
+          ],
+          "sourceTextSha256": "a6832c07de7f02264d78a3a7c148fadae4ac4fd59a8ac3237e0d820da1e85eba",
+          "retainedTextSha256": "a6832c07de7f02264d78a3a7c148fadae4ac4fd59a8ac3237e0d820da1e85eba"
+        },
+        {
+          "paragraph": 54,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            54
+          ],
+          "sourceTextSha256": "55fb157e8daf347760a2313177917d8d61fc862b3f9baf6ac2914bdb674f0c53",
+          "retainedTextSha256": "55fb157e8daf347760a2313177917d8d61fc862b3f9baf6ac2914bdb674f0c53"
+        },
+        {
+          "paragraph": 55,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            4,
+            55
+          ],
+          "sourceTextSha256": "9e7240cb97cfc398c69953de5ac10b586a915ac62d63deb5d2a0409ca33ff1f3",
+          "retainedTextSha256": "9e7240cb97cfc398c69953de5ac10b586a915ac62d63deb5d2a0409ca33ff1f3"
+        }
+      ],
+      "payloadSha256": "5adbd2424881ce3ebd4c69c224a1018bbba716fddaf98f3a45bdaccddb37946c"
+    },
+    {
+      "chapter": 13,
+      "label": "Third Treatise on Service of God · 5",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        5
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            1
+          ],
+          "sourceTextSha256": "642b18940b9df703fa95c8b2c31609cdaf589798380ca188104e7a5df6555f26",
+          "retainedTextSha256": "642b18940b9df703fa95c8b2c31609cdaf589798380ca188104e7a5df6555f26"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            2
+          ],
+          "sourceTextSha256": "08c6066a873e81c0dcae94ed8344e30d71b83582f67d0efe33db325390163cb2",
+          "retainedTextSha256": "08c6066a873e81c0dcae94ed8344e30d71b83582f67d0efe33db325390163cb2"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            3
+          ],
+          "sourceTextSha256": "dabfaba8e0129f3f908c321178fc7f090f1507a300af895a35bf08255a32455a",
+          "retainedTextSha256": "dabfaba8e0129f3f908c321178fc7f090f1507a300af895a35bf08255a32455a"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            4
+          ],
+          "sourceTextSha256": "0b2001b66a13bc07804068f31ad5d93c56116a4c293cb1eaab2be92990a47770",
+          "retainedTextSha256": "0b2001b66a13bc07804068f31ad5d93c56116a4c293cb1eaab2be92990a47770"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            5
+          ],
+          "sourceTextSha256": "0b0105ce40e51d91ef1ca4f95d8bae1d7c70e04e03b3487fa9dc6099e7bc8125",
+          "retainedTextSha256": "0b0105ce40e51d91ef1ca4f95d8bae1d7c70e04e03b3487fa9dc6099e7bc8125"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            6
+          ],
+          "sourceTextSha256": "51e8abdfe874a3cf678c0ae7d6658ca5620873714112fc748cc995827c15f33f",
+          "retainedTextSha256": "51e8abdfe874a3cf678c0ae7d6658ca5620873714112fc748cc995827c15f33f"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            7
+          ],
+          "sourceTextSha256": "4cb64ee6afcf11b0dd72e2f26969c3733800b99c21523b6ae5d6399efcb803d7",
+          "retainedTextSha256": "4cb64ee6afcf11b0dd72e2f26969c3733800b99c21523b6ae5d6399efcb803d7"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            8
+          ],
+          "sourceTextSha256": "d374db260882af9c1db2e9810a5fd9fc5e1ea739402f71a05b95083a91268188",
+          "retainedTextSha256": "d374db260882af9c1db2e9810a5fd9fc5e1ea739402f71a05b95083a91268188"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            9
+          ],
+          "sourceTextSha256": "5ca073ea33ec1b6b8b9eeba09acabfa1d8745f34fbbccbfcf093164e4ad73957",
+          "retainedTextSha256": "5ca073ea33ec1b6b8b9eeba09acabfa1d8745f34fbbccbfcf093164e4ad73957"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            10
+          ],
+          "sourceTextSha256": "4dd5209149cf3be65d785b77f517d2eb7e3102cb8e3307a54108ea338a637eb9",
+          "retainedTextSha256": "4dd5209149cf3be65d785b77f517d2eb7e3102cb8e3307a54108ea338a637eb9"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            11
+          ],
+          "sourceTextSha256": "16f1a20bb5864c9840724bc433eb67c61d089993b8a3c8861cc5d8b5720762a1",
+          "retainedTextSha256": "16f1a20bb5864c9840724bc433eb67c61d089993b8a3c8861cc5d8b5720762a1"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            12
+          ],
+          "sourceTextSha256": "ecb008bbe8959ce6aa70f1535b20d0870c0efa7f6d0b030fdff7e9cbff8a151c",
+          "retainedTextSha256": "ecb008bbe8959ce6aa70f1535b20d0870c0efa7f6d0b030fdff7e9cbff8a151c"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            13
+          ],
+          "sourceTextSha256": "19734098f1382724ca9fc52ad8c6c2a98d53f36c2f38b6fedea838cdd427f6ef",
+          "retainedTextSha256": "19734098f1382724ca9fc52ad8c6c2a98d53f36c2f38b6fedea838cdd427f6ef"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            14
+          ],
+          "sourceTextSha256": "3a08f68ea2d8f61c459db6f41d81eb274f85b7237f7163336c6f05fcffefef03",
+          "retainedTextSha256": "3a08f68ea2d8f61c459db6f41d81eb274f85b7237f7163336c6f05fcffefef03"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            15
+          ],
+          "sourceTextSha256": "efd5e4ba7f65c53bffe62d4dcd3cc5faf94715107c7c6e2637c75e11936b420e",
+          "retainedTextSha256": "efd5e4ba7f65c53bffe62d4dcd3cc5faf94715107c7c6e2637c75e11936b420e"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            16
+          ],
+          "sourceTextSha256": "01b4f51ee8c17cc7709708f46c8f3efb6e57d543f433c557cf79372ac85359b6",
+          "retainedTextSha256": "01b4f51ee8c17cc7709708f46c8f3efb6e57d543f433c557cf79372ac85359b6"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            17
+          ],
+          "sourceTextSha256": "d326126d00bb68152db9771dc3e25b035dd350388f79cd6ccbcb692d244506e4",
+          "retainedTextSha256": "d326126d00bb68152db9771dc3e25b035dd350388f79cd6ccbcb692d244506e4"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            18
+          ],
+          "sourceTextSha256": "f147855f9afc982d94a1257103a941dd97a05225c9291da98e430570fcfbf5e3",
+          "retainedTextSha256": "f147855f9afc982d94a1257103a941dd97a05225c9291da98e430570fcfbf5e3"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            19
+          ],
+          "sourceTextSha256": "9d2b1a102ffb700cf9d6f420b168ac730fc329ebd6c4a950f1f3a07a23a7e715",
+          "retainedTextSha256": "9d2b1a102ffb700cf9d6f420b168ac730fc329ebd6c4a950f1f3a07a23a7e715"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            20
+          ],
+          "sourceTextSha256": "b77a6d26a97eb9ab9e4e907fd5a517201040913c02915e97b36dee477d3f2eca",
+          "retainedTextSha256": "b77a6d26a97eb9ab9e4e907fd5a517201040913c02915e97b36dee477d3f2eca"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            21
+          ],
+          "sourceTextSha256": "ac9f36961072cafe03255df8181c49e5f281095ceb7ca0dda4bec3a6f123b97e",
+          "retainedTextSha256": "ac9f36961072cafe03255df8181c49e5f281095ceb7ca0dda4bec3a6f123b97e"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            22
+          ],
+          "sourceTextSha256": "3e06f6d1505d65e9c351a463ff37aa8be58f988469000191b3cefcbd9e32e630",
+          "retainedTextSha256": "3e06f6d1505d65e9c351a463ff37aa8be58f988469000191b3cefcbd9e32e630"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            23
+          ],
+          "sourceTextSha256": "b230f3c477a3ca9ad1e4e8844559dc020b3d5dc9aabce5df7a1f9c777267f4ce",
+          "retainedTextSha256": "b230f3c477a3ca9ad1e4e8844559dc020b3d5dc9aabce5df7a1f9c777267f4ce"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            24
+          ],
+          "sourceTextSha256": "c32b4d9b19a16be15668684ba110a1772ba638d379f85ee4985d6242c161366b",
+          "retainedTextSha256": "c32b4d9b19a16be15668684ba110a1772ba638d379f85ee4985d6242c161366b"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            25
+          ],
+          "sourceTextSha256": "598b900b3858e2418d7ffaa746cc9991dfc2e30e301ef41b4b4bf9153db8a0b5",
+          "retainedTextSha256": "598b900b3858e2418d7ffaa746cc9991dfc2e30e301ef41b4b4bf9153db8a0b5"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            26
+          ],
+          "sourceTextSha256": "98870dad7aac100535056862d63fa5dd0acbc9a50257f55eeadebcb7d090eceb",
+          "retainedTextSha256": "98870dad7aac100535056862d63fa5dd0acbc9a50257f55eeadebcb7d090eceb"
+        },
+        {
+          "paragraph": 27,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            27
+          ],
+          "sourceTextSha256": "1fa444a067886dafc65bfc2ece1a4a0e61e5e8db36b7f11ce1ed94e4c9063cb5",
+          "retainedTextSha256": "1fa444a067886dafc65bfc2ece1a4a0e61e5e8db36b7f11ce1ed94e4c9063cb5"
+        },
+        {
+          "paragraph": 28,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            28
+          ],
+          "sourceTextSha256": "85712ebbb15d2aa75ffef91db415bc876b113370d0fa14ce3d95359583a69c31",
+          "retainedTextSha256": "85712ebbb15d2aa75ffef91db415bc876b113370d0fa14ce3d95359583a69c31"
+        },
+        {
+          "paragraph": 29,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            29
+          ],
+          "sourceTextSha256": "dcebf6cccbebdc1e321e97fccd891dc77059a8c6c11ddf74b94f542c3a9891fd",
+          "retainedTextSha256": "dcebf6cccbebdc1e321e97fccd891dc77059a8c6c11ddf74b94f542c3a9891fd"
+        },
+        {
+          "paragraph": 30,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            30
+          ],
+          "sourceTextSha256": "2217ac5bd9941314abe70803ca70dc0ea1f550c0478eb1452a0c874404c5c842",
+          "retainedTextSha256": "2217ac5bd9941314abe70803ca70dc0ea1f550c0478eb1452a0c874404c5c842"
+        },
+        {
+          "paragraph": 31,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            31
+          ],
+          "sourceTextSha256": "b2cbaee05447dcfbf631916958badc0af6a4125b3fc2b7116a5b3a2982e45157",
+          "retainedTextSha256": "b2cbaee05447dcfbf631916958badc0af6a4125b3fc2b7116a5b3a2982e45157"
+        },
+        {
+          "paragraph": 32,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            32
+          ],
+          "sourceTextSha256": "73e633f90ee68b3ef9ec260d907310b7971c1c3af8922ebfe56f1c3a98b4283f",
+          "retainedTextSha256": "73e633f90ee68b3ef9ec260d907310b7971c1c3af8922ebfe56f1c3a98b4283f"
+        },
+        {
+          "paragraph": 33,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            33
+          ],
+          "sourceTextSha256": "05810c5d58463970b5a52b7ffde6698a9cb5a6995c59d2e000798b92b8964f85",
+          "retainedTextSha256": "05810c5d58463970b5a52b7ffde6698a9cb5a6995c59d2e000798b92b8964f85"
+        },
+        {
+          "paragraph": 34,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            34
+          ],
+          "sourceTextSha256": "6bfa3afe9569708703355dede14400f46fe192afc89e1af11a78e19c535dea8f",
+          "retainedTextSha256": "6bfa3afe9569708703355dede14400f46fe192afc89e1af11a78e19c535dea8f"
+        },
+        {
+          "paragraph": 35,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            35
+          ],
+          "sourceTextSha256": "9175e8f43276e308d6c9f917c360e3e97267627e1133c6688f5113cd1c50c136",
+          "retainedTextSha256": "9175e8f43276e308d6c9f917c360e3e97267627e1133c6688f5113cd1c50c136"
+        },
+        {
+          "paragraph": 36,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            36
+          ],
+          "sourceTextSha256": "b4764faf2d64427e2fef2939c93a7f8d8daabd42bd3a0b0671b867e4cd0d8fbe",
+          "retainedTextSha256": "b4764faf2d64427e2fef2939c93a7f8d8daabd42bd3a0b0671b867e4cd0d8fbe"
+        },
+        {
+          "paragraph": 37,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            37
+          ],
+          "sourceTextSha256": "0fcea11784ece0071391e0a7d293b7f41e236e5c1fedd7e058a266c221aab284",
+          "retainedTextSha256": "0fcea11784ece0071391e0a7d293b7f41e236e5c1fedd7e058a266c221aab284"
+        },
+        {
+          "paragraph": 38,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            38
+          ],
+          "sourceTextSha256": "b8fb0991717d5cea58dde48b6518ef258cef7c6d5b04919fc539d2c0f4352ed9",
+          "retainedTextSha256": "b8fb0991717d5cea58dde48b6518ef258cef7c6d5b04919fc539d2c0f4352ed9"
+        },
+        {
+          "paragraph": 39,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            39
+          ],
+          "sourceTextSha256": "e6d7556b20cccf0f0ecca9fed5c83c020dfd0c88fd2f82f51abf0c61c92f3bc4",
+          "retainedTextSha256": "e6d7556b20cccf0f0ecca9fed5c83c020dfd0c88fd2f82f51abf0c61c92f3bc4"
+        },
+        {
+          "paragraph": 40,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            40
+          ],
+          "sourceTextSha256": "1a5dbed1566c571a760deb5579e4718883b19a8fa3e79e93011bdc4dbce3f7d7",
+          "retainedTextSha256": "1a5dbed1566c571a760deb5579e4718883b19a8fa3e79e93011bdc4dbce3f7d7"
+        },
+        {
+          "paragraph": 41,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            41
+          ],
+          "sourceTextSha256": "5b244062fa9ab2d6937520bde38da8322aa18f6e4f6ca732f78b90ac33e9ec22",
+          "retainedTextSha256": "5b244062fa9ab2d6937520bde38da8322aa18f6e4f6ca732f78b90ac33e9ec22"
+        },
+        {
+          "paragraph": 42,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            42
+          ],
+          "sourceTextSha256": "824e0c0a38717d60a8cb652892a686cd3ffb2e8f7441afad355e9cccf3fd4383",
+          "retainedTextSha256": "824e0c0a38717d60a8cb652892a686cd3ffb2e8f7441afad355e9cccf3fd4383"
+        },
+        {
+          "paragraph": 43,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            43
+          ],
+          "sourceTextSha256": "aa29cd5c2bcdd58b029206b3af6f2528000d7ab379555c8e0ac9db3e03da8eb9",
+          "retainedTextSha256": "aa29cd5c2bcdd58b029206b3af6f2528000d7ab379555c8e0ac9db3e03da8eb9"
+        },
+        {
+          "paragraph": 44,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            44
+          ],
+          "sourceTextSha256": "ddaafa2eedf0b0c192ad2c4bfb5f67df2d717a39506f06829bc4082c1ec085b8",
+          "retainedTextSha256": "ddaafa2eedf0b0c192ad2c4bfb5f67df2d717a39506f06829bc4082c1ec085b8"
+        },
+        {
+          "paragraph": 45,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            45
+          ],
+          "sourceTextSha256": "d0c78088e049f6be678d6090faade883e2f81bb9c6f16145ae4cb79cb9f8f89a",
+          "retainedTextSha256": "d0c78088e049f6be678d6090faade883e2f81bb9c6f16145ae4cb79cb9f8f89a"
+        },
+        {
+          "paragraph": 46,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            46
+          ],
+          "sourceTextSha256": "55317d49f54de3a5100cacea99b8630ed30cdc2cea685bca70a47cee51fcc9cb",
+          "retainedTextSha256": "55317d49f54de3a5100cacea99b8630ed30cdc2cea685bca70a47cee51fcc9cb"
+        },
+        {
+          "paragraph": 47,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            47
+          ],
+          "sourceTextSha256": "f195df76d18d98f53328602f0df68f2fd6f5bba41bb46954449294bff58fe31e",
+          "retainedTextSha256": "f195df76d18d98f53328602f0df68f2fd6f5bba41bb46954449294bff58fe31e"
+        },
+        {
+          "paragraph": 48,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            48
+          ],
+          "sourceTextSha256": "0b09c8424a29e2846cfe6f0e799afbc4a08bbd86342ca1ff3a4277bf98f4b105",
+          "retainedTextSha256": "0b09c8424a29e2846cfe6f0e799afbc4a08bbd86342ca1ff3a4277bf98f4b105"
+        },
+        {
+          "paragraph": 49,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            49
+          ],
+          "sourceTextSha256": "d8d9d406ac4160edb81e69dc265714f0b75f7eaa0ee063954e40a554e615a6a4",
+          "retainedTextSha256": "d8d9d406ac4160edb81e69dc265714f0b75f7eaa0ee063954e40a554e615a6a4"
+        },
+        {
+          "paragraph": 50,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            50
+          ],
+          "sourceTextSha256": "6d2e53931a17202c31b4b7de416abe448a06ea043b371ed8ee5f2f17268ff186",
+          "retainedTextSha256": "6d2e53931a17202c31b4b7de416abe448a06ea043b371ed8ee5f2f17268ff186"
+        },
+        {
+          "paragraph": 51,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            51
+          ],
+          "sourceTextSha256": "2adf062cdf40a9e27545cb505645764fc567492401d157db178a0544c36b8a6c",
+          "retainedTextSha256": "2adf062cdf40a9e27545cb505645764fc567492401d157db178a0544c36b8a6c"
+        },
+        {
+          "paragraph": 52,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            52
+          ],
+          "sourceTextSha256": "a66073fc1ebd4560a92b934bc7e519e869c8728be1c70fb6e0f2cfa5c41f76bd",
+          "retainedTextSha256": "a66073fc1ebd4560a92b934bc7e519e869c8728be1c70fb6e0f2cfa5c41f76bd"
+        },
+        {
+          "paragraph": 53,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            53
+          ],
+          "sourceTextSha256": "dded1871404d14e3f0110bb5faeefc303239defc4d9f77a85677a556ac7766f2",
+          "retainedTextSha256": "dded1871404d14e3f0110bb5faeefc303239defc4d9f77a85677a556ac7766f2"
+        },
+        {
+          "paragraph": 54,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            5,
+            54
+          ],
+          "sourceTextSha256": "7ce6c35095cadd7fd5a10446784a33e7975309582b4ced790b9d0e5329a22b78",
+          "retainedTextSha256": "7ce6c35095cadd7fd5a10446784a33e7975309582b4ced790b9d0e5329a22b78"
+        }
+      ],
+      "payloadSha256": "3313a002a9c0f7be87dff6b7e8f24e472f74f5c5f985154816df1af05d456526"
+    },
+    {
+      "chapter": 14,
+      "label": "Third Treatise on Service of God · 6",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        6
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            1
+          ],
+          "sourceTextSha256": "68baaf1a1111c7000bd048e862540c43f2ca89bcbbfd589a8647166237ea3b2a",
+          "retainedTextSha256": "68baaf1a1111c7000bd048e862540c43f2ca89bcbbfd589a8647166237ea3b2a"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            2
+          ],
+          "sourceTextSha256": "deb30582c9108373e331df8bc9de0141de223d96eedeaf291b4ec694690a63ea",
+          "retainedTextSha256": "deb30582c9108373e331df8bc9de0141de223d96eedeaf291b4ec694690a63ea"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            3
+          ],
+          "sourceTextSha256": "4169ee4101efa5aa76e8005c0557e9bbc624073b03887f195dd8d7ab524664f0",
+          "retainedTextSha256": "4169ee4101efa5aa76e8005c0557e9bbc624073b03887f195dd8d7ab524664f0"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            4
+          ],
+          "sourceTextSha256": "fc9e1d86fa1679111016dc36c0f838ec9ca881cd852f0b30acc4be6c1b8643e2",
+          "retainedTextSha256": "fc9e1d86fa1679111016dc36c0f838ec9ca881cd852f0b30acc4be6c1b8643e2"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            5
+          ],
+          "sourceTextSha256": "785ed6a27f06f1cd6f8ca5bb9c1031eb51078ca5adadeb806df1ba23a790d1b3",
+          "retainedTextSha256": "785ed6a27f06f1cd6f8ca5bb9c1031eb51078ca5adadeb806df1ba23a790d1b3"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            6
+          ],
+          "sourceTextSha256": "75f8d9ac39116487715425c3113b7330e8bd7eb4708b232f4dcaee949782e00d",
+          "retainedTextSha256": "75f8d9ac39116487715425c3113b7330e8bd7eb4708b232f4dcaee949782e00d"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            7
+          ],
+          "sourceTextSha256": "13a6b8b564e0ecb1b5286caadda4bc58f45e237e5220c70488294e4ec5352844",
+          "retainedTextSha256": "13a6b8b564e0ecb1b5286caadda4bc58f45e237e5220c70488294e4ec5352844"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            8
+          ],
+          "sourceTextSha256": "da44b76eba3c6c507f22493f06fd05d0bdc970947192fc5d558fed27f9c2ab83",
+          "retainedTextSha256": "da44b76eba3c6c507f22493f06fd05d0bdc970947192fc5d558fed27f9c2ab83"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            9
+          ],
+          "sourceTextSha256": "4285332bf5277c476fdb5f3948c28ec9aa23141f4510fe9885fe864ec69c157b",
+          "retainedTextSha256": "4285332bf5277c476fdb5f3948c28ec9aa23141f4510fe9885fe864ec69c157b"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            10
+          ],
+          "sourceTextSha256": "6c1b68e3f39cbcbe116e1bb6c2960994c62f54e41f5308c947d74adbc83444ff",
+          "retainedTextSha256": "6c1b68e3f39cbcbe116e1bb6c2960994c62f54e41f5308c947d74adbc83444ff"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            11
+          ],
+          "sourceTextSha256": "3ec7c4419474c13e393f6914cf4821d86869b83facef890aac99cc3e1dba863a",
+          "retainedTextSha256": "3ec7c4419474c13e393f6914cf4821d86869b83facef890aac99cc3e1dba863a"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            12
+          ],
+          "sourceTextSha256": "a61a4b35afc88f71116a1cc25144c10b9a6fe1c5335f229b85d14dc2fda91375",
+          "retainedTextSha256": "a61a4b35afc88f71116a1cc25144c10b9a6fe1c5335f229b85d14dc2fda91375"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            13
+          ],
+          "sourceTextSha256": "5e8902d804be632ef31822b0d3e880d9c5b985eba302a29ec68b33cf5907e4f4",
+          "retainedTextSha256": "5e8902d804be632ef31822b0d3e880d9c5b985eba302a29ec68b33cf5907e4f4"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            14
+          ],
+          "sourceTextSha256": "ceee608bca352e0f80c40af7ba029ec58b0bd7ab15a307849ab40d4cfc0242d6",
+          "retainedTextSha256": "ceee608bca352e0f80c40af7ba029ec58b0bd7ab15a307849ab40d4cfc0242d6"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            15
+          ],
+          "sourceTextSha256": "e6e8b9b182dbfabac4dae3d2c43dd9f8243ab1edbf320922157db42533f377b4",
+          "retainedTextSha256": "e6e8b9b182dbfabac4dae3d2c43dd9f8243ab1edbf320922157db42533f377b4"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            16
+          ],
+          "sourceTextSha256": "674c3e4b5152efb039b8c21330923f5a093890916066b220ba1c5bd76cd41a54",
+          "retainedTextSha256": "674c3e4b5152efb039b8c21330923f5a093890916066b220ba1c5bd76cd41a54"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            17
+          ],
+          "sourceTextSha256": "71d1bb021ada7842ea052077110b86dd0b6ec324c4204afed498c7519497c54b",
+          "retainedTextSha256": "71d1bb021ada7842ea052077110b86dd0b6ec324c4204afed498c7519497c54b"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            18
+          ],
+          "sourceTextSha256": "60a9492c7127cb8921643f764c04390b2c23ef825c88243fd6ace23869e27956",
+          "retainedTextSha256": "60a9492c7127cb8921643f764c04390b2c23ef825c88243fd6ace23869e27956"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            6,
+            19
+          ],
+          "sourceTextSha256": "41e3b0d62652a5c91b63f95955218dc1d7910d3d2ea8a2116361d4787b837092",
+          "retainedTextSha256": "41e3b0d62652a5c91b63f95955218dc1d7910d3d2ea8a2116361d4787b837092"
+        }
+      ],
+      "payloadSha256": "7249808c36c72462e5703983bfa8c3fe86a724aa444b9096f47200b91d7a488b"
+    },
+    {
+      "chapter": 15,
+      "label": "Third Treatise on Service of God · 7",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        7
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            1
+          ],
+          "sourceTextSha256": "3bec9197c693302087d4ff3ff6ab855558ad7dd29377a9caf5eb2da0ec230f38",
+          "retainedTextSha256": "3bec9197c693302087d4ff3ff6ab855558ad7dd29377a9caf5eb2da0ec230f38"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            2
+          ],
+          "sourceTextSha256": "1b370be9a422256c57b4a0e7b731bbf2f969bd92fbe76debed722a1bf2e257ac",
+          "retainedTextSha256": "1b370be9a422256c57b4a0e7b731bbf2f969bd92fbe76debed722a1bf2e257ac"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            3
+          ],
+          "sourceTextSha256": "e1ab3fb38fb43c7d63ec8231014a7c1116a776d0f9ac2c2dab94720160e3c51b",
+          "retainedTextSha256": "e1ab3fb38fb43c7d63ec8231014a7c1116a776d0f9ac2c2dab94720160e3c51b"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            4
+          ],
+          "sourceTextSha256": "d52dc23bc099fa31591d1a70a177958c54669c13eed67cab7f87e6cd53f29aca",
+          "retainedTextSha256": "d52dc23bc099fa31591d1a70a177958c54669c13eed67cab7f87e6cd53f29aca"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            5
+          ],
+          "sourceTextSha256": "6964bc08a4140ef69cf003020e2a4dcb8e1cd3a670a45f87cbbd4fc051dae7c5",
+          "retainedTextSha256": "6964bc08a4140ef69cf003020e2a4dcb8e1cd3a670a45f87cbbd4fc051dae7c5"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            6
+          ],
+          "sourceTextSha256": "e75316e9d90bcc46a6a76dbd61c20c6cbbc91b39736729f4af7a4cce250193ef",
+          "retainedTextSha256": "e75316e9d90bcc46a6a76dbd61c20c6cbbc91b39736729f4af7a4cce250193ef"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            7
+          ],
+          "sourceTextSha256": "ff5c2a19994ad77df6cf0c40a185bbe6d889504cf4c1461ef203709b7a66d21b",
+          "retainedTextSha256": "ff5c2a19994ad77df6cf0c40a185bbe6d889504cf4c1461ef203709b7a66d21b"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            8
+          ],
+          "sourceTextSha256": "6c1f3102581d27c86160dff8f31d5919b39abae12ae410f0151c4e5dabb9d7e0",
+          "retainedTextSha256": "6c1f3102581d27c86160dff8f31d5919b39abae12ae410f0151c4e5dabb9d7e0"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            9
+          ],
+          "sourceTextSha256": "6b57bdbc00dd6eb145ddea8e185c591bbd36e703ed632190e19165795184d1d4",
+          "retainedTextSha256": "6b57bdbc00dd6eb145ddea8e185c591bbd36e703ed632190e19165795184d1d4"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            10
+          ],
+          "sourceTextSha256": "095b151cd6c340849912d72b5d4aacef85ca3b46df5fee9689d914d7e5b751c2",
+          "retainedTextSha256": "095b151cd6c340849912d72b5d4aacef85ca3b46df5fee9689d914d7e5b751c2"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            11
+          ],
+          "sourceTextSha256": "88743f621bf9e5a10139797cd6483ae76b49ff8cd09e43186c417ea148158935",
+          "retainedTextSha256": "88743f621bf9e5a10139797cd6483ae76b49ff8cd09e43186c417ea148158935"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            12
+          ],
+          "sourceTextSha256": "036f26bf93bdc5b071ad9aa50884605cc0fc4ac573d2cca316a4f79394f47a66",
+          "retainedTextSha256": "036f26bf93bdc5b071ad9aa50884605cc0fc4ac573d2cca316a4f79394f47a66"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            7,
+            13
+          ],
+          "sourceTextSha256": "58abb75f76a90936ffd343d4b58535d4b432d23ae6c20b8e9cbef4bd31dd661c",
+          "retainedTextSha256": "58abb75f76a90936ffd343d4b58535d4b432d23ae6c20b8e9cbef4bd31dd661c"
+        }
+      ],
+      "payloadSha256": "a754506b31183f0861e8b18c48daca076b8bb161f245c0beb48cb9432b9cf087"
+    },
+    {
+      "chapter": 16,
+      "label": "Third Treatise on Service of God · 8",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        8
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            1
+          ],
+          "sourceTextSha256": "3baeb35dde46af70dd1610d82b442d541b8867bc7fcec2982a45c467f98f461c",
+          "retainedTextSha256": "3baeb35dde46af70dd1610d82b442d541b8867bc7fcec2982a45c467f98f461c"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            2
+          ],
+          "sourceTextSha256": "0002012bc83bf6fc531782ef450ffc6e037c6afc30e268e3f8530732d8a6ec09",
+          "retainedTextSha256": "0002012bc83bf6fc531782ef450ffc6e037c6afc30e268e3f8530732d8a6ec09"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            3
+          ],
+          "sourceTextSha256": "d55d1586a77d99d15d70ca42bb81cd6e04b1a0913b9c60726d0b1116b6682066",
+          "retainedTextSha256": "d55d1586a77d99d15d70ca42bb81cd6e04b1a0913b9c60726d0b1116b6682066"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            4
+          ],
+          "sourceTextSha256": "7f80fc2bc0c07e98be5e281a23bf8e4ea24b024826541d91002c952aa8b8ae61",
+          "retainedTextSha256": "7f80fc2bc0c07e98be5e281a23bf8e4ea24b024826541d91002c952aa8b8ae61"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            5
+          ],
+          "sourceTextSha256": "22d209326d4dd1ffc153ac1c146054301ebdf69af8acd4ca988ff867cbce5562",
+          "retainedTextSha256": "22d209326d4dd1ffc153ac1c146054301ebdf69af8acd4ca988ff867cbce5562"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            6
+          ],
+          "sourceTextSha256": "9683a7b38d95296f21d7152eaf1baa1e886f08400b8ef782faa6da9966fd8190",
+          "retainedTextSha256": "9683a7b38d95296f21d7152eaf1baa1e886f08400b8ef782faa6da9966fd8190"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            7
+          ],
+          "sourceTextSha256": "b3afb64ecf28d4089753877ce83f3f1406326447490612c2a1bbfe9b67a84eb7",
+          "retainedTextSha256": "b3afb64ecf28d4089753877ce83f3f1406326447490612c2a1bbfe9b67a84eb7"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            8
+          ],
+          "sourceTextSha256": "4bc4ff499b0a734b5260b94641c2f1ae6751d36f90092c39c83670affa67852d",
+          "retainedTextSha256": "4bc4ff499b0a734b5260b94641c2f1ae6751d36f90092c39c83670affa67852d"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            9
+          ],
+          "sourceTextSha256": "f483d435bbd809522fe2094298cf189b3f7db8aee009f869cc13a9801256e5e8",
+          "retainedTextSha256": "f483d435bbd809522fe2094298cf189b3f7db8aee009f869cc13a9801256e5e8"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            10
+          ],
+          "sourceTextSha256": "72b8d5fc8d64eb266eece03f5eeca8b4b48225ae845561c5619877761e5d3fac",
+          "retainedTextSha256": "72b8d5fc8d64eb266eece03f5eeca8b4b48225ae845561c5619877761e5d3fac"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            11
+          ],
+          "sourceTextSha256": "bce17aa8b105ab3bee7dab88b702c321959fa8bab4cacfcbe8cba0184e922e84",
+          "retainedTextSha256": "bce17aa8b105ab3bee7dab88b702c321959fa8bab4cacfcbe8cba0184e922e84"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            12
+          ],
+          "sourceTextSha256": "52b70c3dff493aa2099631ad0cb04911e6d77e754f20450383cd9c80d4d78110",
+          "retainedTextSha256": "52b70c3dff493aa2099631ad0cb04911e6d77e754f20450383cd9c80d4d78110"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            13
+          ],
+          "sourceTextSha256": "d50641061e6e3d66d85528441ff1104c9e87f84db369702bc873438741a4c2e9",
+          "retainedTextSha256": "d50641061e6e3d66d85528441ff1104c9e87f84db369702bc873438741a4c2e9"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            14
+          ],
+          "sourceTextSha256": "6b52c4ccfe03bb3ee12108d538d901ae88272a3228fc9c5770e56a8d8d770eb9",
+          "retainedTextSha256": "6b52c4ccfe03bb3ee12108d538d901ae88272a3228fc9c5770e56a8d8d770eb9"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            15
+          ],
+          "sourceTextSha256": "0fa2b3ccea7309db30416543693d82aba8c2e7b92d224e72d52aaf1124c112d9",
+          "retainedTextSha256": "0fa2b3ccea7309db30416543693d82aba8c2e7b92d224e72d52aaf1124c112d9"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            16
+          ],
+          "sourceTextSha256": "c453ef6b72b9067d92943515d4cac09edd9526933993689cd1654d671b8d2479",
+          "retainedTextSha256": "c453ef6b72b9067d92943515d4cac09edd9526933993689cd1654d671b8d2479"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            17
+          ],
+          "sourceTextSha256": "866ad2dd6d9a74841c1d2c8a013cbd2dd3e2a9fa86c478d474f9256bc87aec1f",
+          "retainedTextSha256": "866ad2dd6d9a74841c1d2c8a013cbd2dd3e2a9fa86c478d474f9256bc87aec1f"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            18
+          ],
+          "sourceTextSha256": "7dfb859d7fd9ec54fa7193ae09753902c21e057bf2d1567392a0bd105ed19e41",
+          "retainedTextSha256": "7dfb859d7fd9ec54fa7193ae09753902c21e057bf2d1567392a0bd105ed19e41"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            19
+          ],
+          "sourceTextSha256": "c68a30f910963708cd2d740bb9c1d1d3396d2b2b9fb5c9daea9e275559982ca8",
+          "retainedTextSha256": "c68a30f910963708cd2d740bb9c1d1d3396d2b2b9fb5c9daea9e275559982ca8"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            20
+          ],
+          "sourceTextSha256": "fc0a1d9010f8e1c04fc3de2916f96af202ec4ca62eb462db7e70cdfcbc536d2c",
+          "retainedTextSha256": "fc0a1d9010f8e1c04fc3de2916f96af202ec4ca62eb462db7e70cdfcbc536d2c"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            8,
+            21
+          ],
+          "sourceTextSha256": "09f0403d88b998045c8ba272bebc98b94e9fd94188753ea9a0c7762971796128",
+          "retainedTextSha256": "09f0403d88b998045c8ba272bebc98b94e9fd94188753ea9a0c7762971796128"
+        }
+      ],
+      "payloadSha256": "dc78eb0f137c01c3327072091d52660be41a19f255fa54b3646f625445b8672f"
+    },
+    {
+      "chapter": 17,
+      "label": "Third Treatise on Service of God · 9",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        9
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            1
+          ],
+          "sourceTextSha256": "fa8369bc592dcd640526d320736959d16b1b61592058c724b9bc0fc50c5905b9",
+          "retainedTextSha256": "fa8369bc592dcd640526d320736959d16b1b61592058c724b9bc0fc50c5905b9"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            2
+          ],
+          "sourceTextSha256": "9bd2315ebc38403b820352ad9906f7d9a78d0f842040c828eb46b652195aef5d",
+          "retainedTextSha256": "9bd2315ebc38403b820352ad9906f7d9a78d0f842040c828eb46b652195aef5d"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            3
+          ],
+          "sourceTextSha256": "e79db52cd127b8d0f776ea86bee8b249b4043658046bba26d2045c2e4e219c4f",
+          "retainedTextSha256": "e79db52cd127b8d0f776ea86bee8b249b4043658046bba26d2045c2e4e219c4f"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            4
+          ],
+          "sourceTextSha256": "b9afb2031fdac3894602750b36210823d5252b279cf74f223415f85a8cd06116",
+          "retainedTextSha256": "b9afb2031fdac3894602750b36210823d5252b279cf74f223415f85a8cd06116"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            5
+          ],
+          "sourceTextSha256": "a5526cd1dee8ec280de030e98251cc7315c02d05a6a3ee8b31da05d5a30a1a15",
+          "retainedTextSha256": "a5526cd1dee8ec280de030e98251cc7315c02d05a6a3ee8b31da05d5a30a1a15"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            6
+          ],
+          "sourceTextSha256": "b054bb8b3bccce2634da99eb8b30533dfb62db661bd9301a8519aa0d373164d2",
+          "retainedTextSha256": "b054bb8b3bccce2634da99eb8b30533dfb62db661bd9301a8519aa0d373164d2"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            7
+          ],
+          "sourceTextSha256": "f9af64c55ce338aef994f13ab08b6cd7e14a31f012ebd93ca1a8ee1bbd6ea484",
+          "retainedTextSha256": "f9af64c55ce338aef994f13ab08b6cd7e14a31f012ebd93ca1a8ee1bbd6ea484"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            8
+          ],
+          "sourceTextSha256": "46d1cd5b3b01617607e01868dd49d7ff512c705a9b9b4a7a2b879cfe1ae0ce43",
+          "retainedTextSha256": "46d1cd5b3b01617607e01868dd49d7ff512c705a9b9b4a7a2b879cfe1ae0ce43"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            9
+          ],
+          "sourceTextSha256": "75e434b845d70d8041cf279fef29af30ff6f11ed4072c438a0baaeca1a1a6777",
+          "retainedTextSha256": "75e434b845d70d8041cf279fef29af30ff6f11ed4072c438a0baaeca1a1a6777"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            10
+          ],
+          "sourceTextSha256": "96cc113aa02e4e283daa50981ecafac0211bc565597f060d4bca71542a4596ae",
+          "retainedTextSha256": "96cc113aa02e4e283daa50981ecafac0211bc565597f060d4bca71542a4596ae"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            11
+          ],
+          "sourceTextSha256": "043056d0d17d630293c96b5cd4482eefbfe369dc1f624f16a22ef1bd4d388f8e",
+          "retainedTextSha256": "043056d0d17d630293c96b5cd4482eefbfe369dc1f624f16a22ef1bd4d388f8e"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            12
+          ],
+          "sourceTextSha256": "8a18144ad0f500c29366d29c0526991e0002b2fb9afefc042fc682c254e0ee01",
+          "retainedTextSha256": "8a18144ad0f500c29366d29c0526991e0002b2fb9afefc042fc682c254e0ee01"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            13
+          ],
+          "sourceTextSha256": "6a3e309031fe03b78ca9ec7900514c85c653dae8b59ada68524cacdc87632385",
+          "retainedTextSha256": "6a3e309031fe03b78ca9ec7900514c85c653dae8b59ada68524cacdc87632385"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            14
+          ],
+          "sourceTextSha256": "237988562b5b6db27fa7dd8c48c7dcb2b6144fa47881495702fd57147a1a3f41",
+          "retainedTextSha256": "237988562b5b6db27fa7dd8c48c7dcb2b6144fa47881495702fd57147a1a3f41"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            15
+          ],
+          "sourceTextSha256": "93f989dc7ee3ef63acdbf7dd5e23506b21cdab0794a8317873112a3a0a19aa20",
+          "retainedTextSha256": "93f989dc7ee3ef63acdbf7dd5e23506b21cdab0794a8317873112a3a0a19aa20"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            16
+          ],
+          "sourceTextSha256": "8d46b47660c3e12e10383240d4b80a705118fe5a6e7bc350d99316b6d852f2a8",
+          "retainedTextSha256": "8d46b47660c3e12e10383240d4b80a705118fe5a6e7bc350d99316b6d852f2a8"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            17
+          ],
+          "sourceTextSha256": "77b159e0ebd01656fd773d5abd00c9c2a015c51dea1996275b976836f58db15e",
+          "retainedTextSha256": "77b159e0ebd01656fd773d5abd00c9c2a015c51dea1996275b976836f58db15e"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            18
+          ],
+          "sourceTextSha256": "ce4d6211bd55c0e95a4cc2093a3d81e70b8261371b0b9bbfb36ecb3cc0892856",
+          "retainedTextSha256": "ce4d6211bd55c0e95a4cc2093a3d81e70b8261371b0b9bbfb36ecb3cc0892856"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            19
+          ],
+          "sourceTextSha256": "2140c5a8664b11f5d46c15ac16e5a3809bb16fad4d0fe8c99920e59a31694593",
+          "retainedTextSha256": "2140c5a8664b11f5d46c15ac16e5a3809bb16fad4d0fe8c99920e59a31694593"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            20
+          ],
+          "sourceTextSha256": "7818640841157c2476d138df74083f55b75d8cd2bdc07e943b2b73c3cda6f074",
+          "retainedTextSha256": "7818640841157c2476d138df74083f55b75d8cd2bdc07e943b2b73c3cda6f074"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            21
+          ],
+          "sourceTextSha256": "9f2bbcbcf0a080713c17408dfb247535b2fa576b2ce70e502955a92465c457a6",
+          "retainedTextSha256": "9f2bbcbcf0a080713c17408dfb247535b2fa576b2ce70e502955a92465c457a6"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            22
+          ],
+          "sourceTextSha256": "3e85b971a210d21af2bc3ad68f18e9c40a8f136935f2d50eaaee67ccd9a01b41",
+          "retainedTextSha256": "3e85b971a210d21af2bc3ad68f18e9c40a8f136935f2d50eaaee67ccd9a01b41"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            23
+          ],
+          "sourceTextSha256": "9bf4936762b6b295b2cdf1a79a84593c378b3ad3a257666a306bc6c928225217",
+          "retainedTextSha256": "9bf4936762b6b295b2cdf1a79a84593c378b3ad3a257666a306bc6c928225217"
+        },
+        {
+          "paragraph": 24,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            24
+          ],
+          "sourceTextSha256": "41776eac7f90d6f0f83071f8685efca2e0a55d5e56b40cebe64d01fbba4ad730",
+          "retainedTextSha256": "41776eac7f90d6f0f83071f8685efca2e0a55d5e56b40cebe64d01fbba4ad730"
+        },
+        {
+          "paragraph": 25,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            25
+          ],
+          "sourceTextSha256": "d2b2bfe816092eaf2a70592d12dbc7d8a7fd0a757ce4b1af5df42f199379e507",
+          "retainedTextSha256": "d2b2bfe816092eaf2a70592d12dbc7d8a7fd0a757ce4b1af5df42f199379e507"
+        },
+        {
+          "paragraph": 26,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            26
+          ],
+          "sourceTextSha256": "84143a616673eba17cd28a601183d0d68678f30507b1dbe787becf4323d85539",
+          "retainedTextSha256": "84143a616673eba17cd28a601183d0d68678f30507b1dbe787becf4323d85539"
+        },
+        {
+          "paragraph": 27,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            27
+          ],
+          "sourceTextSha256": "3c4f06df56c9c7c0f75a79bdaec3ee54f67374785e9fec878ae537da21fd8e39",
+          "retainedTextSha256": "3c4f06df56c9c7c0f75a79bdaec3ee54f67374785e9fec878ae537da21fd8e39"
+        },
+        {
+          "paragraph": 28,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            28
+          ],
+          "sourceTextSha256": "bc68b1bb118896a469418da7a0777843cbeac65c326aba9b386f3400f0900b7d",
+          "retainedTextSha256": "bc68b1bb118896a469418da7a0777843cbeac65c326aba9b386f3400f0900b7d"
+        },
+        {
+          "paragraph": 29,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            29
+          ],
+          "sourceTextSha256": "b966b6c6897251443f2bf272723ecfaa92e7177eb50cdcd44aa2ba8dc7fcf747",
+          "retainedTextSha256": "b966b6c6897251443f2bf272723ecfaa92e7177eb50cdcd44aa2ba8dc7fcf747"
+        },
+        {
+          "paragraph": 30,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            30
+          ],
+          "sourceTextSha256": "f92ba5a940f87fcd6e8c98262bb4efa31c74de783ef77414a294bebf5b744637",
+          "retainedTextSha256": "f92ba5a940f87fcd6e8c98262bb4efa31c74de783ef77414a294bebf5b744637"
+        },
+        {
+          "paragraph": 31,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            31
+          ],
+          "sourceTextSha256": "e1c1b5df375f56384b2ba18fe43b3823e51ee305a4c5d168c3fc8926acc7ae32",
+          "retainedTextSha256": "e1c1b5df375f56384b2ba18fe43b3823e51ee305a4c5d168c3fc8926acc7ae32"
+        },
+        {
+          "paragraph": 32,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            9,
+            32
+          ],
+          "sourceTextSha256": "a83367057a6614ca7be77a723d1f30070e3f280334e9e92e12ec3c645a11a4e0",
+          "retainedTextSha256": "a83367057a6614ca7be77a723d1f30070e3f280334e9e92e12ec3c645a11a4e0"
+        }
+      ],
+      "payloadSha256": "c4d5a0cacf581ba117bf7967dd691c8080d8ace9e39e163bea5e1e910cc4bc5a"
+    },
+    {
+      "chapter": 18,
+      "label": "Third Treatise on Service of God · 10",
+      "sourcePosition": [
+        "Third Treatise on Service of God",
+        "",
+        10
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            1
+          ],
+          "sourceTextSha256": "02f4cda2e1d2e63f441828bf30d375d0c29e55bd48b2d4cc4cb61242f5b634cf",
+          "retainedTextSha256": "02f4cda2e1d2e63f441828bf30d375d0c29e55bd48b2d4cc4cb61242f5b634cf"
+        },
+        {
+          "paragraph": 2,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            2
+          ],
+          "sourceTextSha256": "d0ead36d18de574037ce9b3a0ce1b45c18cbace3c86439361d0e9962956176a8",
+          "retainedTextSha256": "d0ead36d18de574037ce9b3a0ce1b45c18cbace3c86439361d0e9962956176a8"
+        },
+        {
+          "paragraph": 3,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            3
+          ],
+          "sourceTextSha256": "38b43c1eaab79ba6d0a3274ee23162d45714896e856534537cb3bf05f8fcd727",
+          "retainedTextSha256": "38b43c1eaab79ba6d0a3274ee23162d45714896e856534537cb3bf05f8fcd727"
+        },
+        {
+          "paragraph": 4,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            4
+          ],
+          "sourceTextSha256": "a0733a3944c8ddcc73ab54cdba4cba07dc4be7a0b12365485f23c88024914d37",
+          "retainedTextSha256": "a0733a3944c8ddcc73ab54cdba4cba07dc4be7a0b12365485f23c88024914d37"
+        },
+        {
+          "paragraph": 5,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            5
+          ],
+          "sourceTextSha256": "2b75c471d3a33aa744dc96a98d25d11527c26e56cfa071c3cda67970d1b77d0c",
+          "retainedTextSha256": "2b75c471d3a33aa744dc96a98d25d11527c26e56cfa071c3cda67970d1b77d0c"
+        },
+        {
+          "paragraph": 6,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            6
+          ],
+          "sourceTextSha256": "8325d7934b7605121ef9d130311b4eb2b382ca42afe54f64d2faabaa8757bb3f",
+          "retainedTextSha256": "8325d7934b7605121ef9d130311b4eb2b382ca42afe54f64d2faabaa8757bb3f"
+        },
+        {
+          "paragraph": 7,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            7
+          ],
+          "sourceTextSha256": "f0b09d6e6220a0728102c6b2e7d3fdd9c37ecf7b4e56bcf1a15215bc320bd42a",
+          "retainedTextSha256": "f0b09d6e6220a0728102c6b2e7d3fdd9c37ecf7b4e56bcf1a15215bc320bd42a"
+        },
+        {
+          "paragraph": 8,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            8
+          ],
+          "sourceTextSha256": "77569aa92818e64d449688fbf6ca3a84b354d90702e058ebe3cad209cf962fb7",
+          "retainedTextSha256": "77569aa92818e64d449688fbf6ca3a84b354d90702e058ebe3cad209cf962fb7"
+        },
+        {
+          "paragraph": 9,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            9
+          ],
+          "sourceTextSha256": "5804b738ad1c5f1caffd6244d9e5f4f02762ab817cebf6b4e91c0e9564a48b01",
+          "retainedTextSha256": "5804b738ad1c5f1caffd6244d9e5f4f02762ab817cebf6b4e91c0e9564a48b01"
+        },
+        {
+          "paragraph": 10,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            10
+          ],
+          "sourceTextSha256": "70c63dd9076d54390e33c2b7b4c56fb821ea0a9589059b09036e3ea900f8e250",
+          "retainedTextSha256": "70c63dd9076d54390e33c2b7b4c56fb821ea0a9589059b09036e3ea900f8e250"
+        },
+        {
+          "paragraph": 11,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            11
+          ],
+          "sourceTextSha256": "94a303b03b95f51d377c43f99121bde92fbcf45d8cb3054ff58419ea9073b980",
+          "retainedTextSha256": "94a303b03b95f51d377c43f99121bde92fbcf45d8cb3054ff58419ea9073b980"
+        },
+        {
+          "paragraph": 12,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            12
+          ],
+          "sourceTextSha256": "2e3abbf0edc6e42e58593a5f8d57464b349592f08c60ce3366e30346ddc3d56a",
+          "retainedTextSha256": "2e3abbf0edc6e42e58593a5f8d57464b349592f08c60ce3366e30346ddc3d56a"
+        },
+        {
+          "paragraph": 13,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            13
+          ],
+          "sourceTextSha256": "e57d45eae1bd2fc9fb562c771aa162efb6288ace0642d82cba355de234f6bc85",
+          "retainedTextSha256": "e57d45eae1bd2fc9fb562c771aa162efb6288ace0642d82cba355de234f6bc85"
+        },
+        {
+          "paragraph": 14,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            14
+          ],
+          "sourceTextSha256": "d76fa14c09856a0799a0239a6904a4b00626a932e3ea7b53b1727f83e3907679",
+          "retainedTextSha256": "d76fa14c09856a0799a0239a6904a4b00626a932e3ea7b53b1727f83e3907679"
+        },
+        {
+          "paragraph": 15,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            15
+          ],
+          "sourceTextSha256": "ffb53347511813de894ee4e63ce7947c4777905e4e1cc3cdb21a641ed00020c2",
+          "retainedTextSha256": "ffb53347511813de894ee4e63ce7947c4777905e4e1cc3cdb21a641ed00020c2"
+        },
+        {
+          "paragraph": 16,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            16
+          ],
+          "sourceTextSha256": "507b9e298e9eaa293f639fed9cafd5af633c8bba8fb4ab50ddc6424492eb0ab1",
+          "retainedTextSha256": "507b9e298e9eaa293f639fed9cafd5af633c8bba8fb4ab50ddc6424492eb0ab1"
+        },
+        {
+          "paragraph": 17,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            17
+          ],
+          "sourceTextSha256": "e257c5671471f67333b7b0f8a35c194ae4fb0b7fe5bca60e00ec76964bfae36e",
+          "retainedTextSha256": "e257c5671471f67333b7b0f8a35c194ae4fb0b7fe5bca60e00ec76964bfae36e"
+        },
+        {
+          "paragraph": 18,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            18
+          ],
+          "sourceTextSha256": "56e41f8daf66504672e7bd6a6e5eac97a597dbe499925b01de21fa3b9aa10b29",
+          "retainedTextSha256": "56e41f8daf66504672e7bd6a6e5eac97a597dbe499925b01de21fa3b9aa10b29"
+        },
+        {
+          "paragraph": 19,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            19
+          ],
+          "sourceTextSha256": "abb9282dc1bce7ae45d589ffa3dd65e4b5e2781b6d6015ed4803e2faf0d75aa7",
+          "retainedTextSha256": "abb9282dc1bce7ae45d589ffa3dd65e4b5e2781b6d6015ed4803e2faf0d75aa7"
+        },
+        {
+          "paragraph": 20,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            20
+          ],
+          "sourceTextSha256": "952f7de650819a11842237c64fe2aca7b6d02fbe7668f9c166ec2b543f9be006",
+          "retainedTextSha256": "952f7de650819a11842237c64fe2aca7b6d02fbe7668f9c166ec2b543f9be006"
+        },
+        {
+          "paragraph": 21,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            21
+          ],
+          "sourceTextSha256": "877f93f4ebb26207ee7f34e4ef08d26cc558a627bf1b2e462779a94644f17698",
+          "retainedTextSha256": "877f93f4ebb26207ee7f34e4ef08d26cc558a627bf1b2e462779a94644f17698"
+        },
+        {
+          "paragraph": 22,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            22
+          ],
+          "sourceTextSha256": "090ee98b821117c9f91fe66a87923a1b5ecfd1f4a268b39912e54afc8d050426",
+          "retainedTextSha256": "090ee98b821117c9f91fe66a87923a1b5ecfd1f4a268b39912e54afc8d050426"
+        },
+        {
+          "paragraph": 23,
+          "sourcePosition": [
+            "Third Treatise on Service of God",
+            "",
+            10,
+            23
+          ],
+          "sourceTextSha256": "e45f07bfc1da2a35b7669a7c21c2294c6ddbe28a629cbe3ad97e0046774249cb",
+          "retainedTextSha256": "e45f07bfc1da2a35b7669a7c21c2294c6ddbe28a629cbe3ad97e0046774249cb"
+        }
+      ],
+      "payloadSha256": "f0df947984f60ff89f12242b33aa9e92709ee091512800cfa8225611e6d25456"
+    }
+  ],
+  "sourceEntries": 432,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T03:51:11.819Z"
+}

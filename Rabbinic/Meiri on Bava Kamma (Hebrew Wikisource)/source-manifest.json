@@ -1,0 +1,85 @@
+{
+  "createdAt": "2026-10-30T04:48:53.883566+00:00",
+  "title": "Meiri on Bava Kamma — Hebrew Wikisource edition",
+  "catalogPath": "Rabbinic/Meiri on Bava Kamma (Hebrew Wikisource)",
+  "relatedEnglishBook": "Rabbinic/Meiri on Bava Kamma",
+  "bibliographySourceLines": [
+    1749,
+    2276,
+    2496
+  ],
+  "license": "CC BY-SA4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Meiri on Bava Kamma. Hebrew Wikisource contributors, typed digital edition and editorial notes. Exact source-page revision permalinks and contributor histories are recorded in source-manifest.json. CC BY-SA4.0.",
+  "changes": "Amudi removed site navigation, parser edit controls, image tags, style/script and Parsoid attributes; converted source links to absolute URLs; split only at complete HTML block boundaries for reading. All selected reading text, notes and source gaps are retained in source order after whitespace normalization. No OCR or newly generated translation. Any copyrightable Amudi adaptation remains CC BY-SA4.0.",
+  "coverageScope": "PARTIAL: only the currently typed source pages listed in this manifest. Other chapters/entries of the underlying work are not supplied by this edition.",
+  "partialWork": true,
+  "sourcePages": [
+    {
+      "sourceTitle": "מאירי על הש\"ס/בבא קמא/הקדמה",
+      "canonicalTitle": "מאירי על הש\"ס/בבא קמא/הקדמה",
+      "sourceSnapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-doc-6e48d8791d393940.json",
+      "sourceSnapshotSha256": "49742f9ecc1f384ed7053c132ab9ad731ba983ffc767c0f9d1643679ce70545d",
+      "sourceRevision": {
+        "id": 540372,
+        "timestamp": "2014-04-29T11:31:09Z"
+      },
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%91%D7%90_%D7%A7%D7%9E%D7%90/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=540372",
+      "contributorHistoryUrl": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%91%D7%90_%D7%A7%D7%9E%D7%90/%D7%94%D7%A7%D7%93%D7%9E%D7%94&action=history",
+      "sourcePageId": 273764,
+      "licenseVerbatim": {
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.he",
+        "title": "Creative Commons Attribution-Share Alike 4.0"
+      },
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "primaryMetadataEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=query&titles=%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%98%7C%D7%90%D7%A1%D7%AA%D7%A8+%D7%A8%D7%91%D7%94+%D7%99%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%91%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%92%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%95%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%96%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%97%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%98%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%A8%D7%9B%D7%95%D7%AA%2F%D7%91%D7%99%D7%AA+%D7%99%D7%93%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A2%D7%91%D7%95%D7%93%D7%94+%D7%96%D7%A8%D7%94%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%91%D7%91%D7%90+%D7%A7%D7%9E%D7%90%2F%D7%94%D7%A7%D7%93%D7%9E%D7%94%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A4%D7%A1%D7%97%D7%99%D7%9D%2F%D7%A4%D7%A8%D7%A7+%D7%90%7C%D7%9E%D7%90%D7%99%D7%A8%D7%99+%D7%A2%D7%9C+%D7%94%D7%A9%22%D7%A1%2F%D7%A9%D7%91%D7%AA%2F%D7%A4%D7%A8%D7%A7+%D7%90&prop=info%7Crevisions&rvprop=ids%7Ctimestamp&inprop=url&meta=siteinfo&siprop=rightsinfo&redirects=1&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-alternatives-query-f2c3b19fb8b3a206.json",
+        "sha256": "c59ab471f342bf09c140a2d0960df1cf937047d7f338ff89a881e1d483d76e5b"
+      },
+      "primaryBodyEvidence": {
+        "url": "https://he.wikisource.org/w/api.php?action=parse&oldid=540372&prop=text%7Crevid%7Cdisplaytitle&format=json&formatversion=2",
+        "snapshotPath": "Amudi/data/rights/non-hebrew-original-hebrew-source-cache-20261030/wiki-body-6e48d8791d393940.json",
+        "sha256": "4ff10edc7a30a73b77ea9e06e2557de7c7a11380f191f3d4612eb4e79384b9bc"
+      },
+      "sourceHeadings": [],
+      "readingCharacters": 2789,
+      "readingBlocks": 9,
+      "convertedChapters": [
+        1
+      ],
+      "allSourceReadingTextConservedIgnoringWhitespace": true
+    }
+  ],
+  "sourceWarnings": [],
+  "unavailablePages": [],
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "מאירי על הש\"ס/בבא קמא/הקדמה",
+      "sourceTitle": "מאירי על הש\"ס/בבא קמא/הקדמה",
+      "sourceIndex": 1,
+      "sourceReadingSection": 1,
+      "sourceRevisionId": 540372,
+      "sourcePermalink": "https://he.wikisource.org/w/index.php?title=%D7%9E%D7%90%D7%99%D7%A8%D7%99_%D7%A2%D7%9C_%D7%94%D7%A9%22%D7%A1/%D7%91%D7%91%D7%90_%D7%A7%D7%9E%D7%90/%D7%94%D7%A7%D7%93%D7%9E%D7%94&oldid=540372",
+      "paragraphs": 9,
+      "plainCharacters": 2783,
+      "outputFile": "Original/1.json",
+      "outputSha256": "0559c7077082da111cac3367fa9e2bed0d0dc0b1191fbaeddc0aacbd8050ab64",
+      "normalizedTextSha256": "2b031d51c11d64662f842a51d81de0fb524573faf2a2ff9e6b5baffe215c5a3d"
+    }
+  ],
+  "existingEnglishBodyHashes": {
+    "Library/Rabbinic/Meiri on Bava Kamma/Original/1.json": "9b57978a6ded5de90f79482358b6371ea9ae3959685ac6918e301bb0520182eb"
+  },
+  "verification": {
+    "exactPrimaryPageLicenseVerified": true,
+    "selectedSourceSequenceConserved": true,
+    "sourceNormalizedTextSha256": "2b031d51c11d64662f842a51d81de0fb524573faf2a2ff9e6b5baffe215c5a3d",
+    "retainedNormalizedTextSha256": "2b031d51c11d64662f842a51d81de0fb524573faf2a2ff9e6b5baffe215c5a3d",
+    "existingEnglishBodyFilesUnchanged": 1,
+    "noOcr": true,
+    "noNewTranslation": true,
+    "wholeHistoricalWorkEveryWordCertified": false
+  }
+}

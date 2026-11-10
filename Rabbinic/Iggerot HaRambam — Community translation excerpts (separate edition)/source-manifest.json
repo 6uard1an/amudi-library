@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "work": "Iggerot HaRambam",
+  "parentPath": "Rabbinic/Iggerot HaRambam",
+  "editionName": "Iggerot HaRambam — Community translation excerpts (separate edition)",
+  "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Responsa/Rishonim/Rambam/Iggerot%20HaRambam/English/Sefaria%20Community%20Translation.json",
+  "versionTitle": "Sefaria Community Translation",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "attribution": "Iggerot HaRambam, original work; Sefaria Community Translation; Sefaria Export. Translator/contributor credit as supplied by the exact source edition.",
+  "changeNotice": "Stored an existing typed English source as a separate source-ordered edition. Every nonplaceholder source leaf retained; original source positions and paragraph hashes recorded. Inline formatting/link wrappers removed while displayed words retained. No OCR or new translation performed. Numeric chapter IDs are edition-specific; the parent book’s existing IDs and editions are preserved.",
+  "sourceFile": "Amudi/data/rights/english-candidate-review-20261030/fcf2fd989dd0b81c0614.json",
+  "sourceRawSha256": "fcaffd250058f98761c2b40072aa68c8c14740ac41681bff6f720671a0a48831",
+  "apiLicenseEvidence": {
+    "url": "https://www.sefaria.org/api/texts/versions/Iggerot%20HaRambam",
+    "rawSha256": "fa89cb1c1d9f24f0bbad6204e9d5104a862572d1518a5f8947b216fb720fbf55",
+    "sourceFile": "C:/Users/meirt/OneDrive/Documents/Torahtranslation/Amudi/data/rights/generic-english-mapping-cache-20261030/versions-724c925cc6b922d1ab63.json",
+    "versionTitle": "Sefaria Community Translation",
+    "language": "en",
+    "actualLanguage": "en",
+    "license": "CC0"
+  },
+  "chapterRecords": [
+    {
+      "chapter": 1,
+      "label": "Maamar HaIbur",
+      "sourcePosition": [
+        "Maamar HaIbur"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Maamar HaIbur",
+            7
+          ],
+          "sourceTextSha256": "268ee2aa60ecf834e8667d81d1230d0fd0952e889f629451d5f5facdbf425507",
+          "retainedTextSha256": "268ee2aa60ecf834e8667d81d1230d0fd0952e889f629451d5f5facdbf425507"
+        }
+      ],
+      "payloadSha256": "35d902d920716109ce57f8c57667310f33fc50538e54a582f1679fd0344364b3"
+    },
+    {
+      "chapter": 2,
+      "label": "Teshuvat She'elot",
+      "sourcePosition": [
+        "Teshuvat She'elot"
+      ],
+      "entries": [
+        {
+          "paragraph": 1,
+          "sourcePosition": [
+            "Teshuvat She'elot",
+            9
+          ],
+          "sourceTextSha256": "b17c9401c842df8b5c0b8f484484fd5798ca5a45771113f79d4a0965ba27dd7c",
+          "retainedTextSha256": "b17c9401c842df8b5c0b8f484484fd5798ca5a45771113f79d4a0965ba27dd7c"
+        }
+      ],
+      "payloadSha256": "c3929427ff0baa5a460bd4388497a8af8ee859906433fc87ceefd690fce7073a"
+    }
+  ],
+  "sourceEntries": 2,
+  "allOriginalSourcePositionsRetained": true,
+  "sourceOrderPreserved": true,
+  "oldParentIdsPreserved": true,
+  "reviewedAt": "2026-10-30T03:51:13.848Z"
+}
