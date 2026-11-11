@@ -655,3 +655,7 @@ Moshav Zekenim: an additional editor summary on Deuteronomy 1:3 is taken from [U
 ### Yosef Da’at — discussion in Uvacharta Bachaim
 
 One discussion citing Yosef Da’at at Numbers 23:24 is from [Uvacharta Bachaim, Balak](https://he.wikisource.org/w/index.php?title=%D7%95%D7%91%D7%97%D7%A8%D7%AA_%D7%91%D7%97%D7%99%D7%99%D7%9D/%D7%91%D7%9C%D7%A7&oldid=2716366), Chaim Palache, edited by Netanel Haba and Hebrew Wikisource contributors, under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Amudi extracted the paragraph, normalized whitespace, and corrected the verse reference using the biblical quotation. This is not a verbatim version of Yosef Da’at.
+
+### Bava Kamma Rabbeinu Chananel passage links (2026-11-10)
+
+Passage links by [Sefaria](https://developers.sefaria.org/docs/usage-of-our-name-and-logo), CC BY (provider does not specify a version; [license information](https://creativecommons.org/licenses/by/)). Amudi selected and mapped links to local daf word offsets. Source datasets: [links1.csv](https://storage.googleapis.com/sefaria-export/links/links1.csv), [links2.csv](https://storage.googleapis.com/sefaria-export/links/links2.csv).

@@ -1,27 +1,28 @@
 {
   "repository": "6uard1an/amudi-library",
-  "packageVersion": 11,
+  "packageVersion": 18,
   "keyVersion": 2,
   "rightsHoldFilterVersion": 1,
-  "rightsHoldRegistrySha256": "7fccbe8c4152bc6217d0365e3608a8418a6990443a50804e8b01c57b4fbe3811",
+  "rightsHoldRegistrySha256": "64e93f328edc117b5e7fa9610b37ba1db98adbb02df33d7a93e1872c1ca70c67",
   "assetsPerRelease": 900,
   "sharedPackage": {
     "id": "library-shared",
-    "packageVersion": 11,
+    "packageVersion": 18,
     "keyVersion": 2,
     "formatVersion": 1,
     "encryption": "AES-256-GCM",
-    "rightsExclusionsSha256": "430f2a27cbde9b657b42f51bb2ba59257fc9fbf1470e411ccc7e7c62107bafb7",
-    "ccDownloadPolicySha256": "3e5a98646af8d9907010a2fe1fda79989585ad3e4d3bbfccfef73b1f18e1f7c6",
-    "releaseFilterSha256": "b9e329bcd128597d002c5ad0fa3b5687d4a3a2c10d931d5f9ac9a9936183e331",
+    "rightsExclusionsSha256": "b39c583ec6dbe14a20d2f8339f19053cd86a500061f0316761714ed97d77d92c",
+    "ccDownloadPolicySha256": "5b1ff7d14ade5f96066a3baa6a9f30b50727d8f5e299f9ff881b6a3ffdd06db7",
+    "releaseFilterSha256": "383b3305e3a7baede9dc37fe546a0482e8522a23e5e99d480cef5e5cdfc7144a",
+    "sharedSourceSha256": "226278e0a1af72b24ec44d71a995db019c66a29fdae9e7d0492e6397e0f04fb8",
     "rightsHoldFilterVersion": 1,
-    "rightsHoldRegistrySha256": "7fccbe8c4152bc6217d0365e3608a8418a6990443a50804e8b01c57b4fbe3811",
-    "file": "library-shared-v11.amudi",
-    "fileCount": 13792,
-    "size": 25227309,
-    "sha256": "3971b15f06f51522e9cf8cee34e27366ff96139177c7d622c909e0cdf2844e5b",
-    "release": "library-v11-shared",
-    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v11-shared/library-shared-v11.amudi"
+    "rightsHoldRegistrySha256": "64e93f328edc117b5e7fa9610b37ba1db98adbb02df33d7a93e1872c1ca70c67",
+    "file": "library-shared-v18.amudi",
+    "fileCount": 13795,
+    "size": 25185798,
+    "sha256": "81a9e667d70bf94b3b6e5b39ba4bf12a2ba4ad700095d1491c63c601df5cf7c8",
+    "release": "library-v18-shared",
+    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v18-shared/library-shared-v18.amudi"
   },
   "releases": [
     {
@@ -62,6 +63,21 @@
     {
       "tag": "library-v11-shared",
       "directory": "library-v11-shared",
+      "assetCount": 1
+    },
+    {
+      "tag": "library-v18-001",
+      "directory": "library-v18-001",
+      "assetCount": 38
+    },
+    {
+      "tag": "library-v18-006",
+      "directory": "library-v18-006",
+      "assetCount": 138
+    },
+    {
+      "tag": "library-v18-shared",
+      "directory": "library-v18-shared",
       "assetCount": 1
     }
   ]
