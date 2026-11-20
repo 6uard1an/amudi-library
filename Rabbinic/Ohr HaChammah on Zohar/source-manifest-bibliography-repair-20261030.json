@@ -1,0 +1,36 @@
+{
+  "work": "Ohr HaChammah on Zohar",
+  "changes": "Added source introductions and supplementary material omitted by the earlier main-body-only importer. Appended named supplement chapters to preserve every existing main-text chapter number.",
+  "source": {
+    "sourceUrl": "https://storage.googleapis.com/sefaria-export/json/Kabbalah/Zohar/Ohr HaChammah on Zohar/Hebrew/Ohr Hachama, Peremyshl, 1896-1898.json",
+    "sourceSha256": "b70c8b732a61ca5e3d7222e4ebe8adedd4acf619ce92efd00c7c5a846224bd08",
+    "versionTitle": "Ohr Hachama, Peremyshl, 1896-1898",
+    "versionSource": "https://www.nli.org.il/he/books/NNL_ALEPH001148825/NLI",
+    "license": "Public Domain"
+  },
+  "imported": [
+    {
+      "chapter": 4,
+      "sourceNode": "Author's Introduction",
+      "sourceLeafSlots": 35,
+      "outputFile": "Original/4.json",
+      "outputSha256": "7f728ca471d539b1b9b910ca79b8d9b750fd5ecb88b500bfe14dde529ef4a5a2"
+    },
+    {
+      "chapter": 5,
+      "sourceNode": "Preface",
+      "sourceLeafSlots": 4,
+      "outputFile": "Original/5.json",
+      "outputSha256": "e79a8705f105ed421e7c08b04a476ade4bd6533e5897e631cfb5aa4f481621b1"
+    }
+  ],
+  "verification": {
+    "mainTextUnchanged": true,
+    "allSourceLeafOccurrencesPresent": true,
+    "sourceLeafOccurrences": 19757,
+    "storedLeafOccurrences": 19757
+  },
+  "orderingNote": "Supplements are appended after existing main-text chapters, with explicit chapter labels. Their original source node names are recorded above; they are not placed before the main text to avoid changing existing citations.",
+  "conversion": "Exact source text strings retained, including markup; source nodes stored as per-chapter JSON. No OCR or translation performed.",
+  "checkedAt": "2026-10-30T02:55:55.026Z"
+}
