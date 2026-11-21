@@ -1,28 +1,30 @@
 {
   "repository": "6uard1an/amudi-library",
-  "packageVersion": 20,
+  "packageVersion": 21,
   "keyVersion": 2,
   "rightsHoldFilterVersion": 1,
   "rightsHoldRegistrySha256": "1b0088ce4214f52bf6aacfc469afd9e3c8f66fead57c3b249790a699b8ce5d4c",
   "assetsPerRelease": 900,
   "sharedPackage": {
     "id": "library-shared",
-    "packageVersion": 20,
+    "packageVersion": 21,
     "keyVersion": 2,
+    "keyScope": "shared",
+    "keySetId": null,
     "formatVersion": 1,
     "encryption": "AES-256-GCM",
-    "rightsExclusionsSha256": "a29526c140b76abb8d6b6be16fb2b052efcfc01171d7dc90df0d0e9add132188",
+    "rightsExclusionsSha256": "2ae94cd819800625957ea7adb7528f1a70034e95ae1d88f3acb1420b8dd2e5c6",
     "ccDownloadPolicySha256": "ae5ff693f805d01869170b0829ac161db6f475450285909205ece4cf3382dbff",
-    "releaseFilterSha256": "3591080667a6a0b20331fe6f50e8a459258147ba46d68cf7554363f27e0c416b",
-    "sharedSourceSha256": "f246594e7fdc8dd15f209abb40f2dc894865fcc826213afda2cec4eb1e7b36d1",
+    "releaseFilterSha256": "515c2fd0b67da115569df6045cfdaf4a2ed387f3bd80fd3122a6db0f5d20bceb",
+    "sharedSourceSha256": "eb696e9fcec7728dcdc379c1f8a0bca2701b778fa415540340e88aa0ea421e81",
     "rightsHoldFilterVersion": 1,
     "rightsHoldRegistrySha256": "1b0088ce4214f52bf6aacfc469afd9e3c8f66fead57c3b249790a699b8ce5d4c",
-    "file": "library-shared-v20.amudi",
-    "fileCount": 13797,
-    "size": 25270749,
-    "sha256": "8736018fbcefd9302b7a442203db85b4ff47c06c2ee1ec374ab51ad42221c4ff",
-    "release": "library-v20-shared",
-    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v20-shared/library-shared-v20.amudi"
+    "file": "library-shared-v21.amudi",
+    "fileCount": 95,
+    "size": 7310817,
+    "sha256": "d9364a3380bc92be201deb1c3c3e5c77926ab0d8df283a9595f9ff50761dd728",
+    "release": "library-v21-shared",
+    "url": "https://github.com/6uard1an/amudi-library/releases/download/library-v21-shared/library-shared-v21.amudi"
   },
   "releases": [
     {
@@ -76,8 +78,8 @@
       "assetCount": 1
     },
     {
-      "tag": "library-v20-shared",
-      "directory": "library-v20-shared",
+      "tag": "library-v21-shared",
+      "directory": "library-v21-shared",
       "assetCount": 1
     }
   ]
