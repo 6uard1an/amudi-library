@@ -100,12 +100,23 @@
     if (serviceReady) {
       const proof = localStorage.getItem(pendingCleanupKey);
       if (proof) {
-        serverRequest("finalize-deletion", { cleanupProof: proof }).then(() => {
+        let expired = true;
+        try {
+          const claims = JSON.parse(atob(proof.split(".")[0].replaceAll("-", "+").replaceAll("_", "/")));
+          expired = !Number.isInteger(claims.exp) || claims.exp * 1000 <= Date.now();
+        } catch {}
+        if (expired) {
           localStorage.removeItem(pendingCleanupKey);
-          setBusy(false, "A previously interrupted tester-grant cleanup is now complete.");
-        }).catch(() => {
-          setBusy(false, "A previous account deletion still needs tester-grant cleanup. Reopen this page online or use the request link below.");
-        });
+          setBusy(false, "A previous account deletion needs manual tester-grant cleanup. Use the request link below.");
+        } else {
+          setBusy(true, "Finishing an earlier account deletion…");
+          serverRequest("finalize-deletion", { cleanupProof: proof }).then(() => {
+            localStorage.removeItem(pendingCleanupKey);
+            setBusy(false, "A previously interrupted tester-grant cleanup is now complete.");
+          }).catch(() => {
+            setBusy(false, "A previous account deletion still needs tester-grant cleanup. Reopen this page online or use the request link below.");
+          });
+        }
       }
     }
   }
