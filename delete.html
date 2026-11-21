@@ -33,15 +33,15 @@
     <input id="email" name="username" type="email" autocomplete="username" required>
     <label for="password">Current password</label>
     <input id="password" name="password" type="password" autocomplete="current-password" required>
-    <button id="email-delete-button" type="submit">Verify and delete account</button>
+    <button id="email-delete-button" type="submit" disabled>Verify and delete account</button>
   </form>
 
   <h2>Google sign-in</h2>
   <p>If you created your Amudi account with Google, verify it with Google to continue.</p>
-  <button id="google-delete-button" class="google" type="button">Verify with Google and delete account</button>
+  <button id="google-delete-button" class="google" type="button" disabled>Verify with Google and delete account</button>
 
-  <p id="status" role="status" aria-live="polite"></p>
-  <p>Need help? <a href="mailto:guardian.thisdevice@gmail.com?subject=Amudi%20account%20deletion%20help">Contact Amudi support</a>.</p>
+  <p id="status" role="status" aria-live="polite">Checking whether automatic deletion is available…</p>
+  <p>If automatic deletion is unavailable, <a href="https://6uard1an.github.io/amudi/account-deletion.html">request account and data deletion here</a>. Need help? <a href="mailto:guardian.thisdevice@gmail.com?subject=Amudi%20account%20deletion%20help">Contact Amudi support</a>.</p>
 </article></main>
 <script type="module">
   import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
@@ -66,10 +66,48 @@
   const passwordInput = document.getElementById("password");
   const status = document.getElementById("status");
   const buttons = [...document.querySelectorAll("button")];
+  const verifierBase = "https://amudi-purchase-verifier.purchase-verifier.workers.dev/";
+  const pendingCleanupKey = "amudiWebDeletionCleanup";
+  let serviceReady = false;
 
   function setBusy(busy, message) {
-    buttons.forEach((button) => { button.disabled = busy; });
+    buttons.forEach((button) => { button.disabled = busy || !serviceReady; });
     status.textContent = message;
+  }
+
+  async function serverRequest(route, body, idToken = "") {
+    const response = await fetch(new URL(`account/${route}`, verifierBase), {
+      method: "POST",
+      headers: { "Content-Type": "application/json", ...(idToken ? { Authorization: `Bearer ${idToken}` } : {}) },
+      body: JSON.stringify(body),
+    });
+    const result = await response.json().catch(() => ({}));
+    if (!response.ok) throw new Error(result.error || `Deletion service error (${response.status}).`);
+    return result;
+  }
+
+  async function checkDeletionService() {
+    try {
+      const [prepare, finalize] = await Promise.all([
+        fetch(new URL("account/deletion-token", verifierBase), { method: "POST", headers: { "Content-Type": "application/json" }, body: "{}" }),
+        fetch(new URL("account/finalize-deletion", verifierBase), { method: "POST", headers: { "Content-Type": "application/json" }, body: '{"cleanupProof":"invalid"}' }),
+      ]);
+      serviceReady = prepare.status === 401 && finalize.status === 403;
+    } catch { serviceReady = false; }
+    setBusy(false, serviceReady
+      ? "Automatic account deletion is available. Choose your sign-in method."
+      : "Automatic deletion is temporarily unavailable. Use the account-deletion request link below; no sign-in details were sent.");
+    if (serviceReady) {
+      const proof = localStorage.getItem(pendingCleanupKey);
+      if (proof) {
+        serverRequest("finalize-deletion", { cleanupProof: proof }).then(() => {
+          localStorage.removeItem(pendingCleanupKey);
+          setBusy(false, "A previously interrupted tester-grant cleanup is now complete.");
+        }).catch(() => {
+          setBusy(false, "A previous account deletion still needs tester-grant cleanup. Reopen this page online or use the request link below.");
+        });
+      }
+    }
   }
 
   function askToDelete(email) {
@@ -83,8 +121,10 @@
       return "The sign-in details did not match an Amudi account. Check them and try again.";
     }
     if (error?.code === "auth/popup-closed-by-user") return "Google sign-in was cancelled; no account data was deleted.";
+    if (stage === "prepare") return "The secure deletion service could not verify this request. No account data was deleted. Use the request link below if this continues.";
     if (stage === "cleanup") return "Amudi could not remove all cloud records, so the sign-in account was left in place. Check your connection and try again, or contact support.";
     if (stage === "auth-delete") return "The Amudi cloud records were removed, but Firebase could not finish deleting the sign-in account. Sign in again and retry, or contact support.";
+    if (stage === "grant-cleanup") return "The account was deleted, but tester-grant cleanup is pending. Reopen this page online to retry, or use the deletion request link below.";
     return "Account deletion could not be completed. No success is being reported; contact support if retrying does not work.";
   }
 
@@ -107,22 +147,27 @@
   }
 
   async function finishDeletion(user, newGoogleAccount = false) {
-    if (newGoogleAccount) {
-      // A first-time Google popup can create an empty Firebase account. Remove
-      // only that just-created account instead of implying an old one existed.
-      await deleteUser(user);
-      setBusy(false, "No existing Amudi account was found for this Google profile. The newly created empty sign-in was removed; no other account was touched.");
-      return;
-    }
-
-    let stage = "cleanup";
+    let stage = "prepare";
     try {
-      setBusy(true, "Removing synchronized Amudi data and book ownership…");
-      await removeAmudiCloudData(user.uid);
+      setBusy(true, "Verifying account-deletion cleanup…");
+      const prepared = await serverRequest("deletion-token", {}, await user.getIdToken(true));
+      if (prepared.prepared !== true || !prepared.cleanupProof) throw new Error("Deletion cleanup was not prepared.");
+      stage = "cleanup";
+      if (!newGoogleAccount) {
+        setBusy(true, "Removing synchronized Amudi data and book ownership…");
+        await removeAmudiCloudData(user.uid);
+      }
       stage = "auth-delete";
       setBusy(true, "Cloud data removed. Deleting the sign-in account…");
       await deleteUser(user);
-      setBusy(false, "Your Amudi account and associated Amudi cloud data have been deleted. Device-only data remains on that device.");
+      stage = "grant-cleanup";
+      try { localStorage.setItem(pendingCleanupKey, prepared.cleanupProof); } catch {}
+      setBusy(true, "Removing any permanent tester grant…");
+      await serverRequest("finalize-deletion", { cleanupProof: prepared.cleanupProof });
+      localStorage.removeItem(pendingCleanupKey);
+      setBusy(false, newGoogleAccount
+        ? "No existing Amudi account was found. The new empty sign-in and any matching tester grant were removed."
+        : "Your Amudi account, cloud data, and any matching tester grant have been deleted. Device-only data remains on that device.");
     } catch (error) {
       console.error("Amudi account deletion did not complete", { code: error?.code, stage });
       await signOut(auth).catch(() => {});
@@ -132,6 +177,7 @@
 
   form.addEventListener("submit", async (event) => {
     event.preventDefault();
+    if (!serviceReady) return;
     if (!form.reportValidity()) return;
     const email = document.getElementById("email").value.trim();
     if (!askToDelete(email)) return;
@@ -149,6 +195,7 @@
   });
 
   document.getElementById("google-delete-button").addEventListener("click", async () => {
+    if (!serviceReady) return;
     if (!askToDelete("for the Google account you choose")) return;
     setBusy(true, "Verifying with Google…");
     try {
@@ -163,6 +210,7 @@
   });
 
   window.addEventListener("pagehide", () => { void signOut(auth); }, { once: true });
+  void checkDeletionService();
 </script>
 </body>
 </html>
